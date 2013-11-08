@@ -1,4 +1,4 @@
-# Wireless Networking in the Developing World (WNDW)
+# Wireless Networking in the Developing World [WNDW](http://wndw.net/)
 
 Digital source copy, forkable under [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/).
 
@@ -6,7 +6,7 @@ Digital source copy, forkable under [CC-BY-SA license](http://creativecommons.or
 
 This repository contains:
 
-* WNDW source file __translator's version__ (.odt)
+* WNDW source file _translator's version_ (.odt)
 * WNDW html file saved by libreoffice from .odt (.html)
 * WNDW markdown file converted using following procedure (.md)
     * [Install Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
