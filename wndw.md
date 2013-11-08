@@ -1,33 +1,33 @@
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-**WIRELESS NETWORKING IN**
+WIRELESS NETWORKING IN
 
-**THE DEVELOPING WORLD**
+THE DEVELOPING WORLD
 
-*Third Edition*
+Third Edition
 
-\
+ 
 
-*Wireless Networking in the Developing World*
+Wireless Networking in the Developing World
 
 For more information about this project please visit
 [http://wndw.net](http://wndw.net/)
 
-\
+ 
 
 First Edition, January 2006
 
@@ -35,7 +35,7 @@ Second Edition, December 2007
 
 Third Edition, February 2013
 
-\
+ 
 
 Many designations used by manufacturers and vendors to distinguish their
 products are claimed as trademarks. Where those designations appear in
@@ -56,48 +56,49 @@ affordable indoor and outdoor wireless networks useful. We hope you
 enjoy reading this book and use it as the starting point of a wireless
 project in your community.
 
-The book and PDF file are published under a
-*Creative****Commons****Attributio**n**-**ShareAlike****3.0***license.
-This allows anyone to make copies, and even sell them for a profit, as
-long as proper attribution is given to the authors and any derivative
-works are made available under the same terms.
+The book and PDF file are published under a Creative Commons
+Attribution-ShareAlike 3.0 license. This allows anyone to make copies,
+and even sell them for a profit, as long as proper attribution is given
+to the authors and any derivative works are made available under the
+same terms.
 
-\
+ 
 
-**Any********copies********or********derivative********works********must********include********a********prominent********link********to********our********website,**
-[http://wndw.net/](http://wndw.net/)
+Any copies or derivative works must include a prominent link to our
+website, [http://wndw.net/](http://wndw.net/)
 
 See
 [http://creativecommons.org/licenses/b](http://creativecommons.org/licenses/by-sa/3.0/)[y](http://creativecommons.org/licenses/by-sa/3.0/)[-](http://creativecommons.org/licenses/by-sa/3.0/)[sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/)
 for more information about these terms.
 
-\
+ 
 
 ISBN-13: 978-1484039359
 
-![](cc-by-sa.png)\
-*LICENSE*
+![](./cc-by-sa.png)
+
+ 
 
 Wireless Networking in the Developing World by The WNDW Authors is
 licensed under a Creative Commons Attribution -ShareAlike 3.0
 
 Unported License.
 
-**ABOUT********THIS********BOOK**
-=================================
+ABOUT THIS BOOK
+---------------
 
-\
+ 
 
 This third version of this book was started as a BookSprint in September
 2011 in the beautiful city of Copenhagen hosted by Sebastian Buettrich,
 who is one of the authors.
 
-\
+ 
 
 A core team of eight people then finished this version over the
 following months leading to publication in March 2013.
 
-\
+ 
 
 Throughout the project, the core group has actively solicited
 contributions and feedback from the wireless networking community
@@ -106,14 +107,14 @@ to the authors at our Facebook page:
 
 [https://www.facebook.com/groups/wirelessu](https://www.facebook.com/groups/wirelessu/)
 
-\
+ 
 
 This book is available as an eBook for your mobile device, or it is
 downloadable from the website [http://wndw.net/](http://wndw.net/) for
 free (high and low resolution available), or it can be ordered as a
 printed book from [http://www.lulu.com/](http://www.lulu.com/)
 
-\
+ 
 
 We do give out a copy to every student who attends a wireless training
 course given by all of the Institutions we work with such as the
@@ -123,69 +124,67 @@ Internet Society (ISOC) and AirJaldi, to name just a few.
 
 And we would all strongly encourage you to sign up for a local course.
 
-\
+ 
 
 For information about upcoming courses or if you would like to arrange a
 course in your region, please contact the editor, Jane
 Butler[janesbutler@networktheworld.org](mailto:janesbutler@networktheworld.org)
 
-\
+ 
 
 If you are planning a wireless project and you need a copy of this book
 and can neither download it as you have limited bandwidth nor afford to
 order it online, please send an email to Jane or send a message on
 Facebook and we'll mail a printed copy to you.
 
-\
+ 
 
-**Core********Contributors**
-----------------------------
+### Core Contributors
 
-**Jane********Butler**, who is lead editor of this version of the book.
-Jane is currently President of the private Foundation called
-networktheworld.org which promotes and supports the growth of Internet
-connectivity around the world mainly by supporting wireless projects and
-training [http://wirelessu.org](http://wirelessu.org/). Jane is also
-head of industrial collaboration and outreach at University College
-London. Jane holds an Honours Degree in Engineering, is a Chartered
-Engineer and Fellow of the Institution of Electronics and Technology.
+Jane Butler, who is lead editor of this version of the book. Jane is
+currently President of the private Foundation called networktheworld.org
+which promotes and supports the growth of Internet connectivity around
+the world mainly by supporting wireless projects and training
+[http://wirelessu.org](http://wirelessu.org/). Jane is also head of
+industrial collaboration and outreach at University College London. Jane
+holds an Honours Degree in Engineering, is a Chartered Engineer and
+Fellow of the Institution of Electronics and Technology.
 
 Jane can be reached at
 [janesbutler@networktheworld.org](mailto:janesbutler@networktheworld.org)
 
-\
+ 
 
-*The editor would like to acknowledge and thank the core group of
-contributors who are listed below -*
+The editor would like to acknowledge and thank the core group of
+contributors who are listed below -
 
-\
+ 
 
-**Ermanno********Pietrosemoli**. Ermanno is currently a researcher at
-the Telecommunications/ICT for Development Lab of the International
-Centre for Theoretical Physics in Trieste, Italy, and President of
-Fundación Escuela Latinoamericana de Redes "EsLaRed", a non- profit
-organization that promotes ICT in Latin America through training and
-development projects. EsLaRed was awarded the 2008 Jonathan B. Postel
-Service Award by the Internet Society. Ermanno has been deploying
-wireless data communication networks focusing on low cost technology,
-and has participated in the planning and building of wireless data
-networks in Argentina, Colombia, Ecuador, Italy, Lesotho, Malawi,
-Mexico, Morocco, Nicaragua, Peru, Trinidad, U.S.A. and Venezuela. He has
-presented in many conferences and published several papers related to
-wireless data communication and is coauthor and technical reviewer of
-the book "Wireless Networking for the Developing World" freely available
-from http://wndw.net. Ermanno holds a Master's Degree from Stanford
+Ermanno Pietrosemoli. Ermanno is currently a researcher at the
+Telecommunications/ICT for Development Lab of the International Centre
+for Theoretical Physics in Trieste, Italy, and President of Fundación
+Escuela Latinoamericana de Redes "EsLaRed", a non- profit organization
+that promotes ICT in Latin America through training and development
+projects. EsLaRed was awarded the 2008 Jonathan B. Postel Service Award
+by the Internet Society. Ermanno has been deploying wireless data
+communication networks focusing on low cost technology, and has
+participated in the planning and building of wireless data networks in
+Argentina, Colombia, Ecuador, Italy, Lesotho, Malawi, Mexico, Morocco,
+Nicaragua, Peru, Trinidad, U.S.A. and Venezuela. He has presented in
+many conferences and published several papers related to wireless data
+communication and is coauthor and technical reviewer of the book
+"Wireless Networking for the Developing World" freely available from
+http://wndw.net. Ermanno holds a Master's Degree from Stanford
 University and was Professor of Telecommunications at Universidad de los
 Andes in Venezuela from 1970 to 2000.
 
 Ermanno can be reached at [ermanno@ictp.it](mailto:ermanno@ictp.it)
 
-\
+ 
 
-**Marco********Zennaro.** Marco received his M.Sc. Degree in Electronic
-Engineering from University of Trieste in Italy. He defended his PhD
-thesis on
-“*Wireless****Sensor****Networks****for****Development:****Potentials****and****Open****Issue**s*”
+Marco Zennaro. Marco received his M.Sc. Degree in Electronic Engineering
+from University of Trieste in Italy. He defended his PhD thesis on
+“Wireless Sensor Networks for Development: Potentials and Open Issues”
 at KTH-Royal Institute of Technology, Stockholm, Sweden.
 
 His research interest is in ICT4D, the use of ICT for Development.
@@ -197,47 +196,46 @@ travelling, he is the editor of
 [wsnblog.](http://objavi.booki.cc/tmp/wirelessnetworkinginthedevelopingworld-en-2013.02.13-23.20.02.odtQlyYWy/list-of-contributors/wsnblog.com)com.
 Marco can be reached at [mzennaro@ictp.it](mailto:mzennaro@ictp.it)
 
-\
+ 
 
-**Carlo********Fonda** is a member of the Radio Communications Unit at
-the Abdus Salam International Center for Theoretical Physics in Trieste,
-Italy. Carlo can be reached at [cfonda@ictp.it](mailto:cfonda@ictp.it)
+Carlo Fonda is a member of the Radio Communications Unit at the Abdus
+Salam International Center for Theoretical Physics in Trieste, Italy.
+Carlo can be reached at [cfonda@ictp.it](mailto:cfonda@ictp.it)
 
-\
+ 
 
-**Stephen********Okay.******Steve is a geek-of-all-trades with over 20
-years of experience in systems/network programming and administration
-with a particular passion for free/open networks and software. He has
-deployed wireless networks in Laos, Malawi, Italy, and the United
-States. He is an Inveneo co-founder and has taught workshops on VoIP and
-wireless networking at Institutions around the world. He lives and hacks
-in San Francisco, California. Steve can be reached at
+Stephen Okay. Steve is a geek-of-all-trades with over 20 years of
+experience in systems/network programming and administration with a
+particular passion for free/open networks and software. He has deployed
+wireless networks in Laos, Malawi, Italy, and the United States. He is
+an Inveneo co-founder and has taught workshops on VoIP and wireless
+networking at Institutions around the world. He lives and hacks in San
+Francisco, California. Steve can be reached at
 [steve@inveneo.org](mailto:steve@inveneo.org)
 
-\
+ 
 
-**Corinna********"Elektra"********Aichele**. Elektra has been busy
-working on mesh networking protocols for the Freifunk community in
-Germany. Before inventing the B.A.T.M.A.N. routing protocol for wireless
-mesh networks in 2006, she was working on improving the OLSR routing
-protocol. She is one of the people behind the Mesh-Potato device, a
-rugged outdoor open-source and open-hardware WiFi router with an FXS
-port. She is part of the Villagetelco community, that strives to deploy
-mesh networks for VOIP and data. She lives in a solar-powered home in
-Berlin, Germany. The philosophy behind her ideas about ubiquitous
-communication for everyone is: "*The
-fact****that****you****talk****in****your****head****doesn't****mean****that****you****think****-****but****only****that****you****speak****with****yourself".*Elektra
-can be reached
+Corinna "Elektra" Aichele. Elektra has been busy working on mesh
+networking protocols for the Freifunk community in Germany. Before
+inventing the B.A.T.M.A.N. routing protocol for wireless mesh networks
+in 2006, she was working on improving the OLSR routing protocol. She is
+one of the people behind the Mesh-Potato device, a rugged outdoor
+open-source and open-hardware WiFi router with an FXS port. She is part
+of the Villagetelco community, that strives to deploy mesh networks for
+VOIP and data. She lives in a solar-powered home in Berlin, Germany. The
+philosophy behind her ideas about ubiquitous communication for everyone
+is: "The fact that you talk in your head doesn't mean that you think -
+but only that you speak with yourself". Elektra can be reached
 at[](mailto:elektra@villagetelco.org)[elektra@villagetelco.org](mailto:elektra@villagetelco.org)
 
 [http://villagetelco.org](http://villagetelco.org/)
 
 [http://open-mesh.net/](http://open-mesh.net/)
 
-\
+ 
 
-**Sebastian********Buettrich.** Sebastian is Research Lab Manager at the
-IT University of [Copenhagen, http://pit.itu.dk](http://pit.itu.dk/)
+Sebastian Buettrich. Sebastian is Research Lab Manager at the IT
+University of [Copenhagen, http://pit.itu.dk](http://pit.itu.dk/)
 
 He works with embedded/pervasive systems, wireless technology, open
 source / free software and solar energy to build networks, systems,
@@ -264,80 +262,77 @@ scientific programming. He loves and plays music, is fascinated and
 engaged with text, language and poetry in many forms. Sebastian can be
 reached at [sebastian@less.dk](mailto:sebastian@less.dk)
 
-\
-
-**Jim********Forster.** Jim is passionate about extending the Internet.
-He started at Cisco in 1988 when it was quite small and spent 20 years
-there, mostly in IOS Software Development and System Architecture, and
-becoming a Distinguished Engineer. While at Cisco he started working on
-projects and policies to improve Internet access in developing
-countries. Now he is engaged in both for-profit and non-profit efforts
-to extend communications in Africa and India. He founded
-networktheworld.org, a foundation dedicated to improving communications
-and Internet, especially in Africa and India. He is on several Board of
-Directors, including Range Networks / OpenBTS and Inveneo in the US,
-Esoko Networks in Ghana, and AirJaldi in India. Jim can be reached
+Jim Forster. Jim is passionate about extending the Internet. He started
+at Cisco in 1988 when it was quite small and spent 20 years there,
+mostly in IOS Software Development and System Architecture, and becoming
+a Distinguished Engineer. While at Cisco he started working on projects
+and policies to improve Internet access in developing countries. Now he
+is engaged in both for-profit and non-profit efforts to extend
+communications in Africa and India. He founded networktheworld.org, a
+foundation dedicated to improving communications and Internet,
+especially in Africa and India. He is on several Board of Directors,
+including Range Networks / OpenBTS and Inveneo in the US, Esoko Networks
+in Ghana, and AirJaldi in India. Jim can be reached
 at[jforster@networktheworld.org](mailto:jforster@networktheworld.org)
 
-\
+ 
 
-**Klaas********Wierenga.** Klaas works in the Research and Advanced
-Development group at Cisco Systems where he focuses on Identity,
-Security and Mobility topics, often in collaboration with the Research
-and Education Community. He is co-author of the Cisco Press book
-"Building the Mobile Internet". Prior to joining Cisco he worked at
-SURFnet, the Dutch Research and Education Network, where he created the
-global WiFi roaming service in academia called eduroam. He is also the
-Chair of the Mobility Task Force of TERENA, the European association of
-R&E Networks. Klaas participates in a number of IETF working groups in
-the fields of identity, security and mobility and chairs the abfab
-working group that deals with federated identity for non-web
-applications. He can be reached
+Klaas Wierenga. Klaas works in the Research and Advanced Development
+group at Cisco Systems where he focuses on Identity, Security and
+Mobility topics, often in collaboration with the Research and Education
+Community. He is co-author of the Cisco Press book "Building the Mobile
+Internet". Prior to joining Cisco he worked at SURFnet, the Dutch
+Research and Education Network, where he created the global WiFi roaming
+service in academia called eduroam. He is also the Chair of the Mobility
+Task Force of TERENA, the European association of R&E Networks. Klaas
+participates in a number of IETF working groups in the fields of
+identity, security and mobility and chairs the abfab working group that
+deals with federated identity for non-web applications. He can be
+reached
 at[](mailto:klaas@wierenga.net)[klaas@wierenga.net](mailto:klaas@wierenga.net)
 
-**Eric********Vyncke.** Since 1997, Eric has worked as a Distinguished
-Engineer at Cisco in the field of security by assisting customers to
-deploy secure networks. Since 2005, Eric has also been active in the
-IPv6 area, he is notably the co-chair of the Belgian IPv6 Council and
-has a well-known site for monitoring IPv6 deployments:
+Eric Vyncke. Since 1997, Eric has worked as a Distinguished Engineer at
+Cisco in the field of security by assisting customers to deploy secure
+networks. Since 2005, Eric has also been active in the IPv6 area, he is
+notably the co-chair of the Belgian IPv6 Council and has a well-known
+site for monitoring IPv6 deployments:
 [http://www.vyncke.org/ipv6status](http://www.vyncke.org/ipv6status/)/
 
 He is also Associate Professor at the University of Liège in Belgium. He
 participates in several IETF working groups related to security or to
 IPv6. Eric can be reached at [eric@vyncke.org](mailto:eric@vyncke.org)
 
-\
+ 
 
-**Bruce********Baikie.** Bruce is a member of the Broadband for Good
-team at Inveneo as Senior Director Broadband Initiatives. He is
-leveraging his extensive experience in the energy and telecom
-industries, and 16 years at Sun Microsystems as telecom industry expert
-to advise on implementing solar powered ICT4D projects. His areas of
-expertise include: wireless networking, eco-data centers, DC telecom
-power systems, and solar power. Bruce has published numerous white
-papers and articles on green data center operations and solar power in
-ICT4D. His educational background includes a B.S. in Mechanical
-Engineering from Michigan Technological University and advanced studies
-in International Business from the University of Wisconsin. Bruce is
-also a guest lecturer on solar powered ICT4D at the Abdus Salam
-International Centre for Theoretical Physics in Trieste, Italy. During
-past two years, Bruce has been mentoring engineering students from
-Illinois Institute of Technology, University of Colorado-Boulder, San
-Francisco State University, and San Jose State University in ICT4D
-design and projects in Haiti, West Africa, and Micronesia. Bruce can be
-reached at bruce@green-wifi.org
+Bruce Baikie. Bruce is a member of the Broadband for Good team at
+Inveneo as Senior Director Broadband Initiatives. He is leveraging his
+extensive experience in the energy and telecom industries, and 16 years
+at Sun Microsystems as telecom industry expert to advise on implementing
+solar powered ICT4D projects. His areas of expertise include: wireless
+networking, eco-data centers, DC telecom power systems, and solar power.
+Bruce has published numerous white papers and articles on green data
+center operations and solar power in ICT4D. His educational background
+includes a B.S. in Mechanical Engineering from Michigan Technological
+University and advanced studies in International Business from the
+University of Wisconsin. Bruce is also a guest lecturer on solar powered
+ICT4D at the Abdus Salam International Centre for Theoretical Physics in
+Trieste, Italy. During past two years, Bruce has been mentoring
+engineering students from Illinois Institute of Technology, University
+of Colorado-Boulder, San Francisco State University, and San Jose State
+University in ICT4D design and projects in Haiti, West Africa, and
+Micronesia. Bruce can be reached at bruce@green-wifi.org
 
-\
+ 
 
-**Laura********Hosman**. Laura is Assistant Professor of Political
-Science at Illinois Institute of Technology. Prior to IIT, Professor
-Hosman held postdoctoral research fellow positions at the University of
-California, Berkeley and the University of Southern California (USC).
-She graduated with a PhD in Political Economy and Public Policy from
-USC. Her current research focuses on the role of information and
-communications technology (ICT) in developing countries, particularly in
-terms of its potential effects on socio-cultural factors, human
-development, and economic growth.
+Laura Hosman. Laura is Assistant Professor of Political Science at
+Illinois Institute of Technology. Prior to IIT, Professor Hosman held
+postdoctoral research fellow positions at the University of California,
+Berkeley and the University of Southern California (USC). She graduated
+with a PhD in Political Economy and Public Policy from USC. Her current
+research focuses on the role of information and communications
+technology (ICT) in developing countries, particularly in terms of its
+potential effects on socio-cultural factors, human development, and
+economic growth.
 
 Her work focuses on two main areas: Public-Private Partnerships and
 ICT-in-education, both with a focus on the developing world.
@@ -346,12 +341,11 @@ Her blog, giving insights on her fieldwork experiences, is at
 
 http://ict4dviewsfromthefield.wordpress.com
 
-**Michael********Ginguld.******Founder, Director - Strategy and
-Operations, Rural Broad Band Pvt. Ltd.Co-Founder, CEO, AirJaldi Research
-and Innovation. Michael was born and raised in Kibbutz Kissufim in
-Israel. He has more than 20 years of experience working in ICT,
-community and rural development projects in India, Indonesia, Cambodia,
-Nepal, and Israel.
+Michael Ginguld. Founder, Director - Strategy and Operations, Rural
+Broad Band Pvt. Ltd.Co-Founder, CEO, AirJaldi Research and Innovation.
+Michael was born and raised in Kibbutz Kissufim in Israel. He has more
+than 20 years of experience working in ICT, community and rural
+development projects in India, Indonesia, Cambodia, Nepal, and Israel.
 
 Michael worked in the non-profit and for- profit sectors with start-up
 grassroots organizations, advocacy groups, large international NGOs and
@@ -372,12 +366,12 @@ Dharamsala, Himachal Pradesh, India.
 
 He can be reached at [Michael@airjaldi.net](mailto:Michael@airjaldi.net)
 
-\
+ 
 
-**Emmanuel********Togo.** Emmanuel is from Ghana, and earned his first
-degree in Computer Science and Physics from University of Ghana in 1999.
-He currently works as the Head of the Networking Unit of the University
-of Ghana's Computing Systems (UGCS).
+Emmanuel Togo. Emmanuel is from Ghana, and earned his first degree in
+Computer Science and Physics from University of Ghana in 1999. He
+currently works as the Head of the Networking Unit of the University of
+Ghana's Computing Systems (UGCS).
 
 He is also a founding member of the Ghanaian Academic and Research
 Network's (GARNET) technical team working to build the national research
@@ -386,18 +380,17 @@ and deploying an affordable, large-scale campus-wide WiFi network in
 Ghana. Emmanuel can be reached at
 [ematogo@ug.edu.gh](mailto:ematogo@ug.edu.gh)
 
-\
+ 
 
-**The********Open********Technology********Institute**, (who provided a
-case study), strengthens individuals and communities through policy
-research, applied learning, and technological innovation.
+The Open Technology Institute, (who provided a case study), strengthens
+individuals and communities through policy research, applied learning,
+and technological innovation.
 
-\
+ 
 
-\
+ 
 
-Support
--------
+### Support
 
 The editorial team would especially like to recognise the support of our
 technical illustrator, Paolo Atzori, who has over several months worked
@@ -406,16 +399,16 @@ easy to read illustrations. He has also ensured that we've been able to
 publish successfully several versions of the book in high and low
 resolution format.
 
-\
+ 
 
-**Paolo********Atzori.** Paolo studied Architecture in Venice and Rome
-and Media Arts in Cologne. After working as an architect in Vienna,
-Paolo collaborated with the Cologne Academy of Media Arts (KHM); At
-NABA, Milan he was named the Director of the Master Digital Environment
-Design and Advisor of the PhD program of the Planetary Collegium, M-
-Node. He has created many theatrical and artistic projects, introducing
-new representations of space characterised by the dynamics of
-pervasiveness and interaction.
+Paolo Atzori. Paolo studied Architecture in Venice and Rome and Media
+Arts in Cologne. After working as an architect in Vienna, Paolo
+collaborated with the Cologne Academy of Media Arts (KHM); At NABA,
+Milan he was named the Director of the Master Digital Environment Design
+and Advisor of the PhD program of the Planetary Collegium, M- Node. He
+has created many theatrical and artistic projects, introducing new
+representations of space characterised by the dynamics of pervasiveness
+and interaction.
 
 Paolo has also curated exhibitions dedicated to digital arts, directed
 educational programs, and published articles and essays on digital
@@ -434,40 +427,38 @@ Nicole Leghissa the Agency "Hyphae”.
 
 [http://www.khm.de/\~Paolo](http://www.khm.de/%7EPaolo)
 
-**Authors********and********editors********of********earlier********versions********of********the********book**
----------------------------------------------------------------------------------------------------------------
+### Authors and editors of earlier versions of the book
 
-**Rob********Flickenger.** Rob has written and edited several books
-about wireless networking and Linux, including Wireless Hacks (O’Reilly)
-and How To Accelerate Your Internet
-([http://bwmo.net/](http://bwmo.net/)). He is proud to be a hacker,
-amateur mad scientist, and proponent of free networks everywhere.
+Rob Flickenger. Rob has written and edited several books about wireless
+networking and Linux, including Wireless Hacks (O’Reilly) and How To
+Accelerate Your Internet ([http://bwmo.net/](http://bwmo.net/)). He is
+proud to be a hacker, amateur mad scientist, and proponent of free
+networks everywhere.
 
-\
+ 
 
-**Laura********M.********Drewett** is a Co-Founder of Adapted Consulting
-Inc., a social enterprise that specialises in adapting technology and
-business solutions for the developing world. Since Laura first lived in
-Mali in the 1990s and wrote her thesis on girls’ education programs, she
-has strived to find sustainable solutions for development.
+Laura M. Drewett is a Co-Founder of Adapted Consulting Inc., a social
+enterprise that specialises in adapting technology and business
+solutions for the developing world. Since Laura first lived in Mali in
+the 1990s and wrote her thesis on girls’ education programs, she has
+strived to find sustainable solutions for development.
 
 Laura holds a Bachelors of Arts with Distinction in Foreign Affairs and
 French from the University of Virginia and a Master’s Certificate in
 Project Management from the George Washington University School of
 Business.
 
-\
+ 
 
-**Alberto********Escuder****o****-****Pascual** and
-**Louise********Berthilson** are the founders of IT +46, a Swedish
-consultancy company with focus on information technology in developing
-regions. More information can be found at
+Alberto Escudero-Pascual and Louise Berthilson are the founders of IT
++46, a Swedish consultancy company with focus on information technology
+in developing regions. More information can be found at
 [http://www.it46.se/](http://www.it46.se/)
 
-\
+ 
 
-**Ian********Howard.** After flying around the world for seven years as
-a paratrooper in the Canadian military, Ian Howard decided to trade his
+Ian Howard. After flying around the world for seven years as a
+paratrooper in the Canadian military, Ian Howard decided to trade his
 gun for a computer. After finishing a degree in environmental sciences
 at the University of Waterloo he wrote in a proposal, "Wireless
 technology has the opportunity to bridge the digital divide. Poor
@@ -477,14 +468,13 @@ Geekcorps sent him to Mali as the Geekcorps Mali Program Manager, where
 he led a team equipping radio stations with wireless interconnections
 and designed content sharing systems.
 
-\
+ 
 
-**Kyle********Johnston**,
-[http://www.schoolnet.na/](http://www.schoolnet.na/)
+Kyle Johnston, [http://www.schoolnet.na/](http://www.schoolnet.na/)
 
-\
+ 
 
-**Tomas********Krag** spends his days working with
+Tomas Krag spends his days working with
 [wire.less](http://objavi.booki.cc/tmp/wirelessnetworkinginthedevelopingworld-en-2013.02.13-23.20.02.odtQlyYWy/list-of-contributors/wire.less.dk).dk,
 a registered non-profit, based in Copenhagen, which he founded with his
 friend and colleague Sebastian Büttrich in early 2002. wire.less.dk
@@ -503,45 +493,44 @@ a project that supports civil society partners in the developing world
 in planning, building and sustaining connectivity solutions based on
 license-exempt spectrum, open technology and open knowledge.
 
-\
+ 
 
-\
+ 
 
-**Gina********Kupfermann** is graduate engineer in energy management and
-holds a degree in engineering and business. Besides her profession as
-financial controller she has worked for various self-organised community
-projects and non-profit organisations. Since 2005 she is member of the
-executive board of the development association for free networks, the
-legal entity of freifunk.net
+Gina Kupfermann is graduate engineer in energy management and holds a
+degree in engineering and business. Besides her profession as financial
+controller she has worked for various self-organised community projects
+and non-profit organisations. Since 2005 she is member of the executive
+board of the development association for free networks, the legal entity
+of freifunk.net
 
-\
+ 
 
-**Adam********Messer.**Originally trained as an insect scientist, Adam
-Messer metamorphosed into a telecommunications professional after a
-chance conversation in 1995 led him to start one of Africa's first ISPs.
+Adam Messer. Originally trained as an insect scientist, Adam Messer
+metamorphosed into a telecommunications professional after a chance
+conversation in 1995 led him to start one of Africa's first ISPs.
 Pioneering wireless data services in Tanzania, Messer worked for 11
 years in eastern and southern Africa in voice and data communications
 for startups and multinational cellular carriers. He now resides in
 Amman, Jordan.
 
-\
+ 
 
-**Juergen********Neumann**
-([http://www.ergomedia.de](http://www.ergomedia.de/)) started working
-with information technology in 1984 and since then has been looking for
-ways to deploy ICT in useful ways for organizations and society. As a
-consultant for ICT strategy and implementation, he worked for major
-German and international companies and many non-profit projects. In 2002
-he co-founded [www.freifunk.net,](http://www.freifunk.net/) for
-spreading knowledge and social networking about free and open networks.
-Freifunk is globally regarded as one of the most successful
-community-projects in this field.
+Juergen Neumann ([http://www.ergomedia.de](http://www.ergomedia.de/))
+started working with information technology in 1984 and since then has
+been looking for ways to deploy ICT in useful ways for organizations and
+society. As a consultant for ICT strategy and implementation, he worked
+for major German and international companies and many non-profit
+projects. In 2002 he co-founded
+[www.freifunk.net,](http://www.freifunk.net/) for spreading knowledge
+and social networking about free and open networks. Freifunk is globally
+regarded as one of the most successful community-projects in this field.
 
-\
+ 
 
-**Frédéric********Renet** is a co-founder of Technical Solutions at
-Adapted Consulting, Inc. Frédéric has been involved in ICT for more than
-10 years and has worked with computers since his childhood. He began his
+Frédéric Renet is a co-founder of Technical Solutions at Adapted
+Consulting, Inc. Frédéric has been involved in ICT for more than 10
+years and has worked with computers since his childhood. He began his
 ICT career in the early 1990s with a bulletin board system (BBS) on an
 analog modem and has since continued to create systems that enhance
 communication. Most recently, Frédéric spent more than a year at
@@ -549,482 +538,475 @@ IESC/Geekcorps Mali as a consultant. In this capacity, he designed many
 innovative solutions for FM radio broadcasting, school computer labs and
 lighting systems for rural communities.
 
-\
+ 
 
-\
-\
+ 
 
 Contents
 
-ABOUT THIS BOOK V
+ABOUT THIS BOOK        V
 
-Core Contributors VI
+Core Contributors        VI
 
-Support XI
+Support        XI
 
-Authors and editors of earlier versions of the book XI
+Authors and editors of earlier versions of the book        XI
 
-INTRODUCTION XXI
+INTRODUCTION        XXI
 
-The country of Aipotu XXI
+The country of Aipotu        XXI
 
-Purpose of this book XXII
+Purpose of this book        XXII
 
-Fitting wireless into your existing network XXIV
+Fitting wireless into your existing network        XXIV
 
-How this book is organized XXIV
+How this book is organized        XXIV
 
 PHYSICS
 
-​1. RADIO PHYSICS 1
+​1. RADIO PHYSICS        1
 
-What is a wave? 1
+What is a wave?        1
 
-Electromagnetic forces 3
+Electromagnetic forces        3
 
-Symbols of the international system of units 4
+Symbols of the international system of units        4
 
-Phase 6
+Phase        6
 
-Polarization 7
+Polarization        7
 
-The electromagnetic spectrum 8
+The electromagnetic spectrum        8
 
-Bandwidth 10
+Bandwidth        10
 
-Frequencies and channels 10
+Frequencies and channels        10
 
-Behaviour of radio waves 11
+Behaviour of radio waves        11
 
-The Huygens Principle 12
+The Huygens Principle        12
 
-Absorption 13
+Absorption        13
 
-Reflection 14
+Reflection        14
 
-Diffraction 15
+Diffraction        15
 
-Interference 17
+Interference        17
 
-Line of sight 19
+Line of sight        19
 
-Understanding the Fresnel zone 20
+Understanding the Fresnel zone        20
 
-Power 23
+Power        23
 
-Physics in the real world 25
+Physics in the real world        25
 
-​2. TELECOMMUNICATIONS BASICS 26
+​2. TELECOMMUNICATIONS BASICS        26
 
-Modulation 32
+Modulation        32
 
-Multiplexing and duplexing 33
+Multiplexing and duplexing        33
 
-Conclusions 35
+Conclusions        35
 
-​3. LICENSING AND REGULATION 36
+​3. LICENSING AND REGULATION        36
 
-Examples of relevant types of regulation 36
+Examples of relevant types of regulation        36
 
-​4. RADIO SPECTRUM 40
+​4. RADIO SPECTRUM        40
 
-What is the electromagnetic spectrum? 40
+What is the electromagnetic spectrum?        40
 
-How is the spectrum adjudicated? 44
+How is the spectrum adjudicated?        44
 
-Political issues 46
+Political issues        46
 
-Explosion in spectrum demand 46
+Explosion in spectrum demand        46
 
-Spectrum scarcity or spectrum hoarding? 49
+Spectrum scarcity or spectrum hoarding?        49
 
-IEE 802.22 50
+IEE 802.22        50
 
-Developing countries advantage 51
+Developing countries advantage        51
 
-​5. ANTENNAS / TRANSMISSION LINES 54
+​5. ANTENNAS / TRANSMISSION LINES        54
 
-Cables 56
+Cables        56
 
-Waveguides 58
+Waveguides        58
 
-Connectors and adapters 60
+Connectors and adapters        60
 
-Antenna term glossary 63
+Antenna term glossary        63
 
-Types of antennas 72
+Types of antennas        72
 
-Reflector theory 80
+Reflector theory        80
 
-Amplifiers 81
+Amplifiers        81
 
-Practical antenna designs 82
+Practical antenna designs        82
 
-Antenna measurements 82
+Antenna measurements        82
 
-NETWORKING
+NETWORKING       
 
-​6. NETWORKING 85
+​6. NETWORKING        85
 
-Introduction 86
+Introduction        86
 
-Cooperative communications 89
+Cooperative communications        89
 
-The OSI model 89
+The OSI model        89
 
-The TCP/IP model 91
+The TCP/IP model        91
 
-The Internet Protocols 93
+The Internet Protocols        93
 
-Internet Protocol Suite 112
+Internet Protocol Suite        112
 
-Physical hardware 114
+Physical hardware        114
 
-Putting it all together 120
+Putting it all together        120
 
-Designing the physical network 121
+Designing the physical network        121
 
-​7. WIFI FAMILY 126
+​7. WIFI FAMILY        126
 
-IEEE 802: What is it, and why should I care? 126
+IEEE 802: What is it, and why should I care?        126
 
-The 802.11 standard 128
+The 802.11 standard        128
 
-Deployment planning for 802.11 wireless networks 129
+Deployment planning for 802.11 wireless networks        129
 
-The 802.22 Standard 131
+The 802.22 Standard        131
 
-Summary 133
+Summary        133
 
-​8. MESH NETWORKING 134
+​8. MESH NETWORKING        134
 
-Introduction 134
+Introduction        134
 
-Bandwidth impact of multi-hop relaying routes 137
+Bandwidth impact of multi-hop relaying routes        137
 
-Summary 137
+Summary        137
 
-Routing protocols for mesh networks 138
+Routing protocols for mesh networks        138
 
-Devices and firmware for embedded devices 140
+Devices and firmware for embedded devices        140
 
-Frequently observed problems 143
+Frequently observed problems        143
 
-​9. SECURITY FOR WIRELESS NETWORKS 146
+​9. SECURITY FOR WIRELESS NETWORKS        146
 
-Introduction 146
+Introduction        146
 
-Protecting the wireless network 148
+Protecting the wireless network        148
 
-Physical security for wireless networks 150
+Physical security for wireless networks        150
 
-Authentication and access control 152
+Authentication and access control        152
 
-Summary 157
+Summary        157
 
-802.1X 161
+802.1X        161
 
-Inter-organisational roaming 163
+Inter-organisational roaming        163
 
-End to end encryption 165
+End to end encryption        165
 
-Tor & Anonymizers 173
+Tor & Anonymizers        173
 
-PLANNING AND DEPLOYMENT
+PLANNING AND DEPLOYMENT       
 
-​10. DEPLOYMENT PLANNING 177
+​10. DEPLOYMENT PLANNING        177
 
-Estimating capacity 177
+Estimating capacity        177
 
-Calculating the link budget 179
+Calculating the link budget        179
 
-Link planning software 189
+Link planning software        189
 
-Avoiding noise 194
+Avoiding noise        194
 
-Repeaters 197
+Repeaters        197
 
-Deployment planning for IPv6 199
+Deployment planning for IPv6        199
 
-​11. HARDWARE SELECTION AND CONFIGURATION 201
+​11. HARDWARE SELECTION AND CONFIGURATION        201
 
-Wired wireless 201
+Wired wireless        201
 
-Choosing wireless components 203
+Choosing wireless components        203
 
-Commercial vs. DIY solutions 205
+Commercial vs. DIY solutions        205
 
-Professional lightning protection 209
+Professional lightning protection        209
 
-Access Point Configuration 212
+Access Point Configuration        212
 
-Configure the client 221
+Configure the client        221
 
-Hints - working outdoors 221
+Hints - working outdoors        221
 
-Troubleshooting 222
+Troubleshooting        222
 
-​12. INDOOR INSTALLATION 223
+​12. INDOOR INSTALLATION        223
 
-Introduction 223
+Introduction        223
 
-Preparations 223
+Preparations        223
 
-Bandwidth requirements 224
+Bandwidth requirements        224
 
-Frequencies and data rates 224
+Frequencies and data rates        224
 
-Access Points choice and placement 225
+Access Points choice and placement        225
 
-SSID and Network Architecture 227
+SSID and Network Architecture        227
 
-Post Installation 227
+Post Installation        227
 
-​13. OUTDOOR INSTALL 228
+​13. OUTDOOR INSTALL        228
 
-What is needed for a long distance link? 230
+What is needed for a long distance link?        230
 
-Antenna alignment 232
+Antenna alignment        232
 
-​14. OFF-GRID POWER 238
+​14. OFF-GRID POWER        238
 
-Solar Power 238
+Solar Power        238
 
-Photovoltaic system components 239
+Photovoltaic system components        239
 
-The solar panel 244
+The solar panel        244
 
-The battery 250
+The battery        250
 
-Temperature effects 257
+Temperature effects        257
 
-The charge regulator 258
+The charge regulator        258
 
-Converters 260
+Converters        260
 
-Equipment or load 262
+Equipment or load        262
 
-Orientation of the panels 266
+Orientation of the panels        266
 
-How to size your photovoltaic system 267
+How to size your photovoltaic system        267
 
-Data to collect 269
+Data to collect        269
 
-Electrical characteristics of system components 270
+Electrical characteristics of system components        270
 
-Procedure of calculation 272
+Procedure of calculation        272
 
-Cables 276
+Cables        276
 
-Cost of a solar installation 277
+Cost of a solar installation        277
 
-MAINTENANCE, MONITORING AND SUSTAINABILITY
+MAINTENANCE, MONITORING AND SUSTAINABILITY       
 
-​15. MAINTENANCE AND TROUBLESHOOTING 280
+​15. MAINTENANCE AND TROUBLESHOOTING        280
 
-Introduction 280
+Introduction        280
 
-Building your team 280
+Building your team        280
 
-Proper troubleshooting techniques 283
+Proper troubleshooting techniques        283
 
-Common network problems 286
+Common network problems        286
 
-Trouble tracking and reporting 293
+Trouble tracking and reporting        293
 
-\
-\
+ 
 
-​16. NETWORK MONITORING 295
+​16. NETWORK MONITORING        295
 
-Introduction 295
+Introduction        295
 
-Network monitoring example 296
+Network monitoring example        296
 
-Detecting network outages 298
+Detecting network outages        298
 
-Monitoring your network 299
+Monitoring your network        299
 
-Types of monitoring tools 306
+Types of monitoring tools        306
 
-Network detection 307
+Network detection        307
 
-Spot check tools 307
+Spot check tools        307
 
-Protocol analysers 312
+Protocol analysers        312
 
-Trending tools 314
+Trending tools        314
 
-Throughput testing 322
+Throughput testing        322
 
-Realtime tools and intrusion detection 325
+Realtime tools and intrusion detection        325
 
-Other useful tools 328
+Other useful tools        328
 
-What is normal? 330
+What is normal?        330
 
-Establishing a baseline 331
+Establishing a baseline        331
 
-Monitoring RAM and CPU usage 337
+Monitoring RAM and CPU usage        337
 
-Summary 339
+Summary        339
 
-​17. ECONOMIC SUSTAINABILITY 340
+​17. ECONOMIC SUSTAINABILITY        340
 
-Introduction 340
+Introduction        340
 
-Create a mission statement 342
+Create a mission statement        342
 
-Evaluate the demand for potential offerings 343
+Evaluate the demand for potential offerings        343
 
-Establish appropriate incentives 345
+Establish appropriate incentives        345
 
-Research the regulatory environment for wireless 346
+Research the regulatory environment for wireless        346
 
-Analyse the competition 347
+Analyse the competition        347
 
-Determine initial and recurring costs and pricing 347
+Determine initial and recurring costs and pricing        347
 
-Categories of Costs 349
+Categories of Costs        349
 
-Secure the financing 351
+Secure the financing        351
 
-Evaluate the strengths and weaknesses of the internal situation 354
+Evaluate the strengths and weaknesses of the internal situation       
+354
 
-Putting it all together 355
+Putting it all together        355
 
-Conclusion 358
+Conclusion        358
 
-\
-\
+ 
 
-GLOSSARY
+GLOSSARY       
 
-Glossary 360
+Glossary        360
 
-\
-\
+ 
 
-\
-\
+ 
 
-APPENDICES
+APPENDICES       
 
-APPENDIX A: ANTENNA CONSTRUCTION 393
+APPENDIX A: ANTENNA CONSTRUCTION        393
 
-Guidelines for building some simple types of antennas 393
+Guidelines for building some simple types of antennas        393
 
-Collinear omni 393
+Collinear omni        393
 
-Cantenna 403
+Cantenna        403
 
-Cantenna as dish feed 410
+Cantenna as dish feed        410
 
-NEC2 411
+NEC2        411
 
-APPENDIX B: CHANNEL ALLOCATIONS 412
+APPENDIX B: CHANNEL ALLOCATIONS        412
 
-APPENDIX C: PATH LOSS 414
+APPENDIX C: PATH LOSS        414
 
-APPENDIX D: CABLE SIZES 415
+APPENDIX D: CABLE SIZES        415
 
-APPENDIX E: SOLAR DIMENSIONING 416
+APPENDIX E: SOLAR DIMENSIONING        416
 
-Finding the Worst Month 420
+Finding the Worst Month        420
 
-Final Calculations 422
+Final Calculations        422
 
-APPENDIX F: RESOURCES 424
+APPENDIX F: RESOURCES        424
 
-CASE STUDIES
+CASE STUDIES       
 
-Case Studies - Introduction 433
+Case Studies - Introduction        433
 
-Equipment enclosures 433
+Equipment enclosures        433
 
-Antenna masts 434
+Antenna masts        434
 
-Involve the local community 434
+Involve the local community        434
 
-Now read on 435
+Now read on        435
 
-Case Study: Long Distance 802.11 in Venezuela 437
+Case Study: Long Distance 802.11 in Venezuela        437
 
-Introduction 437
+Introduction        437
 
-Background 437
+Background        437
 
-Action Plan 438
+Action Plan        438
 
-Pico del Aguila Site Survey 439
+Pico del Aguila Site Survey        439
 
-Antennas 441
+Antennas        441
 
-El Baùl Site Survey 444
+El Baùl Site Survey        444
 
-Mérida, Venezuela, 17 April 2006. 448
+Mérida, Venezuela, 17 April 2006.        448
 
-Can we do better? 448
+Can we do better?        448
 
-Acknowledgments 450
+Acknowledgments        450
 
-\
-\
+ 
 
-\
-\
+ 
 
-Case Study: Pisces Project 452
+Case Study: Pisces Project        452
 
-Case Study: University Of Ghana campus wireless network 457
+Case Study: University Of Ghana campus wireless network        457
 
-Introduction 457
+Introduction        457
 
-Wifi setup and installation 458
+Wifi setup and installation        458
 
-Connecting to the UG campus wireless network 459
+Connecting to the UG campus wireless network        459
 
-Pictures of our project and installation 460
+Pictures of our project and installation        460
 
-Challenges we faced 464
+Challenges we faced        464
 
-Next steps 465
+Next steps        465
 
-Case Study: Airjaldi's Garhwal Network, India 466
+Case Study: Airjaldi's Garhwal Network, India        466
 
-Introduction 466
+Introduction        466
 
-Airjaldi’s Garhwal Network: 466
+Airjaldi’s Garhwal Network:        466
 
-The Airjaldi Garhwal Network – Vital Statistics 467
+The Airjaldi Garhwal Network – Vital Statistics        467
 
-Realities, needs 468
+Realities, needs        468
 
-Summary 479
+Summary        479
 
-Case Study: Open Technology Institute 480
+Case Study: Open Technology Institute        480
 
-Red Hook initiative Wifi & Tidepools 480
+Red Hook initiative Wifi & Tidepools        480
 
-History of the network 480
+History of the network        480
 
-Social software and growth of the network 485
+Social software and growth of the network        485
 
-Expansion after superstorm Sandy 489
+Expansion after superstorm Sandy        489
 
-Sustainability & future goals 494
+Sustainability & future goals        494
 
-Cost of the network 494
+Cost of the network        494
 
-Lessons learned 494
+Lessons learned        494
 
-Related articles & websites 495
+Related articles & websites        495
 
-\
-\
+ 
 
-**INTRODUCTION**
-================
+INTRODUCTION
+------------
 
 This book aims to empower people to build DIY networks using wireless
 technologies. It has been compiled by a bunch of networking geeks that
@@ -1058,8 +1040,7 @@ simply cannot compete. What has until recently sounded like science
 fiction is now becoming a reality, and that reality is being built on
 wireless networks.
 
-**The********country****of Aipotu**
------------------------------------
+### The country of Aipotu
 
 Now lets for a moment look at a fictional country called 'Aipotu', in
 the developing world. Aipotu has been connected to the Internet merely
@@ -1071,7 +1052,7 @@ arrived at the shore of Aipotu.
 The challenge for Aipotu is now to roll out a complete communication
 infrastructure for a whole country from scratch.
 
-\
+ 
 
 The method of choice today is likely a three tier strategy. First and
 foremost Aipotu should try to roll out optical fibre lines wherever
@@ -1088,7 +1069,7 @@ This would make our three tier model obsolete and we could stop here.
 However, there are probably areas in Aipotu that cannot afford fibre
 lines.
 
-\
+ 
 
 The second tier that the people of Aipotu can use in order to connect
 remote villages or small cities are high speed point-to-point links
@@ -1107,7 +1088,7 @@ Like the technology of optical transceivers, wireless transceivers also
 keep advancing, but a wireless link will always be orders of magnitude
 slower than the capacity of optical fibre.
 
-\
+ 
 
 The third challenge for Aipotu is to solve the problem of the last
 mile(s): Distributing access to all the individual households, offices,
@@ -1116,8 +1097,7 @@ was to run copper wires but now there is a better choice. This third
 tier of our network model is clearly the domain of wireless networking
 technology.
 
-**Purpose********of********this********book**
----------------------------------------------
+### Purpose of this book
 
 The overall goal of this book is to help you build affordable
 communication technology in your local community by making best use of
@@ -1147,7 +1127,7 @@ The extensive collection of case studies included present various
 groups’ attempts at building these networks, the resources that were
 committed to them, and the ultimate results of these attempts.
 
-\
+ 
 
 It is also important to note that all of the resources, techniques and
 design methodologies described in this book are valid in any part of the
@@ -1161,7 +1141,7 @@ achieved it. There are many community based networking projects emerging
 everywhere. So whether you live in the United Kingdom, Kenya, Chile or
 India or anywhere else, this book can be a useful practical guide.
 
-\
+ 
 
 Since the first spark gap experiments at the turn of the XIX century,
 wireless has been a rapidly evolving area of communications technology.
@@ -1177,8 +1157,7 @@ cable would be impractical.
 We hope you find this book useful for solving your communication
 challenges.
 
-**Fitting********wireless********into********your********existing********network**
-----------------------------------------------------------------------------------
+### Fitting wireless into your existing network
 
 If you are a network administrator, you may wonder how wireless might
 fit into your existing network infrastructure.
@@ -1187,37 +1166,37 @@ Wireless can serve in many capacities, from a simple extension (like a
 several kilometre Ethernet cable) to a distribution point (like a large
 hub).
 
-\
+ 
 
 Here just a few examples of how your network can benefit from wireless
 technology.
 
-\
+ 
 
-![](I1.png)\
-\
+![](./I1.png)
 
-*Figure****I****1:****Some****wireless****networking****examples.*
+ 
 
-\
+Figure I 1: Some wireless networking examples.
 
-**How********this********book********is********organized**
-----------------------------------------------------------
+ 
+
+### How this book is organized
 
 This book has 4 main sections called -
 
-\
+ 
 
-**Physics**
+ Physics
 
-**Networking**
+ Networking
 
-**Planning and Deployment**
+ Planning and Deployment
 
-**Maintenance, Monitoring and Sustainability**
+ Maintenance, Monitoring and Sustainability
 
-At the end you will find a **Glossary******as well as
-**Appendices******and **Case********Studie****s**.
+At the end you will find a Glossary as well as Appendices and Case
+Studies.
 
 Within the 4 main sections there are chapters written by key experts
 with theoretical and practical hands on experience of the topics.
@@ -1229,7 +1208,7 @@ is here -
 
 [http://wtkit.org/groups/wtkit/wiki/820cb/download\_page.html](http://wtkit.org/groups/wtkit/wiki/820cb/download_page.html)
 
-\
+ 
 
 It is the set of presentation materials used by these same key experts
 to deliver wireless networking training classes around the world.
@@ -1240,21 +1219,19 @@ questions on our page - we do answer quickly.
 
 [https://www.facebook.com/groups/wirelessu](https://www.facebook.com/groups/wirelessu)
 
-\
+ 
 
-\
+ 
 
-\
+1PHYSICS
+========
 
-**PHYSICS**
+ 
 
-\
-\
+1. RADIO PHYSICS
+----------------
 
-**1. RADIO********PHYSICS**
-===========================
-
-\
+ 
 
 Wireless communications make use of electromagnetic waves to send
 signals across long distances. From a user’s perspective, wireless
@@ -1276,8 +1253,7 @@ used in the same area without interfering with each other?
 In order to build stable high-speed wireless links, it is important to
 understand how radio waves behave in the real world.
 
-**What********is********a********wav****e****?**
-------------------------------------------------
+### What is a wave?
 
 We are all familiar with vibrations or oscillations in various forms: a
 pendulum, a tree swaying in the wind, the string of a guitar - these are
@@ -1285,9 +1261,8 @@ all examples of oscillations.
 
 What they have in common is that something, some medium or object, is
 swinging in a periodic manner, with a certain number of cycles per unit
-of time. This kind of wave is sometimes called a
-***mechanical*********wave, since it is defined by the motion of an
-object or its propagating medium.
+of time. This kind of wave is sometimes called a mechanical wave, since
+it is defined by the motion of an object or its propagating medium.
 
 When such oscillations travel (that is, when the swinging does not stay
 bound to one place) then we speak of waves propagating in space. For
@@ -1297,55 +1272,57 @@ air, and this periodic change of air pressure then leaves the singers
 mouth and travels, at the speed of sound.
 
 A stone plunging into a lake causes a disturbance, which then travels
-across the lake as a ***wav******e***.
+across the lake as a wave.
 
-A wave has a certain ***spee******d***, ***frequenc******y***, and
-***wavelengt******h***.
+A wave has a certain speed, frequency, and wavelength.
 
 These are connected by a simple relation:
 
-\
+ 
 
-*Speed****=****Frequency****\*****Wavelength*
+Speed = Frequency \* Wavelength
 
-\
+ 
 
-The wavelength (sometimes referred to as ***lambda,************λ***) is
-the distance measured from a point on one wave to the equivalent part of
-the next (or, in a more technical way, to the next point that is in the
-same phase), for example from the top of one peak to the next.
+The wavelength (sometimes referred to as lambda, λ) is the distance
+measured from a point on one wave to the equivalent part of the next
+(or, in a more technical way, to the next point that is in the same
+phase), for example from the top of one peak to the next.
 
 The frequency is the number of whole waves that pass a fixed point in a
 period of time. Speed is measured in metres/second, frequency is
-measured in cycles per second (or Hertz, represented by the symbol
-***H******z***), and wavelength is measured in metres. For example, if a
-wave on water travels at one metre per second, and it oscillates five
-times per second, then each wave will be twenty centimetres long:
+measured in cycles per second (or Hertz, represented by the symbol Hz),
+and wavelength is measured in metres. For example, if a wave on water
+travels at one metre per second, and it oscillates five times per
+second, then each wave will be twenty centimetres long:
 
-\
+ 
 
-*1 metre/second = 5 cycles/second \*W*
+1 metre/second = 5 cycles/second \*W
 
-*W = 1 / 5 metres*
+        W = 1 / 5 metres
 
-*W = 0.2 metres = 20 cm*
+                    W = 0.2 metres = 20 cm
 
-\
+ 
 
-Waves also have a property called ***amplitud******e***. This is the
-distance from the centre of the wave to the extreme of one of its peaks,
-and can be thought of as the “height” of a water wave. Frequency,
-wavelength, and amplitude are shown in Figure RP 1.
+Waves also have a property called amplitude. This is the distance from
+the centre of the wave to the extreme of one of its peaks, and can be
+thought of as the “height” of a water wave. Frequency, wavelength, and
+amplitude are shown in Figure RP 1.
 
-\
+ 
 
-![](RP/RP1.png)\
-\
+ 
 
-*Figure****RP****1:****Wavelength,****amplitude,****and****frequency.
-For****this****wave,****the****frequency****is****2****cycles****per****second,****or****2****Hz,****while****the****speed****is****1****m/s.*
+![](./RP/RP1.png)
 
-\
+ 
+
+Figure RP 1: Wavelength, amplitude, and frequency. For this wave, the
+frequency is 2 cycles per second, or 2 Hz, while the speed is 1 m/s.
+
+ 
 
 Waves in water are easy to visualize.
 
@@ -1357,8 +1334,7 @@ oscillating?”
 In order to understand that, you need to understand electromagnetic
 forces.
 
-**Electromagnetic********forces**
----------------------------------
+### Electromagnetic forces
 
 Electromagnetic forces are the forces between electrical charges and
 currents. Our most direct access to those is when our hand touches a
@@ -1368,11 +1344,9 @@ electrical fence.
 A more powerful example of electromagnetic forces is the lightning we
 see during thunderstorms.
 
-The ***electrical************force*********is the force between
-electrical charges.
+The electrical force is the force between electrical charges.
 
-The ***magnetic************force*********is the force between electrical
-currents.
+The magnetic force is the force between electrical currents.
 
 Electrons are particles that carry a negative electrical charge. There
 are other charged particles too, but it is the electrons that are
@@ -1393,8 +1367,7 @@ space around the wire.
 
 What we have just described is known as a dipole (because of the two
 differently charged poles, plus and minus, that are created in the
-straight vertical wire), or more commonly a
-***dipole************antenn******a***.
+straight vertical wire), or more commonly a dipole antenna.
 
 This is the simplest form of an omnidirectional antenna. The moving
 electric field is commonly referred to as an electromagnetic wave
@@ -1407,13 +1380,13 @@ An electric field is caused by electrically charged objects.
 A moving electric field is produced by moving electrically charged
 objects, such as we have just described above in a dipole antenna.
 
-\
+ 
 
 Wherever electrical charges are moving, they induce a magnetic field.
 Mathematically, this is formulated in Maxwell's equations:
 [https://en.wikipedia.org/wiki/Electromagnetic\_field\#Mathematical\_description](https://en.wikipedia.org/wiki/Electromagnetic_field#Mathematical_description)
 
-\
+ 
 
 Since the electrical and magnetic components are tied together in this
 way, we speak of an electromagnetic field.
@@ -1421,28 +1394,28 @@ way, we speak of an electromagnetic field.
 In practical wireless networking, we focus in the electrical component
 but there be always a magnetic component as well.
 
-\
+ 
 
 Let us come back to the relation:
 
-\
+ 
 
-*Speed****=****Frequency****\*****Wavelength*
+Speed = Frequency \* Wavelength
 
-\
+ 
 
-In the case of electromagnetic waves, the speed is ***c***, the speed of
+In the case of electromagnetic waves, the speed is c, the speed of
 light.
 
-\
+ 
 
-*c****=****300,000****km/s****=****300,000,000****m/s****=****3\*10*^*8*^^**^*m/s*
+c = 300,000 km/s = 300,000,000 m/s = 3\*108 m/s
 
-\
+ 
 
-*c = f \* λ*
+c = f \* λ
 
-\
+ 
 
 Electromagnetic waves differ from mechanical waves in that they require
 no medium in which to propagate. Electromagnetic waves will even
@@ -1451,8 +1424,7 @@ propagate through perfect vacuum.
 The light from the stars is a good example: it reaches us through the
 vacuum of space.
 
-**Symbols********of********the********international********system********of********units**
-------------------------------------------------------------------------------------------
+### Symbols of the international system of units
 
 In physics, maths, and engineering, we often express numbers by powers
 of ten.
@@ -1460,19 +1432,22 @@ of ten.
 We will meet these terms again, and the symbols used to represent them,
 e.g. gigahertz (GHz), centimetres (cm), microseconds (µs), and so on.
 
-\
+ 
 
-These symbols are part of the international system of measurement
-**SI******([http://www.bipm.org/utils/common/pdf/si\_brochure\_8\_en](http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf).pdf),
+These symbols are part of the international system of measurement SI
+([http://www.bipm.org/utils/common/pdf/si\_brochure\_8\_en](http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf).pdf),
 they are not abbreviations and should not be changed.
 
 The case is significant and should not be altered.
 
-**SI********symbols**
+SI symbols
 
 atto
 
-![](WNDW_UsTrade6_master%231.42_html_71152a2e.gif)
+10 − 18
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAASkEAAAQAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAACgEAAAPAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApgEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKYBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAMwCAADnAAAAAgAxOP0AAAAAAP//AgAxADgAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/1000000000000000000
 
@@ -1480,7 +1455,10 @@ a
 
 femto
 
-![](WNDW_UsTrade6_master%231.42_html_4536f21.gif)
+10 − 15
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAASkEAAARAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAACgEAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAMwCAADnAAAAAgAxNf0AAAAAAP//AgAxADUAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/1000000000000000
 
@@ -1488,7 +1466,10 @@ f
 
 pico
 
-![](WNDW_UsTrade6_master%231.42_html_161c9cf.gif)
+10 − 12
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAASwEAAARAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAACsEAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAMwCAADnAAAAAgAxMv0AAAAAAP//AgAxADIAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/1000000000000
 
@@ -1496,7 +1477,10 @@ p
 
 nano
 
-![](WNDW_UsTrade6_master%231.42_html_m3ec9dc3c.gif)
+10 − 9
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAa4DAAARAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAK0DAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAMwCAADnAAAAAQA5fgAAAAAA//8BADkAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/1000000000
 
@@ -1504,7 +1488,10 @@ n
 
 micro
 
-![](WNDW_UsTrade6_master%231.42_html_m42eefd75.gif)
+10 − 6
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAa4DAAARAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAK0DAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAMwCAADnAAAAAQA2fgAAAAAA//8BADYAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/1000000
 
@@ -1512,7 +1499,10 @@ micro
 
 milli
 
-![](WNDW_UsTrade6_master%231.42_html_9c0aff9.gif)
+10 − 3
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAasDAAARAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAKoDAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAMwCAADnAAAAAQAzfgAAAAAA//8BADMAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/1000
 
@@ -1520,7 +1510,10 @@ m
 
 centi
 
-![](WNDW_UsTrade6_master%231.42_html_m79e4a8d9.gif)
+10 − 2
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbQDAAARAgAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAALMDAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/AEAAOcAAAABAAAAEiLJAAAAAAD//wEAEiKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAMwCAADnAAAAAQAyfgAAAAAA//8BADIAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
+
+ 
 
 1/100
 
@@ -1528,7 +1521,10 @@ c
 
 kilo
 
-![](WNDW_UsTrade6_master%231.42_html_60808872.gif)
+10 3
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAfICAAARAgAAFgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPECAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAATAgAA5wAAAAEAM34AAAAAAP//AQAzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
+
+ 
 
 1000
 
@@ -1536,7 +1532,10 @@ k
 
 mega
 
-![](WNDW_UsTrade6_master%231.42_html_m2fd0e9b9.gif)
+10 6
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAfUCAAARAgAAFgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPQCAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAATAgAA5wAAAAEANn4AAAAAAP//AQA2AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
+
+ 
 
 1000000
 
@@ -1544,7 +1543,10 @@ M
 
 giga
 
-![](WNDW_UsTrade6_master%231.42_html_m53f7c8f8.gif)
+10 9
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAfUCAAARAgAAFgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPQCAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAATAgAA5wAAAAEAOX4AAAAAAP//AQA5AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
+
+ 
 
 1000000000
 
@@ -1552,7 +1554,10 @@ G
 
 tera
 
-![](WNDW_UsTrade6_master%231.42_html_748de41b.gif)
+10 12
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXMDAAARAgAAFgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHIDAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAATAgAA5wAAAAIAMTL9AAAAAAD//wIAMQAyAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
+
+ 
 
 1000000000000
 
@@ -1560,7 +1565,10 @@ T
 
 peta
 
-![](WNDW_UsTrade6_master%231.42_html_1b8aa84.gif)
+10 15
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXADAAARAgAAFgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAG8DAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAATAgAA5wAAAAIAMTX9AAAAAAD//wIAMQA1AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
+
+ 
 
 1000000000000000
 
@@ -1568,29 +1576,30 @@ P
 
 exa
 
-![](WNDW_UsTrade6_master%231.42_html_1ae2036d.gif)
+10 18
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXADAAARAgAAFgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAG8DAAAQAgAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFwAAAC3AQAAAgAxMKcBAAAAAP//AgAxADAAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAMAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAATAgAA5wAAAAIAMTj9AAAAAAD//wIAMQA4AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
+
+ 
 
 1000000000000000000
 
 E
 
-\
+ 
 
 Knowing the speed of light, we can calculate the wavelength for a given
 frequency. Let us take the example of the frequency of 802.11b wireless
 networking, which is:
 
-\
+ 
 
-*f****=****2.4****GHz =****2,400,000,000****cycles****/****second*
+f = 2.4 GHz = 2,400,000,000 cycles / second
 
-\
+ 
 
-*wavelength****(λ) =****c****/****f
-=****3\*10*^*8*^***/****2.4\*10*^*9*^*=****1.25\*10*^*-*^^*1*^***m
-=****12.5****cm*
+wavelength (λ) = c / f = 3\*108 / 2.4\*109 = 1.25\*10-1 m = 12.5 cm
 
-\
+ 
 
 Frequency and therefore wavelength determine most of an electromagnetic
 wave’s behaviour. It governs the dimensions of the antennas that we
@@ -1602,48 +1611,45 @@ frequency they are working at - for example, 802.11b, 802.11g, 802.11n
 and 802.16 can all work at 2.4 GHz -, yet they are very different from
 one another.
 
-The chapter called ***Telecommunications************Basics*********will
-discuss modulation techniques, media access techniques, and other
-relevant features of wireless communications standards. However, the
-basic capabilities of electromagnetic waves to penetrate objects, to go
-long distances, and so forth - these are determined by physics alone.
-The electromagnetic wave "does not know or care" what modulation or
-standard or technique you put on top of it. So, while different
-standards may implement advanced techniques to deal with NLOS (Non Line
-of Sight), multipath and so forth - they still cannot make a wave go
-through a wall, if that wall is absorbing the respective frequency.
-Therefore, an understanding of the basic ideas of frequency and
-wavelength helps a lot in practical wireless work.
+The chapter called Telecommunications Basics will discuss modulation
+techniques, media access techniques, and other relevant features of
+wireless communications standards. However, the basic capabilities of
+electromagnetic waves to penetrate objects, to go long distances, and so
+forth - these are determined by physics alone. The electromagnetic wave
+"does not know or care" what modulation or standard or technique you put
+on top of it. So, while different standards may implement advanced
+techniques to deal with NLOS (Non Line of Sight), multipath and so forth
+- they still cannot make a wave go through a wall, if that wall is
+absorbing the respective frequency. Therefore, an understanding of the
+basic ideas of frequency and wavelength helps a lot in practical
+wireless work.
 
-Phase
------
+### Phase
 
 Later in this chapter, we will talk about concepts like interference,
 multipath and Fresnel zones. In order to understand these, we will need
-to know about the ***phase*********of a wave, or rather,
-***phase************differences*********between waves. Look at the sine
-wave shown in Fig RP 1 - now imagine we have two such waves moving.
-These can be in exactly the same position: Where the one has its peak,
-the other one also has a peak. Then, we would say, they are in phase,
-or, their phase difference is zero. But one wave could also be displaced
-from the other, for example it could have its peak where the other wave
-is at zero. In this case, we have a phase difference. This phase
-difference can be expressed in fractions of the wavelength, e.g. *λ*//4,
-or in degrees, e.g. 90 degrees - with one full cycle of the wave being
-360 degrees. A phase difference of 360 degrees is the same as that of 0
-degrees: no phase difference.
+to know about the phase of a wave, or rather, phase differences between
+waves. Look at the sine wave shown in Fig RP 1 - now imagine we have two
+such waves moving. These can be in exactly the same position: Where the
+one has its peak, the other one also has a peak. Then, we would say,
+they are in phase, or, their phase difference is zero. But one wave
+could also be displaced from the other, for example it could have its
+peak where the other wave is at zero. In this case, we have a phase
+difference. This phase difference can be expressed in fractions of the
+wavelength, e.g. λ//4, or in degrees, e.g. 90 degrees - with one full
+cycle of the wave being 360 degrees. A phase difference of 360 degrees
+is the same as that of 0 degrees: no phase difference.
 
-\
+ 
 
-![](RP/RP2.png)\
-*Figure****RP****2:****Phase****Difference****between****Two****Waves*
+![](./RP/RP2.png)
 
-Polarization
-------------
+ 
 
-Another important quality of electromagnetic waves is
-***polarizatio******n***. Polarization describes the direction of the
-electrical field vector.
+### Polarization
+
+Another important quality of electromagnetic waves is polarization.
+Polarization describes the direction of the electrical field vector.
 
 If you imagine a vertically aligned dipole antenna (the straight piece
 of wire), electrons can only move up and down, not sideways (because
@@ -1653,14 +1659,15 @@ has a strict linear (and in this case, vertical) polarization. If we put
 the antenna flat on the ground, we would find horizontal linear
 polarization.
 
-\
+ 
 
-![](RP/RP3_1.png)\
-\
+![](./RP/RP3_1.png)
 
-*Figure****RP****3:****Vertically****polarized electromagnetic****wave*
+ 
 
-\
+Figure RP 3: Vertically polarized electromagnetic wave
+
+ 
 
 Linear polarization is just one special case, and is never quite so
 perfect: in general, we will always have some component of the field
@@ -1690,26 +1697,25 @@ vertical polarization must not receive or transmit any horizontally
 polarized signal, and vice versa. We say they must have a high "cross
 polarization" rejection.
 
-**The********electromagnetic********spectrum**
-----------------------------------------------
+### The electromagnetic spectrum
 
 Electromagnetic waves span a wide range of frequencies (and,
 accordingly, wavelengths). This range of frequencies or wavelengths is
-called the ***electromagnetic************spectru******m***. The part of
-the spectrum most familiar to humans is probably light, the visible
-portion of the electromagnetic spectrum. Light lies roughly between the
-frequencies of 7.5\*10^14^ Hz and 3.8\*10^14^ Hz, corresponding to
-wavelengths from circa 400 nm (violet/blue) to 800 nm (red).
+called the electromagnetic spectrum. The part of the spectrum most
+familiar to humans is probably light, the visible portion of the
+electromagnetic spectrum. Light lies roughly between the frequencies of
+7.5\*1014 Hz and 3.8\*1014 Hz, corresponding to wavelengths from circa
+400 nm (violet/blue) to 800 nm (red).
 
 We are also regularly exposed to other regions of the electromagnetic
-spectrum, including Alternating Current (***A******C***) or grid
-electricity at 50/60 Hz, AM and FM radio, Ultraviolet (at frequencies
-higher than those of visible light), Infrared (at frequencies lower than
-those of visible light),
+spectrum, including Alternating Current (AC) or grid electricity at
+50/60 Hz, AM and FM radio, Ultraviolet (at frequencies higher than those
+of visible light), Infrared (at frequencies lower than those of visible
+light),
 
 X-Ray radiation, and many others.
 
-\
+ 
 
 Radio is the term used for the portion of the electromagnetic spectrum
 in which waves can be transmitted by applying alternating current to an
@@ -1725,8 +1731,8 @@ wavelengths from 30 cm to 1 mm.
 The most popular use of microwaves might be the microwave oven, which in
 fact works in exactly the same region as the wireless standards we are
 dealing with. These regions lie within the bands that are being kept
-open for general unlicensed use. This region is called the ***ISM
-ban******d***, which stands for Industrial, Scientific, and Medical.
+open for general unlicensed use. This region is called the ISM band,
+which stands for Industrial, Scientific, and Medical.
 
 Most other parts of the electromagnetic spectrum are tightly controlled
 by licensing legislation, with license values being a huge economic
@@ -1735,14 +1741,17 @@ been sold to communications companies for millions of dollars. In most
 countries, the ISM bands have been reserved for unlicensed use and
 therefore do not have to be paid for when used.
 
-\
+ 
 
-![](RP/RP4.png)\
-\
+ 
 
-*Figure****RP****4:****The****electromagnetic****spectrum.*
+![](./RP/RP4.png)
 
-\
+ 
+
+Figure RP 4: The electromagnetic spectrum.
+
+ 
 
 The frequencies most interesting to us are 2.400 - 2.495 GHz, which is
 used by the 802.11b and 802.11g standards (corresponding to wavelengths
@@ -1750,18 +1759,16 @@ of about 12.5 cm), and 5.150 - 5.850 GHz (corresponding to wavelengths
 of about 5 to 6 cm), used by 802.11a. The 802.11n standard can work in
 either of these bands.
 
-See the Chapter called ***WiFi************Family*********for an overview
-of standards and frequencies. In addition you can find out more about
-the Radio portion of the electromagnetic spectrum in the Chapter called
-***Radio************Spectrum.***
+See the Chapter called WiFi Family for an overview of standards and
+frequencies. In addition you can find out more about the Radio portion
+of the electromagnetic spectrum in the Chapter called Radio Spectrum.
 
-Bandwidth
----------
+### Bandwidth
 
-A term you will meet often in radio physics is ***bandwidt******h***.
-Bandwidth is simply a measure of frequency range. If a range of 2.40 GHz
-to 2.48 GHz is used by a device, then the bandwidth would be 0.08 GHz
-(or more commonly stated as 80 MHz).
+A term you will meet often in radio physics is bandwidth. Bandwidth is
+simply a measure of frequency range. If a range of 2.40 GHz to 2.48 GHz
+is used by a device, then the bandwidth would be 0.08 GHz (or more
+commonly stated as 80 MHz).
 
 It is easy to see that the bandwidth we define here is closely related
 to the amount of data you can transmit within it - the more room in
@@ -1780,49 +1787,45 @@ adding a second link at perpendicular polarization to an existing
 radio link. Here, frequency and bandwidth have not changed, however the
 data rate is doubled.
 
-**Frequencies********and********channels**
-------------------------------------------
+### Frequencies and channels
 
 Let us look a bit closer at how the 2.4 GHz band is used in 802.11b. The
 spectrum is divided into evenly sized pieces distributed over the band
 as individual channels. Note that channels are 22 MHz wide, but are only
 separated by 5 MHz.
 
-![](RP/RP5.png)\
-This means that adjacent channels overlap, and can interfere with each
-other. This is represented visually in Figure RP 5.
+ 
 
-\
+![](./RP/RP5.png)
 
-\
+ 
 
-*Figure****RP****5:****Channels****and****centre****frequencies****for****802.11b.***
+Figure RP 5: Channels and centre frequencies for 802.11b.
 
-*Note****that****channels****1,****6,****and****11****do****not****overlap.*
+Note that channels 1, 6, and 11 do not overlap.
 
-**Behaviour********of********radio********waves**
--------------------------------------------------
+### Behaviour of radio waves
 
 There are a few simple rules of thumb that can prove extremely useful
 when making first plans for a wireless network:
 
-\
+ 
 
--   *the****longer****the****wavelength,****the****further****it****goes;*
+-   •the longer the wavelength, the further it goes; 
 
--   *the longer the wavelength, the better it travels through and around
-    things;*
+-   •the longer the wavelength, the better it travels through and around
+    things; 
 
--   *the shorter the wavelength, the more data it can transport.*
+-   •the shorter the wavelength, the more data it can transport. 
 
-\
+ 
 
 All of these rules, simplified as they may be, are rather easy to
 understand by example.
 
-\
+ 
 
-**Longer********waves********travel********further**
+Longer waves travel further
 
 Waves with longer wavelengths tend to travel further than waves with
 shorter wavelengths. As an example, AM radio stations have a much
@@ -1830,15 +1833,15 @@ greater range than FM stations, which use a frequency 100 times higher.
 Lower frequency transmitters tend to reach much greater distances than
 high frequency transmitters at the same power.
 
-\
+ 
 
-**Longer********waves********pass********around********obstacles**
+Longer waves pass around obstacles
 
 A wave on water which is 5 metres long will not be affected by a 5 mm
 piece of wood floating on the water. If instead the piece of wood were
 50 metres big (e.g. a ship), it would modify the behavior of the wave.
 
-\
+ 
 
 The distance a wave can travel depends on the relationship between the
 wavelength of the wave and the size of obstacles in its path of
@@ -1848,7 +1851,7 @@ wavelength (and therefore lower frequency) waves tend to penetrate
 objects better than shorter wavelength (and therefore higher frequency)
 waves.
 
-\
+ 
 
 For example, FM radio (88-108 MHz) can travel through buildings and
 other obstacles easily, while shorter waves (such as GSM phones
@@ -1862,7 +1865,7 @@ wall or even 1 mm of wood - as we all know, from practical experience.
 
 But metal will stop any kind of electromagnetic wave.
 
-**Shorter********waves********can********carry********more********data**
+Shorter waves can carry more data
 
 The faster the wave swings or beats, the more information it can carry -
 every beat or cycle could for example be used to transport a digital
@@ -1872,17 +1875,15 @@ So the data rate scales with bandwidth, and can be further enhanced by
 advanced modulation and media access techniques such as OFDM, and MIMO
 (Multiple Input, Multiple Output).
 
-**The****Huygens Principle**
-----------------------------
+### The Huygens Principle
 
 There is another principle that can be applied to all kinds of waves,
 and which is extremely useful for understanding radio wave propagation.
 
-This principle is known as the ***Huygens************Principl******e***,
-named after Christiaan Huygens, Dutch mathematician, physicist and
-astronomer, 1629 - 1695.
+This principle is known as the Huygens Principle, named after Christiaan
+Huygens, Dutch mathematician, physicist and astronomer, 1629 - 1695.
 
-\
+ 
 
 Imagine you are taking a little stick and dipping it vertically into a
 still lake's surface, causing the water to swing and dance. Waves will
@@ -1892,11 +1893,14 @@ their neighbor particles to do the same: from every point of
 disturbance, a new circular wave will start. This is, in simple form,
 the Huygens principle. In the words of wikipedia.org:
 
-“*The****Huygens'****principle****is****a****method****of****analysis****applied****to****problems****of****wave****propagation****in****the****far****field****limit.****It****recognizes****that****each****point
-of****an****advancing****wave****front****is****in****fact****the****centre****of****a****fresh****disturbance****and****the****source****of****a****new****train****of****waves;****and****that****the****advancing****wave****as
-a****whole****may****be****regarded****as****the****sum****of****all****the****secondary****waves****arising****from****points****in****the****medium****already****traversed”.***
+“The Huygens' principle is a method of analysis applied to problems of
+wave propagation in the far field limit. It recognizes that each point
+of an advancing wave front is in fact the centre of a fresh disturbance
+and the source of a new train of waves; and that the advancing wave as a
+whole may be regarded as the sum of all the secondary waves arising from
+points in the medium already traversed”.
 
-\
+ 
 
 This view of wave propagation helps better understand a variety of wave
 phenomena, such as diffraction.” This principle holds true for radio
@@ -1911,8 +1915,7 @@ corners, with no line of sight.
 Let us now look into what happens to electromagnetic waves as they
 travel.
 
-Absorption
-----------
+### Absorption
 
 When electromagnetic waves go through 'something' (some material), they
 generally get weakened or dampened.
@@ -1927,33 +1930,33 @@ most of the ultraviolet radiation.
 Often, an absorption coefficient is used to describe a material’s impact
 on radiation.
 
-\
+ 
 
 For microwaves, the two main absorbent materials are:
 
-\
+ 
 
-***Meta******l***. Electrons can move freely in metals, and are readily
-able to swing and thus absorb the energy of a passing wave.
+Metal. Electrons can move freely in metals, and are readily able to
+swing and thus absorb the energy of a passing wave.
 
-***Water***. Microwaves cause water molecules to jostle around, thus
-taking away some of the wave’s energy.
+Water. Microwaves cause water molecules to jostle around, thus taking
+away some of the wave’s energy.
 
-\
+ 
 
 For the purpose of practical wireless networking, we may well consider
 metal and water perfect absorbers: we will not be able to go through
 them (although thin layers of water will let some power pass). They are
 to microwave what a brick wall is to light.
 
-\
+ 
 
 When talking about water, we have to remember that it comes in different
 forms: rain, fog and mist, low clouds and so forth, all will be in the
 way of radio links. They have a strong influence, and in many
 circumstances a change in weather can bring a radio link down.
 
-\
+ 
 
 When talking about metal, keep in mind that it may be found in
 unexpected places: it may be hidden in walls (for example, as metal
@@ -1963,7 +1966,7 @@ glass, colored glass).
 However thin the layer of metal, it might be enough to significantly
 absorb a radio wave.
 
-\
+ 
 
 There are other materials that have a more complex effect on radio
 absorption. For trees and wood, the amount of absorption depends on how
@@ -1977,7 +1980,7 @@ of material.
 Lastly, let us talk about ourselves: humans (as well as other animals)
 are largely made out of water.
 
-\
+ 
 
 As far as radio networking is concerned, we may well be described as big
 bags of water, with the same strong absorption.
@@ -1988,8 +1991,7 @@ through many people is a key mistake when building office networks.
 The same goes for hotspots, cafe installations, libraries, and outdoor
 installations.
 
-Reflection
-----------
+### Reflection
 
 Just like visible light, radio waves are reflected when they come in
 contact with materials that are suited for that: for radio waves, the
@@ -1998,17 +2000,17 @@ main sources of reflection are metal and water surfaces.
 The rules for reflection are quite simple: the angle at which a wave
 hits a surface is the same angle at which it gets deflected.
 
-\
+ 
 
 Note that in the eyes of a radio wave, a dense grid of bars acts just
 the same as a solid surface, as long as the distance between bars is
 small compared to the wavelength.
 
-\
+ 
 
 At 2.4 GHz, a one cm metal grid will act much the same as a metal plate.
 
-\
+ 
 
 Although the rules of reflection are quite simple, things can become
 very complicated when you imagine an office interior with many many
@@ -2017,29 +2019,26 @@ small metal objects of various complicated shapes.
 The same goes for urban situations: look around you in city environment
 and try to spot all of the metal objects.
 
-\
-
-This explains why ***multipath************effects*********(i.e. signal
-reaching their target along different paths, and therefore at different
-times) play such an important role in wireless networking.
+This explains why multipath effects (i.e. signal reaching their target
+along different paths, and therefore at different times) play such an
+important role in wireless networking.
 
 Water surfaces, with waves and ripples changing all the time,
 effectively make for a very complicated reflection object which is more
 or less impossible to calculate and predict precisely.
 
-\
+ 
 
-![](RP/RP6.png)\
-\
+![](./RP/RP6.png)
 
-\
+ 
 
-*Figure****RP****6:****Reflection****of****radio****waves.
-The****angle****of****incidence****is****always****equal****to****the****angle****of****reflection.
-A****metal****parabolic****surface****uses
-this****effect****to****concentrate****radio****waves****spread****out****over****it****in****a****common****direction.*
+Figure RP 6: Reflection of radio waves. The angle of incidence is always
+equal to the angle of reflection. A metal parabolic surface uses this
+effect to concentrate radio waves spread out over it in a common
+direction.
 
-\
+ 
 
 We should also add that polarization has an impact: waves of different
 polarization in general will be reflected differently.
@@ -2048,8 +2047,7 @@ We use reflection to our advantage in antenna building: e.g. we put huge
 parabolas behind our radio transmitter/receiver to collect and bundle
 the radio signal into a single point, the focal point.
 
-Diffraction
------------
+### Diffraction
 
 Diffraction is the apparent bending of waves when hitting an object.
 
@@ -2070,14 +2068,15 @@ by a barrier.
 
 When modelled as a wavefront, the phenomenon makes sense.
 
-\
+ 
 
-![](RP/RP7.png)\
-\
+![](./RP/RP7.png)
 
-*Figure****RP****7:****Diffraction****through****a****narrow****slit.*
+ 
 
-\
+Figure RP 7: Diffraction through a narrow slit.
+
+ 
 
 The Huygens Principle provides one model for understanding this
 behavior. Imagine that at any given instant, every point on a wavefront
@@ -2087,14 +2086,15 @@ This idea was later extended by Fresnel, and whether it adequately
 describes the phenomenon is still a matter of debate. But for our
 purposes, the Huygens model describes the effect quite well.
 
-\
+ 
 
-![](RP/RP8.png)\
-\
+![](./RP/RP8.png)
 
-*Figure****RP****8:****The****Huygens****Principle.*
+ 
 
-\
+Figure RP 8: The Huygens Principle.
+
+ 
 
 Through means of the effect of diffraction, waves will “bend” around
 corners or spread through an opening in a barrier.
@@ -2107,20 +2107,20 @@ effects of diffraction when waves hit walls, mountain peaks, and other
 obstacles. It seems as if the obstruction causes the wave to change its
 direction and go around corners.
 
-![](RP/RP9.png)\
-\
+![](./RP/RP9.png)
 
-*Figure****RP****9:****Diffraction****over****a****mountain****top.*
+ 
 
-\
+Figure RP 9: Diffraction over a mountain top.
+
+ 
 
 Note that diffraction comes at the cost of power: the energy of the
 diffracted wave is significantly less than that of the wavefront that
 caused it. But in some very specific applications, you can take
 advantage of the diffraction effect to circumvent obstacles.
 
-Interference
-------------
+### Interference
 
 Interference is one of the most misunderstood terms and phenonema in
 wireless networking.
@@ -2144,24 +2144,25 @@ physicists' view:
 When working with waves, one plus one does not necessarily equal two. It
 can also result in zero.
 
-\
+ 
 
-![](RP/RP10.png)\
-\
+![](./RP/RP10.png)
 
-*Figure****RP****10:****Constructive****and****destructive****interference.*
+ 
 
-\
+Figure RP 10: Constructive and destructive interference.
+
+ 
 
 This is easy to understand when you draw two sine waves and add up the
 amplitudes. When the phase difference is zero, peak hits peak, and you
 will have maximum results (1 + 1 = 2).
 
-This is called ***constructive************interferenc******e***.
+This is called constructive interference.
 
-When the phase difference is 180 degrees, or *λ*/2, peak hits valley,
-and you will have complete annihilation ((1 + (-)1 = 0) -
-***destructive************interferenc******e***.
+When the phase difference is 180 degrees, or λ/2, peak hits valley, and
+you will have complete annihilation ((1 + (-)1 = 0) - destructive
+interference.
 
 You can actually try this with waves on water and two little sticks to
 create circular waves - you will see that where two waves cross, there
@@ -2171,15 +2172,15 @@ other out perfectly, they have to have the exact same wavelength and a
 fixed phase relation.
 
 You can see obvious examples of interference in action when you look at
-the way that antennas are arranged in what are called
-***beamforming***arrays, in order to give maximum constructive
-interference in the directions where you want the signal, and
-destructive interference (no signal) where you want no signal.
+the way that antennas are arranged in what are called beamforming
+arrays, in order to give maximum constructive interference in the
+directions where you want the signal, and destructive interference (no
+signal) where you want no signal.
 
 Technically, this is achieved by a combination of physical dimensioning
 and control of phase shifts.
 
-\
+ 
 
 Simplified, imagine that you have three antennas - and you don't want
 antenna 3 to pick up signal from antenna 1 and 2. You would then place
@@ -2210,14 +2211,12 @@ any impact on the other at all.
 Generally, managing spectrum and coexistence has become a main issue
 especially in dense indoor environments and urban areas.
 
-**Line********of********sight**
--------------------------------
+### Line of sight
 
-The term ***line************of************sigh******t***, often
-abbreviated as ***LO******S***, is quite easy to understand when talking
-about visible light: if we can see a point B from point A where we are,
-we have line of sight. Simply draw a line from A to B, and if nothing is
-in the way, we have line of sight.
+The term line of sight, often abbreviated as LOS, is quite easy to
+understand when talking about visible light: if we can see a point B
+from point A where we are, we have line of sight. Simply draw a line
+from A to B, and if nothing is in the way, we have line of sight.
 
 Things get a bit more complicated when we are dealing with microwaves.
 Remember that most propagation characteristics of electromagnetic waves
@@ -2231,9 +2230,9 @@ wireless networking have a wavelength of a few centimetres.
 Consequently, their beams are a lot wider - they need more space, so to
 speak.
 
-\
+ 
 
-\
+ 
 
 Note that visible light beams widen just the same, and if you let them
 travel long enough, you can see the results despite their short
@@ -2245,25 +2244,24 @@ at the moon, point at a distant mountain or unoccupied structure (such
 as a water tower). The radius of your beam will increase as the distance
 increases. This is due to the diffraction.
 
-\
+ 
 
 The line of sight that we need in order to have an optimal wireless
 connection from A to B is more than just a thin line - its shape is more
 like that of a cigar, an ellipsoid. Its width can be described by the
 concept of Fresnel zones - see next section for an explanation. You will
-also find the abbreviation ***NLO******S***, for "non line of sight",
-which is mostly used to describe and advertise technologies that allow
-for dealing with waves that reach the receiver through multiple
-trajectories (multipath) or diffraction. It does not indicate that the
-single electromagnetic beam goes "around corners" (other than through
+also find the abbreviation NLOS, for "non line of sight", which is
+mostly used to describe and advertise technologies that allow for
+dealing with waves that reach the receiver through multiple trajectories
+(multipath) or diffraction. It does not indicate that the single
+electromagnetic beam goes "around corners" (other than through
 diffraction) or "through obstacles" any better than that of other
 technologies. For example, you might call White Space technology NLOS,
 as its lower frequencies (longer wavelengths) allow it to permeate
 objects and utilize diffraction much better than comparable 2.4 GHz or 5
 GHz transmissions.
 
-**Understanding****the Fresnel****zone**
-----------------------------------------
+### Understanding the Fresnel zone
 
 The exact theory of Fresnel (pronounced “Fray-nell”) zones is quite
 complicated. However, the concept is quite easy to understand: we know
@@ -2287,12 +2285,14 @@ to the received signal. Conversely, when the reflected path length
 exceeds the direct path by more than one half wavelength, its
 contribution will decrease the received power.
 
-![](RP/RP11.png)\
-\
+![](./RP/RP11.png)
 
-*Figure****RP****11:****The****Fresnel****zone****is****partially****blocked****on****this****link,****although****the****visual****line****of****sight****appears****clear.*
+ 
 
-\
+Figure RP 11: The Fresnel zone is partially blocked on this link,
+although the visual line of sight appears clear.
+
+ 
 
 Note that there are many possible Fresnel zones, but we are chiefly
 concerned with the first zone, because the contributions from the second
@@ -2308,34 +2308,38 @@ strictly necessary that the whole of this zone is clear, in wireless
 networking we aim to clear about 60 percent of the radius of the first
 Fresnel zone.
 
-\
+ 
 
 Here is one formula for calculating the radius of the first Fresnel
 zone:
 
-\
+ 
 
-![](WNDW_UsTrade6_master%231.42_html_m291c1263.gif)
+r = 17.31 ( ( d 1 ∗ d 2 ) ( f ∗ d ) )
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAckOAAC8BAAAmAAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAMgOAAC7BAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAHMAAAARAwAAAQBypQAAAAAA//8BAHIAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAQwEAABEDAAABAAAAPQBQAQAAAAD//wEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAIwAAAIcCAAARAwAABQAxNy4zMbgDAAAAAP//BQAxADcALgAzADEAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAKcBAABfBQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAfwYAAGsEAAABAAAAGiLhAAAAAAD//wEAGiKMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAAAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAACnAQAAXwUAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABnAAEAEAAAAGUHAAAXAAAAVg4AACUAAACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABlBwAAEQMAAAEAAAAoAJAAAAAAAP//AQAoAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAADUIAADlAQAAAQAAACgAkAAAAAAA//8BACgAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAADXCAAA5QEAAAEAZNMAAAAAAP//AQBkAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAAD9AAAAAAADAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA1QkAAEECAAABADF+AAAAAAD//wEAMQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABICgAA5QEAAAEAAAAXIjIBAAAAAP//AQAXIowAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAdQsAAOUBAAABAGTTAAAAAAD//wEAZACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAIoMAABBAgAAAQAyfgAAAAAA//8BADIAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAFA0AAOUBAAABAAAAKQCQAAAAAAD//wEAKQCMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAAAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABnAAEAEAAAAB4IAACeAgAAqg0AALICAACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAACSCAAAPQQAAAEAAAAoAJAAAAAAAP//AQAoAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAkAkAAD0EAAABAGZ2AAAAAAD//wEAZgCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABfCgAAPQQAAAEAAAAXIjIBAAAAAP//AQAXIowAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAowsAAD0EAAABAGTTAAAAAAD//wEAZACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAChDAAAPQQAAAEAAAApAJAAAAAAAP//AQApAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAM0NAAARAwAAAQAAACkAkAAAAAAA//8BACkAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=)
 
-\
+ 
 
-...where r is the radius of the zone in metres, d~1~ and d~2~ are
-distances from the obstacle to the link end points in metres, d is the
-total link distance in metres, and f is the frequency in MHz.
+...where r is the radius of the zone in metres, d1 and d2 are distances
+from the obstacle to the link end points in metres, d is the total link
+distance in metres, and f is the frequency in MHz.
 
 The first Fresnel zone radius can also be calculated directly from the
 wavelength as:
 
-*![](WNDW_UsTrade6_master%231.42_html_49eee717.gif)*
+                        r = ( λ ∗ d 1 ∗ d 2 d )
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAb0LAACEBAAAdQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAALwLAACDBAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAAAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAHMAAAARAwAAAQBypQAAAAAA//8BAHIAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAQwEAABEDAAABAAAAPQBQAQAAAAD//wEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAApwEAAC0FAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAACeAgAAPQQAAAEAAAAaIuEAAAAAAP//AQAaIowAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGEAAEABQAAAAAAAAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAKcBAAAtBQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcAAQAQAAAAhQMAABcAAABLCwAAJQAAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAIUDAAARAwAAAQAAACgAkAAAAAAA//8BACgAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAKcBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABgAAACDBAAAzgEAAAIAzru3AAAAAAD//wEAuwOMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAAkBQAAzgEAAAEAAAAXIjIBAAAAAP//AQAXIowAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAACnAQAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAZwYAAM4BAAABAGTTAAAAAAD//wEAZACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAA/QAAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAGUHAABBAgAAAQAxfgAAAAAA//8BADEAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA2QcAAM4BAAABAAAAFyIyAQAAAAD//wEAFyKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAAAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAAUJAADOAQAAAQBk0wAAAAAA//8BAGQAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAP0AAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAADCgAAQQIAAAEAMn4AAAAAAP//AQAyAIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGEAAEABQAAAAAAAAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcAAQAQAAAAPQQAAIcCAACeCgAAmwIAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAACnAQAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA8gYAACYEAAABAGTTAAAAAAD//wEAZACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAADTCgAAEQMAAAEAAAApAJAAAAAAAP//AQApAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
 
-*with****all****the****variables****in****metres*
+ 
 
-\
+with all the variables in metres
+
+ 
 
 It is apparent that the maximum value of the first Fresnel zone happens
 exactly in the middle of the trajectory and its value can be found
-setting d~1~=d~2~=d/2 in the preceding formulas. Note that the formulae
-give you the radius of the zone, not the height above ground.
+setting d1=d2=d/2 in the preceding formulas. Note that the formulae give
+you the radius of the zone, not the height above ground.
 
 To calculate the height above ground, you need to subtract the result
 from a line drawn directly between the tops of the two towers.
@@ -2343,19 +2347,21 @@ from a line drawn directly between the tops of the two towers.
 For example, let’s calculate the size of the first Fresnel zone in the
 middle of a 2 km link, transmitting at 2.437 GHz (802.11b channel 6):
 
-\
+ 
 
-*![](WNDW_UsTrade6_master%231.42_html_m58992617.gif)*
+                        r = 17.31 [ ( 1000 ∗ 1000 ) ( 2437 ∗ 2000 ) ]
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUISAACZBAAAigAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAEESAACYBAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAAAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAHMAAAD6AgAAAQBypQAAAAAA//8BAHIAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAQwEAAPoCAAABAAAAPQBQAQAAAAD//wEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAIwAAAIcCAAD6AgAABQAxNy4zMbgDAAAAAP//BQAxADcALgAzADEAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAKcBAAA0BQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAfwYAAD0EAAABAAAAGiLhAAAAAAD//wEAGiKMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAAAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAACnAQAANAUAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABnAAEAEAAAAGUHAAAXAAAA0REAACUAAACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAB9BwAA+gIAAAEAAABbAHcAAAAAAP//AQBbAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAADUIAADlAQAAAQAAACgAkAAAAAAA//8BACgAjAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAKcBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACACAAAADXCAAA5QEAAAQAMTAwME4DAAAAAP//BAAxADAAMAAwAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAABYMAADlAQAAAQAAABciMgEAAAAA//8BABcijAABAAAAAACLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5ldyBSb21hbgAAAAAAAKcBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACACAAAAArDQAA5QEAAAQAMTAwME4DAAAAAP//BAAxADAAMAAwAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAJkQAADlAQAAAQAAACkAkAAAAAAA//8BACkAjAABAAAAAACLAAEAAgAAAB8AhQABAAUAAAAAAAAAAYQAAQAFAAAAAAAAAACKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAZwABABAAAAAeCAAAbwIAAD4RAACDAgAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAHggAACYEAAABAAAAKACQAAAAAAD//wEAKACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAIAAAANcIAAAmBAAABAAyNDM3TgMAAAAA//8EADIANAAzADcAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAFgwAACYEAAABAAAAFyIyAQAAAAD//wEAFyKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApwEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAIAAAAEINAAAmBAAABAAyMDAwTgMAAAAA//8EADIAMAAwADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAmRAAACYEAAABAAAAKQCQAAAAAAD//wEAKQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABpEQAA+gIAAAEAAABdAHcAAAAAAP//AQBdAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA)
 
-\
+ 
 
-*![](WNDW_UsTrade6_master%231.42_html_65273569.gif)*
+                        r = 17.31 ( 1000000 4874000 )
+![](data:image/*;base64,VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAATgPAAA9BAAAUgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADcPAAA8BAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApgEAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAHMAAADMAgAAAQBypAAAAAAA//8BAHIAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAALAEAAMwCAAABAAAAPQBPAQAAAAD//wEAPQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApgEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAIwAAAIcCAADMAgAABQAxNy4zMbYDAAAAAP//BQAxADcALgAzADEAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAKYBAADVBAAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAfwYAAPgDAAABAAAAGiLhAAAAAAD//wEAGiKMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAAAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAACmAQAA1QQAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABnAAEAEAAAAGUHAAAXAAAAxg4AACUAAACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABlBwAAzAIAAAEAAAAoAI8AAAAAAP//AQAoAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9tYW4AAAAAAACmAQAAAAADAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgApAAAANQgAAM4BAAAHADEwMDAwMDDFBQAAAAD//wcAMQAwADAAMAAwADAAMACMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAAAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAABnAAEAEAAAAB4IAABBAgAAHA4AAFUCAACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQQAAAAMAOwAAAA8AVGltZXMgTmV3IFJvbWFuAAAAAAAApgEAAAAAAwAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAKQAAAEwIAADhAwAABwA0ODc0MDAwxQUAAAAA//8HADQAOAA3ADQAMAAwADAAjAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAQA4AAMwCAAABAAAAKQCPAAAAAAD//wEAKQCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==)
 
-\
+ 
 
-*r****=***7.84 metres
+                          r = 7.84 metres
 
-\
+ 
 
 Assuming both of our towers were ten metres tall, the first Fresnel zone
 would pass just 2.16 metres above ground level in the middle of the
@@ -2364,13 +2370,11 @@ link.
 But how tall could a structure at that point be to block no more than
 60% of the first zone?
 
-\
+                          r = 0.6 \* 7.84 metres
 
-*r****=****0.6****\*****7.84****metres*
+                          r = 4.70 metres
 
-*r****=****4.70****metres*
-
-\
+ 
 
 Subtracting the result from 10 metres, we can see that a structure 5.3
 metres tall at the centre of the link would block up to 40% of the first
@@ -2380,24 +2384,22 @@ This is normally acceptable, but to improve the situation we would need
 to position our antennas higher up, or change the direction of the link
 to avoid the obstacle.
 
-Power
------
+### Power
 
 Any electromagnetic wave carries energy - we can feel that when we enjoy
 (or suffer from) the warmth of the sun.
 
 The amount of energy divided by the time during which we measure it is
-called power. The power ***P***is measured in W****(watts) and is of key
+called power. The power P is measured in W (watts) and is of key
 importance for a wireless links to work: you need a certain minimum
 power in order for a receiver to make sense of the signal.
 
-\
+ 
 
 We will come back to details of transmission power, losses, gains and
-radio sensitivity in the chapter called
-*Antennas/Transmission****Lines.*
+radio sensitivity in the chapter called Antennas/Transmission Lines.
 
-\
+ 
 
 Here we will briefly discuss how the power P is defined and measured.
 
@@ -2405,11 +2407,11 @@ The electric field is measured in V/m (potential difference per metre),
 the power contained within it is proportional to the square of the
 electric field:
 
-\
+ 
 
-*P****\~****E*^*2*^
+P \~ E2
 
-\
+ 
 
 Practically, we measure the power in watts by means of some form of
 receiver, e.g. an antenna and a voltmetre, power metre, oscilloscope,
@@ -2418,28 +2420,28 @@ spectrum analyser or even a radio card and laptop.
 Looking at the signal’s power directly means looking at the square of
 the signal in volts and dividing by the electrical resistance.
 
-\
+ 
 
-**Calculating********with********dB**
+Calculating with dB
 
-\
+ 
 
 By far the most important technique when calculating power is
 calculating with decibels (dB). There is no new physics hidden in this -
 it is just a convenient method which makes calculations a lot simpler.
 
-\
+ 
 
 The decibel is a dimensionless unit, that is, it defines a relationship
 between two measurements of power. It is defined by:
 
-\
+ 
 
-*dB****=****10****\*****Log****(P*~*1*~***/****P*~*0*~*)*
+dB = 10 \* Log (P1 / P0)
 
-\
+ 
 
-where P~1~ and P~0~ can be whatever two values you want to compare.
+where P1 and P0 can be whatever two values you want to compare.
 Typically, in our case, this will be some amount of power.
 
 Why are decibels so handy to use? Many phenomena in nature happen to
@@ -2448,68 +2450,67 @@ behave in a way we call exponential.
 For example, the human ear senses a sound to be twice as loud as another
 one if it has ten times the physical signal power.
 
-\
+ 
 
 Another example, quite close to our field of interest, is absorption.
 Suppose a wall is in the path of our wireless link, and each metre of
 wall takes away half of the available signal. The result would be:
 
-\
+ 
 
-*0****metres****=****1****(full****signal)*
+                        0 metres = 1 (full signal)
 
-*1****metre =****1/2*
+                        1 metre  = 1/2
 
-*2****metres****=****1/4*
+                        2 metres = 1/4
 
-*3****metres****=****1/8*
+                        3 metres = 1/8
 
-*4****metres****=****1/16*
+                        4 metres = 1/16
 
-*n****metres****=**1/2*^*n*^*=****2*^*-n*^
+                        n metres = 1/2n = 2-n
 
-\
+ 
 
 This is exponential behaviour.
 
-\
+ 
 
 But once we have used the trick of applying the logarithm (log), things
 become a lot easier: instead of taking a value to the n-th power, we
 just multiply by n. Instead of multiplying values, we just add.
 
-\
+ 
 
 Here are some commonly used values that are important to remember:
 
-\
+ 
 
-*+3****dB =****double****power*
+                         +3 dB = double power
 
-*-**3****dB =****half****the****power*
+                          -3 dB = half the power
 
-*+10****dB****=****order****of****magnitude****(10****times****power)*
+                        +10 dB = order of magnitude (10 times power)
 
-*-**10****dB =****one****tenth****power*
+                        -10 dB = one tenth power
 
-\
+ 
 
 In addition to dimensionless dB, there are a number of definitions that
-are based on a certain base value P~0~. The most relevant ones for us
-are:
+are based on a certain base value P0. The most relevant ones for us are:
 
-\
+ 
 
-*dBm****relative****to****P*~*0*~***=****1****mW*
+                dBm relative to P0 = 1 mW
 
-*dBi****relative****to****an****ideal****isotropic****antenna*
+                dBi relative to an ideal isotropic antenna
 
-\
+ 
 
 An isotropic antenna is a hypothetical antenna that evenly distributes
 power in all directions.
 
-\
+ 
 
 It is approximated by a dipole, but a perfect isotropic antenna cannot
 be built in reality. The isotropic model is useful for describing the
@@ -2519,25 +2520,24 @@ Another common (although less convenient) convention for expressing
 power is in milliwatts. Here are equivalent power levels expressed in
 milliwatts and dBm:
 
-\
+ 
 
-*1 mW = 0****dBm*
+                        1 mW =  0 dBm
 
-*2 mW = 3****dBm*
+                        2 mW =  3 dBm
 
-*100****mW =****20****dBm*
+                        100 mW = 20 dBm
 
-*1****W =****30****dBm*
+                          1 W = 30 dBm
 
-\
+ 
 
 For more details on dB refer to the dB math lecture of the Wireless
 Training kit:
 http://wtkit.org/sandbox/groups/wtkit/wiki/820cb/attachments/ebdac/02
 -dB\_Math-v1.12\_with-notes.pdf
 
-**Physics********in********the********real********world**
----------------------------------------------------------
+### Physics in the real world
 
 Don’t worry if the concepts in this chapter seem challenging.
 Understanding how radio waves propagate and interact with the
@@ -2553,17 +2553,15 @@ To make reliable communication networks, you will need to be able to
 calculate how much power is needed to cross a given distance, and
 predict how the waves will travel along the way.
 
-**2. TELECOMMUNICATIONS********BASICS**
-=======================================
+2. TELECOMMUNICATIONS BASICS
+----------------------------
 
-\
-\
+ 
 
-The purpose of any telecommunications system is to transfer
-*information***from the sender to the receiver by a means of a
-communication *channe**l*.
+The purpose of any telecommunications system is to transfer information
+from the sender to the receiver by a means of a communication channel.
 
-The information is carried by a *signa**l*, which is certain physical
+The information is carried by a signal, which is certain physical
 quantity that changes with time.
 
 The signal can be a voltage proportional to the amplitude of the voice,
@@ -2573,27 +2571,27 @@ fibre, or a radio-electric wave irradiated by an antenna.
 For analog signals, these variations are directly proportional to some
 physical variable like sound, light, temperature, wind speed, etc. The
 information can also be transmitted by digital binary signals, that will
-have only two values, a digital ***one*********and a digital
-***zer******o***. Any analog signal can be converted into a digital
-signal by appropriately ***sampling*********and then coding it. The
-sampling frequency must be at least twice the maximum frequency present
-in the signal in order to carry ***all*********the information contained
-therein. Random signals are the ones that are unpredictable and can be
-described only by statistical means.
+have only two values, a digital one and a digital zero. Any analog
+signal can be converted into a digital signal by appropriately sampling
+and then coding it. The sampling frequency must be at least twice the
+maximum frequency present in the signal in order to carry all the
+information contained therein. Random signals are the ones that are
+unpredictable and can be described only by statistical means.
 
 Noise is a typical random signal, described by its mean power and
 frequency distribution. A signal can be characterised by its behaviour
 over time or by its frequency components, which constitute its spectrum.
 Some examples of signals are shown in Figure TB 1.
 
-\
+ 
 
-![](TB/TB1.png)\
-\
+![](./TB/TB1.png)
 
-*Figure****TB****1:****Examples****of****signals*
+ 
 
-\
+Figure TB 1: Examples of signals
+
+ 
 
 Any periodic signal is composed of many sinusoidal components, all of
 them multiples of the fundamental frequency, which is the inverse of the
@@ -2601,10 +2599,11 @@ period of the signal. So a signal can be characterised either by a graph
 of its amplitude over time, called a waveform, or a graph of of the
 amplitudes of its frequency components, called a spectrum.
 
-![](TB/TB2.png)\
-*Figure****TB****2:****Waveforms,****Spectrum****and****filters*
+![](./TB/TB2.png)
 
-\
+Figure TB 2: Waveforms, Spectrum and filters
+
+ 
 
 Figure TB 2 shows how the same signal can be seen from two different
 perspectives. The waveform can be displayed by an instrument called an
@@ -2613,66 +2612,63 @@ Spectrum Analyzer. The spectrum distribution relays very important
 information about the signal and allows for the intuitive understanding
 of the concept of filtering of electrical signals. In the example shown,
 the signal is formed by the superposition of three sinusoidal components
-of frequency f~1~, f~2~ and f~3~. If we pass this signal through a
-device that will remove f~2~ and f~3~, the output is a pure sinusoidal
-at frequency f~1~.
+of frequency f1, f2 and f3. If we pass this signal through a device that
+will remove f2 and f3, the output is a pure sinusoidal at frequency f1.
 
-We call this operation “**Low********Pass********filterin****g**”
-because it removes the higher frequencies. Conversely, we can apply the
-signal to a “**High********Pass********Filte****r**”, a device that will
-remove f~1~ and f~2~ leaving only a sinusoidal signal at the f~3~
-frequency.
+We call this operation “Low Pass filtering” because it removes the
+higher frequencies. Conversely, we can apply the signal to a “High Pass
+Filter”, a device that will remove f1 and f2 leaving only a sinusoidal
+signal at the f3 frequency.
 
 Other combinations are possible, giving rise to a variety of filters. No
 physical device can transmit all the infinite frequencies of the
 radio-electric spectrum, so every device will always perform some extent
 of filtering to the signal that goes through it.
 
-The ***bandwidth*********of a signal is the difference between the
-highest and the lowest frequency that it contains and is expressed in Hz
-(number of cycles per second).
+The bandwidth of a signal is the difference between the highest and the
+lowest frequency that it contains and is expressed in Hz (number of
+cycles per second).
 
 While travelling through the communication channel, the signal is
-subject to *interference*caused by other signals and is also affected by
-the electrical *noise***always present in any electrical or optical
-component. ***Intr******a******-channel*********interference originates
-in the same channel as our signal.
-***C******o******-******channel*********interference is due to the
-imperfection of the filters that will let in signals from adjacent
-channels.
+subject to interference caused by other signals and is also affected by
+the electrical noise always present in any electrical or optical
+component. Intra-channel interference originates in the same channel as
+our signal. Co-channel interference is due to the imperfection of the
+filters that will let in signals from adjacent channels.
 
 Consequently, the received signal will always be a distorted replica of
 the transmitted signal, from which the original information must be
 retrieved by appropriate means to combat the effect of interference and
-noise. Furthermore, the received signal will be subject to
-*attenuation*and *delay***that increase with the distance between the
-transmitter and the receiver.
+noise. Furthermore, the received signal will be subject to attenuation
+and delay that increase with the distance between the transmitter and
+the receiver.
 
-![](TB/TB3.png)\
-*Figure****TB****3:****Attenuation****and****delay*
+![](./TB/TB3.png)
 
-\
+Figure TB 3: Attenuation and delay
+
+ 
 
 Although it is relatively simple to restore the amplitude of signal by
-means of an electrical *amplifie**r*, the components of the amplifier
-will add additional noise to the signal, so at very long distances where
-the received signal is feeble, the amplifier will produce a signal so
+means of an electrical amplifier, the components of the amplifier will
+add additional noise to the signal, so at very long distances where the
+received signal is feeble, the amplifier will produce a signal so
 garbled with noise that the information originally transmitted will no
 longer be retrievable.
 
-\
+ 
 
 One way to address this problem consists in converting the continuous
-quantity carrying the information into a sequence of very simple
-*symbols*which can be easier to recognise even at great distance. For
-instance, the flag of a ship is a convenient way to distinguish the
-nationality of the ship even at distances at which the letters on the
-hull cannot be read.
+quantity carrying the information into a sequence of very simple symbols
+which can be easier to recognise even at great distance. For instance,
+the flag of a ship is a convenient way to distinguish the nationality of
+the ship even at distances at which the letters on the hull cannot be
+read.
 
 This technique has been extended to carry generalised messages by
 assigning different position of flags to every letter of the alphabet,
-in an early form of long distance telecommunications by means of
-*digital***or *numeric***signals.
+in an early form of long distance telecommunications by means of digital
+or numeric signals.
 
 The limitation of this method is obvious; to be able to distinguish
 among, say, 26 symbols corresponding to each letters of the alphabet,
@@ -2683,39 +2679,39 @@ of only two symbols, these symbols can be distinguished at much longer
 distance, for example the dot and dashes of the telegraph system.
 
 The process of transforming a continuous analog signal into a
-discontinuous digital one is called Analog to Digital Conversion
-(**AD****C**), and conversely we must have a Digital to Analog Converter
-(**DA****C**) at the receiving end to retrieve the original information.
+discontinuous digital one is called Analog to Digital Conversion (ADC),
+and conversely we must have a Digital to Analog Converter (DAC) at the
+receiving end to retrieve the original information.
 
 This is the reason why most modern telecommunication systems use digital
 binary signals to convey all sorts of information in a more robust way.
 The receiver must only distinguish between two possible symbols, or in
-other words between two possible values of the received
-*bit*(***b******i*****nary********di****g*****i******t****).***For
-instance, the CD has replaced the vinyl record, and analogue television
-is being replaced by digital television. Digital signals can use less
-bandwidth, as exemplified by the “***digital************dividend***”
-currently being harnessed in many countries which consists in bandwidth
-that has become available thanks to the transition from analog to
-digital transmission in TV broadcasting.
+other words between two possible values of the received bit (binary
+digit). For instance, the CD has replaced the vinyl record, and analogue
+television is being replaced by digital television. Digital signals can
+use less bandwidth, as exemplified by the “digital dividend” currently
+being harnessed in many countries which consists in bandwidth that has
+become available thanks to the transition from analog to digital
+transmission in TV broadcasting.
 
 Although in the process of converting from an analog to a digital
 information system there is always some loss of information, we can
 engineer the system so as to make this loss negligible.
 
-\
+ 
 
-![](TB/TB4.png)\
-*Figure****TB****4:****Undersampled****Image*
+![](./TB/TB4.png)
 
-\
+Figure TB 4: Undersampled Image
+
+ 
 
 For example, in a digital camera we can choose the number of bits used
 to record the image.
 
 The greater the number of bits (proportional to the amount of
-*megapixel**s*), the better the rendering, but more memory will be used
-and longer time to transmit the image will be needed.
+megapixels), the better the rendering, but more memory will be used and
+longer time to transmit the image will be needed.
 
 So most modern communication systems deal with digital signals, although
 the original variable that we want to transmit might be analog, like the
@@ -2723,14 +2719,15 @@ voice. It can be shown that any analog signal can be reconstructed from
 discrete samples if the sampling rate is at least twice as high as the
 highest frequency content of the signal.
 
-\
+ 
 
-![](TB/TB5.png)\
-\
+![](./TB/TB5.png)
 
-*Figure****TB****5:****detection****of****a****noisy****signal*
+ 
 
-\
+Figure TB 5: detection of a noisy signal
+
+ 
 
 Then each sample is coded in as many bits as necessary to achieve the
 desired amount of precision.
@@ -2739,21 +2736,20 @@ These bits can now be efficiently stored or transmitted, since for the
 recovery of the information one needs to distinguish among only two
 states, and not among the infinite nuances of an analog signal.
 
-\
+ 
 
-This is shown in Figure TB 5, where the original data consists of the
-**0********1********0********1********1********1********0******sequence.
-The **0's******are represented as zero volts and the **1's**as 1 V. As
-the signal moves towards the receiver, its amplitude will diminish. This
-effect is called "attenuation" and is shown in the figure. Likewise,
-there will also be a delay as the signal moves from the transmitter to
-the receiver, the variability in the delay of the received signal is
-called ***jitte******r***. Attenuation, noise or jitter (or their
+This is shown in Figure TB 5, where the original data consists of the 0
+1 0 1 1 1 0 sequence. The 0's are represented as zero volts and the 1's
+as 1 V. As the signal moves towards the receiver, its amplitude will
+diminish. This effect is called "attenuation" and is shown in the
+figure. Likewise, there will also be a delay as the signal moves from
+the transmitter to the receiver, the variability in the delay of the
+received signal is called jitter. Attenuation, noise or jitter (or their
 combination) if severe enough, can cause a detection error. An amplifier
 can be used to overcome the attenuation, but the electrical noise always
 present in the system will add to the received signal.
 
-\
+ 
 
 The noisy received signal is therefore quite different from the original
 signal, but in a digital system we can still recover the information
@@ -2761,16 +2757,15 @@ contained by sampling the received signal at the correct time and
 comparing the value at the sampling time with a suitable threshold
 voltage. In this example the noise received signal has a peak of 1.8 V,
 so we might choose e threshold voltage of 1.1 V. If the received signal
-is above the threshold, the detector will output a digital **1**,
-otherwise, it will output a **0**. In this case we can see that because
-of the effect of the noise the fifth bit was erroneously detected as a
-zero.
+is above the threshold, the detector will output a digital 1, otherwise,
+it will output a 0. In this case we can see that because of the effect
+of the noise the fifth bit was erroneously detected as a zero.
 
-\
+ 
 
 Transmission errors can also occur if the sampling signal period is
 different from that of the original data (difference in the clock
-rates), or if the receiver clock is not stable enough (*jitte**r*).
+rates), or if the receiver clock is not stable enough (jitter).
 
 Any physical system will have an upper limit in the frequencies that
 will transmit faithfully (the bandwidth of the system), higher
@@ -2782,8 +2777,7 @@ enough bandwidth to handle the signal. On the other hand, the greater
 the bandwidth of the receiver system, the greater the amount of the
 noise that will affect the received signal.
 
-Modulation
-----------
+### Modulation
 
 The robustness of the digital signal is also exemplified by the fact
 that it was chosen for the first trials of radio transmission. Marconi
@@ -2791,143 +2785,136 @@ showed the feasibility of long distance transmission, but pretty soon
 realised that there was a need to share the medium among different
 users.
 
-\
+ 
 
-This was achieved by assigning different *carrier***frequencies which
-were *modulated***by each user’s *messag**e*. *Modulation***is a scheme
-to modify the *amplitude*, *frequency***or *phase***of the carrier
-according with the information one wants to transmit. The original
-information is retrieved at destination by the corresponding
-demodulation of the received signal.
+This was achieved by assigning different carrier frequencies which were
+modulated by each user’s message. Modulation is a scheme to modify the
+amplitude, frequency or phase of the carrier according with the
+information one wants to transmit. The original information is retrieved
+at destination by the corresponding demodulation of the received signal.
 
-\
+ 
 
-![](TB/TB6.png)\
-\
+![](./TB/TB6.png)
 
-\
+ 
 
-*Figure****TB****6:****Sinusoidal****Carrier****Signal*
+Figure TB 6: Sinusoidal Carrier Signal
 
-\
+ 
 
-Figure TB 6 shows a carrier signal with Amplitude **A**, phase **θ**,
-and frequency **f**~**o**~****which is the reciprocal of the period
-**T**.
+Figure TB 6 shows a carrier signal with Amplitude A, phase θ, and
+frequency fo which is the reciprocal of the period T.
 
-\
+ 
 
 The combination of different modulation schemes has resulted in a
 plethora of modulation techniques depending on which aspect one wants to
 optimise: robustness against noise, amount of information transmitted
-per second (*capacity***of the link in bits/second) or
-*spectral****efficiency*(number of bits/s per Hertz).
+per second (capacity of the link in bits/second) or spectral efficiency
+(number of bits/s per Hertz).
 
-\
+ 
 
-For instance, **BPSK******-Binary Phase Shift Keying- is a very robust
-modulation technique but transmits only one bit per symbol, while
-**256********QAM******-Quaternary Amplitude Modulation- will carry 8
-bits per symbol, thus multiplying by a factor of eight the amount of
-information transmitted per second, but to correctly distinguish amongst
-the 256 symbols transmitted, the received signal must be very strong as
-compared with the noise (a very high **S/N******-Signal/Noise ratio- is
-required).
+For instance, BPSK -Binary Phase Shift Keying- is a very robust
+modulation technique but transmits only one bit per symbol, while 256
+QAM -Quaternary Amplitude Modulation- will carry 8 bits per symbol, thus
+multiplying by a factor of eight the amount of information transmitted
+per second, but to correctly distinguish amongst the 256 symbols
+transmitted, the received signal must be very strong as compared with
+the noise (a very high S/N -Signal/Noise ratio- is required).
 
-The ultimate measure of quality in digital transmission is the
-**BER******-Bit Error Rate- which corresponds to the fraction of
-erroneously decoded bits. Typical values of BER range between 10^-^^3^
-and 10^-^^9^.
+The ultimate measure of quality in digital transmission is the BER -Bit
+Error Rate- which corresponds to the fraction of erroneously decoded
+bits. Typical values of BER range between 10-3 and 10-9.
 
 The modulation also allows us to choose which range of frequency we want
 to use for a given transmission. All frequencies are not created equal
 and the choice of the carrier frequency is determined by legal,
 commercial and technical constraints.
 
-**Multiplexing********and********duplexing**
---------------------------------------------
+### Multiplexing and duplexing
 
 In general, the sharing of a channel among different users is called
-*multiplexin**g*.
+multiplexing.
 
 This is shown in Figure TB 7.
 
-\
+ 
 
-![](TB/TB7.png)\
-*Figure****TB****7:****Multiplexing*
+![](./TB/TB7.png)
 
-\
+Figure TB 7: Multiplexing
+
+ 
 
 Assigning different carrier frequencies to different users is called
-**FDMA******-Frequency Division Multiple Access-.
+FDMA -Frequency Division Multiple Access-.
 
-\
+ 
 
-An alternative technique consists in assigning different
-*time****slots***to different users, in what is known as
-**TDMA******-Time Division Multiple Access-, or even different codes in
-**CDMA******-Code Division Multiple Access- where the different users
-are recognised at the receiver by the particular mathematical code
-assigned to them. See Figure TB 8.
+An alternative technique consists in assigning different time slots to
+different users, in what is known as TDMA -Time Division Multiple
+Access-, or even different codes in CDMA -Code Division Multiple Access-
+where the different users are recognised at the receiver by the
+particular mathematical code assigned to them. See Figure TB 8.
 
 By using two or more antennas simultaneously, one can take advantage of
 the different amount of fading introduced in the different paths to the
-receiver establishing a difference among users in what is known as
-**SDMA******- Space Division Multiple Access-, a technique employed in
-the **MIMO******-Multiple Input,Multiple Output- systems that have
-gained popularity recently.
+receiver establishing a difference among users in what is known as SDMA
+- Space Division Multiple Access-, a technique employed in the MIMO
+-Multiple Input,Multiple Output- systems that have gained popularity
+recently.
 
-\
+ 
 
-![](TB/TB8.png)\
-\
+![](./TB/TB8.png)
 
-*Figure****TB****8:****Medium****Sharing****techniques*
+ 
 
-\
+Figure TB 8: Medium Sharing techniques
+
+ 
 
 Most communication systems transmit information in both directions, for
 instance from the Base Station to the subscriber in what is called the
-***downlin******k***, and from the subscriber to the base station in the
-***uplin******k***.
+downlink, and from the subscriber to the base station in the uplink.
 
 To accomplish this, the channel must be shared between the two
-directions giving rise respectively to **FDD******-Frequency Division
-Duplexing- and **TDD******-Time Division Duplexing-.
+directions giving rise respectively to FDD -Frequency Division
+Duplexing- and TDD -Time Division Duplexing-.
 
-Conclusions
------------
+### Conclusions
 
 The communication system must overcome the noise and interference to
 deliver a suitable replica of the signal to the receiver.
 
-\
+ 
 
 The capacity of the communication channel in bits/second is proportional
 to the bandwidth in Hz and to the logarithm of the S/N ratio.
 
-\
+ 
 
 Modulation is used to adapt the signal to the channel and to allow
 several signals to share the same channel. Higher order modulation
 schemes allow for a higher transmission rate, but require higher S/N
 ratio.
 
-\
+ 
 
 The channel can be shared by several users that occupy different
 frequencies, different time slots, different codes or by taking
 advantage of different propagation characteristics in what is called
 spatial multiplexing.
 
-\
+ 
 
 For more information and slides covering this topic please visit
 [http://wtkit.org/groups/wtkit/wiki/820cb/download\_page.html](http://wtkit.org/groups/wtkit/wiki/820cb/download_page.html)
 
-**3. LICENSING********AND********REGULATION**
-=============================================
+3. LICENSING AND REGULATION
+---------------------------
 
 There are a number of areas where national and international laws and
 regulations can influence your ability to set up wireless networks.
@@ -2950,8 +2937,7 @@ committing time and resources to building a wireless network. Whatever
 you do, it is important you take local laws and regulations into
 consideration.
 
-**Examples********of********relevant********types********of********regulation**
--------------------------------------------------------------------------------
+### Examples of relevant types of regulation
 
 Each country may have different rules, and each scenario may come across
 different types of regulations. The areas where regulations may be
@@ -2960,28 +2946,28 @@ regarding the right to install towers for antennas, the maximum power
 allowed and telecom licensing rules limiting your ability to provide
 Internet access to others.
 
-\
+ 
 
 The types of legal issues that may (or may not) be worth considering
 when planning a wireless network include:
 
-\
+ 
 
--   Spectrum Licensing
+-   •Spectrum Licensing 
 
--   ISP/Telecommunications Licenses
+-   •ISP/Telecommunications Licenses 
 
--   Tower permits for antennas
+-   •Tower permits for antennas 
 
--   Transmission power and antenna gain limits
+-   •Transmission power and antenna gain limits 
 
--   Certification of equipment
+-   •Certification of equipment 
 
--   ISP Terms of Use
+-   •ISP Terms of Use 
 
-\
+ 
 
-**Spectrum********Licensing**
+Spectrum Licensing
 
 Most countries consider RF spectrum as an exclusive property of the
 state. The RF spectrum is a national resource, much like water, land,
@@ -3006,9 +2992,9 @@ regulate its telecommunication and to interpret the international Radio
 Regulations. Governments define the rules and conditions of the
 frequency use.
 
-(*From:****Wikipedia****"Spectrum****Management**"*)
+(From: Wikipedia "Spectrum Management")
 
-\
+ 
 
 The technologies described in this book (mostly) use a license-exempt
 slice of the spectrum referred to as the ISM (Industrial, Scientific and
@@ -3030,26 +3016,26 @@ unlicensed spread spectrum available in the ISM bands in rules adopted
 on May 9, 1985. Many other countries later adopted these FCC
 regulations, enabling use of this technology in many countries.
 
-(*From:****Wikipedia****"ISM****Band**"*)
+(From: Wikipedia "ISM Band")
 
-**ISP/Telecommunications********Licenses**
+ISP/Telecommunications Licenses
 
 In some countries an ISP license would be required before deploying any
 network infrastructure for sharing networks over public spaces. In other
 countries this would only be required to run commercial networks.
 
-\
+ 
 
-**Tower********permits********for********antennas**
+Tower permits for antennas
 
 When deploying long-range outdoor networks, it is often necessary to
 build a tower for the antenna. Many countries have regulations regarding
 the building of such antenna-towers if they are more than 5 or 10 metres
 above the roof or ground.
 
-\
+ 
 
-**Transmission********Power********limits**
+Transmission Power limits
 
 When setting transmission power limits, regulatory agencies generally
 use the Equivalent Isotropically Radiated Power (EIRP), as this is the
@@ -3066,25 +3052,25 @@ the link a PtMP link. In the setup of a 2.4 GHz PtMP link, the FCC
 limits the EIRP to 4 Watts and the power limit set for the intentional
 radiator is 1 Watt.
 
-\
+ 
 
 Things are more complicated in the 5 Ghz band. The Unlicensed National
 Information Infrastructure (U-NII) radio band is part of the radio
 frequency spectrum used by IEEE-802.11a devices and by many wireless
 ISPs. It operates over three ranges:
 
-\
+ 
 
-U-NII Low (U-NII-1): 5.15-5.25 GHz. Regulations require use of an
-integrated antenna. Power limited to 50 mW.
+        U-NII Low (U-NII-1): 5.15-5.25 GHz. Regulations require use of
+an integrated antenna. Power limited to 50 mW.
 
-U-NII Mid (U-NII-2): 5.25-5.35 GHz. Regulations allow for a
+        U-NII Mid (U-NII-2): 5.25-5.35 GHz. Regulations allow for a
 user-installable antenna, subject to Dynamic Frequency Selection (DFS,
 or radar avoidance). Power limited to 250 mW.
 
-U-NII Worldwide: 5.47-5.725 GHz. Both outdoor and indoor use, subject to
-Dynamic Frequency Selection (DFS, or radar avoidance). Power limited to
-250 mW.
+        U-NII Worldwide: 5.47-5.725 GHz. Both outdoor and indoor use,
+subject to Dynamic Frequency Selection (DFS, or radar avoidance). Power
+limited to 250 mW.
 
 This spectrum was added by the FCC in 2003 to "align the frequency bands
 used by U-NII devices in the United States with bands in other parts of
@@ -3093,35 +3079,35 @@ the world".
 The FCC currently has an interim limitation on operations on channels
 which overlap the 5600 - 5650 MHz band.
 
-\
+ 
 
-U-NII Upper (U-NII-3): 5.725 to 5.825 GHz.
+        U-NII Upper (U-NII-3): 5.725 to 5.825 GHz.
 
 Sometimes referred to as U-NII / ISM due to overlap with the ISM band.
 Regulations allow for a user-installable antenna. Power limited to 1W.
 
 Wireless ISPs generally use 5.725-5.825 GHz.
 
-(*From:****Wikipedia****"**U**-**NII**"*)
+(From: Wikipedia "U-NII")
 
-\
+ 
 
 For PtP in the 5 GHz band the maximum EIRP allowed is considerable
 higher, since a high gain antenna produces a very narrow beam and
 therefore the interference caused to other users is considerably less
 than in PtMPt topology.
 
-\
+ 
 
-**Certification********of********equipment**
+Certification of equipment
 
 Governments may require a formal certification that a given radio
 equipment comply with specific technical standards and local
 regulations.
 
-This is often referred to as ***homologatio******n***, and the process
-must be done by an independent laboratory authorised by the government
-of the country.
+This is often referred to as homologation, and the process must be done
+by an independent laboratory authorised by the government of the
+country.
 
 Certified equipment is allowed to operate without an individual license.
 It is worth noting that certification may only apply to the original
@@ -3130,9 +3116,9 @@ factory state for radio equipment.
 For example, changing the antenna on a wireless access point in the
 United States invalidates the FCC Certification.
 
-\
+ 
 
-**ISP********Terms********of********Use**
+ISP Terms of Use
 
 Many ISP's include in their "Terms of Use" a clause that prohibits users
 from sharing an internet connection with other users.
@@ -3144,13 +3130,12 @@ It is important to note that this is NOT a legal issue, but a clause of
 the contract with the ISP, and the repercussions for breaching these is
 usually a disconnection of the Internet connection.
 
-\
+ 
 
-**4. RADIO********SPECTRUM**
-============================
+4. RADIO SPECTRUM
+-----------------
 
-**What********is********the********electromagnetic********spectru****m****?**
------------------------------------------------------------------------------
+### What is the electromagnetic spectrum?
 
 There is not a simple definition of the spectrum. From the technical
 viewpoint the spectrum is simply the range of electromagnetic waves that
@@ -3170,34 +3155,33 @@ nobody else could use radio for communications on a radius of some 3500
 km from the transmitting station in England. So, if other users wanted
 to send messages in the same area, they would need to coordinate their
 transmissions in different “time slots” in order to share the medium.
-This technique is called “**TDM****A**”, Time Division Multiple Access.
+This technique is called “TDMA”, Time Division Multiple Access.
 
-\
+ 
 
 Users located at distances much greater than 3500 km from Marconi’s
 transmitter could use the spectrum again, since the power of the radio
 waves decreases as we move farther away from the transmitter. Reusing
-the spectrum in different geographical areas is called “**SDMA****”**,
-Space Division Multiple Access. Marconi was later able to build a
-transmitter that could restrict emissions to just a range of
-frequencies, and a receiver that could be “tuned” to a particular
-frequency range. Now, many users could transmit simultaneously in the
-same area (space) and at the same time. **“FDMA”**, Frequency Division
-Multiple Access was borne. Radio then became a practical means of
-communications, and the only one that was available to reach a ship in
-the open seas. The coordination of the frequencies allocated to
-different users was done by national agencies created to this effect,
-but since radio waves are not stopped by national borders, international
-agreements were needed. The international organization that had been
-created to regulate the transmission of telegrams among different
-countries was commissioned to allocate the use of the electromagnetic
-spectrum.
+the spectrum in different geographical areas is called “SDMA”, Space
+Division Multiple Access. Marconi was later able to build a transmitter
+that could restrict emissions to just a range of frequencies, and a
+receiver that could be “tuned” to a particular frequency range. Now,
+many users could transmit simultaneously in the same area (space) and at
+the same time. “FDMA”, Frequency Division Multiple Access was borne.
+Radio then became a practical means of communications, and the only one
+that was available to reach a ship in the open seas. The coordination of
+the frequencies allocated to different users was done by national
+agencies created to this effect, but since radio waves are not stopped
+by national borders, international agreements were needed. The
+international organization that had been created to regulate the
+transmission of telegrams among different countries was commissioned to
+allocate the use of the electromagnetic spectrum.
 
 Nowadays, ITU, International Telecommunications Union, is the oldest
 International Organization, tasked with issuing recommendations about
 which frequencies to use for which services to its 193 nation members.
 
-\
+ 
 
 The use of the spectrum for military applications raised a new issue;
 “jamming”, the intentional interference introduced by the enemy to
@@ -3208,20 +3192,19 @@ code could interpret the information. The coded signal was transmitted
 at low power but using a very wide interval of frequencies to make
 jamming more difficult.
 
-\
+ 
 
 This technique was later adapted to civilian applications in what is
-called **“CDMA****”**, Code Division Multiple Access, one of the
-flavours of **spread********spectrum********communicatio****n**,
-extensively used in modern communications systems. In summary, the
-spectrum can be shared among many users by assigning different
-*time****slot**s*, different *frequency****interval**s*, different
-*regions of****spac**e*, or different *code**s*. A combination of these
-methods is used in the latest cellular systems. Besides issues of
-sovereignty and its defence, very strong economic and political
-interests play a determinant role in the management of the spectrum,
-which also needs to be constantly updated to take advantage of the
-advances in the communications technology.
+called “CDMA”, Code Division Multiple Access, one of the flavours of
+spread spectrum communication, extensively used in modern communications
+systems. In summary, the spectrum can be shared among many users by
+assigning different time slots, different frequency intervals, different
+regions of space, or different codes. A combination of these methods is
+used in the latest cellular systems. Besides issues of sovereignty and
+its defence, very strong economic and political interests play a
+determinant role in the management of the spectrum, which also needs to
+be constantly updated to take advantage of the advances in the
+communications technology.
 
 Telecommunications engineers keep finding more efficient ways to
 transmit information using time, frequency and space diversity by means
@@ -3232,9 +3215,9 @@ square kilometre of area. For example, the first attempts to provide
 mobile telephone services were done by using a powerful transmitter,
 conveniently located to give coverage to a whole city.
 
-This transmitter (called a **Base********Station******in this context),
-divided the allocated frequency band into say, 30 channels. So only 30
-conversations could be held simultaneously in the whole city.
+This transmitter (called a Base Station in this context), divided the
+allocated frequency band into say, 30 channels. So only 30 conversations
+could be held simultaneously in the whole city.
 
 As a consequence, the service was very expensive and only the extremely
 wealthy could afford it. This situation prevailed for many years, until
@@ -3256,14 +3239,15 @@ cells of smaller dimensions (specified by lower transmission power) we
 can increase the number of available channels until we reach a limit
 imposed by the interference.
 
-\
+ 
 
-![](RS/RS1.png)\
-\
+![](./RS/RS1.png)
 
-*Figure****RS****1:****Cellular****sharing****of****spectrum*
+ 
 
-\
+Figure RS 1: Cellular sharing of spectrum
+
+ 
 
 This example shows that a clever use of existing resources can
 dramatically increase its usefulness. Although the main use of the
@@ -3272,7 +3256,7 @@ cooking food in microwave ovens, medical applications, garage door
 openers and so on.
 
 So some frequency bands are allocated for these purposes in what is
-known as the **ISM**(Industrial, Scientific and Medical) bands.
+known as the ISM (Industrial, Scientific and Medical) bands.
 
 This spectrum usage is normally for short distance applications.
 
@@ -3321,7 +3305,7 @@ competition.
 But when they started offering smart phones, which make very intensive
 use of the Internet, they pretty soon realized that off-loading the
 traffic to WiFi was in their best interest, because it relieved the
-traffic in their distribution network (known as the *backhau**l*).
+traffic in their distribution network (known as the backhaul).
 
 So now they encourage their customers to use WiFi wherever it is
 available and use the more expensive cellular service only when out of
@@ -3331,8 +3315,7 @@ This is a remarkable example of the usefulness of the unlicensed
 spectrum even to traditional telecommunications operators who often have
 lobbied against it.
 
-**How********is********the********spectrum********adjudicate****d****?**
-------------------------------------------------------------------------
+### How is the spectrum adjudicated?
 
 Currently the main methods to gain access to a given spectrum band are
 auctions and the so called “beauty contest”.
@@ -3356,7 +3339,7 @@ of Europe to adjudicate spectrum for mobile phones, which resulted in a
 total income of 100 billion (100 000 000 000) euros to the government
 coffers.
 
-\
+ 
 
 The “beauty contest” method is for the interested parties to submit
 proposals about how they intend to use the spectrum.
@@ -3373,21 +3356,25 @@ for the relinquishing of spectrum bands that have been acquired but are
 not being used; however their enforcement is often lacking due to the
 strong economic interests affected.
 
-\
+ 
 
-\
+ 
 
-![](RS/RS2.png)\
-*Figure****RS****2:****A****special****vehicle****for****spectrum****monitoring****in****Montevideo,****Uruguay.*
+![](./RS/RS2.png)
+
+ 
 
 Figure RS 2 shows a photograph of a spectrum monitoring vehicle in
 Montevideo, Uruguay and Figure RS 3 that of the same kind of equipment
 being used in Jakarta, Indonesia.
 
-\
+ 
 
-![](RS/RS3.png)\
-*Figure****RS****3:****The****“spectrum****Police”****at****work****in****Jakarta*
+![](./RS/RS3.png)
+
+Figure RS 3: The “spectrum Police” at work in Jakarta
+
+ 
 
 Note that the open spectrum used in the unlicensed bands cannot prevent
 interference issues, especially in very crowded areas, but nevertheless
@@ -3406,8 +3393,7 @@ the railway system, the railroads can be idle a considerable amount of
 time, whereas the dynamic spectrum allocation is akin to the freeway
 system that can be used at all times by different users.
 
-**Political********issues**
----------------------------
+### Political issues
 
 The importance of the spectrum as a communications enabler cannot be
 overstated. Television and radio broadcasting have a strong influence in
@@ -3415,11 +3401,10 @@ shaping public perception of any issue, and have been used overtly for
 political propaganda (It has been said that the election of Kennedy as
 president of the U.S. was due mainly to his television campaign).
 
-During the cold war,
-*The****Voice****of****America,****Moscow****Radio***and *Radio
-Havana****Cuba***were very effective ways to sway a global audience.
+During the cold war, The Voice of America, Moscow Radio and Radio Havana
+Cuba were very effective ways to sway a global audience.
 
-\
+ 
 
 More recent examples include the influence of CNN and Al Jazeera in the
 public interpretation of the Arab Spring. Spectrum used for two way
@@ -3431,14 +3416,13 @@ veer the consumer towards a particular brand. We can conclude that the
 electromagnetic spectrum is a natural resource whose usefulness is
 heavily conditioned by technological, economic and political factors.
 
-**Explosion********in********spectrum********demand**
------------------------------------------------------
+### Explosion in spectrum demand
 
 As the number of tablets and smart phones grows, telecom operators are
 trying to get access to new frequency bands, but the traditional way of
 adjudicating the spectrum is facing a dead end.
 
-\
+ 
 
 Keep in mind that the spectrum is used for radio and television
 broadcasts, for satellite communications, for airplane traffic control,
@@ -3450,7 +3434,7 @@ affordable cost. Higher frequencies are well suited for high speed
 transmissions, but they have a limited range and are highly attenuated
 by walls and other obstacles as well as by rain.
 
-\
+ 
 
 This is exemplified by comparing the coverage of an AM radio
 broadcasting station to that of an FM one: the greatest range of the AM
@@ -3465,7 +3449,7 @@ will need less base stations, with huge savings in deployment, operation
 and maintenance costs. This is why these frequencies are commonly
 referred to as “beach front property”.
 
-\
+ 
 
 Techniques for more efficient spectrum usage by means of advanced
 modulation and coding methods have had the greatest impact in allowing
@@ -3474,7 +3458,7 @@ possible by the great strides in electronics (fabrication of ever
 advanced integrated circuits) that now make it economically feasible to
 implement the required sophisticated modulation and coding techniques.
 
-\
+ 
 
 According to the calculations performed in 1948 by Claude Shannon - the
 father of modern telecommunications, a typical telephone line could
@@ -3486,13 +3470,11 @@ analogue transmission, has freed some spectrum in the so called “White
 Spaces”, the frequencies that had to be left fallow in between analogue
 television channels to prevent interference.
 
-\
+ 
 
-![](RS/RS4.png)\
-*Figure****RS****4:****Example****of****TV****Channels****adjudication****in****two****cities****that****are****close****enough****that****transmissions****from****one****can****reach****the****other.
-White****spaces****are****kept****fallow****to****minimize****interference.*
+![](./RS/RS4.png)
 
-\
+ 
 
 In traditional analogue TV broadcasting, adjacent channels cannot be
 used at the same time, because the signal from one channel will “spill”
@@ -3509,20 +3491,20 @@ replaced by Digital TV a “digital dividend” is being harvested.
 In conclusion, the concept of white spaces can be applied to three
 different frequency chunks:
 
-\
+ 
 
--   The spectrum that has been assigned to TV broadcasting but it is not
-    currently being used. This applies particularly to developing
+-   •The spectrum that has been assigned to TV broadcasting but it is
+    not currently being used. This applies particularly to developing
     countries, in which there has been no economic incentive for
-    broadcaster to use every available TV channel.
+    broadcaster to use every available TV channel. 
 
--   The spectrum that must be left free in between two analogous TV
-    channels to prevent interference.
+-   •The spectrum that must be left free in between two analogous TV
+    channels to prevent interference. 
 
--   The spectrum that has been reclaimed as a consequence of the
+-   •The spectrum that has been reclaimed as a consequence of the
     transition to digital terrestrial TV, which is more spectrum
     efficient. This currently applies to developed countries, but will
-    soon apply to developing countries as well.
+    soon apply to developing countries as well. 
 
 In the last 20 years there has been a tremendous growth in the demand
 for more spectrum for mobile communication services, in which data
@@ -3535,8 +3517,7 @@ portion of these “White Spaces” allocated to them to fulfill their
 needs. Broadcasters, on the other hand, are very reluctant to concede
 any spectrum at all to what are now their direct competitors.
 
-**Spectrum********scarcity********or********spectrum********hoardin****g****?**
--------------------------------------------------------------------------------
+### Spectrum scarcity or spectrum hoarding?
 
 Although the available spectrum is currently totally adjudicated in
 developed countries, many independent studies have found that the actual
@@ -3568,8 +3549,7 @@ has already being demonstrated and implemented in the new IEEE 802.22
 standard recently approved, as well as in others currently being
 considered.
 
-**IEE********802.22**
----------------------
+### IEE 802.22
 
 Stimulated by the impressive success of WiFi (due mostly to the use of
 unlicensed, open spectrum), the IEEE created a working group to address
@@ -3634,7 +3614,7 @@ formally approved standard that has received the most publicity, there
 are several competing candidates that are being explored to leverage the
 TV White Spaces to provide two-way communication services, among them:
 
-### **IEEE********802.11af**
+#### IEEE 802.11af
 
 This amendment takes advantage of the enormous success of IEEE 802.11 by
 adapting the same technology to work in the frequency bands allocated to
@@ -3643,7 +3623,7 @@ band and offering greater range due to the use of lower transmission
 frequencies. Its details are still being discussed by the corresponding
 IEEE 802.11 working group.
 
-### **IEEE********802.16h**
+#### IEEE 802.16h
 
 This amendment of the 802.16 standard was ratified in 2010 and describes
 the mechanism for implementing the protocol in uncoordinated operation,
@@ -3652,8 +3632,7 @@ been in the 5 GHz band, it can also be applied to the TV band
 frequencies and can profit from the significant deployments of WiMAX
 (Wireless Microwave Access) systems in many countries.
 
-**Developing********countries********advantage**
-------------------------------------------------
+### Developing countries advantage
 
 It is noteworthy that in developing countries the spectrum allocated to
 broadcast television is only partially used. This presents a magnificent
@@ -3671,14 +3650,16 @@ COTECAL offer voice and data services to customers at distances up to 50
 km from the Base Station, in the beautiful area shown in the figure
 below:
 
-\
+ 
 
-![](RS/RS5.png)\
-\
+![](./RS/RS5.png)
 
-*Figure****RS****5:****Region****served****with****voice****and****data****services****by****COTECAL,****in****Calafate****and****El****Chalten,****Argentina.*
+ 
 
-\
+Figure RS 5: Region served with voice and data services by COTECAL, in
+Calafate and El Chalten, Argentina.
+
+ 
 
 So there is an opportunity for stakeholders to lobby for the
 introduction of TV Band Device based solutions at an early stage, while
@@ -3705,15 +3686,17 @@ Figure RS 6 shows the RF Explorer for the 2.4 GHz band being used to
 test an antenna built by participants of the 2012 ICTP Wireless training
 workshop in Trieste, Italy.
 
-\
+ 
 
-![](RS/RS6.png)\
-\
+![](./RS/RS6.png)
 
-*Figure****RS****6:****Participants****from****Albania,****Nepal,****Malawi****and****Italy****testing****an****antenna****with****the****RF****Explorer****Spectrum****Analyzer****in****Trieste,
-February****2012.*
+ 
 
-\
+Figure RS 6: Participants from Albania, Nepal, Malawi and Italy testing
+an antenna with the RF Explorer Spectrum Analyzer in Trieste, February
+2012.
+
+ 
 
 This low cost instrument paves the way for a wide involvement of people
 in the measurement of the real spectrum usage on their own country which
@@ -3723,14 +3706,13 @@ For additional information see:
 
 http://www.apc.org/en/faq/citizens -guide-airwaves
 
-**5. ANTENNAS / TRANSMISSION********LINES**
-===========================================
+5. ANTENNAS / TRANSMISSION LINES
+--------------------------------
 
 The transmitter that generates the RF power to drive the antenna is
 usually located at some distance from the antenna terminals. The
-connecting link between the two is the
-***RF************transmission************lin******e***. Its purpose is
-to carry RF power from one place to another, and to do this as
+connecting link between the two is the RF transmission line. Its purpose
+is to carry RF power from one place to another, and to do this as
 efficiently as possible. From the receiver side, the antenna is
 responsible for picking up any radio signals in the air and passing them
 to the receiver with the minimum amount of distortion and maximum
@@ -3739,8 +3721,11 @@ For these reasons, the RF cable has a very important role in radio
 systems: it must maintain the integrity of the signals in both
 directions.
 
-![](ATL/ATL1.png)\
-*Figure****ATL****1:****Radio,****transmission****line****and****antenna*
+![](./ATL/ATL1.png)
+
+Figure ATL 1: Radio, transmission line and antenna
+
+ 
 
 The simplest transmission line one can envisage is the bifilar or twin
 lead, consisting of two conductors separated by a dielectric or
@@ -3750,12 +3735,13 @@ open at one end will not radiate because the current in each wire has
 the same value but opposite direction, so that the fields created on a
 given point at some distance from the line cancel.
 
-![](ATL/ATL2.png)\
-\
+![](./ATL/ATL2.png)
 
-*Figure****ATL****2:****Bifilar****transmission****line*
+ 
 
-\
+Figure ATL 2: Bifilar transmission line
+
+ 
 
 If we bend the open ends of the transmission line in opposite
 directions, the currents will now generate electric fields that are in
@@ -3763,10 +3749,11 @@ phase and reinforce each other and will therefore radiate and propagate
 at a distance. We now have an antenna at the end of the transmission
 line.
 
-![](ATL/ATL3.png)\
-*Figure****ATL****3:****Antenna****from****transmission****line*
+![](./ATL/ATL3.png)
 
-\
+Figure ATL 3: Antenna from transmission line
+
+ 
 
 The length of the bent portion of the transmission line will determine
 the antenna feature. If this length corresponds to a quarter of a
@@ -3776,18 +3763,16 @@ dBi.
 The functioning of the bifilar transmission line just described is
 strongly affected by any metal in its proximity, so a better solution is
 to confine the electrical fields by means of an external conductor that
-shields the internal one. This constitutes a *coaxial***cable.
+shields the internal one. This constitutes a coaxial cable.
 Alternatively, a hollow metallic pipe of the proper dimensions will also
-effectively carry RF energy in what is known as a *waveguid**e*.
+effectively carry RF energy in what is known as a waveguide.
 
-Cables
-------
+### Cables
 
-For frequencies higher than HF the coaxial cables (or
-***coax*********for short, derived from the words “of common axis”) are
-used almost exclusively. Coax cables have a core conductor wire
-surrounded by a non-conductive material called ***dielectri******c***,
-or simply ***insulatio******n***.
+For frequencies higher than HF the coaxial cables (or coax for short,
+derived from the words “of common axis”) are used almost exclusively.
+Coax cables have a core conductor wire surrounded by a non-conductive
+material called dielectric, or simply insulation.
 
 The dielectric is then surrounded by an encompassing shielding which is
 often made of braided wires. The dielectric prevents an electrical
@@ -3804,12 +3789,14 @@ does not contribute to the conduction, hence the larger the central
 conductor, the better the signal will flow. This is called the “skin
 effect”.
 
-![](ATL/ATL4.png)\
-\
+![](./ATL/ATL4.png)
 
-*Figure****ATL****4:****Coaxial****cable****with****jacket,****shield,****dielectric,****and****core****conductor.*
+ 
 
-\
+Figure ATL 4: Coaxial cable with jacket, shield, dielectric, and core
+conductor.
+
+ 
 
 Even though the coaxial construction is good at transporting the signal,
 there is always resistance to the electrical flow: as the signal travels
@@ -3825,57 +3812,58 @@ increases, so does its attenuation.
 Obviously, we need to minimise the cable attenuation as much as possible
 by keeping the cable very short and using high quality cables.
 
-\
+ 
 
 Here are some points to consider when choosing a cable for use with
 microwave devices:
 
-\
+ 
 
-1.  “The shorter the better!” The first rule when you install a piece of
-    cable is to try to keep it as short as possible. The power loss is
-    not linear, so doubling the cable length means that you are going to
-    lose much more than twice the power. In the same way, reducing the
-    cable length by half gives you more than twice the power at the
-    antenna. The best solution is to place the transmitter as close as
-    possible to the antenna, even when this means placing it on a tower.
+1.  1.  1.“The shorter the better!” The first rule when you install a
+        piece of cable is to try to keep it as short as possible. The
+        power loss is not linear, so doubling the cable length means
+        that you are going to lose much more than twice the power. In
+        the same way, reducing the cable length by half gives you more
+        than twice the power at the antenna. The best solution is to
+        place the transmitter as close as possible to the antenna, even
+        when this means placing it on a tower. 
 
-2.  “The cheaper the worse!” The second golden rule is that any money
-    you invest in buying a good quality cable is a bargain. Cheap cables
-    can be used at low frequencies, such as VHF. Microwaves require the
-    highest quality cables available.
+    2.  2.“The cheaper the worse!” The second golden rule is that any
+        money you invest in buying a good quality cable is a bargain.
+        Cheap cables can be used at low frequencies, such as VHF.
+        Microwaves require the highest quality cables available. 
 
-3.  Avoid RG-58. It is intended for thin Ethernet networking, CB or VHF
-    radio, not for microwave.
+    3.  3.Avoid RG-58. It is intended for thin Ethernet networking, CB
+        or VHF radio, not for microwave. 
 
-4.  Avoid RG-213 or RG-8. They are intended for CB and HF radio. In this
-    case even if the diameter is large the attenuation is significant
-    due to the cheap insulator used.
+    4.  4.Avoid RG-213 or RG-8. They are intended for CB and HF radio.
+        In this case even if the diameter is large the attenuation is
+        significant due to the cheap insulator used. 
 
-5.  Whenever possible, use the best rated LMR cable or equivalent you
-    can find. LMR is a brand of coax cable available in various
-    diameters that works well at microwave frequencies. The most
-    commonly used are LMR-400 and LMR-600. Heliax cables are also very
-    good, but expensive and difficult to use.
+    5.  5.Whenever possible, use the best rated LMR cable or equivalent
+        you can find. LMR is a brand of coax cable available in various
+        diameters that works well at microwave frequencies. The most
+        commonly used are LMR-400 and LMR-600. Heliax cables are also
+        very good, but expensive and difficult to use. 
 
-6.  Whenever possible, use cables that are pre-crimped and tested in a
-    proper lab. Installing connectors to cable is a tricky business, and
-    is difficult to do properly even with the specific tools. Never step
-    over a cable, bend it too much, or try to unplug a connector by
-    pulling the cable directly. All of these behaviours may change the
-    mechanical characteristic of the cable and therefore its impedance,
-    short the inner conductor to the shield, or even break the line.
+    6.  6.Whenever possible, use cables that are pre-crimped and tested
+        in a proper lab. Installing connectors to cable is a tricky
+        business, and is difficult to do properly even with the specific
+        tools. Never step over a cable, bend it too much, or try to
+        unplug a connector by pulling the cable directly. All of these
+        behaviours may change the mechanical characteristic of the cable
+        and therefore its impedance, short the inner conductor to the
+        shield, or even break the line.  
 
-7.  Those problems are difficult to track and recognise and can lead to
-    unpredictable behaviour on the radio link.
+    7.  7.Those problems are difficult to track and recognise and can
+        lead to unpredictable behaviour on the radio link. 
 
-8.  For very short distances, a thin cable of good quality maybe
-    adequate since it will not introduce too much attenuation.
+    8.  8.For very short distances, a thin cable of good quality maybe
+        adequate since it will not introduce too much attenuation. 
 
-\
+ 
 
-Waveguides
-----------
+### Waveguides
 
 Above 2 GHz, the wavelength is short enough to allow practical,
 efficient energy transfer by different means. A waveguide is a
@@ -3893,8 +3881,11 @@ an infinite current to flow in a perfect conductor.
 The X, Y and Z axis of a rectangular waveguide can be seen in the
 following figure:
 
-![](ATL/ATL5.png)\
-*Figure****ATL****5:****The****X,****Y,****and****Z****axis****of****a****rectangular****waveguide.*
+![](./ATL/ATL5.png)
+
+Figure ATL 5: The X, Y, and Z axis of a rectangular waveguide.
+
+ 
 
 There are an infinite number of ways in which the electric and magnetic
 fields can arrange themselves in a waveguide for frequencies above the
@@ -3910,26 +3901,25 @@ The mode of propagation is identified by the group letters followed by
 two subscript numerals. For example, TE 10, TM 11, etc.
 
 The number of possible modes increases with the frequency for a given
-size of guide, and there is only one possible mode, called the
-*dominant****mod**e*, for the lowest frequency that can be transmitted.
-In a rectangular guide, the critical dimension is X. This dimension must
-be more than 0.5 λ at the lowest frequency to be transmitted. In
-practice, the Y dimension is usually about 0.5 X to avoid the
-possibility of operation in other than the dominant mode.
-Cross-sectional shapes other than the rectangle can be used, the most
-important being the circular pipe. Much the same considerations apply as
-in the rectangular case. Wavelength dimensions for rectangular and
-circular guides are given in the following table, where X is the width
-of a rectangular guide and r is the radius of a circular guide. All
-figures apply to the dominant mode.
+size of guide, and there is only one possible mode, called the dominant
+mode, for the lowest frequency that can be transmitted. In a rectangular
+guide, the critical dimension is X. This dimension must be more than 0.5
+λ at the lowest frequency to be transmitted. In practice, the Y
+dimension is usually about 0.5 X to avoid the possibility of operation
+in other than the dominant mode. Cross-sectional shapes other than the
+rectangle can be used, the most important being the circular pipe. Much
+the same considerations apply as in the rectangular case. Wavelength
+dimensions for rectangular and circular guides are given in the
+following table, where X is the width of a rectangular guide and r is
+the radius of a circular guide. All figures apply to the dominant mode.
 
-\
+ 
 
-**Type********of********guide**
+Type of guide
 
-**Rectangular**
+Rectangular
 
-**Circular**
+Circular
 
 Cutoff wavelength
 
@@ -3949,7 +3939,7 @@ Shortest wavelength before next mode becomes possible
 
 2.8r
 
-\
+ 
 
 Energy may be introduced into or extracted from a waveguide by means of
 either the electric or magnetic field. The energy transfer typically
@@ -3969,13 +3959,12 @@ it can be used as an antenna rather than a transmission line).
 This radiation can be enhanced by flaring the waveguide to form a
 pyramidal horn antenna.
 
-\
+ 
 
 There are examples of practical waveguide antennas for WiFi shown in
-**Appendix********A******called Antenna Construction.
+Appendix A called Antenna Construction.
 
-**Connectors********and********adapters**
------------------------------------------
+### Connectors and adapters
 
 Connectors allow a cable to be connected to another cable or to a
 component in the RF chain. There are a wide variety of fittings and
@@ -3983,11 +3972,11 @@ connectors designed to go with various sizes and types of coaxial lines.
 
 We will describe some of the most popular ones.
 
-\
+ 
 
-***BNC************connectors*********were developed in the late 40s. BNC
-stands for Bayonet Neill Concelman, named after the men who invented it:
-Paul Neill and Carl Concelman.
+BNC connectors were developed in the late 40s. BNC stands for Bayonet
+Neill Concelman, named after the men who invented it: Paul Neill and
+Carl Concelman.
 
 The BNC product line is a miniature quick connect/disconnect connector.
 It features two bayonet lugs on the female connector, and mating is
@@ -3996,32 +3985,32 @@ suited for cable termination for miniature to subminiature coaxial cable
 (RG-58 to RG-179, RG-316, etc.). They are most commonly found on test
 equipment and 10base2 coaxial Ethernet cables.
 
-***TNC************connectors*********were also invented by Neill and
-Concelman, and are a threaded variation of the BNC. Due to the better
-interconnect provided by the threaded connector, TNC connectors work
-well through about 12 GHz. TNC stands for Threaded Neill Concelman.
+TNC connectors were also invented by Neill and Concelman, and are a
+threaded variation of the BNC. Due to the better interconnect provided
+by the threaded connector, TNC connectors work well through about 12
+GHz. TNC stands for Threaded Neill Concelman.
 
-***Type************N*********(again for Neill, although sometimes
-attributed to “Navy”) connectors were originally developed during the
-Second World War. They are usable up to 18 GHz, and very commonly used
-for microwave applications. They are available for almost all types of
-cable. Both the plug / cable and plug / socket joints are supposedly
-waterproof, providing an effective cable clamp. Nevertheless for outdoor
-use they should be wrapped in self agglomerating tape to prevent water
-from seeping in.
+Type N (again for Neill, although sometimes attributed to “Navy”)
+connectors were originally developed during the Second World War. They
+are usable up to 18 GHz, and very commonly used for microwave
+applications. They are available for almost all types of cable. Both the
+plug / cable and plug / socket joints are supposedly waterproof,
+providing an effective cable clamp. Nevertheless for outdoor use they
+should be wrapped in self agglomerating tape to prevent water from
+seeping in.
 
-***SMA*********is an acronym for Sub Miniature version A, and was
-developed in the 60s. SMA connectors are precision, subminiature units
-that provide excellent electrical performance up to 18 GHz. These
-threaded high-performance connectors are compact in size and
-mechanically have outstanding durability.
+SMA is an acronym for Sub Miniature version A, and was developed in the
+60s. SMA connectors are precision, subminiature units that provide
+excellent electrical performance up to 18 GHz. These threaded
+high-performance connectors are compact in size and mechanically have
+outstanding durability.
 
-The ***SMB*********name derives from Sub Miniature B, and it is the
-second subminiature design. The SMB is a smaller version of the SMA with
+The SMB name derives from Sub Miniature B, and it is the second
+subminiature design. The SMB is a smaller version of the SMA with
 snap-on coupling. It provides broadband capability through 4 GHz with a
 snap-on connector design.
 
-***MCX*********connectors were introduced in the 80s.
+MCX connectors were introduced in the 80s.
 
 While the MCX uses identical inner contact and insulator dimensions as
 the SMB, the outer diameter of the plug is 30% smaller than the SMB.
@@ -4032,44 +4021,44 @@ WiFi devices use a variety of proprietary connectors. Often, these are
 simply standard microwave connectors with the centre conductor parts
 reversed, or the thread cut in the opposite direction. These parts are
 often integrated into a microwave system using a short, flexible jumper
-called a ***pigtail*********that converts the non-standard connector
-into something more robust and commonly available.
+called a pigtail that converts the non-standard connector into something
+more robust and commonly available.
 
 Some of these connectors include:
 
-***R******P******-******TNC***. This is a TNC connector with the genders
-reversed.
+RP-TNC. This is a TNC connector with the genders reversed.
 
-***U.FL*********(also known as ***MH******F***). This is possibly the
-smallest microwave connector currently in wide use. The U.FL/MHF is
-typically used to connect a mini-PCI radio card to an antenna or larger
-connector (such as an N or TNC) using a thin cable in waht is known as a
-*pigtai**l*.
+U.FL (also known as MHF). This is possibly the smallest microwave
+connector currently in wide use. The U.FL/MHF is typically used to
+connect a mini-PCI radio card to an antenna or larger connector (such as
+an N or TNC) using a thin cable in waht is known as a pigtail.
 
-The ***MMCX*********series, which is also called a MicroMate, is one of
-the smallest RF connector line and was developed in the 90s. MMCX is a
+The MMCX series, which is also called a MicroMate, is one of the
+smallest RF connector line and was developed in the 90s. MMCX is a
 micro-miniature connector series with a lock-snap mechanism allowing for
 360 degrees rotation enabling flexibility.
 
-***M******C******-******Card*********connectors are even smaller and
-more fragile than MMCX. They have a split outer connector that breaks
-easily after just a few interconnects. Adapters are short, two-sided
-devices which are used to join two cables or components which cannot be
-connected directly. For example, an adapter can be used to connect an
-SMA connector to a BNC.
+MC-Card connectors are even smaller and more fragile than MMCX. They
+have a split outer connector that breaks easily after just a few
+interconnects. Adapters are short, two-sided devices which are used to
+join two cables or components which cannot be connected directly. For
+example, an adapter can be used to connect an SMA connector to a BNC.
 
 Adapters may also be used to fit together connectors of the same type,
 but of different gender.
 
-\
+ 
 
-![](ATL/ATL6.png)\
-*Figure****ATL****6:****An****N****female****barrel****adapter.*
+![](./ATL/ATL6.png)
+
+Figure ATL 6: An N female barrel adapter.
+
+ 
 
 For example a very useful adapter is the one which enables to join two
 Type N connectors, having socket (female) connectors on both sides.
 
-### **Choosing********the********proper********connector**
+#### Choosing the proper connector
 
 “The gender question.” Most connectors have a well defined gender. Male
 connectors have an external housing or sleeve (frequently with an inner
@@ -4095,7 +4084,7 @@ impossible for small connectors as U.FL and MMCX. Even terminating
 “Foam” cables is not an easy task. Don’t use BNC for 2.4 GHz or higher.
 Use N type connectors (or SMA, SMB, TNC, etc.)
 
-\
+ 
 
 Microwave connectors are precision-made parts, and can be easily damaged
 by mistreatment. As a general rule, you should rotate the outer sleeve
@@ -4112,7 +4101,7 @@ hands. When working outside, remember that metals expand at high
 temperatures and contract at low temperatures: connector too tight in
 the summer can bind or even break in winter.
 
-### **Antennas********radiation********patterns**
+#### Antennas radiation patterns
 
 Antennas are a very important component of communication systems. By
 definition, an antenna is a device used to transform an RF signal
@@ -4123,20 +4112,19 @@ it is transmitting or receiving. All antennas operate efficiently over a
 relatively narrow frequency band. An antenna must be tuned to the same
 frequency band of the radio system to which it is connected, otherwise
 the reception and the transmission will be impaired. In broadcasting, we
-can make do with inefficient *receiving***antennas, because the
+can make do with inefficient receiving antennas, because the
 transmitters are very powerful, but in two-way communications we must
 have properly sized antennas. When a signal is fed into an antenna, the
 antenna will emit radiation distributed in space in a certain way. A
 graphical representation of the relative distribution of the radiated
 power in space is called a radiation pattern.
 
-**Antenna********term********glossary**
----------------------------------------
+### Antenna term glossary
 
 Before we talk about specific antennas, there are a few common terms
 that must be defined and explained:
 
-### Input Impedance
+#### Input Impedance
 
 For an efficient transfer of energy, the impedance of the radio,
 antenna, and transmission cable connecting them must be the same.
@@ -4146,18 +4134,17 @@ will be a mismatch and reflections will occur unless an impedance
 matching circuit is inserted. When any of these components are
 mismatched, transmission efficiency suffers.
 
-### **Return********loss**
+#### Return loss
 
 Return loss is another way of expressing mismatch. It is a logarithmic
-ratio measured in dB that compares the power reflected by the antenna
-*Pr***to the power that is fed into the antenna from the transmission
-line *Pi:*
+ratio measured in dB that compares the power reflected by the antenna Pr
+to the power that is fed into the antenna from the transmission line Pi:
 
-\
+ 
 
-*Return****Loss****(in****dB)****=**10****lo**g*~*10*~*Pi/**Pr*
+Return Loss (in dB) = 10 log10 Pi/Pr
 
-\
+ 
 
 While some energy will always be reflected back into the system, a high
 return loss will yield unacceptable antenna performance.
@@ -4165,27 +4152,25 @@ return loss will yield unacceptable antenna performance.
 The interaction between the wave travelling from the transmitter to the
 antenna and the wave reflected by the antenna towards the transmitter
 creates what is known as a stationary wave, therefore an alternative way
-to measure the impedance mismatch is by means of the *Voltage
-Standing****Wave****Ratio****(**VSW**R**):*
+to measure the impedance mismatch is by means of the Voltage Standing
+Wave Ratio (VSWR):
 
-\
+ 
 
-*Return****Loss****(in****dB)****=****20****lo**g*~*10*~*(**VSWR+1
-/**VSW**R**-**1)*
+Return Loss (in dB) = 20 log10 (VSWR+1 / VSWR-1)
 
-\
+ 
 
 In a perfectly matched transmission line, VSWR = 1.
 
-\
+ 
 
 In practice, we strive to maintain a VSWR below 2.
 
-### Bandwidth
+#### Bandwidth
 
-The bandwidth of an antenna refers to the range of frequencies F~H~ -
-F~L~ over which the antenna can operate correctly. The antenna's
-bandwidth is
+The bandwidth of an antenna refers to the range of frequencies FH - FL
+over which the antenna can operate correctly. The antenna's bandwidth is
 
 the number of Hz for which the antenna meets certain requirements, like
 exhibiting a gain within 3 dB of the maximum gain or a VSWR less than
@@ -4194,14 +4179,14 @@ exhibiting a gain within 3 dB of the maximum gain or a VSWR less than
 The bandwidth can also be described in terms of percentage of the centre
 frequency of the band.
 
-\
+ 
 
-*Bandwidth****=****100 (**F*~*H*~*–****F*~*L*~*)/**F*~*C*~
+Bandwidth = 100 (FH – FL )/FC
 
-\
+ 
 
-...where F~H~ is the highest frequency in the band, F~L~ is the lowest
-frequency in the band, and F~C~ is the centre frequency in the band.
+...where FH is the highest frequency in the band, FL is the lowest
+frequency in the band, and FC is the centre frequency in the band.
 
 In this way, bandwidth is constant relative to frequency. If bandwidth
 was expressed in absolute units of frequency, it would be different
@@ -4209,7 +4194,7 @@ depending upon the center frequency.
 
 Different types of antennas have different bandwidth limitations.
 
-### **Directivity********and********Gain**
+#### Directivity and Gain
 
 Directivity is the ability of an antenna to focus energy in a particular
 direction when transmitting, or to receive energy from a particular
@@ -4230,7 +4215,7 @@ antenna.
 The two most common reference antennas are the isotropic antenna and the
 half-wave dipole antenna.
 
-### **Directivity********and********Gain**
+#### Directivity and Gain
 
 Directivity is the ability of an antenna to focus energy in a particular
 direction when transmitting, or to receive energy from a particular
@@ -4259,9 +4244,8 @@ amount of energy radiated in that direction compared to the energy an
 isotropic antenna would radiate in the same direction when driven with
 the same input power. Usually we are only interested in the maximum
 gain, which is the gain in the direction in which the antenna is
-radiating most of the power, the so called ***boresigh******t***. An
-antenna gain of 3 dB compared to an isotropic antenna would be written
-as 3 dBi.
+radiating most of the power, the so called boresight. An antenna gain of
+3 dB compared to an isotropic antenna would be written as 3 dBi.
 
 The half-wave dipole can be a useful standard for comparing to other
 antennas at one frequency or over a very narrow band of frequencies.
@@ -4277,7 +4261,7 @@ The method of measuring gain by comparing the antenna under test against
 a known standard antenna, which has a calibrated gain, is technically
 known as a gain transfer technique.
 
-### Radiation Pattern
+#### Radiation Pattern
 
 The radiation pattern or antenna pattern describes the relative strength
 of the radiated field in various directions from the antenna, at a
@@ -4296,10 +4280,14 @@ ten-element Yagi antenna radiation pattern.
 The detail is good but it is difficult to visualize the antenna
 behaviour in different directions.
 
-\
+ 
 
-![](ATL/ATL7.png)\
-*Figure****ATL****7:****A****rectangular****plot****of****the****radiation****pattern****of****a****Yagi****antenna.*
+![](./ATL/ATL7.png)
+
+Figure ATL 7: A rectangular plot of the radiation pattern of a Yagi
+antenna.
+
+ 
 
 Polar coordinate systems are used almost universally.
 
@@ -4313,14 +4301,15 @@ the antenna power.
 
 Figure ATL 8 is a polar plot of the same 10 element Yagi antenna.
 
-\
+ 
 
-![](ATL/ATL8.png)\
-\
+![](./ATL/ATL8.png)
 
-*Figure****ATL****8:****The****polar****radiation****pattern****plot****of****the****same****antenna*
+ 
 
-\
+Figure ATL 8: The polar radiation pattern plot of the same antenna
+
+ 
 
 The field pattern that exists close to the antenna is different from the
 one at a distance, which is the one of interest.
@@ -4335,16 +4324,16 @@ antenna in relation to the wavelength.
 
 The accepted formula for this distance is:
 
-\
+ 
 
-*r*~*min*~***= 2d*^*2*^*/*λ
+rmin = 2d2 /λ
 
-\
+ 
 
-where r~min~ is the minimum distance from the antenna, d is the largest
+where rmin is the minimum distance from the antenna, d is the largest
 dimension of the antenna, and λ is the wavelength.
 
-### Beamwidth
+#### Beamwidth
 
 An antenna's beamwidth is usually understood to mean the half-power
 beamwidth. The peak radiation intensity is found, and then the points on
@@ -4371,9 +4360,9 @@ services to customers very close to the base station and therefore below
 the beamwidth of a non tilted antenna. This down tilting could be
 achieved by mechanically inclining the antenna, but often the beam can
 be steered by changing the phase of the signal applied to the different
-elements of the antenna in what is known as *electrically***downtilting.
+elements of the antenna in what is known as electrically downtilting.
 
-### Sidelobes
+#### Sidelobes
 
 No antenna is able to radiate all the energy in one preferred direction.
 Some is inevitably radiated in other directions. These smaller peaks are
@@ -4381,7 +4370,7 @@ referred to as sidelobes, commonly specified in dB down from the main
 lobe. In antenna design, a balance must be struck between gain and
 sidelobes.
 
-### Nulls
+#### Nulls
 
 In an antenna radiation pattern, a null is a zone in which the effective
 radiated power is at a minimum. A null often has a narrow directivity
@@ -4389,26 +4378,28 @@ angle compared to that of the main beam. Thus, the null is useful for
 several purposes, such as suppression of interfering signals in a given
 direction
 
-### **Polarization**
+#### Polarization
 
 Polarization is defined as the orientation of the electric field of an
 electromagnetic wave. The initial polarization of a radio wave is
 determined by the antenna. Most antennas are either vertically or
 horizontally polarized.
 
-\
+ 
 
-![](RP/RP3_1.png)\
-\
+![](./RP/RP3_1.png)
 
-*Figure****ATL****9:****The****electric****field****is****perpendicular****to****magnetic****field,****both****of****which****are****perpendicular****to****the****direction****of****propagation.*
+ 
 
-\
+Figure ATL 9: The electric field is perpendicular to magnetic field,
+both of which are perpendicular to the direction of propagation.
+
+ 
 
 The polarization of the transmitting and the receiving antenna must
 match, or a very big loss will be incurred.
 
-\
+ 
 
 Some modern systems take advantage of polarization by sending two
 independent signals at the same frequency, separated by the
@@ -4430,7 +4421,7 @@ Omnidirectional antennas normally have vertical polarization.
 Horizontal antennas are less likely to pick up man- made interference,
 which ordinarily is vertically polarized.
 
-\
+ 
 
 In circular polarization the electric field vector appears to be
 rotating with circular motion about the direction of propagation, making
@@ -4440,7 +4431,7 @@ left-hand.
 Choice of polarization is one of the design choices available to the RF
 system designer.
 
-### **Polarization********Mismatch**
+#### Polarization Mismatch
 
 In order to transfer maximum power between a transmit and a receive
 antenna, both antennas must have the same spatial orientation, and the
@@ -4455,11 +4446,11 @@ When the transmit and receive antennas are both linearly polarized,
 physical antenna misalignment will result in a polarization mismatch
 loss, which can be determined using the following formula:
 
-\
+ 
 
-*Loss****(dB)****=****20****lo**g*~*10*~*(cos****θ)*
+Loss (dB) = 20 log10(cos θ)
 
-\
+ 
 
 ...where θ is the difference in the polarization angle between the two
 antennas.
@@ -4470,7 +4461,7 @@ For 15° the loss is approximately 0.3 dB, for 30° we lose 1.25 dB, for
 In short, the greater the mismatch in polarization between a
 transmitting and receiving antenna, the greater the loss.
 
-\
+ 
 
 In the real world, a 90° mismatch in polarization is quite large but not
 infinite. Some antennas, such as Yagis or can antennas, can be simply
@@ -4495,7 +4486,7 @@ radios. The real life throughput is somewhat lower than twice the single
 antenna throughput because of the inevitable cross polarization
 interference.
 
-### **Fron****t****-****t****o****-****back********ratio**
+#### Front-to-back ratio
 
 It is often useful to compare the front-to-back ratio of directional
 antennas. This is the ratio of the maximum directivity of an antenna to
@@ -4511,7 +4502,7 @@ quite relevant when building a system with repeaters, in which the
 signal sent backward will interfere with the useful signal and must be
 minimised.
 
-### **Antenna********Aperture**
+#### Antenna Aperture
 
 The electrical “aperture” of a receiving antenna is defined as the cross
 section of a parabolic antenna that would deliver the same power to a
@@ -4528,12 +4519,11 @@ Notice that the concept of aperture is not easily visualised in the case
 of a wire antenna in which the physical area is negligible. In this case
 the antenna aperture must be derived from the formula of the gain.
 
-**Types********of********antennas**
------------------------------------
+### Types of antennas
 
 A classification of antennas can be based on:
 
-### **Frequency********and********size.**
+#### Frequency and size.
 
 Antennas used for HF are different from antennas used for VHF, which in
 turn are different from antennas for microwave. The wavelength is
@@ -4545,51 +4535,51 @@ range, especially in the 2.4 GHz and 5 GHz frequencies.
 
 At 2.4 GHz the wavelength is 12.5 cm, while at 5 GHz it is 6 cm.
 
-### **Directivit****y****.**
+#### Directivity.
 
 Antennas can be omnidirectional, sectorial or directive. Omnidirectional
 antennas radiate roughly the same signal all around the antenna in a
 complete 360° pattern.
 
-\
+ 
 
 The most popular types of omnidirectional antennas are the dipole and
 the ground plane. Sectorial antennas radiate primarily in a specific
 area. The beam can be as wide as 180 degrees, or as narrow as 60
 degrees.
 
-\
+ 
 
-**Directional** **or********directive** **antennas** are antennas in
-which the beamwidth is much narrower than in sectorial antennas. They
-have the highest gain and are therefore used for long distance links.
+Directional or directive antennas are antennas in which the beamwidth is
+much narrower than in sectorial antennas. They have the highest gain and
+are therefore used for long distance links.
 
-\
+ 
 
-Types of directive antennas are the **Yagi**, the **biquad**, the
-**horn**, the **helicoidal**, the **patch********antenna**, the
-**parabolic********dish**, and many others.
+Types of directive antennas are the Yagi, the biquad, the horn, the
+helicoidal, the patch antenna, the parabolic dish, and many others.
 
-![](ATL/ATL10.png)\
-\
+![](./ATL/ATL10.png)
 
-*Figure****ATL****10:****Antenna****types*
+ 
 
-\
+Figure ATL 10: Antenna types
 
-**Physical********constructio****n**.
+ 
+
+Physical construction.
 
 Antennas can be constructed in many different ways, ranging from simple
 wires, to parabolic dishes, to coffee cans.
 
-\
+ 
 
 When considering antennas suitable for 2.4 GHz WLAN use, another
 classification can be used:
 
-\
+ 
 
-**Applicatio****n**.
+Application.
 
 Access points tend to make point-to-multipoint networks, while remote
 links or backbones are point-to-point. Each of these suggest different
@@ -4605,7 +4595,7 @@ A brief list of common type of antennas for the 2.4 GHz frequency is
 presented now, with a short description and basic information about
 their characteristics.
 
-### **1/4********wavelength********ground********plane.**
+#### 1/4 wavelength ground plane.
 
 The 1⁄4 wavelength ground plane antenna is very simple in its
 construction and is useful for communications when size, cost and ease
@@ -4615,27 +4605,28 @@ active element and three or four 1⁄4 wavelength ground elements bent 30
 to 45 degrees down. This set of elements, called radials, is known as a
 ground plane.
 
-\
+ 
 
-![](ATL/ATL11.png)\
-\
+![](./ATL/ATL11.png)
 
-*Figure****ATL****11:****Quarter****wavelength****ground****plane****antenna.*
+ 
 
-\
+Figure ATL 11: Quarter wavelength ground plane antenna.
+
+ 
 
 This is a simple and effective antenna that can capture a signal equally
 from all directions. The gain of this antenna is in the order of 2 - 4
 dBi.
 
-### **Yagi****-****Uda********antenna**
+#### Yagi-Uda antenna
 
 A basic Yagi or more properly Yagi-Uda antenna consists of a certain
 number of straight elements, each measuring approximately half
 wavelength. The driven or active element of a Yagi is the equivalent of
 a centre-fed, half-wave dipole antenna.
 
-\
+ 
 
 Parallel to the driven element, and approximately 0.2 to 0.5 wavelength
 on either side of it, are straight rods or wires called reflectors and
@@ -4655,19 +4646,20 @@ Following is the photo of a Yagi antenna with 5 directors and one
 reflector. Yagi antennas are often enclosed in a cylindrical radome to
 afford protection from the weather.
 
-\
+ 
 
-![](ATL/ATL12.png)\
-\
+![](./ATL/ATL12.png)
 
-*Figure****ATL****12:****Yag**i-**Uda*
+ 
 
-\
+Figure ATL 12: Yagi-Uda
+
+ 
 
 Yagi antennas are used primarily for Point-to-Point links, have a gain
 from 10 to 20 dBi and a horizontal beamwidth of 10 to 20 degrees.
 
-### Horn
+#### Horn
 
 The horn antenna derives its name from the characteristic flared
 appearance.
@@ -4683,14 +4675,15 @@ and a proper transition.
 While it is cumbersome to make a horn antenna at home, a cylindrical can
 with proper dimensions will have similar characteristics.
 
-\
+ 
 
-![](ATL/ATL13.png)\
-\
+![](./ATL/ATL13.png)
 
-*Figure****ATL****13:****Feed****horn****made****from****a****food****can.*
+ 
 
-\
+Figure ATL 13: Feed horn made from a food can.
+
+ 
 
 Horn antennas are commonly used as the active element in a dish antenna.
 The horn is pointed toward the centre of the dish reflector.
@@ -4699,12 +4692,12 @@ The use of a horn, rather than a dipole antenna or any other type of
 antenna, at the focal point of the dish minimizes loss of energy around
 the edges of the dish reflector.
 
-\
+ 
 
 At 2.4 GHz, a simple horn antenna made with a tin can has a gain in the
 order of 10 dBi.
 
-### **Parabolic********Dish**
+#### Parabolic Dish
 
 Antennas based on parabolic reflectors are the most common type of
 directive antennas when a high gain is required.
@@ -4716,14 +4709,15 @@ difficult to mount and are likely to have a large wind load.
 Randomes can be used to reduce the wind load or windage, as well as for
 weather protection.
 
-\
+ 
 
-![](ATL/ATL14.png)\
-\
+![](./ATL/ATL14.png)
 
-*Figure****ATL****14:****A****solid****dish****antenna.*
+ 
 
-\
+Figure ATL 14: A solid dish antenna.
+
+ 
 
 Dishes up to one metre are usually made from solid material.
 
@@ -4740,7 +4734,7 @@ to build.
 Copper, aluminum, brass, galvanized steel and steel are suitable mesh
 materials.
 
-### BiQuad
+#### BiQuad
 
 The BiQuad antenna is simple to build and offers good directivity and
 gain for Point-to-Point communications. It consists of a two squares of
@@ -4752,14 +4746,15 @@ stand-alone antenna or as feeder for a Parabolic Dish.
 The polarization is such that looking at the antenna from the front, if
 the squares are placed side by side the polarization is vertical.
 
-\
+ 
 
-![](ATL/ATL15.png)\
-\
+![](./ATL/ATL15.png)
 
-*Figure****ATL****15:****The****BiQuad.*
+ 
 
-### **Log********Periodic********Antennas**
+Figure ATL 15: The BiQuad.
+
+#### Log Periodic Antennas
 
 Log periodic antennas have moderate gain over a wide frequency band,
 They are often used in spectrum analysers for testing purposes and are
@@ -4767,19 +4762,20 @@ also popular as TV receiving antennas since they can efficiently cover
 from channel 2 up to channel 14. These antennas are used in White space
 devices that require the ability to work in widely different channels.
 
-\
+ 
 
-![](ATL/ATL16.png)\
-\
+![](./ATL/ATL16.png)
 
-*Figure****ATL****16:****Log****periodic****antenna*
+ 
 
-### **Other********Antennas**
+Figure ATL 16: Log periodic antenna
+
+#### Other Antennas
 
 Many other types of antennas exist and new ones are created following
 advances in technology.
 
-\
+ 
 
 Sector or Sectorial antennas: they are widely used in cellular telephony
 infrastructure and are usually built adding a reflective plate to one or
@@ -4794,8 +4790,7 @@ horizontal range (multisectorial antenna).
 Panel or Patch antennas: they are solid flat panels used for indoor
 coverage, with a gain up to 23 dBi.
 
-**Reflector********theory**
----------------------------
+### Reflector theory
 
 The basic property of a perfect parabolic reflector is that it converts
 a spherical wave irradiating from a point source placed at the focus
@@ -4803,55 +4798,54 @@ into a plane wave. Conversely, all the energy received by the dish from
 a distant source is reflected to a single point at the focus of the
 dish. The position of the focus, or focal length, is given by:
 
-\
+ 
 
-*f****=**D*^*2*^*/**16****c*
+f = D2 /16 c
 
-\
+ 
 
 ...where D is the dish diameter and c is the depth of the parabola at
 its centre.
 
-\
+ 
 
 The size of the dish is the most important factor since it determines
 the maximum gain that can be achieved at the given frequency and the
 resulting beamwidth. The gain and beamwidth obtained are given by:
 
-\
+ 
 
-*Gain = ((3.14 D)^2^/ λ^2^) η*
+                      Gain = ((3.14 D)2 / λ2) η
 
-\
+ 
 
-*Beamwidth = 70 λ / D*
+Beamwidth = 70 λ / D
 
-\
+ 
 
-...where **D******is the dish diameter and **η******is the efficiency.
-The efficiency is determined mainly by the effectiveness of illumination
-of the dish by the feed, but also by other factors. Each time the
-diameter of a dish is doubled, the gain is four times or 6 dB greater.
-If both stations double the size of their dishes, signal strength can be
-increased by 12 dB, a very substantial gain. An efficiency of 50% can be
-assumed when hand- building antennas.
+...where D is the dish diameter and η is the efficiency. The efficiency
+is determined mainly by the effectiveness of illumination of the dish by
+the feed, but also by other factors. Each time the diameter of a dish is
+doubled, the gain is four times or 6 dB greater. If both stations double
+the size of their dishes, signal strength can be increased by 12 dB, a
+very substantial gain. An efficiency of 50% can be assumed when hand-
+building antennas.
 
-\
+ 
 
-The ratio f / **D** (focal length/diameter of the dish) is the
-fundamental factor governing the design of the feed for a dish. The
-ratio is directly related to the beamwidth of the feed necessary to
-illuminate the dish effectively. Two dishes of the same diameter but
-different focal lengths require different design of feed if both are to
-be illuminated efficiently. The value of 0.25 corresponds to the common
+The ratio f / D (focal length/diameter of the dish) is the fundamental
+factor governing the design of the feed for a dish. The ratio is
+directly related to the beamwidth of the feed necessary to illuminate
+the dish effectively. Two dishes of the same diameter but different
+focal lengths require different design of feed if both are to be
+illuminated efficiently. The value of 0.25 corresponds to the common
 focal-plane dish in which the focus is in the same plane as the rim of
 the dish.
 
 The optimum illumination of a dish is a compromise between maximising
 the gain and minimising the sidelobes.
 
-Amplifiers
-----------
+### Amplifiers
 
 As mentioned earlier, antennas do not actually create power. They simply
 direct all available power into a particular pattern. By using a power
@@ -4871,33 +4865,33 @@ your networking problems.
 We do not discuss power amplifiers at length in this book because there
 are a number of significant drawbacks to using them:
 
-\
+ 
 
--   They are expensive. Amplifiers must work at relatively wide
+-   •They are expensive. Amplifiers must work at relatively wide
     bandwidths at 2.4 GHz, and must switch quickly enough to work for
-    Wi- Fi applications.
+    Wi- Fi applications. 
 
--   They provide no additional directionality. High gain antennas not
+-   •They provide no additional directionality. High gain antennas not
     only improve the available amount of signal, but tend to reject
     noise from other directions. Amplifiers blindly amplify both desired
-    and interfering signals, and can make interference problems worse.
+    and interfering signals, and can make interference problems worse.  
 
--   Amplifiers generate noise for other users of the band. By increasing
-    your output power, you are creating a louder source of noise for
-    other users of the unlicensed band. Conversely, adding antenna gain
-    will improve your link and can actually decrease the noise level for
-    your neighbours.
+-   •Amplifiers generate noise for other users of the band. By
+    increasing your output power, you are creating a louder source of
+    noise for other users of the unlicensed band. Conversely, adding
+    antenna gain will improve your link and can actually decrease the
+    noise level for your neighbours. 
 
--   Using amplifiers is often illegal. Every country imposes power
+-   •Using amplifiers is often illegal. Every country imposes power
     limits on use of unlicensed spectrum. Adding an antenna to a highly
-    amplified signal will likely cause the link to exceed legal limits.
+    amplified signal will likely cause the link to exceed legal limits. 
 
-\
+ 
 
 Antennas cost far less than amps, and can improve a link simply by
 changing the antenna on one end.
 
-\
+ 
 
 Using more sensitive radios and good quality cable also helps
 significantly on long distance wireless links.
@@ -4912,8 +4906,7 @@ These are better than external amplifiers, but do not assume that it is
 always smart to use the high power version, for many application the
 standard power coupled with a high gain antenna is actually better.
 
-**Practical********antenna********designs**
--------------------------------------------
+### Practical antenna designs
 
 The cost of 2.4 GHz antennas has fallen dramatically with the increased
 popularity of WiFi. Innovative designs use simpler parts and fewer
@@ -4925,13 +4918,12 @@ While actually designing an antenna can be a complex and error-prone
 process, constructing antennas from locally available components is very
 straightforward, and can be a lot of fun.
 
-\
+ 
 
-In **Appendix********A******called Antenna Construction we present some
-practical antenna designs that can be built for very little money.
+In Appendix A called Antenna Construction we present some practical
+antenna designs that can be built for very little money.
 
-**Antenna********measurements**
--------------------------------
+### Antenna measurements
 
 Precise antenna instruments require expensive instruments and
 installations. It is therefore advisable to obtain the antenna
@@ -4940,7 +4932,7 @@ parameters values directly from a reputable manufacturer.
 An anechoic chamber is needed to perform accurate antenna measurements,
 otherwise the reflections will cause false readings.
 
-\
+ 
 
 Ice affects the performance of all antennas to some degree and the
 problem gets more serious at higher frequencies. The impedance of free
@@ -4948,18 +4940,18 @@ space is 377 ohms. If the air immediately surrounding the dipole
 elements is replaced by ice which has a lower impedance than air, then
 the impedance match and radiation patterns of the antenna will change.
 
-\
+ 
 
 These changes become progressively worse as the ice loading increases.
 
-\
+ 
 
 Antenna elements are usually encased in a plastic protective housing
 (radome). This provides an air space between the elements and ice casing
 so that the lower impedance of the ice layer has only a small effect on
 the radiators.
 
-\
+ 
 
 Detuning is greatly reduced but radiation pattern distortion may still
 be encountered (detuning reduces usable antenna bandwidth). For a given
@@ -4971,23 +4963,25 @@ install a full radome over solid parabolic antennas, to use panel
 antennas instead of corner reflectors, and to stay away from grid
 parabolics.
 
-\
+ 
 
-![](ATL/ATL17.png)\
-\
+![](./ATL/ATL17.png)
 
-*Figure****ATL****17:****Effect****of****ice****on****a****parabolic****grid****antenna*
+ 
 
-\
+Figure ATL 17: Effect of ice on a parabolic grid antenna
 
-\
+ 
 
-NETWORKING
+ 
+
+2NETWORKING
+===========
 
 6. NETWORKING
-=============
+-------------
 
-\
+ 
 
 Before purchasing equipment or deciding on a hardware platform, you
 should have a clear idea of the nature of your communications problem.
@@ -4998,7 +4992,7 @@ reach the larger global Internet.
 The network design you choose to implement should fit the communications
 problem you are trying to solve.
 
-\
+ 
 
 Do you need to connect a remote site to an Internet connection in the
 centre of your campus? Will your network likely grow to include several
@@ -5006,7 +5000,7 @@ remote sites? Will most of your network components be installed in fixed
 locations, or will your network expand to include hundreds of roaming
 laptops and other devices?
 
-\
+ 
 
 In this chapter, we will review the networking concepts that define
 TCP/IP, the primary family of networking protocols currently used on the
@@ -5015,9 +5009,9 @@ Internet.
 We will also look at the hardware options that are likely to form the
 underlying physical layer of your TCP/IP network and end with some
 examples of wireless configurations. This will prepare you very well for
-the chapter called **Deployment********Planning******later in this book.
+the chapter called Deployment Planning later in this book.
 
-\
+ 
 
 TCP/IP refers to the suite of protocols that allow conversations to
 happen on the global Internet.
@@ -5026,7 +5020,7 @@ By understanding TCP/IP, you can build networks that will scale to
 virtually any size, and will ultimately become part of the global
 Internet.
 
-\
+ 
 
 This edition of the book now includes an introduction to IPv6 which is
 the new numbering system of the Internet.
@@ -5036,8 +5030,7 @@ highly recommended you become familiar with how this works and also how
 it can work alongside the older IPv4 networks that will continue to
 operate on the Internet for some while yet.
 
-Introduction
-------------
+### Introduction
 
 Venice, Italy is a fantastic city to get lost in. The roads are mere
 foot paths that cross water in hundreds of places, and never go in a
@@ -5048,32 +5041,33 @@ intricate layout of that ancient city. Many people find that knowing the
 location of the water and the sun is far more useful than trying to find
 a street name on a map.
 
-\
+ 
 
 Imagine a tourist who happens to find papier-mâché mask as a souvenir,
 and wants to have it shipped from the studio in S. Polo, Venezia to
 their home in London, United Kingdom. This may sound like an ordinary
 (or even trivial) task, but let's look at what actually happens.
 
-\
+ 
 
-![](NG/NG1.png)\
-\
+![](./NG/NG1.png)
 
-*Figure****NG****1:****Another****kind****of****network****mask.*
+ 
 
-\
+Figure NG 1: Another kind of network mask.
+
+ 
 
 The artist first packs the mask into a shipping box and addresses it to
 the home of the tourist.
 
-\
+ 
 
 They then hand this to a postal employee in Venice, who attaches some
 official forms and sends it to a central package processing hub for
 international destinations.
 
-\
+ 
 
 After several days, the package clears Italian customs and finds its way
 onto a flight to the UK, arriving at a central import processing depot
@@ -5087,7 +5081,7 @@ Camden. A member of the family accepts and signs for the package from
 the delivery van driver and then leaves it in the home studio of the
 tourist who enjoys unpacking it some time later.
 
-\
+ 
 
 The sorting clerk at the office in Camden neither knows nor cares about
 how to get to the sestiere of S. Polo, Venezia.
@@ -5100,7 +5094,7 @@ to get to the correct address in London. His job is to accept packages
 from his local neighborhood and forward them to the next closest hub in
 the delivery chain.
 
-\
+ 
 
 This is very similar to how Internet routing works. A message is split
 up into many individual packets, and are labelled with their source and
@@ -5109,7 +5103,7 @@ destination.
 The computer then sends these packets to a router, which decides where
 to send them next.
 
-\
+ 
 
 The router needs only to keep track of a handful of routes (for example,
 how to get to the local network, the best route to a few other local
@@ -5141,13 +5135,16 @@ protocol for forwarding packets.
 These standard communication protocols make it possible to exchange
 information on a global scale.
 
-\
+ 
 
-![](NG/NG2.png)\
-*Figure****NG****2:****Internet****networking.****Packets****are****forwarded****between****routers****until****they****reach****their****ultimate****destination.*
+![](./NG/NG2.png)
 
-**Cooperative********communications**
--------------------------------------
+Figure NG 2: Internet networking. Packets are forwarded between routers
+until they reach their ultimate destination.
+
+ 
+
+### Cooperative communications
 
 Communication is only possible when the participants speak a common
 language. But once the communication becomes more complex than a simple
@@ -5166,8 +5163,7 @@ every machine tries to speak at once. People have developed a number of
 communications frameworks to address this problem. The most well-known
 of these is the OSI model.
 
-**The********OSI********model**
--------------------------------
+### The OSI model
 
 The international standard for Open Systems Interconnection (OSI) is
 defined by the document ISO/IEC 7498-1, as outlined by the International
@@ -5195,9 +5191,7 @@ As long as the interface between layers adheres to the standard,
 implementers are free to use whatever means are available to build their
 protocol stack.
 
-\
-
-\
+ 
 
 This means that any given layer from manufacturer A can operate with the
 same layer from manufacturer B (assuming the relevant specifications are
@@ -5205,13 +5199,13 @@ implemented and interpreted correctly).
 
 Here is a brief outline of the seven-layer OSI networking model:
 
-\
+ 
 
-**Layer**
+Layer
 
-**Name**
+Name
 
-**Description**
+Description
 
 7
 
@@ -5290,7 +5284,7 @@ be a copper CAT5 cable, a fibre optic bundle, radio waves, or just about
 any other medium capable of transmitting signals. Cut wires, broken
 fibre, and RF interference are all physical layer problems.
 
-\
+ 
 
 The layers in this model are numbered one through seven, with seven at
 the top. This is meant to reinforce the idea that each layer builds
@@ -5300,7 +5294,7 @@ successive floors, and the roof at layer seven. If you remove any single
 layer, the building will not stand. Similarly, if the fourth floor is on
 fire, then nobody can pass through it in either direction.
 
-\
+ 
 
 The first three layers (Physical, Data Link, and Network) all happen "on
 the network." That is, activity at these layers is determined by the
@@ -5314,7 +5308,7 @@ routers may implement layer four and above, to allow them to make
 decisions based on the higher-level information content in a packet,
 such as the name of a website, or the attachments of an email.
 
-\
+ 
 
 The OSI model is internationally recognised, and is widely regarded as
 the complete and definitive network model. It provides a framework for
@@ -5327,8 +5321,7 @@ at the Session or Presentation layers. For the majority of Internet
 network implementations, the OSI model can be simplified into a smaller
 collection of five layers.
 
-**The********TCP/IP********model**
-----------------------------------
+### The TCP/IP model
 
 Unlike the OSI model, the TCP/IP model is not an international standard
 and its definitions vary. Nevertheless, it is often used as a pragmatic
@@ -5337,15 +5330,15 @@ model for understanding and troubleshooting Internet networks.
 The vast majority of the Internet uses TCP/IP, and so we can make some
 assumptions about networks that make them easier to understand.
 
-\
+ 
 
 The TCP/IP model of networking describes the following five layers:
 
-\
+ 
 
-**Layer**
+Layer
 
-**Name**
+Name
 
 5
 
@@ -5367,7 +5360,7 @@ Data Link
 
 Physical
 
-\
+ 
 
 In terms of the OSI model, layers five through seven are rolled into the
 topmost layer (the Application layer). The first four layers in both
@@ -5382,11 +5375,11 @@ TCP/IP, and everything above layer four tends to apply to specific
 applications, this simplified model works well when building and
 troubleshooting TCP/IP networks.
 
-\
+ 
 
 We will use the TCP/IP model when discussing networks in this book.
 
-\
+ 
 
 The TCP/IP model can be compared to a person delivering a letter to a
 city office building.
@@ -5398,7 +5391,7 @@ the correct address (the Internet layer), go to the correct floor and
 room number (the Transport layer), and finally give it to a receptionist
 who can take the letter from there (the Application layer).
 
-\
+ 
 
 Once they have delivered the message to the receptionist, the delivery
 person is free to go on their way. The five layers can be easily
@@ -5406,10 +5399,9 @@ remembered by using the mnemonic “Please Don’t Look In The Attic,” which
 of course stands for “Physical / Data Link / Internet / Transport /
 Application.”
 
-\
+ 
 
-**The********Internet****P****rotocols**
-----------------------------------------
+### The Internet Protocols
 
 TCP/IP is the protocol stack most commonly used on the global Internet.
 The acronym stands for Transmission Control Protocol (TCP) and Internet
@@ -5427,7 +5419,7 @@ content or old applications (Skype in 2012) still require IPv4. And
 indeed many networks that you might have to interconnect to will still
 have the legacy IPv4 technology deployed for some years to come.
 
-\
+ 
 
 Besides the length of the address, IPv4 and IPv6 are quite similar: they
 are connectionless network protocols running on the same data-link layer
@@ -5438,7 +5430,7 @@ network that runs IPv6 and IPv4 and the same time. It is expected that
 dual-networks will be the norm at least until 2020 when IPv6-only will
 become the norm.
 
-### **IPv6********Addressing**
+#### IPv6 Addressing
 
 The IPv6 address is a 128-bit number usually written as multiple
 hexadecimal numbers. In order to make this address human-readable, it is
@@ -5446,15 +5438,15 @@ written in chunks of 32 bits or 4 hexadecimal numbers separated by a
 colon ':'. The hexadecimal number should be written in lowercase but can
 also be written in uppercase. An example of an IPv6 address is:
 
-\
+ 
 
 2001:0db8:1234:babe:0000:0000:0000:0001
 
-\
+ 
 
 This address corresponds to:
 
-\
+ 
 
 2001
 
@@ -5472,39 +5464,40 @@ babe
 
 1
 
-\
+ 
 
 As these addresses are quite long, it is common to remove the leading 0
 in each chunk, so, the same address can also be written as:
 
-\
+ 
 
-*2001:db8:1234:babe:0:0:0:1*
+2001:db8:1234:babe:0:0:0:1
 
-\
+ 
 
 This address can further be simplified by grouping one block of
 consecutive chunks of '0' into the abbreviated form of '::', the same
 address becomes then:
 
-\
+ 
 
-*2001:db8:1234:babe::1*
+2001:db8:1234:babe::1
 
-\
+ 
 
 There are some specific IPv6 addresses:
 
-\
+ 
 
--   ::1 (or 0000:00000:0000:0000:0000:0000:0000:0001) represents the
+-   •::1 (or 0000:00000:0000:0000:0000:0000:0000:0001) represents the
     loopback address, this is the node itself when the node wants to
-    send packets to itself;
+    send packets to itself; 
 
--   :: (all zero) is the undetermined address, to be used by a node when
-    it does not know its global address, for instance when it boots.
+-   •:: (all zero) is the undetermined address, to be used by a node
+    when it does not know its global address, for instance when it
+    boots. 
 
-### **IPv6********Prefixes**
+#### IPv6 Prefixes
 
 IPv6 nodes on the same link or network share the same IPv6 prefix, which
 is defined as the most-significant part of the IPv6 address. The prefix
@@ -5514,7 +5507,7 @@ length is added at the end of the address after a '/'). Defining a
 prefix length on an address actually splits the address in two parts:
 the prefix itself and the interface identifier (IID).
 
-\
+ 
 
 2001
 
@@ -5534,9 +5527,9 @@ babe
 
 Prefix
 
-Interface Identifier
+  Interface Identifier
 
-\
+ 
 
 On a LAN or WLAN, the prefix length must be 64 bits else some protocols
 will not work correctly. All nodes on the same LAN or WLAN usually share
@@ -5549,13 +5542,13 @@ The prefix length can be different on links that are neither LAN or
 WLAN. The network itself is identified by the prefix without any IID but
 with the prefix length, for example: 2001:db8:1234:babe::/64
 
-### **IPv4********Addressing**
+#### IPv4 Addressing
 
 In an IPv4 network, the address is a 32-bit number, normally written as
 four 8-bit numbers expressed in decimal form and separated by periods.
 Examples of IPv4 addresses are 10.0.17.1, 192.168.1.1, or 172.16.5.23.
 
-\
+ 
 
 If you enumerated every possible IPv4 address, they would range from
 0.0.0.0 to 255.255.255.255.
@@ -5564,23 +5557,25 @@ This yields a total of more than four billion possible IPv4 addresses
 (255 x 255 x 255 x 255 = 4,228,250,625); although many of these are
 reserved for special purposes and should not be assigned to hosts.
 
-\
+ 
 
 Some IPv4 addresses that are special:
 
-\
+ 
 
--   127.0.0.1 represents the loopback address (similar to ::1 for IPv6);
+-   •127.0.0.1 represents the loopback address (similar to ::1 for
+    IPv6); 
 
--   0.0.0.0 represents the unspecified address (similar to :: for IPv6).
+-   •0.0.0.0        represents the unspecified address (similar to ::
+    for IPv6). 
 
-### **IPv4********Subnets**
+#### IPv4 Subnets
 
 By applying a subnet mask (also called a network mask, or simply netmask
 or even prefix) to an IPv4 address, you can logically define both a host
 and the network to which it belongs.
 
-\
+ 
 
 Traditionally, subnet masks are expressed using dotted decimal form,
 much like an IPv4 address. For example, 255.255.255.0 is one common
@@ -5611,23 +5606,19 @@ both of the bits being compared are also "1". Otherwise the result is
 Here are all of the possible outcomes of a binary AND comparison between
 two bits.
 
-\
+ 
 
-**Bit********1**
+Bit 1
 
-**Bit********2**
+Bit 2
 
-**Result**
-
-0
+Result
 
 0
 
 0
 
 0
-
-1
 
 0
 
@@ -5635,6 +5626,10 @@ two bits.
 
 0
 
+1
+
+0
+
 0
 
 1
@@ -5643,13 +5638,13 @@ two bits.
 
 1
 
-\
+ 
 
 To understand how a netmask is applied to an IPv4 address, first convert
 everything to binary. The netmask 255.255.255.0 in binary contains
 twenty-four "1" bits:
 
-255 255 255 0
+255 255 255 0
 
 11111111.11111111.11111111.00000000
 
@@ -5685,13 +5680,13 @@ them overlap, and each is a valid subnet whose size is a power of two.
 
 While many netmasks are possible, common netmasks include:
 
-\
+ 
 
-**CIDR**
+CIDR
 
-**Decimal**
+Decimal
 
-**\#********of********Hosts**
+\# of Hosts
 
 /30
 
@@ -5747,15 +5742,15 @@ While many netmasks are possible, common netmasks include:
 
 16 777 216
 
-\
+ 
 
-\
+ 
 
 With each reduction in the CIDR value the IPv4 space is doubled.
 Remember that two IPv4 addresses within each network are always reserved
 for the network and broadcast addresses.
 
-\
+ 
 
 There are three common netmasks that have special names. A /8 network
 (with a netmask of 255.0.0.0) defines a Class A network. A /16
@@ -5768,29 +5763,28 @@ used for historical reasons.
 In many ways as you can already see IPv6 is easier to plan for than
 IPv4.
 
-### **Global********IP********Addresses**
+#### Global IP Addresses
 
 Interconnected networks must agree on an IP addressing plan for IPv6 and
 IPv4 addresses.
 
-\
+ 
 
 IP addresses must be unique and generally cannot be used in different
 places on the Internet at the same time; otherwise, routers would not
 know how best to route packets to them.
 
-\
+ 
 
-![](NG/NG3.1.png)\
-\
+![](./NG/NG3.1.png)
 
-\
+ 
 
-*Figure NG 3: With unique IP addresses, ambiguous global routing is
+Figure NG 3: With unique IP addresses, ambiguous global routing is
 impossible. If the PC requests a web page from 2001:db8:1::2, it will
-reach the correct server.*
+reach the correct server.
 
-\
+ 
 
 In order to keep IP addresses unique and globally routable, they are
 allocated by a central numbering authority that provides a consistent
@@ -5811,45 +5805,49 @@ IANA has divided these address spaces into large subnets, and these
 subnets are delegated to one of the five regional Internet registries
 (RIRs), who have been given authority over large geographic areas.
 
-\
+ 
 
 IP addresses are assigned and distributed by Regional Internet
 Registrars (RIRs) to ISPs. The ISP then allocates smaller IP blocks to
 their clients as required. Virtually all Internet users obtain their IP
 addresses from an ISP.
 
-![](NG/NG4.png)\
-*Figure****NG****4:****Authority****for****Internet****IP****address****assignments****is****delegated****to****the****five****Regional****Internet****Registrars.*
+![](./NG/NG4.png)
 
-\
+Figure NG 4: Authority for Internet IP address assignments is delegated
+to the five Regional Internet Registrars.
+
+ 
 
 The five RIRs are:
 
-\
+ 
 
-1.  African Network Information Centre
+1.  1)African Network Information Centre  
 
-    (AfriNIC, [http://www.afrinic.net](http://www.afrinic.net/))
+    (AfriNIC, [http://www.afrinic.net](http://www.afrinic.net/)) 
 
-2.  Asia Pacific Network Information Centre
+2.  2)Asia Pacific Network Information Centre 
 
-    (APNIC, [http://www.apnic.net](http://www.apnic.net/))
+    (APNIC, [http://www.apnic.net](http://www.apnic.net/))  
 
-3.  American Registry for Internet Numbers
+3.  3)American Registry for Internet Numbers 
 
-    (ARIN, [http://www.arin.net](http://www.arin.net/))
+    (ARIN, [http://www.arin.net](http://www.arin.net/)) 
 
-4.  Regional Latin-American and Caribbean IP Address Registry (LACNIC,
-    [http://www.lacnic.net](http://www.lacnic.net/))
+4.  4)Regional Latin-American and Caribbean IP Address Registry (LACNIC,
+    [http://www.lacnic.net](http://www.lacnic.net/)) 
 
-5.  Réseaux IP Européens
+5.  5)Réseaux IP Européens  
 
-    (RIPE NCC, [http://www.ripe.net](http://www.ripe.net/))
+    (RIPE NCC, [http://www.ripe.net](http://www.ripe.net/)) 
+
+     
 
 Your ISP will assign globally routable IP address space to you from the
 pool allocated to it by your RIR.
 
-\
+ 
 
 The registry system assures that IP addresses are not reused in any part
 of the network anywhere in the world.
@@ -5859,7 +5857,7 @@ pass packets between networks and participate in the global Internet.
 
 The process of moving packets between networks is called routing.
 
-### **Static********IP********Addresses**
+#### Static IP Addresses
 
 A static IP address is an address assignment that never changes.
 
@@ -5872,7 +5870,7 @@ Blocks of static IP addresses may be assigned by your ISP, either by
 request or automatically depending on your means of connection to the
 Internet.
 
-### **Dynamic********IP********Addresses**
+#### Dynamic IP Addresses
 
 Dynamic IP addresses are assigned by an ISP for non-permanent nodes
 connecting to the Internet, such as a home computer which is on a
@@ -5882,7 +5880,7 @@ Dynamic IP addresses can be assigned automatically using the Dynamic
 Host Configuration Protocol (DHCP), or the Point-to-Point Protocol
 (PPP), depending on the type of Internet connection.
 
-\
+ 
 
 A node using DHCP first requests an IP address assignment from the
 network, and automatically configures its network interface. IP
@@ -5890,20 +5888,20 @@ addresses can be assigned randomly from a pool by your ISP, or might be
 assigned according to a policy. IP addresses assigned by DHCP are valid
 for a specified time (called the lease time).
 
-\
+ 
 
 The node must renew the DHCP lease before the lease time expires. Upon
 renewal, the node may receive the same IP address or a different one
 from the pool of available addresses.
 
-\
+ 
 
 While DHCP works for IPv6 and IPv4, IPv6 has another primary mechanism
 which is more commonly used for address assignment - it is called
 Stateless Address Auto-Configuration (SLAAC) which is the default on
 routers and hosts running IPv6.
 
-\
+ 
 
 It does not require a DHCP server; the router sends periodically Router
 Advertisement (RA) messages on all connected (W)LAN's which contain the
@@ -5913,7 +5911,7 @@ on their MAC address – see further) and build their 128-bit address by
 concatenating the 64-bit prefix from the RA and the newly created 64-bit
 IID.
 
-\
+ 
 
 Dynamic addresses are popular with Internet Service Providers, because
 it enables them to use fewer IP addresses than their total number of
@@ -5928,7 +5926,7 @@ of IPv4 addresses.
 Assigning addresses dynamically allows ISPs to save money, and they will
 often charge extra to provide a static IP address to their customers.
 
-### **Private********IPv4********addresses**
+#### Private IPv4 addresses
 
 Around 2000, it became clear that there would not be enough IPv4
 addresses for everyone; this is the reason that IPv6 was specified and
@@ -5944,12 +5942,12 @@ addressable from the public Internet.
 Organisations typically use IPv4 addresses from the private address
 space for machines on the internal network.
 
-\
+ 
 
 There are currently three blocks of private address space reserved by
 IANA: 10.0.0.0/8, 172.16.0.0/12, and 192.168.0.0/16.
 
-\
+ 
 
 These are defined in RFC1918.
 
@@ -5957,27 +5955,29 @@ These addresses are not intended to be routed on the Internet, and are
 typically unique only within an organisation or group of organisations
 that choose to follow the same numbering scheme.
 
-\
+ 
 
-\
+ 
 
 This means that several distinct organisations can use the same
 addresses as long as they never interconnect their networks directly.
 
-\
+ 
 
-![](NG/NG5.png)\
-\
+![](./NG/NG5.png)
 
-*Figure****NG****5:****RFC1918****private****addresses****may****be****used****within****an****organisation,****and****are****not****routed****on****the****global****Interne**t*.
+ 
 
-\
+Figure NG 5: RFC1918 private addresses may be used within an
+organisation, and are not routed on the global Internet.
+
+ 
 
 If you ever intend to link together private networks that use RFC1918
 address space, be sure to use unique addresses throughout all of the
 networks.
 
-\
+ 
 
 For example, you might break the 10.0.0.0/8 address space into multiple
 Class B networks (10.1.0.0/16, 10.2.0.0/16, etc.).
@@ -5986,28 +5986,28 @@ One block could be assigned to each network according to its physical
 location (the campus main branch, field office one, field office two,
 dormitories, and so forth).
 
-\
+ 
 
 The network administrators at each location can then break the network
 down further into multiple Class C networks (10.1.1.0/24, 10.1.2.0/24,
 etc.) or into blocks of any other logical size.
 
-\
+ 
 
-\
+ 
 
 In the future, should the networks ever be linked (either by a physical
 connection, wireless link, or VPN), then all of the machines will be
 reachable from any point in the network without having to renumber
 network devices.
 
-\
+ 
 
 Some Internet providers may allocate private addresses like these
 instead of public addresses to their customers, although this has
 serious disadvantages.
 
-\
+ 
 
 Since these addresses cannot be routed over the Internet, computers
 which use them are not really "part" of the Internet, and are not
@@ -6015,13 +6015,13 @@ directly reachable from it. In order to allow them to communicate with
 the Internet, their private addresses must be translated to public
 addresses.
 
-\
+ 
 
 This translation process is known as Network Address Translation (NAT),
 and is normally performed at the gateway between the private network and
 the Internet.
 
-\
+ 
 
 We will look at NAT in more detail later on in this chapter.
 
@@ -6029,16 +6029,16 @@ As there are huge numbers of IPv6 addresses, there is no need for
 private IPv6 addresses, although there are Unique Local Addresses (ULA)
 that are suitable for non connected networks such as labs.
 
-\
+ 
 
-### **Discovering********Neighbours**
+#### Discovering Neighbours
 
-Imagine a network with three hosts: H~A~, H~B~, and H~C~. They use the
+Imagine a network with three hosts: HA, HB, and HC. They use the
 corresponding IP addresses A, B and C.
 
 These hosts are part of the same subnet/prefix.
 
-\
+ 
 
 For two hosts to communicate on a local network, they must determine
 each others' MAC addresses. It is possible to manually configure each
@@ -6047,55 +6047,53 @@ easier to dynamically discover the neighbour's MAC address through
 Neighbor Discovery Protocol (NDP) in IPv6 and Address Resolution
 Protocol (ARP) in IPv4. NDP and ARP work in a very similar way.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-![](NG/NG6.png)\
-\
+![](./NG/NG6.png)
 
-\
+ 
 
-*Figure****NG****6:****IPv6****node****A,****2001:db8::1****needs****to****send****data****to****2001:db8::3****in****the****same****network****(2001:db8::/64****prefix).****But****it****must****first****ask
-for****the****MAC****address****that****corresponds****to****2001:db8::3.*
+Figure NG 6: IPv6 node A, 2001:db8::1 needs to send data to 2001:db8::3
+in the same network (2001:db8::/64 prefix). But it must first ask for
+the MAC address that corresponds to 2001:db8::3.
 
-\
+ 
 
 When using NDP, node A multicasts to some hosts the question,
 
 "Who has the MAC address for the IPv6 2001:db8::3?"
 
-\
+ 
 
 When node C sees a Neighbor Solicitation (NS) for an IPv6 address of its
 own, it replies with its MAC address with a Neighbor Advertisement (NA)
 message.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-![](NG/NG7.png)\
-\
+![](./NG/NG7.png)
 
-\
+ 
 
-\
+Figure NG 7: IPv4 node A, 192.168.1.1, needs to send data to 192.168.1.3
+in the same subnet (192.168.1.0/24). But it must first ask the whole
+network for the MAC address that corresponds to 192.168.1.3.
 
-*Figure****NG****7:****IPv4****node****A,****192.168.1.1,****needs****to****send****data****to****192.168.1.3****in****the****same****subnet****(192.168.1.0/24).****But****it****must****first****ask****the
-whole****network****for****the****MAC****address****that****corresponds****to****192.168.1.3.*
-
-\
+ 
 
 When using ARP, node A broadcasts to all hosts the question,
 
@@ -6110,18 +6108,19 @@ Also ARP broadcasts the request, this means that it is received by all
 IPv4 nodes in the network causing more host CPU utilisation than IPv6
 NDP which only multicasts to some hosts.
 
-\
+ 
 
-### **IP********Routing********to********no****n****-****Neighbours**
+#### IP Routing to non-Neighbours
 
-\
+ 
 
-![](NG/NG8.png)\
-\
+![](./NG/NG8.png)
 
-*Figure****NG****8:****Two****separate****IPv6****networks.*
+ 
 
-\
+Figure NG 8: Two separate IPv6 networks.
+
+ 
 
 Consider now another network with 3 nodes, D, E, and F, with the
 corresponding IPv6 addresses 2001:db8:2::1, 2001:db8:2::2, and
@@ -6150,33 +6149,35 @@ static route via 2001:db8:1::4.
 
 In Linux, this can be accomplished with the following command:
 
-\
+ 
 
-*\# ip -6 route add 2001:db8:2::/64 via 2001:db8:1::4*
+\# ip -6 route add 2001:db8:2::/64 via 2001:db8:1::4
 
-\
+ 
 
 ...and hosts D-F would add the following:
 
-*\#****ip****-**6****route****add****2001:db8:1::/64****via****2001:db8:2::4*
+\# ip -6 route add 2001:db8:1::/64 via 2001:db8:2::4
 
-\
+ 
 
-![](NG/NG9.png)\
-\
+![](./NG/NG9.png)
 
-*Figure****NG****9:****Node****G****acts****as****a****router****between****the****two****networks,****other****hosts****use****static****routes.*
+ 
 
-\
+Figure NG 9: Node G acts as a router between the two networks, other
+hosts use static routes.
+
+ 
 
 The result for node A is shown in Figure NG 9.
 
-\
+ 
 
 Notice that the route is added via the IPv6 address on host G that is
 link-local to the respective network.
 
-\
+ 
 
 Host A could not add a route via 2001:db8:2::4, even though it is the
 same physical machine as 2001:db8:1::4 (node G), since that IPv6 is not
@@ -6186,29 +6187,29 @@ The address of the next hop can be entered either as a global address
 (2001:db8:2::4) or as a link-local address (fe80::...); it is usually
 easier to configure a static route with a global address.
 
-\
+ 
 
 In IPv6, the router G also sends a solicitation and periodically router
 advertisements that contain its own link-local address, hence, all nodes
 using stateless auto-configuration or DHCP automatically add a default
 route via the router link-local address as shown in Figure NG 10.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+![](./NG/NG10.png)
 
-![](NG/NG10.png)\
-\
+ 
 
-*Figure****NG****10:****Node****G****acts****as****a****router****between****the****two****networks,****hosts****use****stateless****address****autoconfiguration.*
+Figure NG 10: Node G acts as a router between the two networks, hosts
+use stateless address autoconfiguration.
 
-\
+ 
 
 This is a very simple routing example, where the destination is only a
 single hop away from the source. As networks get more complex, many hops
@@ -6217,7 +6218,7 @@ isn't practical for every machine on the Internet to know the route to
 every other, we make use of a routing entry known as the default route
 (also known as the default gateway).
 
-\
+ 
 
 When a router receives a packet destined for a network for which it has
 no explicit route, the packet is forwarded to its default gateway.
@@ -6225,7 +6226,7 @@ no explicit route, the packet is forwarded to its default gateway.
 The default gateway is typically the best route out of your network,
 usually in the direction of your ISP.
 
-\
+ 
 
 An example of a router that uses a default gateway is shown in Figure NG
 11. Figure NG 11 shows the routing table (which is the set of all
@@ -6233,27 +6234,29 @@ routes) on the internal router G which includes the two directly
 connected networks 2001:db8:1::/64 and 2001:db8:2::/64 as well as a
 route to all other hosts on the Internet ::/0.
 
-\
+ 
 
-\
+ 
 
 A node always uses the most specific route; that is the route with the
 longest match to the destination, in Figure NG 11 eth0 will be used for
 destination 2001:db8:1::1 (match length /64) rather than the less
 specific ::/0 (match length of 0).
 
-![](NG/NG11.png)\
-\
+![](./NG/NG11.png)
 
-*Figure****NG****11:****Node****G****is****the****internal****router****and****uses****the****Internet****router.*
+ 
 
-\
+Figure NG 11: Node G is the internal router and uses the Internet
+router.
+
+ 
 
 A route tells the OS that the desired network doesn't lie on the
 immediate link-local network, and it must forward the traffic through
 the specified router.
 
-\
+ 
 
 If host A wants to send a packet to host F, it would first send it to
 node G. Node G would then look up host F in its routing table, and see
@@ -6262,27 +6265,29 @@ that it has a direct connection to host F's network.
 Finally, host G would resolve the hardware (MAC) address of host F and
 forward the packet to it.
 
-\
+ 
 
 Routes can be updated manually, or can dynamically react to network
 outages and other events.
 
 Some examples of popular dynamic routing protocols are RIP, OSPF, BGP.
 
-\
+ 
 
-\
+ 
 
 Configuring dynamic routing is beyond the scope of this book, but for
-further reading on the subject, see the resources in
-**Appendix********F**.
+further reading on the subject, see the resources in Appendix F.
 
 IPv4 behaves exactly the same way as depicted in figure NG 12.
 
-\
+ 
 
-![](NG/NG12.png)\
-*Figure****NG****12:****Node****G****is****the****Internet****router****on****this****IPv4****network.*
+![](./NG/NG12.png)
+
+Figure NG 12: Node G is the Internet router on this IPv4 network.
+
+ 
 
 As noted before, most networks and the Internet are dual-stack and all
 hosts and routers have both IPv4 and IPv6 addresses, this also means
@@ -6290,31 +6295,31 @@ that the nodes will have routes for IPv4 and routes for IPv6. For
 instance, the set of all routes on node G of the previous figures will
 be:
 
-\
+ 
 
-*\#******netstat************-******rn************-******A************inet6***
+\# netstat -rn -A inet6
 
-*Destination Next Hop If*
+ Destination           Next Hop     If
 
-*2001:db8:1:/64 :: eth0*
+ 2001:db8:1:/64         ::        eth0
 
-*2001:db8:2:/64 :: eth1*
+ 2001:db8:2:/64                ::          eth1
 
-*::/0 2001:db8:2::1 eth1*
+ ::/0                        2001:db8:2::1         eth1
 
-\
+ 
 
-*\# **netstat********-****rn********-****A********inet4***
+\# netstat -rn -A inet4
 
-*Destination Gateway Genmask Iface*
+Destination Gateway  Genmask  Iface
 
-*192.168.1.0 0.0.0.0 255.255.255.0 eth0*
+ 192.168.1.0 0.0.0.0        255.255.255.0           eth0
 
-*192.168.2.0 0.0.0.0 255.255.255.0 eth1*
+ 192.168.2.0 0.0.0.0       255.255.255.0           eth1
 
-*0.0.0.0 192.168.2.1 0.0.0.0 eth1*
+ 0.0.0.0    192.168.2.1 0.0.0.0          eth1
 
-### **Network********Address********Translation********(NAT)********for********IPv4**
+#### Network Address Translation (NAT) for IPv4
 
 In order to reach hosts on the Internet, private addresses must be
 converted to global, publicly routable IPv4 addresses.
@@ -6344,27 +6349,29 @@ The NAT router translates outbound packets to use the global IPv4
 address as they leave the network, and translates them back again as
 they are received from the Internet.
 
-\
+ 
 
 The major consequence of using NAT is that machines from the Internet
 cannot easily reach servers within the organisation without setting up
 explicit forwarding rules on the router.
 
-\
+ 
 
 Connections initiated from within the private address space generally
 have no trouble, although some applications (such as Voice over IPv4 and
 some VPN software) can have difficulty dealing with NAT.
 
-\
+ 
 
-![](NG/NG13.png)\
-\
+![](./NG/NG13.png)
 
-*Figure****NG****13:****Network****Address****Translation****allows****you****to****share****a****single****IPv4****address****with****many****internal****hosts,****but****can****make****it****difficult****for
-some****services****to****work****properly.*
+ 
 
-\
+Figure NG 13: Network Address Translation allows you to share a single
+IPv4 address with many internal hosts, but can make it difficult for
+some services to work properly.
+
+ 
 
 Depending on your point of view, this can be considered a bug (since it
 makes it harder to set up two-way communication) or a feature. RFC1918
@@ -6372,15 +6379,14 @@ addresses should be filtered on the edge of your network to prevent
 accidental or malicious RFC1918 traffic entering or leaving your
 network.
 
-\
+ 
 
 While NAT performs some firewall-like functions, it is not a replacement
 for a real firewall as most of the attacks happen now when an internal
 user visits some web sites with hostile content (called malware for
 malevolent software).
 
-**Internet********Protocol********Suite**
------------------------------------------
+### Internet Protocol Suite
 
 Machines on the Internet use the Internet Protocol (IP) to reach each
 other, even when separated by many intermediary machines.
@@ -6396,7 +6402,7 @@ Internet Control Message Protocol (ICMP, number 1 for IPv4 and number 58
 for IPv6). Taken as a group, these protocols (and others) are known as
 the Internet Protocol Suite, or simply TCP/IP for short.
 
-\
+ 
 
 The TCP and UDP protocols introduce the concept of port numbers. Port
 numbers allow multiple services to be run on the same IP address, and
@@ -6408,13 +6414,13 @@ and on TCP port 443 for encrypted/secure traffic, NTP time servers
 listen on UDP port 123, DNS domain name servers listen on UDP port 53,
 and SMTP email servers listen on TCP port 25.
 
-\
+ 
 
 When we say that a service "listens" on a port (such as port 80), we
 mean that it will accept packets that use its IP as the destination IP
 address, and 80 as the destination port.
 
-\
+ 
 
 Servers usually do not care about the source IP or source port, although
 sometimes they will use them to establish the identity of the other
@@ -6427,20 +6433,20 @@ When a client connects to a service, it may use any source port number
 on its side that is not already in use, but it must connect to the
 proper port on the server (e.g. 80 for web, 25 for email).
 
-\
+ 
 
 TCP is a session-oriented protocol with guaranteed and ordered delivery
 and transmission control features (such as detection and mitigation of
 network congestion, retries, packet reordering and reassembly, etc.).
 
-\
+ 
 
 UDP is designed for connectionless streams of information, and does not
 guarantee delivery at all, or in any particular order but can be faster
 so it is often used for real-time protocols such as for timing, voice or
 video.
 
-\
+ 
 
 The ICMP protocol is designed for debugging and maintenance on the
 Internet.
@@ -6456,15 +6462,14 @@ By now you should have a solid understanding of how computers on the
 network are addressed, and how information flows on the network between
 them.
 
-\
+ 
 
 Now let's take a brief look at the physical hardware that implements
 these network protocols.
 
-**Physical********hardware**
-----------------------------
+### Physical hardware
 
-### Ethernet
+#### Ethernet
 
 Ethernet is the name of the most popular standard for connecting
 together computers on a Local Area Network (LAN). It is sometimes used
@@ -6478,7 +6483,7 @@ The name comes from the physical concept of the ether, the medium which
 was once supposed to carry light waves through free space. The official
 standard is called IEEE 802.3.
 
-\
+ 
 
 One widely deployed Ethernet standard is called 100baseT also known as
 Fast Ethernet.
@@ -6487,7 +6492,7 @@ This defines a data rate of 100 Megabits per second (hence the 100),
 running over twisted (hence the T) pair wires, with modular RJ-45
 connectors on the end.
 
-\
+ 
 
 The network topology is a star, with switches or hubs at the centre of
 each star, and end nodes (devices and additional switches) at the edges.
@@ -6498,7 +6503,7 @@ Increasingly Gigabit Ethernet is replacing Fast Ethernet in many
 networks these days as demand for high volume video and other high data
 rate applications become more prevalent.
 
-### **Medium********Access********Control********(MAC)********addresses**
+#### Medium Access Control (MAC) addresses
 
 Every device connected to an Ethernet or WiFi network has a unique MAC
 address, assigned by the manufacturer of the network card. It serves as
@@ -6515,7 +6520,7 @@ long and look like this - 00:1c:c0:17:78:8c or 40:6c:8f:52:59:41; for
 the latter MAC address, the first 24 bits 40:6c:8f indicates that Apple
 assigned this address.
 
-### Hubs
+#### Hubs
 
 Ethernet hubs connect multiple twisted-pair Ethernet devices together.
 They work at the physical layer (the lowest or first layer).
@@ -6532,25 +6537,25 @@ later. This is known as a collision, and each host remains responsible
 for detecting and avoiding collisions before transmitting, and
 retransmitting its own packets when needed.
 
-\
+ 
 
 When problems such as excessive collisions are detected on a port, some
 hubs can disconnect (partition) that port for a while to limit its
 impact on the rest of the network.
 
-\
+ 
 
 While a port is partitioned, devices attached to it cannot communicate
 with the rest of the network.
 
-\
+ 
 
 Hubs are limited in their usefulness, since they can easily become
 points of congestion on busy networks so they are no longer normally
 deployed in networks nowadays. Its only important to note that a WiFi
 access point acts as a hub on the radio side.
 
-### Switches
+#### Switches
 
 A switch is a device which operates much like a hub, but provides a
 dedicated (or switched) connection between ports.
@@ -6575,7 +6580,7 @@ the destination MAC address is not found in the MAC table, the packet is
 then sent to all of the connected interfaces hoping to reach the right
 MAC.
 
-### **Hubs********vs.********Switches**
+#### Hubs vs. Switches
 
 Hubs are considered to be fairly unsophisticated devices, since they
 inefficiently rebroadcast all traffic on every port. This simplicity
@@ -6591,7 +6596,7 @@ switch traffic by inspecting packets at higher levels (at the transport
 or application layer), allowing the creation of VLANs, and implementing
 other advanced features.
 
-\
+ 
 
 A hub can be used when repetition of traffic on all ports is desirable;
 for example, when you want to explicitly allow a monitoring machine to
@@ -6603,17 +6608,17 @@ Hubs were once cheaper than switches. However, the price of switches has
 reduced dramatically over the years. Therefore, old network hubs should
 be replaced whenever possible with new switches.
 
-\
+ 
 
-![](NG/NG14.png)\
-\
+![](./NG/NG14.png)
 
-\
+ 
 
-*Figure****NG****14:****A****hub****simply****repeats****all****traffic****on****every****port,****while****a****switch****makes****a****temporary,****dedicated****connection****between****the****ports****that
-need****to****communicate.*
+Figure NG 14: A hub simply repeats all traffic on every port, while a
+switch makes a temporary, dedicated connection between the ports that
+need to communicate.
 
-\
+ 
 
 Both hubs and switches may offer managed services.
 
@@ -6623,7 +6628,7 @@ triggers to watch for network events (such as changes in MAC address or
 malformed packets), and usually include port counters for easy bandwidth
 accounting.
 
-\
+ 
 
 A managed switch that provides upload and download byte counts for every
 physical port can greatly simplify network monitoring.
@@ -6631,7 +6636,7 @@ physical port can greatly simplify network monitoring.
 These services are typically available via SNMP, or they may be accessed
 via telnet, ssh, a web interface, or a custom configuration tool.
 
-### **Routers********and********Firewalls**
+#### Routers and Firewalls
 
 While hubs and switches provide connectivity on a local network segment,
 a router's job is to forward packets between different network segments.
@@ -6653,7 +6658,7 @@ packets that do not fit security or access policy requirements.
 They may also provide Network Address Translation (NAT) services for
 IPv4.
 
-\
+ 
 
 Routers vary widely in cost and capabilities.
 
@@ -6662,7 +6667,7 @@ devices, often with NAT functionality, used to share an Internet
 connection between a few computers; well known brands include Linksys,
 D-Link, Netgear.
 
-\
+ 
 
 The next step up is a software router, which consists of an operating
 system running on a standard PC with multiple network interfaces.
@@ -6670,13 +6675,13 @@ Standard operating systems such as Microsoft Windows, Linux, and BSD are
 all capable of routing, and are much more flexible than the low-cost
 hardware devices; it is often called Internet Connection Sharing.
 
-\
+ 
 
 However, they suffer from the same problems as conventional PCs, with
 high power consumption, a large number of complex and potentially
 unreliable parts, and more involved configuration.
 
-\
+ 
 
 The most expensive devices are high-end dedicated hardware routers, made
 by companies like Cisco and Juniper.
@@ -6687,21 +6692,18 @@ reliability than software routers on PCs.
 It is also possible to purchase technical support and maintenance
 contracts for them.
 
-\
+ 
 
 Most modern routers offer mechanisms to monitor and record performance
 remotely, usually via the Simple Network Management Protocol (SNMP),
 although the least expensive devices often omit this feature.
 
-### **Other********equipment**
+#### Other equipment
 
-### ![](NG/NG15.png)\
-\
-\
+Figure NG 15: Many DSL modems, cable modems, wireless access points, and
+VSAT terminals terminate at an Ethernet jack.
 
-*Figure****NG****15:****Many****DSL****modems,****cable****modems,****wireless****access****points,****and****VSAT****terminals****terminate****at****an****Ethernet****jack.*
-
-\
+ 
 
 Each physical network has an associated piece of terminal equipment. For
 example, VSAT connections consist of a satellite dish connected to a
@@ -6711,7 +6713,7 @@ telephone line to a local device, either an Ethernet network or a single
 computer via USB. Cable modems bridge the television cable to Ethernet,
 or to an internal PC card bus.
 
-\
+ 
 
 Standard dialup lines use modems to connect a computer to the telephone,
 usually via a plug-in card or serial port. And there are many different
@@ -6725,16 +6727,18 @@ Since your Internet connection ultimately comes from your ISP, you
 should follow their recommendations when choosing equipment that bridges
 their network to your Ethernet network.
 
-**Putting********it********all********together**
-------------------------------------------------
+### Putting it all together
 
-![](NG/NG16.png)\
-\
+![](./NG/NG16.png)
 
-*Figure****NG****16:****Internet****networking.****Each****network****segment****has****a****router****with****two****IP****addresses,****making****it****“link****local”****to****two****different
-networks.****Packets****are****forwarded****between****routers****until****they****reach****their****ultimate****destinatio**n*.
+ 
 
-\
+Figure NG 16: Internet networking. Each network segment has a router
+with two IP addresses, making it “link local” to two different networks.
+Packets are forwarded between routers until they reach their ultimate
+destination.
+
+ 
 
 Once all network nodes have an IP address, they can send data packets to
 the IP address of any other node. Through the use of routing and
@@ -6742,7 +6746,7 @@ forwarding, these packets can reach nodes on networks that are not
 physically connected to the originating node. This process describes
 much of what “happens” on the Internet.
 
-\
+ 
 
 In this example, you can see the path that the packets take as Alice
 chats with Bob using an instant messaging service.
@@ -6760,14 +6764,13 @@ destination.
 If it weren’t for Internet protocols and the cooperation of everyone on
 the net, this kind of communication would be impossible.
 
-\
+ 
 
 In Figure NG 16, Alice is dual-stack and has IPv4 and IPv6 addresses,
 and as Bob has only IPv6 addresses, they will communicate by using IPv6
 which is the common IP version between them.
 
-**Designing********the********physical********network**
--------------------------------------------------------
+### Designing the physical network
 
 It may seem odd to talk about the “physical” network when building
 wireless networks.
@@ -6787,14 +6790,14 @@ multipoint-to-multipoint clouds. While different parts of your network
 can take advantage of all three of these configurations, any individual
 link will fall into one of these topologies.
 
-### **Poin****t****-****t****o****-****point**
+#### Point-to-point
 
 Point-to-point links typically provide an Internet connection where such
 access isn’t otherwise available. One side of a point-to-point link will
 have an Internet connection, while the other uses the link to reach the
 Internet.
 
-\
+ 
 
 For example, a university may have a fast frame relay or VSAT connection
 in the middle of campus, but cannot afford such a connection for an
@@ -6804,12 +6807,14 @@ used to link the two together. This can augment or even replace existing
 dial-up links. With proper antennas and clear line of sight, reliable
 point-to-point links in excess of thirty kilometres are possible.
 
-![](NG/NG17.png)\
-\
+![](./NG/NG17.png)
 
-*Figure****NG****17:****A****poin**t**-**t**o**-**point****link****allows****a****remote****site****to****share****a****central****Internet****connection.*
+ 
 
-\
+Figure NG 17: A point-to-point link allows a remote site to share a
+central Internet connection.
+
+ 
 
 Of course, once a single point-to-point connection has been made, more
 can be used to extend the network even further. If the remote building
@@ -6831,7 +6836,7 @@ data (including audio and video) between any two points that have a
 connection to each other, even if there is no direct connection to the
 Internet.
 
-### **Poin****t****-****t****o****-****multipoint**
+#### Point-to-multipoint
 
 The next most commonly encountered network layout is
 point-to-multipoint. Whenever several nodes are talking to a central
@@ -6841,13 +6846,15 @@ point that provides a connection to several laptops. The laptops do not
 communicate with each other directly, but must be in range of the access
 point in order to use the network.
 
-![](NG/NG18.png)\
-\
+![](./NG/NG18.png)
 
-*Figure****NG****18:****The****central****VSAT****is****now****shared****by****multiple****remote****sites.****All****three****sites****can****also****communicate****directly****at****speeds****much****faster
-than****VSA**T*.
+ 
 
-\
+Figure NG 18: The central VSAT is now shared by multiple remote sites.
+All three sites can also communicate directly at speeds much faster than
+VSAT.
+
+ 
 
 Point-to-multipoint networking can also apply to our earlier example at
 the university. Suppose the remote building on top of the hill is
@@ -6859,18 +6866,18 @@ several remote buildings. This is a classic example of a wide area point
 (remote site on the hill) to multipoint (many buildings in the valley
 below) connection.
 
-\
+ 
 
 Note that there are a number of performance issues with using
 point-to-multipoint over very long distance, which will be addressed in
-the chapter called **Deployment********Plannin****g**. Such links are
-possible and useful in many circumstances, but don’t make the classic
-mistake of installing a single high powered radio tower in the middle of
-town and expecting to be able to serve thousands of clients, as you
-would with an FM radio station. As we will see, two-way data networks
-behave very differently than broadcast radio.
+the chapter called Deployment Planning. Such links are possible and
+useful in many circumstances, but don’t make the classic mistake of
+installing a single high powered radio tower in the middle of town and
+expecting to be able to serve thousands of clients, as you would with an
+FM radio station. As we will see, two-way data networks behave very
+differently than broadcast radio.
 
-### **Multipoin****t****-****t****o****-****multipoint**
+#### Multipoint-to-multipoint
 
 The third type of network layout is multipoint-to-multipoint, which is
 also referred to as an ad-hoc or mesh network. In a multipoint-to-
@@ -6878,13 +6885,15 @@ multipoint network, there is no central authority. Every node on the
 network carries the traffic of every other as needed, and all nodes
 communicate with each other directly.
 
-![](NG/NG19.png)\
-\
+![](./NG/NG19.png)
 
-*Figure****NG****19:****A****multipoin**t**-**t**o**-**multipoint****mesh.****Every****point****can****reach****every****other****at****very****high****speed,****or****any****of****them****can****use****the****central
-access****point****for****a****VSAT****connection****to****the****Internet.*
+ 
 
-\
+Figure NG 19: A multipoint-to-multipoint mesh. Every point can reach
+every other at very high speed, or any of them can use the central
+access point for a VSAT connection to the Internet.
+
+ 
 
 The benefit of this network layout is that even if none of the nodes are
 in range of a central access point, they can still communicate with each
@@ -6897,12 +6906,12 @@ Extending a mesh network is as simple as adding more nodes.
 If one of the nodes in the "cloud" happens to be an Internet gateway,
 then that connection can be shared among all of the clients.
 
-\
+ 
 
 Several disadvantages of this topology include increased complexity and
 lower performance.
 
-\
+ 
 
 Security in such a network is also a concern, since every participant
 potentially carries the traffic of every other.
@@ -6916,17 +6925,14 @@ to point-to-point or point-to-multipoint networks, due to the additional
 overhead of managing the network routing and increased contention in the
 radio spectrum.
 
-\
+ 
 
 Nevertheless, mesh networks are useful in many circumstances.
 
-For more information about them please read the chapter called **Mesh
-Networking.**
+For more information about them please read the chapter called Mesh
+Networking.
 
-### \
-\
-
-### **Use********the********technology********that********fits**
+#### Use the technology that fits
 
 All of these network designs can be used to complement each other in a
 large network, and additionally they can make use of traditional wired
@@ -6942,24 +6948,23 @@ act as a mesh node, allowing the network to spread organically between
 laptop users who all ultimately use the original point-to-point link to
 access the Internet.
 
-\
+ 
 
 This is just one common scenario for wireless deployments, there are
 many others.
 
-\
+ 
 
 Now that we have a clear idea of how wireless networks are typically
 arranged, we can begin to understand how communication is possible over
 such networks.
 
-\
+ 
 
-**7. WIFI********FAMILY**
-=========================
+7. WIFI FAMILY
+--------------
 
-**IEEE********802:****W****hat********is********it,********and********why********should****I********car****e****?**
--------------------------------------------------------------------------------------------------------------------
+### IEEE 802: What is it, and why should I care?
 
 The early days of networking only saw wireline networks (if you don't
 count the old AT&T Long lines microwave backbone that at one time
@@ -6975,20 +6980,19 @@ practical too. So very importantly as you begin to think about deploying
 wireless networks in your local area or community, your network could
 form the basis of the future growth of networking in your region.
 
-\
+ 
 
 An aspect of wired and wireless networks important to understand is the
 various standards that exist today as well as those new standards that
 are being developed. Wireless standards are the basis for many wireless
 products, ensuring interoperability and useability by those who design,
 deploy and manage wireless networks. We touched on this subject already
-in the chapter called **Radio********Spectru****m**. The Standards used
-in the vast majority of the networks come from the IEEE Standard
-Association's IEEE 802 Working Group. **IEEE********802******refers to a
-family of IEEE standards dealing with local area networks and
-metropolitan area networks.
+in the chapter called Radio Spectrum. The Standards used in the vast
+majority of the networks come from the IEEE Standard Association's IEEE
+802 Working Group. IEEE 802 refers to a family of IEEE standards dealing
+with local area networks and metropolitan area networks.
 
-\
+ 
 
 More specifically, the IEEE 802 standards are restricted to networks
 carrying variable-size packets. (By contrast, in cell relay networks
@@ -7001,9 +7005,7 @@ networking reference model. In fact, IEEE 802 splits the OSI Data Link
 Layer into two sub-layers named Logical Link Control (LLC) and Media
 Access Control (MAC).
 
-\
-
-\
+ 
 
 The IEEE 802 family of standards is maintained by the IEEE 802 LAN/MAN
 Standards Committee (LMSC).
@@ -7011,16 +7013,16 @@ Standards Committee (LMSC).
 The most widely used standards are for the Ethernet family, Token Ring,
 Wireless LAN, Bridging and Virtual Bridged LANs.
 
-\
+ 
 
 An individual Working group provides the focus for each area and they
 are listed in the table below.
 
-\
+ 
 
-**Name**
+Name
 
-**Description**
+Description
 
 IEEE 802.1
 
@@ -7102,8 +7104,7 @@ IEEE 802.25
 
 Omni-Range Area Network
 
-**The********802.11********standard**
--------------------------------------
+### The 802.11 standard
 
 The standard we are most interested in is 802.11 as it defines the
 protocol for Wireless LAN.
@@ -7113,12 +7114,12 @@ started using 2 letters instead of 1. (802.11z - the DLS amendment -
 
 gave way to 802.11aa, ab, ac..., etc)
 
-\
+ 
 
 Below is a table of the variants of 802.11, their frequencies and
 approximate ranges.
 
-\
+ 
 
 802.11
 
@@ -7128,8 +7129,6 @@ Release
 
 Freq.
 
-\
-
 Bandwidth
 
 Data Rate per stream
@@ -7138,9 +7137,9 @@ Approximate indoor range
 
 Approximate outdoor range
 
-\
+ 
 
-\
+ 
 
 (GHz)
 
@@ -7230,11 +7229,7 @@ Jun 2003
 
 n
 
-\
-
 Oct 2009
-
-\
 
 2.4/5
 
@@ -7258,21 +7253,19 @@ ac
 
 Nov.2011
 
-\
-
 5
 
 20
 
 Up to 87.6
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
 40
 
@@ -7286,25 +7279,24 @@ Up to 433.3
 
 Up to 866.7
 
-\
+ 
 
 In 2012 IEEE issued the 802.11-2012 Standard that consolidates all the
 previous amendments.
 
-\
+ 
 
 The document is freely downloadable from:
 
 [http://standards.ieee.org/findstds/standard/802.11-2012.html](http://standards.ieee.org/findstds/standard/802.11-2012.html)
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-**Deployment********planning********for********802.11********wireless********networks**
----------------------------------------------------------------------------------------
+### Deployment planning for 802.11 wireless networks
 
 Before packets can be forwarded and routed to the Internet, layers one
 (the physical) and two (the data link) need to be connected. Without
@@ -7327,54 +7319,59 @@ If one 802.11b radio card is set to channel 2 while another is set to
 channel 11, then the radios cannot communicate with each other.
 
 The centre frequencies of each channel for 802.11a and 802b/g are given
-in **Appendix********B:********Channel********Allocations.**
+in Appendix B: Channel Allocations.
 
 When two wireless interfaces are configured to use the same protocol on
 the same radio channel, then they are ready to negotiate data link layer
 connectivity. Each 802.11a/b/g device can operate in one of four
 possible modes:
 
-\
+ 
 
-1.  Master mode (also called AP or infrastructure mode) is used to
-    create a service that looks like a traditional access point. The
-    wireless interface creates a network with a specified name (called
-    the SSID) and channel, and offers network services on it. While in
-    master mode, wireless interfaces manage all communications related
-    to the network (authenticating wireless clients, handling channel
-    contention, repeating packets, etc.) Wireless interfaces in master
-    mode can only communicate with interfaces that are associated with
-    them in managed mode.
+1.  1.  1.Master mode (also called AP or infrastructure mode) is used to
+        create a service that looks like a traditional access point. The
+        wireless interface creates a network with a specified name
+        (called the SSID) and channel, and offers network services on
+        it. While in master mode, wireless interfaces manage all
+        communications related to the network (authenticating wireless
+        clients, handling channel contention, repeating packets, etc.)
+        Wireless interfaces in master mode can only communicate with
+        interfaces that are associated with them in managed mode. 
 
-2.  Managed mode is sometimes also referred to as client mode. Wireless
-    interfaces in managed mode will join a network created by a master,
-    and will automatically change their channel to match it. They then
-    present any necessary credentials to the master, and if those
-    credentials are accepted, they are said to be associated with the
-    master. Managed mode interfaces do not communicate with each other
-    directly, and will only communicate with an associated master.
+    2.  2.Managed mode is sometimes also referred to as client mode.
+        Wireless interfaces in managed mode will join a network created
+        by a master, and will automatically change their channel to
+        match it. They then present any necessary credentials to the
+        master, and if those credentials are accepted, they are said to
+        be associated with the master. Managed mode interfaces do not
+        communicate with each other directly, and will only communicate
+        with an associated master. 
 
-3.  Ad-hoc mode creates a multipoint-to-multipoint network where there
-    is no single master node or AP. In ad-hoc mode, each wireless
-    interface communicates directly with its neighbours.
+    3.  3.Ad-hoc mode creates a multipoint-to-multipoint network where
+        there is no single master node or AP. In ad-hoc mode, each
+        wireless interface communicates directly with its neighbours.  
 
-    Nodes must be in range of each other to communicate, and must agree
-    on a network name and channel. Ad-hoc mode is often also called Mesh
-    Networking and you can find details of this type of networking in
-    the chapter called **Mesh********Networking.**
+        Nodes must be in range of each other to communicate, and must
+        agree on a network name and channel. Ad-hoc mode is often also
+        called Mesh Networking and you can find details of this type of
+        networking in the chapter called Mesh Networking. 
 
-4.  Monitor mode is used by some tools (such as Kismet) to passively
-    listen to all radio traffic on a given channel. When in monitor
-    mode, wireless interfaces transmit no data. This is useful for
-    analysing problems on a wireless link or observing spectrum usage in
-    the local area. Monitor mode is not used for normal communications.
+    4.  4.Monitor mode is used by some tools (such as Kismet) to
+        passively listen to all radio traffic on a given channel. When
+        in monitor mode, wireless interfaces transmit no data. This is
+        useful for analysing problems on a wireless link or observing
+        spectrum usage in the local area. Monitor mode is not used for
+        normal communications. 
 
-![](WF1.png)\
-\
+         
 
-*Figure****WF****1:****APs,****Clients,****and****A**d**-**Hoc****nodes.*
+![](./WF1.png)
 
-\
+ 
+
+Figure WF 1: APs, Clients, and Ad-Hoc nodes.
+
+ 
 
 When implementing a point-to-point or point-to-multipoint link, one
 radio will typically operate in master mode, while the other(s) operate
@@ -7382,7 +7379,7 @@ in managed mode. In a multipoint-to-multipoint mesh, the radios all
 operate in ad-hoc mode so that they can communicate with each other
 directly.
 
-\
+ 
 
 It is important to keep these modes in mind when designing your network
 layout.
@@ -7394,8 +7391,7 @@ in master or ad-hoc mode.
 Ad-hoc is more flexible but has a number of performance issues as
 compared to using the master / managed modes.
 
-**The********802.22 Standard**
-------------------------------
+### The 802.22 Standard
 
 Did you ever wonder why one of the biggest users of wireless spectrum in
 almost any country on earth, never got into the 2 way communications
@@ -7417,13 +7413,13 @@ The new wireless technology is commonly called TVWS (TV White Spaces)
 and although relatively new at the time of writing, this technology is
 in many trials for rural broadband wireless.
 
-\
+ 
 
-From *wikipedia* -
+From wikipedia -
 
-**IEEE********802.22**, known informally as Super Wi-Fi, is a standard
-for Wireless Regional Area Networks (WRAN) using white spaces in the TV
-frequency spectrum.
+IEEE 802.22, known informally as Super Wi-Fi, is a standard for Wireless
+Regional Area Networks (WRAN) using white spaces in the TV frequency
+spectrum.
 
 The development of the IEEE 802.22 WRAN standard is aimed at using
 cognitive radio (CR) techniques to allow sharing of geographically
@@ -7433,22 +7429,22 @@ population density areas, typical of rural environments, and is
 therefore timely and has the potential for a wide applicability
 worldwide.
 
-\
+ 
 
-**IEEE********802.22********WRAN**s are designed to operate in the TV
-broadcast bands while assuring that no harmful interference is caused to
-the incumbent operation, i.e., digital TV and analog TV broadcasting,
-and low power licensed devices such as wireless microphones. The
-standard was finally published in July 2011.
+IEEE 802.22 WRANs are designed to operate in the TV broadcast bands
+while assuring that no harmful interference is caused to the incumbent
+operation, i.e., digital TV and analog TV broadcasting, and low power
+licensed devices such as wireless microphones. The standard was finally
+published in July 2011.
 
-### **Technology********of********802.22********or********TVWS**
+#### Technology of 802.22 or TVWS
 
 The initial drafts of the 802.22 standard specify that the network
 should operate in a point to multipoint topology (p2m). The system will
 be formed by Base Stations (BS) and Customer Premise Equipment (CPE).
 The CPEs will be attached to a BS via a wireless link.
 
-\
+ 
 
 One key feature of the 802.22 WRAN Base Stations is that they will be
 capable of performing sensing of available spectrum.
@@ -7464,13 +7460,13 @@ This information would be sent back to centralised servers which would
 respond with the information about available free TV channels and guard
 bands in the area of the Base Station.
 
-\
+ 
 
 Other proposals would allow local spectrum sensing only, where the BS
 would decide by itself which channels are available for communication.
-This is called *distributed****sensing*.
+This is called distributed sensing.
 
-\
+ 
 
 The CPEs will be sensing the spectrum and sending periodic reports to
 the BS informing it about what they sense. The BS, with the information
@@ -7479,7 +7475,7 @@ used, or on the contrary, if it should stay transmitting and receiving
 in the same one. A combination of these two approaches is also
 envisioned.
 
-\
+ 
 
 These sensing mechanisms are primarily used to identify if there is an
 incumbent transmitting, and if there is a need to avoid interfering with
@@ -7487,20 +7483,17 @@ it. This means that the physical layer must be able to adapt to
 different conditions and be flexible in jumping from channel to channel
 without errors in transmission or losing clients (CPEs).
 
-\
+ 
 
 This flexibility is also required for dynamically adjusting the
-bandwidth, modulation and coding schemes. OFDMA
-*(Orthogonal****Frequenc**y-**Division****Multiple****Access)***is the
-modulation scheme for transmission in up and downlinks. With OFDMA it
-will be possible to achieve this fast adaptation needed for the BSs and
-CPEs.
+bandwidth, modulation and coding schemes. OFDMA (Orthogonal
+Frequency-Division Multiple Access) is the modulation scheme for
+transmission in up and downlinks. With OFDMA it will be possible to
+achieve this fast adaptation needed for the BSs and CPEs.
 
-\
+ 
 
-\
-
-\
+ 
 
 By using just one TV channel (a TV channel has a bandwidth of 6 MHz, in
 some countries they can be 7 or 8 MHz) the approximate maximum bit rate
@@ -7509,13 +7502,12 @@ is 19 Mbit/s at a 30 km distance.
 The speed and distance achieved is not enough to fulfill the
 requirements of the standard.
 
-There is a feature called *Channel****Bonding***which deals with this
-problem. Channel Bonding uses more than one channel for
-transmit/receive. This allows the system to have higher bandwidth which
-will be reflected in a better system performance.
+There is a feature called Channel Bonding which deals with this problem.
+Channel Bonding uses more than one channel for transmit/receive. This
+allows the system to have higher bandwidth which will be reflected in a
+better system performance.
 
-Summary
--------
+### Summary
 
 As we can see the standards for wireline and wireless are mostly
 incorporated into the IEEE 802 Working Group.
@@ -7524,11 +7516,10 @@ At the moment the 802.11 family of WiFi standards and equipment are by
 far and away the most widely manufactured and deployed in indoor and
 outdoor wireless links.
 
-The chapter called
-**Hardware********Selection********and********Configuration******looks
-at equipment in much more detail.
+The chapter called Hardware Selection and Configuration looks at
+equipment in much more detail.
 
-\
+ 
 
 The new 802.22 Standard is expected to play an increasing role in many
 rural (and urban) wireless networks. The free-ing up of unlicensed
@@ -7543,37 +7534,38 @@ with respect to 802.22 based networks. Meanwhile there is an interesting
 project underway in Scotland, United Kingdom which is deploying TVWS
 802.22 networks.
 
-\
+ 
 
 You can read more about the project here:
 
 [http://www.wirelesswhitespace.org/projects.aspx](http://www.wirelesswhitespace.org/projects.aspx)
 
-\
+ 
 
-**8. MESH********NETWORKING**
-=============================
+8. MESH NETWORKING
+------------------
 
-Introduction
-------------
+### Introduction
 
 Mesh networks are based on multipoint-to-multipoint (m2m) networking. In
 the nomenclature of IEEE 802.11, m2m networking is referred to as
 'ad-hoc' or 'IBSS' mode.
 
-\
+ 
 
 Most wireless networks today are based on point-to-point (p2p) or
 point-to-multipoint (p2m) communication.
 
-\
+ 
 
-![](MN/MN1.jpg)\
-\
+![](./MN/MN1.jpg)
 
-*Figure****MN****1:****A****metropolitan****area****mesh****network,****providing****local****connectivity****and****Internet****access****via****multiple****Internet****gateways*
+ 
 
-\
+Figure MN 1: A metropolitan area mesh network, providing local
+connectivity and Internet access via multiple Internet gateways
+
+ 
 
 A typical wireless hotspot operates in p2m infrastructure mode - it
 consists of an access point (with a radio operating in master mode),
@@ -7582,13 +7574,11 @@ attached to a DSL line or other large scale wired network.
 In a hotspot the access point acts as a master station that is
 distributing Internet access to its clients.
 
-\
+ 
 
-\
+ 
 
-\
-
-\
+ 
 
 This hub-and-spoke topology is also typically used for the mobile phone
 (2G or 3G) service.
@@ -7601,7 +7591,7 @@ the table, your phone sends data to the base station of your provider
 that may be a mile away - the base station then sends data back to the
 phone of your friend.
 
-\
+ 
 
 In a remote area without base stations a GSM phone is useless as a
 communication device, simply because GSM radios are designed in such a
@@ -7613,7 +7603,7 @@ other as long as they are within range.
 Wireless radio is by default a broadcast medium, and any station which
 can transmit and receive could communicate m2m.
 
-\
+ 
 
 With regards to the technological challenge, implementing m2m networking
 is much more demanding then p2m and p2p.
@@ -7622,7 +7612,7 @@ Strategies to implement channel access coordination are more complex,
 for example, there is no central authority to assign transmit time
 slots.
 
-\
+ 
 
 Because there is no central management, m2m stations need to mutally
 agree on cell coordination parameters such as the MAC like cell-id of
@@ -7632,34 +7622,34 @@ The fact that 802.11 names the m2m mode of WiFi "ad-hoc" suggests that
 the IEEE board thought of a m2m network as a spontaneous, provisional,
 sub-optimal solution.
 
-\
+ 
 
 Multipoint-to-multipoint communication is actually more versatile and
 can be much more efficient than point-to-point or point-to-multipoint
 communication: m2m communication includes the ability to communicate p2p
 and p2m, because p2p and p2m are just subsets of m2m.
 
-\
+ 
 
-\
+ 
 
 A network consisting of just two multipoint-to-multipoint capable
 devices simply communicates p2p:
 
-\
+ 
 
-**A**--**B**
+A--B
 
-\
+ 
 
 A network of three mesh-capable devices A, B, C can form a topology like
 this, for example:
 
-\
+ 
 
-**A**--**B**--**C**
+A--B--C
 
-\
+ 
 
 Here A can communicate only with B. C can only communicate with B, while
 B can communicate with A and C. B actually does communicate p2m. Without
@@ -7676,15 +7666,15 @@ so they would always need the access point B as a relay.
 If the three devices move around, the topology might become a full mesh,
 where every node can communicate with every other node directly:
 
-\
+ 
 
-**A**
+A
 
-/ \\
+/  \\
 
-**B**----**C**
+B----C
 
-\
+ 
 
 In this case relaying traffic is not necessary, given that the links are
 all good enough. In infrastructure mode, communicating directly is not
@@ -7692,25 +7682,24 @@ possible. All the traffic between clients has to be relayed by the
 access point. If we now add D to the little chain topology example, all
 devices can communicate with each other if this is a mesh.
 
-\
+ 
 
-**A**--**B**--**C**--**D**
+A--B--C--D
 
-\
+ 
 
 On the other hand, this would not be possible if the network is an
 infrastructure mode network and B is an access point. C and D would both
 be infrastructure clients, and as already mentioned before,
 infrastructure clients can not communicate directly with each other.
 
-\
+ 
 
 So client D could not join the infrastructure network because it is out
 of range of the access point B, while it would be still in the radio
 range of client C.
 
-**Bandwidth********impact********of********mult****i****-****hop********relaying********routes**
-------------------------------------------------------------------------------------------------
+### Bandwidth impact of multi-hop relaying routes
 
 Mesh networks consisting of devices that feature only one radio are a
 low cost way to establish a ubiquitous wireless network, but this comes
@@ -7723,7 +7712,7 @@ While B is forwarding data to C, A has to remain silent as well - and so
 on. Note that the same is true if two clients connected to an access
 point in infrastructure want to communicate with each other.
 
-\
+ 
 
 If we assume that all wireless links in the A-B-C-D mesh chain operate
 at the same speed, the communication between A and D would be roughly
@@ -7740,8 +7729,7 @@ three hop network (a chain with 4 nodes like above) operate at 12 Mbit
 each, the total end-to-end bandwidth would still offer plenty bandwidth
 to saturate a 2 Mbit Internet uplink.
 
-Summary
--------
+### Summary
 
 Mesh networking extends the range of wireless devices by multi-hop
 relaying traffic. By means of dynamic routing, meshes can be self-
@@ -7752,20 +7740,21 @@ currently deployed mesh network. You can find more information about
 this deployment at the url
 [http://code.google.com/p/afrimesh/](http://code.google.com/p/afrimesh/)
 
-\
+ 
 
-![](MN/MN2.png)\
-\
+![](./MN/MN2.png)
 
-*Figure****MN****2:****Screenshot****of****the****Villagetelco****mesh****at****B**o**-**Kaap****in****Capetown,****South****Africa*
+ 
 
-**Routing********protocols********for********mesh********networks**
--------------------------------------------------------------------
+Figure MN 2: Screenshot of the Villagetelco mesh at Bo-Kaap in Capetown,
+South Africa
+
+### Routing protocols for mesh networks
 
 Routing protocols for wireless mesh networks have to be designed with
 the challenges of radio communication in mind.
 
-\
+ 
 
 Wireless links and the topology of a mesh network are inherently
 unstable, devices can go up and down, the available bandwidth varies,
@@ -7778,7 +7767,7 @@ At the same time the available communication bandwidth and computing
 performance of mesh nodes is limited and shouldn't be wasted on protocol
 decisions and traffic overhead.
 
-\
+ 
 
 In 2005, when the first edition of the WNDW book was written, there were
 only few practically usable routing protocols for mesh networks. In
@@ -7800,7 +7789,7 @@ mesh protocol developers, taking place once a year. It is called
 "Battlemesh",
 [www.battlemesh.org](http://objavi.booki.cc/tmp/wirelessnetworkinginthedevelopingworld-en-2013.02.13-23.20.02.odtQlyYWy/mesh-networking/www.battlemesh.org)
 
-\
+ 
 
 Most mesh routing protocols (BABEL, BATMAN, OLSR, BMX, BMX6) take care
 of maintaining the IPv4 and IPv6 routing tables in a mesh node by
@@ -7828,7 +7817,7 @@ flapping and results in stateful connection sessions breaking down
 frequently. If there is more than one Internet gateway in the mesh,
 using an advanced method for gateway selection is strongly recommended.
 
-### **How********about********802.11****s****?**
+#### How about 802.11s?
 
 The roadmap of 802.11s is to scale up to 32 nodes. According to
 Wikipedia it uses HWMP (Hybrid wireless mesh protocol) as the default
@@ -7838,8 +7827,7 @@ routing protocol, with the option to use other routing protocols. Quote:
 tree-based routing". Since 802.11s is relatively new there is not much
 practical experience so far.
 
-**Devices********and********firmware********for********embedded********devices**
---------------------------------------------------------------------------------
+### Devices and firmware for embedded devices
 
 Not all WiFi devices on the market are suitable for mesh networking.
 
@@ -7848,9 +7836,9 @@ clear hardware recommendations for mesh networking was the Linksys
 WRT54G router in combination with the Freifunk firmware.
 
 While the WRT54G(L) is still on the market, it is no longer worth a
-recommendation.^[^1^](#sdfootnote1sym)^
+recommendation.[1](#ftn1)
 
-\
+ 
 
 OpenWRT is a very versatile firmware development environment for
 developers and a firmware for advanced Linux users.
@@ -7882,34 +7870,32 @@ after it has been flashed. There is now a meta package named
 'luci-freifunk-community', which will automatically convert a stock
 OpenWRT image into a community mesh networking firmware.
 
-\
-
-\
+ 
 
 The number of devices that can be converted to a mesh router has
 increased dramatically. On the other hand the process of converting a
 stock OpenWRT firmware into a mesh firmware via the package management
 system is often more error-prone unfortunately.
 
-\
+ 
 
 Some manufacturers of WiFi routers are shipping devices that come with
 OpenWRT as their factory firmware: Mesh-Potato, Dragino MS- 12, Allnet
 0305.
 
-\
+ 
 
-\
+ 
 
-![](MN/MN3.png)\
-\
+![](./MN/MN3.png)
 
-\
+ 
 
-*Figure****MN****3:****Mes**h**-**Potato****outdoor****mesh****WiFi****router****with****VoIP****(with****one****FXS****port****to****connect****analog****telephone
-handsets).***[*www.villagetelco.org*](http://www.villagetelco.org/)
+Figure MN 3: Mesh-Potato outdoor mesh WiFi router with VoIP (with one
+FXS port to connect analog telephone handsets).
+[www.villagetelco.org](http://www.villagetelco.org/)
 
-\
+ 
 
 The Mesh-Potato is a low-power outdoor device designed for mesh
 networking with an FXS (analog telephone) port, so you can plug an
@@ -7928,41 +7914,41 @@ OpenWRT supports a very broad selection of wireless routers.
 
 Replacing the factory firmware with OpenWRT is often quite easy.
 
-\
+ 
 
 Again, the selection of available devices is so diverse that there isn't
 a single update method that works for the whole variety of hardware,
 which could be described here.
 
-\
+ 
 
 The OpenWRT table of supported hardware is huge and it keeps expanding:
 
 [http://wiki.openwrt.org/toh/start](http://wiki.openwrt.org/toh/start)
 
-\
+ 
 
 This site should be the place to start before you go and buy devices.
 
-\
+ 
 
 At the moment, if you are looking for a router based on a chipset that
 supports 802.11n in ad-hoc mode, my recommendation are devices that are
 supported by the AR7XXX port of OpenWRT.
 
-\
+ 
 
 Note that hardware manufacturers may change the chipsets of the devices
 without explicitly stating it. Newer hardware revisions are not
 guaranteed to work unless someone has tested and reported it in the
 OpenWRT wiki.
 
-\
+ 
 
 Notable devices which can be flashed with OpenWRT are the outdoor units
 made by Ubiquiti and the SOHO devices made by TP-Link.
 
-\
+ 
 
 TP- Link produces several low-cost SOHO devices with Atheros ar71xx
 chipsets (802.11n).
@@ -7973,7 +7959,7 @@ Mbit switch, WAN port, 4MB flash and 32MB RAM.
 
 Prices start at around 30US \$.
 
-\
+ 
 
 Since the TP-Link devices have a USB 2.0 port it is possible to add
 another WiFi interface via USB WiFi dongle.
@@ -7981,21 +7967,22 @@ another WiFi interface via USB WiFi dongle.
 Actually USB 2.0 adds many opportunities, like adding additional storage
 space, audio support, webcams and so on.
 
-![](MN/MN4.jpg)\
-\
+![](./MN/MN4.jpg)
 
-*Figure****MN****4:DIY****outdoor****routers****based****on****PCBs****taken****from****SOHO****routers****(Picture****showing****two****devices****based****on****T**P**-**Link****WR741****and
-WR941****and****one****based****on****a****Fonera****router)*
+ 
 
-\
+Figure MN 4:DIY outdoor routers based on PCBs taken from SOHO routers
+(Picture showing two devices based on TP-Link WR741 and WR941 and one
+based on a Fonera router)
+
+ 
 
 Another firmware distribution which initially orginated as an
 alternative firmware of the WRT54G is DD-WRT. DD-WRT is a firmware
 distribution designed for end-users. It only supports the OLSR routing
 protocol.
 
-**Frequently********observed********problems**
-----------------------------------------------
+### Frequently observed problems
 
 The typical problems of multipoint-to-multipoint communication are
 either on the physical radio or the MAC layer. The IEEE 802.11
@@ -8003,7 +7990,7 @@ suggestions about multipoint-to-multipoint mode were not up to the task.
 
 The main challenges are:
 
-### **Channel********access********coordination,********namely********the********hidden********node********and********exposed********node********problem**
+#### Channel access coordination, namely the hidden node and exposed node problem
 
 Going back to our little mesh with the topology A B C it can happen that
 A and C start to send data to B at the same time because they don't
@@ -8011,7 +7998,7 @@ receive each other, resulting in a collision at the location of B.
 802.11 has a mechanism to mitigate this: RTS/CTS (request to send, clear
 to send)
 
-\
+ 
 
 Before a m2m node sends data it requests airtime by sending a short RTS
 packet, in order to reserve the channel. It waits until it receives a
@@ -8019,7 +8006,7 @@ CTS signal. So A will send a short RTS packet, and B sends a short CTS
 packet. This way C will detect that there will be a transmission of a
 hidden node that it shouldn't interfere with.
 
-\
+ 
 
 However the current RTS/CTS mechanism of 802.11 works well only for 2
 hop routes. On longer routes it can happen that multiple stations send
@@ -8028,25 +8015,25 @@ and waiting for a CTS signal. This is called a RTS broadcast storm. For
 mesh networks of considerable size it is not recommended to use the
 RTS/CTS mechanism.
 
-### **Timer********synchronisation**
+#### Timer synchronisation
 
 The people designing the 802.11 ad-hoc protocol thought it would be
 smart if the WiFi devices would synchronise their MAC timer clocks by
 sending time stamps in beacons.
 
-\
+ 
 
 However bogus time stamps can occur due to bugs, and they often trigger
 race conditions in the hardware, drivers and the 802.11 ad-hoc protocol,
 which has not been designed to cope with such issues.
 
-\
+ 
 
 Failed attempts to synchronise time stamps often results in cell
 splitting (see below). There are some hacks which have been introduced
 to overcome the problem.
 
-\
+ 
 
 The best solution is to disable timer synchronisation entirely. However
 timer synchronisation is often done in the wireless interface hardware
@@ -8058,14 +8045,14 @@ recent Linux kernel, certain wireless drivers (namely ath9k) which are
 often used for mesh devices are quite robust against timer issues in
 ad-hoc mode.
 
-\
+ 
 
 However this doesn't help if the WiFi device comes with a closed source
 binary firmware which is not prepared to deal gracefully with timer
 issues. There is not much we can do about it, other than using
 drivers/firmwares/chipsets which are known to work reliably.
 
-### **IBSS********cell********splitting**
+#### IBSS cell splitting
 
 This is a typical problem of the way 802.11 suggests implementation of
 the m2m mode. Ad-hoc devices may fail to agree on a certain cell-id
@@ -8077,11 +8064,10 @@ to communicate with each other. The problem is related to issues with
 timer synchronisation. Since Linux 2.6.31 it is possible to manually fix
 the IBSS-ID. This feature is also available in OpenWRT.
 
-**9. SECURITY********FOR********WIRELESS********NETWORKS**
-==========================================================
+9. SECURITY FOR WIRELESS NETWORKS
+---------------------------------
 
-Introduction
-------------
+### Introduction
 
 While unlicensed spectrum provides a huge cost savings to the user, it
 has the unfortunate side effect that Denial of Service (DoS) attacks are
@@ -8094,7 +8080,7 @@ well, such as disassociation fl ooding and ARP table overfl ows.
 There are several categories of individuals who may cause problems on a
 wireless network:
 
-### **Unintentional********user****s**.
+#### Unintentional users.
 
 Densely populated areas such as city centres and university campuses can
 lead to a density of wireless access points. In these populated areas,
@@ -8120,12 +8106,10 @@ networks, or to ask permission before joining a new network.
 As we will see later in this chapter, users can safely connect to open
 public networks by using strong encryption.
 
-### **War********driver****s**.
+#### War drivers.
 
 The “war driving” phenomenon draws its name from the popular 1983 hacker
 film, “War Games”.
-
-\
 
 War drivers are interested in finding the physical location of wireless
 networks.
@@ -8142,7 +8126,7 @@ cracker. For example, it might be obvious that an unprotected access
 point detected by a war driver is located inside a sensitive building,
 such as a government or corporate office.
 
-\
+ 
 
 A malicious person could use this information to illegally access the
 network there. Arguably, such an AP should never have been set up in the
@@ -8157,11 +8141,11 @@ For more information about war driving, see sites such as:
 [http://www.nodedb.com/,](http://www.nodedb.com/)[](http://www.nodedb.com/)or
 [http://www.stumbler.net/.](http://www.stumbler.net/)
 
-### **Rogue********access********point****s**.
+#### Rogue access points.
 
 There are two general classes of rogue access points:
 
-\
+ 
 
 Those incorrectly installed by legitimate users, and those installed by
 malicious people who intend to collect data or do harm to the network.
@@ -8183,7 +8167,7 @@ equipment, and log or even manipulate all data that passes through it.
 Again, if your users are trained to use strong encryption, this problem
 is significantly reduced.
 
-### **Eavesdropper****s**.
+#### Eavesdroppers.
 
 As mentioned earlier, eavesdropping is a very difficult problem to deal
 with on wireless networks. By using a passive monitoring tool (such as
@@ -8193,7 +8177,7 @@ away, without ever making their presence known.
 Poorly encrypted data can simply be logged and cracked later, while
 unencrypted data can be easily read in real time.
 
-\
+ 
 
 If you have difficulty convincing others of this problem, you might want
 to demonstrate tools such as
@@ -8208,8 +8192,7 @@ drives the message home like showing them the pictures they are looking
 at in their web browser. Again, while it cannot be completely prevented,
 proper application of strong encryption will discourage eavesdropping.
 
-**Protecting********the wireless network**
-------------------------------------------
+### Protecting the wireless network
 
 In a traditional wired network, access control is relatively
 straightforward: If a person has physical access to a computer or
@@ -8249,7 +8232,7 @@ architect, your goal is to facilitate private communication between
 legitimate users of the network and between legitimate users and
 services.
 
-\
+ 
 
 There's an old saying that the only way to completely secure a computer
 is to unplug it, lock it in a safe, destroy the key, and bury the whole
@@ -8259,7 +8242,7 @@ network, remember that above all else, the network exists so that its
 users can communicate with each other. Security considerations are
 important, but should not get in the way of the network's users.
 
-\
+ 
 
 A simple rule-of-thumb as to whether or not the network is getting in
 the way of its users is to look at how much time you or other staff
@@ -8274,8 +8257,7 @@ Taking all of this into account, our goal is to provide adequate
 physical security, control access protect the communication without
 sacrificing ease of use.
 
-**Physical********security********for********wireless********networks**
------------------------------------------------------------------------
+### Physical security for wireless networks
 
 When installing a network, you are building an infrastructure that
 people depend on. Security measures exist to ensure that the network is
@@ -8304,14 +8286,14 @@ stuffed into the conduit around the cables for insulation. Small
 equipment should be mounted on the wall and larger equipment should be
 put in a closet or in a cabinet.
 
-### Switches
+#### Switches
 
 Switches, hubs or interior access points can be screwed directly onto a
 wall with a wall plug. It is best to put this equipment as high as
 possible to reduce the chance that someone will be able to touch the
 device or its cables without significant effort.
 
-### Cables
+#### Cables
 
 At the very least, cables should be hidden and fastened. It is possible
 to find plastic cable conduit that can be used in buildings. If you
@@ -8337,7 +8319,7 @@ conduit than is presently required, so that future cables can be run
 through the same tubing. Consider labeling buried cable with a "call
 before you dig" sign to avoid future accidental outages.
 
-### Power
+#### Power
 
 It is best to have power bars locked in a cabinet. If that is not
 possible, mount the power bar under a desk, or on the wall and use duct
@@ -8349,7 +8331,7 @@ use. If you do not, you might find a fan or light plugged into your UPS;
 though it is nice to have light, it is nicer to keep your server
 running!
 
-### Water
+#### Water
 
 Protect your equipment from water and moisture. In all cases make sure
 that your equipment, including your UPS is at least 30 cm from the
@@ -8360,7 +8342,7 @@ ventilation to assure that moisture can be exhausted. Small closets need
 to have ventilation, or moisture and heat can degrade or destroy your
 gear.
 
-### Masts
+#### Masts
 
 Equipment installed on a mast is often safe from thieves. Nevertheless,
 to deter thieves and to keep your equipment safe from winds, it is good
@@ -8375,15 +8357,14 @@ equipment. Also avoid antennae that resemble television antennae, as
 those are items that will attract interest by thieves, whereas a wifi
 antenna will be useless to the average thief.
 
-**Authentication********and********access********control**
-----------------------------------------------------------
+### Authentication and access control
 
 Talking about authentication a number of related terms like (digital)
 identity, authorisation, privacy etc. pop up. So before we get into
 authentication proper we need to introduce some terminology, without
 trying to be exhaustive.
 
-\
+ 
 
 Digital identity is the electronic entity that is a representation of a
 physical entity, like a person or a device. Authentication is the
@@ -8429,7 +8410,7 @@ number of techniques have been employed to control access to wireless
 networks. Subsequently they have been mostly abandoned due to security
 or scalability issues as WiFi became increasingly popular.
 
-### **Mac********filtering**
+#### Mac filtering
 
 Access to a WiFi network can be based on the MAC address. This is the
 48-bit number assigned by the manufacturer to every wireless and
@@ -8440,7 +8421,7 @@ based on their MAC address.
 With this feature, the access point keeps an internal table of approved
 MAC addresses.
 
-\
+ 
 
 When a wireless user tries to associate to the access point, the MAC
 address of the client must be on the approved list, or the association
@@ -8464,7 +8445,7 @@ of spam or other traffic, its MAC address can be added to the filter
 table to stop the traffic immediately. This will buy you time to track
 down the user and fix the problem.
 
-### **Closed********networks**
+#### Closed networks
 
 Another at one time popular "authentication feature" of WiFi networks is
 the so-called closed network mode. In a typical network, APs will
@@ -8502,7 +8483,7 @@ eavesdroppers from easily watching network traffic. Encryption is the
 technique that is used for authenticating users in most current
 deployments.
 
-### WEP
+#### WEP
 
 The first widely employed encryption method on WiFi networks was WEP
 encryption. WEP stands for Wired Equivalent Privacy, and is supported by
@@ -8526,7 +8507,7 @@ compromised (say, if one user tells a friend what the password is, or if
 an employee is let go) then changing the password can be prohibitively
 difficult, since all APs and client devices need to be changed.
 
-\
+ 
 
 This also means that legitimate users of the network can still eavesdrop
 on each others’ traffic, since they all know the shared key.
@@ -8537,14 +8518,14 @@ easy to gain illegal access the network.
 
 So WEP should not be used anymore.
 
-\
+ 
 
 For more details about the state of WEP encryption, see these papers:
 
 http://www.isaac.cs.berkeley.edu/isaac/wep-faq.html
 [http://www.cs.umd.edu/\~waa/wireless.pdf](http://www.cs.umd.edu/%7Ewaa/wireless.pdf)[](http://www.cs.umd.edu/%7Ewaa/wireless.pdf)
 
-### **"Switched"********wireless********networks**
+#### "Switched" wireless networks
 
 One critical difference between modern switched Ethernet networks and
 wireless is that wireless networks are built on a shared medium.
@@ -8553,7 +8534,7 @@ They more closely resemble the old network hubs than modern switches, in
 that every computer connected to the network can “see” the traffic of
 every other user.
 
-\
+ 
 
 To monitor all network traffic on an access point, one can simply tune
 to the channel being used, put the network card into monitor mode, and
@@ -8565,7 +8546,7 @@ passwords and other sensitive data, making it possible to compromise the
 network even further. WPA and 802.1X are designed to make the wireless
 network behave like a switched rather than a shared network.
 
-### WPA
+#### WPA
 
 Another data-link layer authentication protocol is Wi-Fi Protected
 Access, or WPA. WPA was created specifically to deal with the known
@@ -8580,7 +8561,7 @@ the so-called Pre Shared Key (PSK) mode (the WiFi Alliance calls WPA-PSK
 "WPA Personal", as opposed to "WPA Enterprise" that is used in
 combination with 802.1X).
 
-\
+ 
 
 Overall, WPA provides significantly better authentication and privacy
 than standard WEP, mainly by leveraging the Temporary Key Integrity
@@ -8592,7 +8573,7 @@ rise to some attack vectors against TKIP that allow for decrypting
 certain encrypted packets, that in turn can be manipulated for further
 attacks.
 
-\
+ 
 
 More information can be found in the following articles:
 
@@ -8600,45 +8581,44 @@ More information can be found in the following articles:
 
 http://download.aircrack-ng.org/wiki-files/doc/enhanced\_tkip\_michael.pdf
 
-\
+ 
 
 The consequence of these discoveries is that it is wise to move to the
 next generation of secure WiFi access protocols: WPA2.
 
-### **WPA****2****-****PSK**
+#### WPA2-PSK
 
 WPA2 is the full IEEE 802.11i standard.
 
-\
+ 
 
 The main difference with WPA is the use of the Advanced Encryption
 System (AES) instead of TKIP a (so far) not broken encryption standard.
 
-\
+ 
 
 So the use of WPA2 with AES can be considered secure for now!
 
-Summary
--------
+### Summary
 
 The major downside of any of these last three authentication methods is
 that, regardless of the strength of the encryption, they are still built
 upon the notion of a common shared secret between all clients and the
 access point.
 
-\
+ 
 
 They don't allow for identifying individual users and frankly, a secret
 shared by potentially tens of thousands of users can hardly be called a
 secret.
 
-\
+ 
 
 Another serious problem with wireless networks to which access is
 controlled by any of the methods mentioned, is that its users are
 relatively anonymous.
 
-\
+ 
 
 While it is true that every wireless device includes a unique MAC
 address that is supplied by the manufacturer, as mentioned these
@@ -8647,26 +8627,26 @@ addresses can often be changed with software.
 And even when the MAC address is known, it can be very difficult to
 judge where a wireless user is physically located.
 
-\
+ 
 
 Multi-path effects, high-gain antennas, and widely varying radio
 transmitter characteristics can make it impossible to determine if a
 wireless user is sitting in the next room or is in an apartment building
 a mile away.
 
-\
+ 
 
 The concerns about security, accountability and scalability have led to
 the rise of what is commonly called identity-based networking.
 
-\
+ 
 
-### Identity-based networking
+#### Identity-based networking
 
 In identity based networking individual users are being authenticated
 rather than secrets shared between many users.
 
-\
+ 
 
 Typically the authentication system verifies user credentials against
 some sort of enterprise database or directory.
@@ -8675,7 +8655,7 @@ Commonly by using the RADIUS protocol, a protocol originally designed
 for controlling access to dial-in modem pools but sufficiently versatile
 to serve as generic access control protocol for network access.
 
-### **Captive********portals**
+#### Captive portals
 
 One common authentication tool used on wireless networks is the captive
 portal. A captive portal uses a standard web browser to give a wireless
@@ -8689,7 +8669,7 @@ captive portals work with virtually all laptops and operating systems.
 Captive portals are typically used on open networks with no other
 authentication methods (such as WEP or MAC filters).
 
-\
+ 
 
 To begin, a wireless user opens their laptop browser and is directed to
 the portal.
@@ -8698,12 +8678,12 @@ They will then be asked to accept the use policy or answer other
 questions such as entering a user name and password, and click on a
 “login” button, or perhaps type in numbers from a pre-paid ticket.
 
-\
+ 
 
 The user enters their credentials, which are checked by the access point
 or another server on the network.
 
-\
+ 
 
 All other network access is blocked until these credentials are
 verified.
@@ -8712,49 +8692,49 @@ After verification their computer will receive a DHCP lease.
 
 They can then use their web browser to go to any site on the Internet.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-![](SW/SW1.png)\
-\
+![](./SW/SW1.png)
 
-\
+ 
 
-*Figure****SWN****1:****The****user****requests****a****web****page****and****is****redirected.*
+Figure SWN 1: The user requests a web page and is redirected.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-![](SW/SW2.png)\
-\
+![](./SW/SW2.png)
 
-\
+ 
 
-*Figure****SWN****2:****The****user’s****credentials****are****verified****before****further****network****access****is****granted.****The****authentication****server****can****be****the****access****point
-itself,another****machine****on****the****local****network,****or****a****server****anywhere****on****the****Internet.*
+Figure SWN 2: The user’s credentials are verified before further network
+access is granted. The authentication server can be the access point
+itself,another machine on the local network, or a server anywhere on the
+Internet.
 
-![](SW/SW3.png)\
-\
+![](./SW/SW3.png)
 
-\
+ 
 
-*Figure****SWN****3:****After****authenticating,****the****user****is****permitted****to****access****the****rest****of****the****network****and****is****typically****redirected****to****the****original****site*
+Figure SWN 3: After authenticating, the user is permitted to access the
+rest of the network and is typically redirected to the original site
 
-*requested****-****in****this****case****Google.*
+requested - in this case Google.
 
-\
+ 
 
 Captive portals provide no encryption for the wireless users, instead
 relying on the MAC and IP address of the client as a unique identifier,
@@ -8778,39 +8758,38 @@ WEP and WPA are effectively useless. There is simply no way to
 distribute public or shared keys to members of the general public
 without compromising the security of those keys.
 
-\
+ 
 
 In these settings, a simple application such as a captive portal
 provides a level of service somewhere between completely open and
 completely closed. Many vendors and open source projects exist that
 provide captive portal capability, to name a few:
 
--   CoovaChilli, CoovaAP
+-   •CoovaChilli, CoovaAP
     [(http://coova.org/CoovaChilli/),](http://coova.org/CoovaChilli/))[](http://coova.org/CoovaChilli/))Coova
     is the successor of the no longer actively maintained Chillispot
     project. Coova allows for the use of a RADIUS authentication
-    backend.
+    backend. 
 
--   WiFidog
+-   •WiFidog
     [(http://www.wifidog.org/),](http://www.wifidog.org/))[](http://www.wifidog.org/))WiFi
     Dog provides a very complete captive portal authentication package
     in very little space (typically under 30kb). From a user’s
     perspective, it requires no pop-up or javascript support, allowing
-    it to work on a wider variety of wireless devices.
+    it to work on a wider variety of wireless devices. 
 
--   M0n0wall, pfSense
+-   •M0n0wall, pfSense
     [(http://m0n0.ch/wall/),](http://m0n0.ch/wall/))[](http://m0n0.ch/wall/))m0n0wall
     is a complete embedded operating system based on FreeBSD. It
     includes a captive portal with RADIUS support, as well as a PHP web
-    server.
+    server. 
 
-\
+ 
 
 Many general networking vendors offer some form of integrated captive
 portals, e.g. Microtik, Cisco, Aruba, Aptilo.
 
-**802.1X**
-----------
+### 802.1X
 
 In enterprise and campus deployments, the most common wireless network
 authentication framework is that based on IEEE 802.1X. 802.1X is a layer
@@ -8853,11 +8832,12 @@ revealing the home organisation of the user (the domain part), but that
 is the topic of the next paragraph. So what happens in a typical 802.1X
 authentication with a tunnelled EAP-method is the following:
 
-![](SW/SW4.png)\
-\
+![](./SW/SW4.png)
 
-*Figure****SWN****4:****The****use****of****802.1X****with****tunnelled****EAP****for****network****access***(courtesy
-SURFnet)
+ 
+
+Figure SWN 4: The use of 802.1X with tunnelled EAP for network access
+(courtesy SURFnet)
 
 The client associates with the Access Point (authenticator).
 
@@ -8887,7 +8867,7 @@ same, the differences are in the support in common operating systems,
 the vulnarability to dictionary and man-in-the-middle attacks and
 whether they require storage of clear-text passwords in the backend.
 
-\
+ 
 
 The most widely deployed tunnelled EAP-methods nowadays are EAP-TTLS
 (EAP Tunnelled Transport Layer Security) and PEAP (Protected EAP).
@@ -8902,8 +8882,7 @@ gaining traction is EAP-FAST due to its security properties. EAP-FAST
 has also been chosen as the basis for the new to be developed tunnelled
 EAP-method (TEAP) that the IETF expects to be the single endorsed one.
 
-**Inte****r****-****organisational********roaming**
----------------------------------------------------
+### Inter-organisational roaming
 
 RADIUS has the interesting property that RADIUS messages can be proxied
 to other RADIUS servers.
@@ -8924,7 +8903,7 @@ creation of very scalable and large deployments while at the same time
 allowing the individual organisations to apply their own authentication
 policies to their users.
 
-\
+ 
 
 While RADIUS proxying is certainly possible in captive portal
 deployments it definitely shines in an 802.1X/EAP environment.
@@ -8942,15 +8921,16 @@ national and international RADIUS servers, allowing millions of students
 to gain access to over 5000 campus networks in many countries in all
 continents with the exception of Antarctica.
 
-\
+ 
 
-![](SW/SW5.png)\
-\
+![](./SW/SW5.png)
 
-*Figure****SWN****5:****The****eduroam****infrastructure****for****worl**d-**wide****roaming****in****academia*
+ 
 
-**End********to********end********encryption**
-----------------------------------------------
+Figure SWN 5: The eduroam infrastructure for world-wide roaming in
+academia
+
+### End to end encryption
 
 It should be noted that whereas WEP, WPA-PSK and WPA2-PSK are using
 encryption techniques to provide access control and protect against
@@ -8974,20 +8954,20 @@ from an access point.
 To ensure data privacy, good end-to-end encryption should provide the
 following features:
 
-### Verified authentication of the remote end.
+#### Verified authentication of the remote end.
 
 The user should be able to know without a doubt that the remote end is
 who it claims to be. Without authentication, a user could give sensitive
 data to anyone claiming to be the legitimate service.
 
-### **Strong********encryption********methods.**
+#### Strong encryption methods.
 
 The encryption algorithm should stand up to public scrutiny, and not be
 easily decrypted by a third party. There is no security in obscurity,
 and strong encryption is even stronger when the algorithm is widely
 known and subject to peer review.
 
-\
+ 
 
 A good algorithm with a suitably large and protected key can provide
 encryption that is unlikely to be broken by any effort in our lifetimes
@@ -8995,7 +8975,7 @@ using current technology. Beware of product vendors who assure you that
 their proprietary encryption using trade-secret algorithms are better
 than open, peer-reviewed ones.
 
-### **Public********key********cryptography.**
+#### Public key cryptography.
 
 While not an absolute requirement for end-to-end encryption, the use of
 public key cryptography instead of a shared key can ensure that an
@@ -9003,7 +8983,7 @@ individual's data remains private, even if the key of another user of
 the service is compromised. It also solves certain problems with
 distributing keys to users over untrusted networks.
 
-### **Data********encapsulation**.
+#### Data encapsulation.
 
 A good end-to-end encryption mechanism protects as much data as
 possible. This can range from encrypting a single email transaction to
@@ -9013,7 +8993,7 @@ channel that other applications can use. This allows users to run any
 program they like and still have the protection of strong encryption,
 even if the programs themselves dont support it.
 
-\
+ 
 
 Be aware that laws regarding the use of encryption vary widely from
 place to place.
@@ -9027,7 +9007,7 @@ verify that use of this technology is permitted in your local area.
 In the following sections, we'll take a look at some specific tools that
 can provide good protection for your user's data.
 
-### TLS
+#### TLS
 
 The most widely available end-to-end encryption technology is Transport
 Layer Security, known simply as TLS (or its predecessor SSL: Secure
@@ -9039,7 +9019,7 @@ uses public key cryptography and a trusted public key infrastructure
 
 Whenever you visit a web URL that starts with https, you are using TLS.
 
-\
+ 
 
 The TLS implementation built into web browsers includes a collection of
 certificates from organisations called Certificate Authorities (CA).
@@ -9048,25 +9028,23 @@ A CA validates the identity of network users and/or providers and
 ensures that they are who they say they are and issues a certificate
 saying so.
 
-\
-
 Rather than doing this by a signed fancy document suitable for framing,
 this is done through the exchange of cryptographic keys.
 
-\
+ 
 
 As an example, someone wanting a certificate for their website submits a
 Certificate Request (CR), encoded ("signed") with a cryptographic key
 created specifically for signing the certificate request.
 
-\
+ 
 
 They submit this request to the CA, who then "signs" the request with
 their own key. These are encoded in the certificate along with the exact
 name of the website that the requester wants the certificate to be valid
 for.
 
-\
+ 
 
 For example,
 [WWW.AIPOTU.GOV,](http://WWW.AIPOTU.GOV/)[](http://WWW.AIPOTU.GOV/)from
@@ -9082,39 +9060,39 @@ certificate for that site. This can be confusing to some users and, over
 time, lead them to just expect TLS Certificate warnings from their
 browser as normal when the truth is completely the opposite case.
 
-\
+ 
 
 When you browse to a website that uses TLS, the browser and the server
 first exchange certificates.
 
-\
+ 
 
 The browser then verifies that the hostname in the certificate provided
 by the server matches the DNS hostname that the browser knows the server
 by, that the certificate has not expired or been revoked and that it has
 been signed by a trusted certificate authority.
 
-\
-
 The server optionally verifies the validity of the browser's
 certificate. If the certificates are approved, both sides then negotiate
 a master session key using the previously exchanged certificates to
 protect the session that is being established.
 
-\
+ 
 
 That key is then used to encrypt all communications until the browser
 disconnects.
 
 This kind of data encapsulation is known as a tunnel.
 
-\
+ 
 
-![](SW/SW6.png)\
-*Figure****SWN****6:****Eavesdroppers****must****break****strong****encryption****to****monitor****traffic****over****an****encrypted****tunnel.****The****conversation****inside****the****tunnel
-is****identical****to****any****other****unencrypted****conversation.*
+![](./SW/SW6.png)
 
-\
+Figure SWN 6: Eavesdroppers must break strong encryption to monitor
+traffic over an encrypted tunnel. The conversation inside the tunnel is
+identical to any other unencrypted conversation.
+
+ 
 
 The use of certificates with a PKI not only protects communication
 against eavesdroppers but is also used to prevent the so-called Man-in-
@@ -9125,13 +9103,16 @@ user could carry on two simultaneous encrypted sessions. Since this user
 knows the secret on both connections, it is trivial to observe and
 manipulate the data being passed between the client and the server.
 
-\
+ 
 
-![](SW/SW7.png)\
-\
+![](./SW/SW7.png)
 
-*Figure****SWN****7:****The****ma**n**-**i**n**-**th**e**-**middle****effectively****controls****everything****the****user****sees,****and****can****record****and****manipulate****all****traffic.****Without****a
-public****key****infrastructure****to****verify****the****authenticity****of****keys,****strong****encryption****alone****cannot****protect****against****this****kind****of****attack.*
+ 
+
+Figure SWN 7: The man-in-the-middle effectively controls everything the
+user sees, and can record and manipulate all traffic. Without a public
+key infrastructure to verify the authenticity of keys, strong encryption
+alone cannot protect against this kind of attack.
 
 Use of a good PKI can significantly reduce the chances of this kind of
 attack. In order to be successful, the malicious user would have to be
@@ -9141,7 +9122,7 @@ present to the client to accept as authentic.
 This is only possible if they can trick the end-user into accepting it
 or if the CA is compromised.
 
-\
+ 
 
 Certificate Authorities bear a special burden to protect their systems
 and network from unauthorised access and malicious users.
@@ -9162,13 +9143,13 @@ Companies whose primary activity was in acting as a commercial CA have
 gone out of business as a result of having their systems compromised and
 counterfeit certificates issued under their name.
 
-\
+ 
 
 In September 2011, the certificate authority DigiNotar was found to have
 been subverted by crackers, forcing all its certificates to be revoked
 and sending it into bankruptcy.
 
-\
+ 
 
 These compromises were not the result of sophisticated computer
 criminals employing exotic sophisticated attacks but simply lapses in
@@ -9179,7 +9160,7 @@ Finally, it is good to point out that TLS is not only used for web
 browsing. Insecure email protocols such as IMAP, POP, and SMTP can be
 secured by wrapping them in an TLS tunnel.
 
-\
+ 
 
 Most modern email clients support IMAPS and POPS (secure IMAP and POP)
 as well as TLS protected SMTP. If your email server does not provide TLS
@@ -9188,24 +9169,24 @@ support, you can still secure it with TLS using a package like Stunnel
 can be used to effectively secure just about any service that runs over
 TCP.
 
-### SSH
+#### SSH
 
 Most people think of SSH as a secure replacement for telnet, just as SCP
 and SFTP are the secure counterparts of RCP and FTP.
 
-\
+ 
 
 But SSH is much more than an encrypted remote shell. For example, it can
 also act as a general purpose encrypting tunnel, or even an encrypting
 web proxy.
 
-\
+ 
 
 By first establishing an SSH connection to a trusted location near (or
 even on) a remote server, insecure protocols can be protected from
 eavesdropping and attack.
 
-\
+ 
 
 Like TLS, it uses strong public key cryptography to verify the remote
 server and encrypt data. Instead of a PKI, it uses a key fingerprint
@@ -9215,13 +9196,13 @@ It can use passwords and public keys for user authentication, and,
 through its support for the Pluggable Authentication Modules (PAM)
 system, it can also support other methods of authentication.
 
-\
+ 
 
 While this technique may be a bit advanced for many users, network
 architects can use SSH to encrypt traffic across untrusted links, such
 as wireless point-to-point links.
 
-\
+ 
 
 Since the tools are freely available and run over standard TCP, any
 educated user can implement SSH connections for themselves, providing
@@ -9230,7 +9211,7 @@ OpenSSH
 [(http://openssh.org/](http://openssh.org/)))[](http://openssh.org/))is
 probably the most popular implementation on Unix-like platforms.
 
-\
+ 
 
 Free implementations such as Putty
 [(http://www.putty.nl/](http://www.putty.nl/)))and WinSCP
@@ -9240,13 +9221,16 @@ OpenSSH will also run on Windows under the Cygwin package
 [(http://www.cygwin.com](http://www.cygwin.com/))/) These examples will
 assume that you are using a recent version of OpenSSH.
 
-![](SW/SW8.png)\
-![](SW/SW8.png)\
-\
+![](./SW/SW8.png)
 
-*Figure****SWN****8:****The****SSH****tunnel****protects****web****traffic****up****to****the****SSH****server****itself.*
+![](./SW/SW8.png)
 
-\
+ 
+
+Figure SWN 8: The SSH tunnel protects web traffic up to the SSH server
+itself.
+
+ 
 
 To establish an encrypted tunnel from a port on the local machine to a
 port on the remote side, use the -L switch. For example, suppose
@@ -9255,21 +9239,21 @@ you want to forward web proxy traffic over an encrypted link to the
 squid server at squid.example.net. Forward port 3128 (the default proxy
 port) using this command:
 
-\
+ 
 
-*ssh****-**fN****-**g****-**L3128:squid.example.net:3128****squid.example.net*
+ssh -fN -g -L3128:squid.example.net:3128 squid.example.net
 
-\
+ 
 
 The -fN switches instruct ssh to fork into the background after
 connecting.
 
-\
+ 
 
 The -g switch allows other users on your local segment to connect to the
 local machine and use it for encryption over the untrusted link.
 
-\
+ 
 
 OpenSSH will use a public key for authentication if you have set one up,
 or it will prompt you for your password on the remote side. You can then
@@ -9281,30 +9265,30 @@ side. SSH can also act as a dynamic SOCKS4 or SOCKS5 proxy. This allows
 you to create an encrypting web proxy, without the need to set up squid.
 Note that this is not a caching proxy; it simply encrypts all traffic:
 
-\
+ 
 
-*ssh****-**fN****-**D****8080****remote.example.net*
+ssh -fN -D 8080 remote.example.net
 
-\
+ 
 
 Configure your web browser to use SOCKS4 or SOCKS5 on local port 8080,
 and away you go.
 
-\
+ 
 
 SSH can encrypt data on any TCP port, including ports used for email. It
 can even compress the data along the way, which can decrease latency on
 low capacity links:
 
-\
+ 
 
-*ssh****-**fNCg****-**L110:localhost:110****-**L25:localhost:25****mailhost.example.net*
+ssh -fNCg -L110:localhost:110 -L25:localhost:25 mailhost.example.net
 
-\
+ 
 
 The -C switch turns on compression.
 
-\
+ 
 
 You can add as many port forwarding rules as you like by specifying the
 -L switch multiple times.
@@ -9316,7 +9300,7 @@ forwarding agent, you can automate the creation of encrypted tunnels
 throughout your wireless network, and protect your communications with
 strong encryption and authentication.
 
-### OpenVPN
+#### OpenVPN
 
 OpenVPN is a VPN implementation built on SSL encryption with both a
 commercially-licensed and an Open Source "community" edition.
@@ -9340,17 +9324,17 @@ authority.
 OpenVPN has many advantages that make it a good option for providing
 end-to-end security. Some of these reasons include:
 
-\
+ 
 
--   it is based on proven, robust, encryption protocols (SSL and RSA)
+-   •it is based on proven, robust, encryption protocols (SSL and RSA) 
 
--   it is relatively easy to configure. It functions across many
-    different platforms
+-   •it is relatively easy to configure. It functions across many
+    different platforms 
 
--   it is well-documented. An Open-Source "Community" version is
-    maintained in addition to a for-pay commercial version.
+-   •it is well-documented. An Open-Source "Community" version is
+    maintained in addition to a for-pay commercial version. 
 
-\
+ 
 
 OpenVPN needs to connect to a single TCP or UDP port on the remote side.
 Once established, it can encapsulate all data down to the Networking
@@ -9365,7 +9349,7 @@ fit into the structure of your network in order to provide the best
 possible protection without opening up your organisation to
 unintentional problems.
 
-\
+ 
 
 There are many good online resources that deal with installing OpenVPN
 on a server and client, we recommend this article from Linux Journal:
@@ -9376,12 +9360,11 @@ as well as the official HOWTO:
 
 [http://openvpn.net/howto.html](http://openvpn.net/howto.html)
 
-**Tor********&********Anonymizers**
------------------------------------
+### Tor & Anonymizers
 
 The Internet is basically an open network based on trust.
 
-\
+ 
 
 When you connect to a web server across the Internet, your traffic
 passes through many different routers, owned by a great variety of
@@ -9400,7 +9383,7 @@ activities on-line. Privacy and anonymity are important, and closely
 linked to each other. There are many valid reasons to consider
 protecting your privacy by anonymizing your network traffic.
 
-\
+ 
 
 Suppose you want to offer Internet connectivity to your local community
 by setting up a number of access points for people to connect to.
@@ -9415,11 +9398,11 @@ anyone connecting to your network. The problem is neatly sidestepped if
 it were technically infeasible to determine where your traffic was
 actually headed.
 
-\
+ 
 
 And what about on-line censorship?
 
-\
+ 
 
 Publishing web pages anonymously may also be necessary to avoid
 government censorship. There are tools that allow you to anonymize your
@@ -9436,13 +9419,13 @@ Tor can be run on a local PC, under Microsoft Windows, Mac OSX, Linux
 and a variety of BSD's, where it anonymizes traffic from the browser on
 that particular machine.
 
-\
+ 
 
 Tor and Privoxy can also be installed on a gateway server, or even a
 small embedded access point (such as a Linksys WRT54G) where it provides
 anonymity to all network users automatically.
 
-\
+ 
 
 Tor works by repeatedly bouncing your TCP connections across a number of
 servers spread throughout the Internet, and by wrapping routing
@@ -9452,7 +9435,7 @@ routing), that get peeled off as the packet moves across the network.
 This means that, at any given point in the network, the source and
 destination addresses cannot be linked together.
 
-\
+ 
 
 This makes traffic analysis extremely difficult.
 
@@ -9463,7 +9446,7 @@ would easily be able to see that you were trying to reach a specific
 site (say google.com) by the fact that you sent a DNS query to translate
 google.com to the appropriate IP address.
 
-\
+ 
 
 Privoxy connects to Tor as a SOCKS4a proxy, which uses hostnames (not IP
 addresses) to get your packets to the intended destination. In other
@@ -9471,27 +9454,23 @@ words, using Privoxy with Tor is a simple and effective way to prevent
 traffic analysis from linking your IP address with the services you use
 online.
 
-\
+ 
 
 Combined with secure, encrypted protocols (such as those we have seen in
 this chapter), Tor and Privoxy provide a high level of anonymity on the
 Internet.
 
-\
+ 
 
-\
+ 
 
-**PLANNING AND DEPLOYMENT**
+3PLANNING AND DEPLOYMENT
+========================
 
-**10. DEPLOYMENT********PLANNING**
-==================================
+10. DEPLOYMENT PLANNING
+-----------------------
 
-\
-\
--
-
-**Estimating********capacity**
-------------------------------
+### Estimating capacity
 
 In order to estimate capacity, it is important to understand that a
 wireless device’s listed speed (the so called data rate) refers to the
@@ -9500,7 +9479,7 @@ throughput you will observe. Throughput is also referred to as channel
 capacity, or simply bandwidth (although this term is different from
 radio bandwidth!
 
-\
+ 
 
 The bandwidth-throughput is measured in Mbps, while the radio bandwidth
 is measures in MHz.). For example, a single 802.11g link may use 54 Mbps
@@ -9508,7 +9487,7 @@ radios, but it will only provide up to 22 Mbps of actual throughput. The
 rest is overhead that the radios need in order to coordinate their
 signals using the 802.11g protocol.
 
-\
+ 
 
 Note that throughput is a measurement of bits over time. 22 Mbps means
 that in any given second, up to 22 megabits can be sent from one end of
@@ -9518,7 +9497,7 @@ through the link, it will take longer than one second.
 Since the data can’t be sent immediately, it is put in a queue, and
 transmitted as quickly as possible.
 
-\
+ 
 
 This backlog of data increases the time needed for the most recently
 queued bits to the traverse the link.
@@ -9526,7 +9505,7 @@ queued bits to the traverse the link.
 The time that it takes for data to traverse a link is called latency,
 and high latency is commonly referred to as lag.
 
-\
+ 
 
 Your link will eventually send all of the queued traffic, but your users
 will likely complain as the lag increases.
@@ -9538,17 +9517,13 @@ link.
 
 Various Internet applications require different amounts of throughput.
 
-\
+ 
 
-\
+Application
 
-**Application**
+Requirement/ User
 
-**Requirement/********User**
-
-\
-
-**Notes**
+Notes
 
 Text messaging / IM
 
@@ -9618,19 +9593,17 @@ many clients as possible, as quickly as possible. Use of these
 applications will cause latency and throughput problems for all other
 network users unless you use careful bandwidth shaping.
 
-\
-
 To estimate the necessary throughput you will need for your network,
 multiply the expected number of users by the requirements of
 applications they will probably use.
 
-\
+ 
 
 For example, 50 users who are chiefly browsing the web will likely
 consume 2.5 to 5 Mbps or more of throughput at peak times, and will
 tolerate some latency.
 
-\
+ 
 
 On the other hand, 50 simultaneous VoIP users would require 5 Mbps or
 more of throughput in both directions with low latency. Since 802.11g
@@ -9638,7 +9611,7 @@ wireless equipment is half duplex (that is, it only transmits or
 receives, never both at once) you should accordingly double the required
 throughput, for a total of 10 Mbps.
 
-\
+ 
 
 Your wireless links must provide that capacity every second, or
 conversations will lag.
@@ -9648,39 +9621,37 @@ the same moment, it is common practice to oversubscribe available
 throughput by some factor (that is, allow more users than the maximum
 available bandwidth can support).
 
-\
+ 
 
 Oversubscribing by a factor of 5 to 10 is quite common. In all
 likelihood, you will oversubscribe by some amount when building your
 network infrastructure.
 
-\
+ 
 
 By carefully monitoring throughput throughout your network, you will be
 able to plan when to upgrade various parts of the network, and how much
 additional resources will be needed.
 
-**Calculating********the********link********budget**
-----------------------------------------------------
+### Calculating the link budget
 
-Determining if a link is feasible or not is a process called
-***link************budget************calculation*********and can be
-either performed manually or using specialised tools.
+Determining if a link is feasible or not is a process called link budget
+calculation and can be either performed manually or using specialised
+tools.
 
 A basic communication system consists of two radios, each with its
 associated antenna, the two being separated by the path to be covered as
 shown in following Figure DP 1.
 
-\
+ 
 
-\
+![](./DP/DP1.png)
 
-![](DP/DP1.png)\
-\
+ 
 
-*Figure****DP****1:****Components****of****a****Basic****Communication****System.*
+Figure DP 1: Components of a Basic Communication System.
 
-\
+ 
 
 In order to have a communication between the two, the radios require a
 certain minimum signal to be collected by the antennas and presented at
@@ -9688,42 +9659,41 @@ their input ports.
 
 Whether or not signals can be passed between the radios depends on the
 characteristics of the equipment and on the diminishment of the signal
-due to distance, called ***path************loss.*********In such a
-system, some of the parameters can be modified (the equipment used)
-while others are fixed (the distance between the radios). Let’s start by
-examining the parameters that can we can modify.
+due to distance, called path loss. In such a system, some of the
+parameters can be modified (the equipment used) while others are fixed
+(the distance between the radios). Let’s start by examining the
+parameters that can we can modify.
 
-\
+ 
 
 ​1. The characteristics of the equipment to be considered when
 calculating the link budget are:
 
-\
+ 
 
-**Transmit********(TX)********Power.******It is expressed in milliwatts
-or in dBm. TX power is often dependent on the transmission rate.
+Transmit (TX) Power. It is expressed in milliwatts or in dBm. TX power
+is often dependent on the transmission rate.
 
 The TX power of a given device should be specified in the literature
 provided by the manufacturer.
 
-\
+ 
 
 An example is shown here following, where you can see that using 802.11g
 there is a difference of 5 dB in output power when using 6 Mbs or 54
 Mbs.
 
-\
+ 
 
-![](DP/DP2.png)\
-\
+![](./DP/DP2.png)
 
-\
+ 
 
-*Figure****DP****2:****Ubiquiti****Bullet2****Datasheet*
+Figure DP 2: Ubiquiti Bullet2 Datasheet
 
-\
+ 
 
-**Antenna********Gain.******
+Antenna Gain.
 
 Antennas are passive devices that create the effect of amplification by
 virtue of their physical shape.
@@ -9736,10 +9706,10 @@ Typical values are as follows: parabolic antennas have a gain of 19-24
 dBi; omnidirectional antennas have 5- 12 dBi; sectorial antennas have
 roughly a 12-15 dBi gain.
 
-\
+ 
 
-**Minimum********Received********Signal********Level********(RSL),******or
-simply, the sensitivity of the receiver.
+Minimum Received Signal Level (RSL), or simply, the sensitivity of the
+receiver.
 
 The minimum RSL is always expressed as a negative dBm (-dBm) and is the
 lowest signal level the radio can distinguish.
@@ -9749,7 +9719,7 @@ rate (1 Mbps) has the greatest sensitivity.
 
 The minimum will be typically in the range of -75 to -95 dBm.
 
-\
+ 
 
 Like TX power, the RSL specifications should be provided by the
 manufacturer of the equipment.
@@ -9759,31 +9729,29 @@ difference in receiver sensitivity, with -92 dBm at 6 Mbs and -72 dBm at
 54 Mbs. Don’t forget that a difference of 20 dB means a ratio of 100 in
 terms of power!
 
-\
+ 
 
-**Cable********Losses.******Some of the signal's energy is lost in the
-cables, the connectors and other devices, going from the radios to the
-antennas. T
+Cable Losses. Some of the signal's energy is lost in the cables, the
+connectors and other devices, going from the radios to the antennas. T
 
 he loss depends on the type of cable used and on its length.
 
-\
+ 
 
 Signal loss for short coaxial cables including connectors is quite low,
 in the range of 2-3 dB. It is better to have cables as short as
 possible. Equipment now tends to have embedded antennas and thus the
 cable length is very short.
 
-\
+ 
 
 ​2. When calculating the path loss, several effects must be considered.
-One has to take into account the
-***free************space************loss, attenuation*********and
-***scattering.***
+One has to take into account the free space loss, attenuation and
+scattering.
 
-\
+ 
 
-**Free********Space********Loss.**
+Free Space Loss.
 
 Geometric spreading of the wavefront, commonly known as free space loss,
 diminishes signal power. Ignoring everything else, the further away the
@@ -9792,19 +9760,18 @@ This is independent of the environment, it depends only on the distance.
 This loss happens because the radiated signal energy expands as a
 function of the distance from the transmitter.
 
-\
+ 
 
 Using decibels to express the loss and using a generic frequency f, the
 equation for the Free Space Loss is:
 
-\
+ 
 
-*L*~*fsl*~***=****32.4+20\*lo**g*~*10*~*(D)+20\*lo**g*~*10*~*(f)*
+Lfsl = 32.4+20\*log10(D)+20\*log10(f)
 
-\
+ 
 
-where L~fsl~ is expressed in dB and ***D*********is in kilometres and
-**f******is in MHz.
+where Lfsl is expressed in dB and D is in kilometres and f is in MHz.
 
 When plotting the free space loss vs the distance, one gets a figure
 like the one below. What should be noted is that the difference between
@@ -9813,7 +9780,7 @@ using 2400 MHz and 5300 MHz is 6 dB in terms of free space loss.
 So the higher frequency gives a higher free space loss, which is usually
 balanced by a higher gain in the parabolic antennas.
 
-\
+ 
 
 A parabolic antenna operating at 5 GHz is 6 dB more powerful than one
 operating at 2.4 GHz, for the same antenna dimensions.
@@ -9821,16 +9788,17 @@ operating at 2.4 GHz, for the same antenna dimensions.
 Having two antennas of 6 dB higher gain on each side, provides a net 6
 dB advantage when migrating from 2.4 to 5 GHz.
 
-\
+ 
 
-![](DP/DP3.png)\
-\
+![](./DP/DP3.png)
 
-*Figure****DP****3:****Free****Space****Path****Loss****calculation****graph.*
+ 
 
-\
+Figure DP 3: Free Space Path Loss calculation graph.
 
-**Attenuation**
+ 
+
+Attenuation
 
 The second contribution to the path loss is attenuation.
 
@@ -9841,31 +9809,30 @@ buildings.
 Attenuation can vary greatly depending upon the structure of the object
 the signal is passing through, and it is very difficult to quantify.
 
-\
+ 
 
-**Scattering**
+Scattering
 
 Along the link path, the RF energy leaves the transmitting antenna and
 energy spreads out. Some of the RF energy reaches the receiving antenna
 directly, while some bounces off the ground. Part of the RF energy which
 bounces off the ground reaches the receiving antenna. Since the
 reflected signal has a longer way to travel, it arrives at the receiving
-antenna later than the direct signal. This effect is called
-***multipath,*********or signal dispersion. In some cases reflected
-signals add together and cause no problem.
+antenna later than the direct signal. This effect is called multipath,
+or signal dispersion. In some cases reflected signals add together and
+cause no problem.
 
 When they add together out of phase, the received signal is almost
 worthless. In some cases, the signal at the receiving antenna can be
 zeroed by the reflected signals.
 
-This is known as extreme fading, or ***nulling.*********There is a
-simple technique that is used to deal with multipath, called
-***antenna************diversity.*********
+This is known as extreme fading, or nulling. There is a simple technique
+that is used to deal with multipath, called antenna diversity.
 
 It consists of adding a second antenna to the radio. Multipath is in
 fact a very location-specific phenomenon.
 
-\
+ 
 
 If two signals add out of phase at one location, they will not add
 destructively at a second, nearby location.
@@ -9875,7 +9842,7 @@ receive a useable signal, even if the other is receiving a faded one. In
 commercial devices, antenna switching diversity is used: there are
 multiple antennas on multiple inputs, with a single receiver.
 
-\
+ 
 
 The signal is received through only one antenna at a time.
 
@@ -9883,66 +9850,66 @@ When transmitting, the radio uses the antenna last used for reception.
 The distortion given by multipath degrades the ability of the receiver
 to recover the signal in a manner much like signal loss.
 
-Putting all these parameters together leads to the
-**link********budget********calculatio****n**. If you are using
-different radios on the two sides of the link, you should calculate the
-path loss twice, once for each direction (using the appropriate TX
-power, RX power, TX antenna gain, RX antenna gain for each calculation).
+Putting all these parameters together leads to the link budget
+calculation. If you are using different radios on the two sides of the
+link, you should calculate the path loss twice, once for each direction
+(using the appropriate TX power, RX power, TX antenna gain, RX antenna
+gain for each calculation).
 
-\
+ 
 
 Adding up all the gains and subtracting all the losses gives:
 
-\
+ 
 
-*TX Power Radio****1*
+                TX Power                 Radio 1
 
-*+Antenna****Gain****Radio****1*
+                +Antenna Gain                Radio 1
 
-*-Cable****Losses Radio****1*
+                -Cable Losses                 Radio 1
 
-*+**Antenna****Gain****Radio****2*
+                +Antenna Gain                Radio 2
 
-*-Cable****Losses Radio****2*
+                -Cable Losses                 Radio 2
 
-*=**Total****Gain*
+                =Total Gain
 
-\
+ 
 
 Subtracting the Path Loss from the Total Gain:
 
-\
+ 
 
-***Total********Gain********-********Path********Loss********=********Signal********Level********at********receiving********side********of********the********link***
+Total Gain - Path Loss = Signal Level at receiving side of the link
 
-\
+ 
 
 If the resulting signal level is greater than the minimum received
 signal level of the receiving radio, then the link is feasible!
 
 The received signal is powerful enough for the radio to use it.
 
-\
+ 
 
 Remember that the minimum RSL is always expressed as a negative dBm, so
 -56 dBm is greater than -70 dBm.
 
-\
+ 
 
 On a given path, the variation in path loss over a period of time can be
-large, so a certain margin****should be considered.
+large, so a certain margin should be considered.
 
 This margin is the amount of signal above the sensitivity of radio that
 should be received in order to ensure a stable, high quality radio link
 during bad weather and other atmospheric disturbances.
 
-\
+ 
 
 A margin of 10 to 15 dB is fine. To give some space for attenuation and
 multipath in the received radio signal, a margin of 20dB should be safe
 enough.
 
-\
+ 
 
 Once you have calculated the link budget in one direction, repeat the
 calculation for the other direction.
@@ -9950,75 +9917,74 @@ calculation for the other direction.
 Substitute the transmit power for that of the second radio, and compare
 the result against the minimum received signal level of the first radio.
 
-\
+ 
 
-**Example********link********budget********calculation**
+Example link budget calculation
 
 As an example, we want to estimate the feasibility of a 5 km link, with
 one access point and one client radio.
 
-\
+ 
 
--   The access point is connected to an omni directional antenna with a
+-   •The access point is connected to an omni directional antenna with a
     10dBi gain, while the client is connected to a directional antenna
-    with 14 dBi gain.
+    with 14 dBi gain.  
 
--   The transmitting power of the AP is 100 mW (or 20 dBm) and its
-    sensitivity is -89 dBm.
+-   •The transmitting power of the AP is 100 mW (or 20 dBm) and its
+    sensitivity is -89 dBm.  
 
--   The transmitting power of the client is 30 mW (or 15 dBm) and its
-    sensitivity is -82 dBm.
+-   •The transmitting power of the client is 30 mW (or 15 dBm) and its
+    sensitivity is -82 dBm.  
 
--   The cables are short, so we can estimate a loss of 2 dB at each
-    side.
+-   •The cables are short, so we can estimate a loss of 2 dB at each
+    side.  
 
-\
+ 
 
 Let’s start by calculating the link budget from the AP to the client, as
 shown in Figure DP 4.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-![](DP/DP4.png)\
-\
+![](./DP/DP4.png)
 
-\
+ 
 
-*Figure****DP****4:****Link****Budget****calculation****from****AP****to****client.*
+Figure DP 4: Link Budget calculation from AP to client.
 
-\
+ 
 
 Adding up all the gains and subtracting all the losses for the AP to
 client link gives:
 
-\
+ 
 
-*20****dBm****(TX****Power****Radio****1)*
+                 20 dBm        (TX Power Radio 1)
 
-*+10****dBi (Antenna****Gain****Radio****1)*
+                +10 dBi                (Antenna Gain Radio 1)
 
-*-2****dB (Cable****Losses****Radio****1)*
+                 -2 dB                (Cable Losses Radio 1)
 
-*+14****dBi (Antenna****Gain****Radio****2)*
+                +14 dBi                (Antenna Gain Radio 2)
 
-*-2****dB (Cable****Losses****Radio****2)*
+                 -2 dB                (Cable Losses Radio 2)
 
-*40****dB= Total****Gain*
+                 40 dB=        Total Gain
 
-\
+ 
 
 The path loss for a 5 km link, considering the free space loss is
 -114dB. Subtracting the path loss from the total gain:
 
-\
+ 
 
-*40****dB****-****114****dB****=****-**74****dB*
+40 dB - 114 dB = -74 dB
 
-\
+ 
 
 Since -74 dB is greater than the minimum receive sensitivity of the
 client radio (-82 dBm), the signal level is just enough for the client
@@ -10029,37 +9995,36 @@ be enough to protect against extreme weather conditions.
 Next we calculate the link from the client back to the access point, as
 shown on the next page.
 
-![](DP/DP5.png)\
-\
+![](./DP/DP5.png)
 
-\
+ 
 
-*Figure****DP****5:****Link****Budget****calculation****from****client****to****AP.*
+Figure DP 5: Link Budget calculation from client to AP.
 
-\
+ 
 
-*15****dBm****(TX****Power****Radio****2)*
+                 15 dBm        (TX Power Radio 2)
 
-*+14****dBi (Antenna****Gain****Radio****2)*
+                +14 dBi                (Antenna Gain Radio 2)
 
-*-2****dB (Cable****Losses****Radio****2)*
+                -2 dB                (Cable Losses Radio 2)
 
-*+10****dBi (Antenna****Gain****Radio****1)*
+                +10 dBi                (Antenna Gain Radio 1)
 
-*-2 dB (Cable****Losses****Radio****1)*
+                -2 dB                (Cable Losses Radio 1)
 
-*35****dB****= Total****Gain*
+                 35 dB =        Total Gain
 
-\
+ 
 
 Obviously, the path loss is the same on the return trip. So our received
 signal level on the access point side is:
 
-\
+ 
 
-*35****dB****-****114****dB****=****-**79****dB*
+35 dB - 114 dB = -79 dB
 
-\
+ 
 
 Since the receive sensitivity of the AP is -89dBm, this leaves us 10dB
 of margin (89dB - 79dB). Overall, this link will probably work fine.
@@ -10068,84 +10033,60 @@ By using a 24dBi dish on the client side rather than a 14dBi antenna, we
 will get an additional 10dBi of gain on both directions of the link
 (remember, antenna gain is reciprocal).
 
-\
+ 
 
 A more expensive option would be to use higher power radios on both ends
 of the link, but note that adding an amplifier or higher-powered card to
 one end generally does not help the overall quality of the link.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-### **Tables********for********calculating********link********budget**
+#### Tables for calculating link budget
 
 To calculate the link budget, simply approximate your link distance, and
 then fill in the following tables:
 
-\
+ 
 
-**Free********Space********Path********Loss********at********2.4********GHz**
+Free Space Path Loss at 2.4 GHz
 
 Distance (m)
 
-\
-
 100
-
-\
 
 500
 
-\
-
 1000
-
-\
 
 3000
 
-\
-
 5000
-
-\
 
 10000
 
 Loss (dB)
 
-\
-
 80
-
-\
 
 94
 
-\
-
 100
-
-\
 
 110
 
-\
-
 114
-
-\
 
 120
 
-\
+ 
 
-\
+ 
 
-**Antenna********Gain:**
+Antenna Gain:
 
 Radio 1 Antenna
 
@@ -10153,33 +10094,31 @@ Radio 1 Antenna
 
 = Total Antenna Gain
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-**Losses:**
+Losses:
 
 Radio 1 + Cable Loss (dB)
 
-Radio 2 + Cable Loss (dB)
+Radio 2 + Cable Loss (dB)
 
 Free Space Path Loss (dB)
 
-\
-
 = Total Loss (dB)
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-**Link********Budget********for********Radio********1 Radio********2:**
+Link Budget for Radio 1        Radio 2:
 
 Radio 1 TX Power
 
@@ -10191,11 +10130,11 @@ Radio 1 TX Power
 
 \> Radio 2 Sensitivity
 
-\
+ 
 
-\
+ 
 
-**Link********Budget********for********Radio********2 Radio********1:**
+Link Budget for Radio 2        Radio 1:
 
 Radio 2 TX Power
 
@@ -10207,16 +10146,15 @@ Radio 2 TX Power
 
 \> Radio 1 Sensitivity
 
-\
+ 
 
-\
+ 
 
 If the received signal is greater than the minimum received signal
 strength in both directions of the link, as well as any noise received
 along the path, then the link is possible.
 
-**Link********planning********software**
-----------------------------------------
+### Link planning software
 
 While calculating a link budget by hand is straightforward, there are a
 number of tools available that will help automate the process. In
@@ -10227,7 +10165,7 @@ Most commercial tools are very expensive and are often designed to be
 used with specific hardware. In this section we will discuss a free tool
 called RadioMobile.
 
-### RadioMobile
+#### RadioMobile
 
 Radio Mobile is a tool for the design and simulation of wireless
 systems. It predicts the performance of a radio link by using
@@ -10239,14 +10177,16 @@ automatically builds a profile between two points in the digital map
 showing the coverage area and first Fresnel zone. An example is shown in
 Figure DP 6 below.
 
-\
+ 
 
-![](DP/DP6.png)\
-\
+![](./DP/DP6.png)
 
-*Figure****DP****6:****Radio****Mobile****simulation****showing****a****digital****terrain****elevation****and****first****Fresnel****zone.*
+ 
 
-\
+Figure DP 6: Radio Mobile simulation showing a digital terrain elevation
+and first Fresnel zone.
+
+ 
 
 During the simulation, it checks for line of sight and calculates the
 Path Loss, including losses due to obstacles.
@@ -10270,48 +10210,50 @@ There are two versions of RadioMobile: a version running on Windows and
 a version running online via a web interface. Here are the main
 differences between the two.
 
-\
+ 
 
-**Web********version:**
+Web version:
 
--   it can run on any machine (Linux, Mac, Windows, tablet, phone, etc)
+-   •it can run on any machine (Linux, Mac, Windows, tablet, phone,
+    etc) 
 
--   it does not require big downloads. As it runs online, data is stored
-    on the server and only the necessary data is downloaded.
+-   •it does not require big downloads. As it runs online, data is
+    stored on the server and only the necessary data is downloaded. 
 
--   it saves sessions. If you run a simulation and login after some
-    time, you will still find your simulation and the results.
+-   •it saves sessions. If you run a simulation and login after some
+    time, you will still find your simulation and the results. 
 
--   it is easier to use, especially for beginners.
+-   •it is easier to use, especially for beginners. 
 
--   it requires connectivity. It is not possible to run a simulation if
-    you are offline.
+-   •it requires connectivity. It is not possible to run a simulation if
+    you are offline. 
 
--   as it has been developed for the community of radio amateurs, it can
-    work only for certain frequency bands. As an example, it is not
+-   •as it has been developed for the community of radio amateurs, it
+    can work only for certain frequency bands. As an example, it is not
     possible to simulate links at 5.8GHz but only at 5.3GHz. This is
     good enough from a practical point of view, but one has to keep it
-    in mind.
+    in mind. 
 
-\
+ 
 
-**Windows********version:**
+Windows version:
 
--   it can run offline. Once the maps are downloaded, there is no need
-    to be online to run the simulation.
+-   •it can run offline. Once the maps are downloaded, there is no need
+    to be online to run the simulation. 
 
--   one can use an external GPS to get the exact position of the
-    station. While this is not often used, it could be useful sometimes.
+-   •one can use an external GPS to get the exact position of the
+    station. While this is not often used, it could be useful
+    sometimes. 
 
--   it runs on Windows (it does run in Linux but not directly).
+-   •it runs on Windows (it does run in Linux but not directly). 
 
--   it requires big downloads. If your bandwidth is limited, downloading
-    many maps might be a problem. The online version requires smaller
-    downloads.
+-   •it requires big downloads. If your bandwidth is limited,
+    downloading many maps might be a problem. The online version
+    requires smaller downloads. 
 
--   It is not user friendly, especially for beginners.
+-   •It is not user friendly, especially for beginners. 
 
-\
+ 
 
 The main RadioMobile webpage, with examples and tutorials, is available
 at:
@@ -10319,7 +10261,7 @@ at:
 
 Follow the instructions to install the software on Windows.
 
-### **RadioMobile********online**
+#### RadioMobile online
 
 To use the online version of RadioMobile you must first create an
 account. Go to:
@@ -10330,21 +10272,22 @@ minutes and will be ready to go.
 Simulating a link requires some steps that require following the menu on
 the left, from top to bottom as shown in Figure DP 7 below.
 
-\
+ 
 
-![](DP/DP7.jpg)\
-\
+![](./DP/DP7.jpg)
 
-*Figure DP 7: Preparing to simulate a link using Radio Mobile.*
+ 
 
-\
+Figure DP 7: Preparing to simulate a link using Radio Mobile.
+
+ 
 
 The first step is to click on New Site. You will be presented a Map,
 similar to Google Maps. You can zoom into the map to find the location
 of your first site. Drag the Orange Placemark and place it in the
 desired position. Once you are done, click on Submit.
 
-\
+ 
 
 Give the location a meaningful name, and click on Add to My Sites. In
 this way, you will be able to use this location for the simulation.
@@ -10365,46 +10308,47 @@ drop-down menus. Enter a meaningful name for the link and enter the
 information about the equipment use. The sensitivity of the receiver is
 expressed in microVolts, while we usually use dBm.
 
-\
+ 
 
 To translate from microVolts to dBm, here are some examples:
 
-\
+ 
 
-*-**90dBm****is****7.07****microvolts*
+-90dBm is 7.07 microvolts
 
-*-85dBm is 12.6 microvolts*
+-85dBm is 12.6 microvolts
 
-*-80dBm is 22.4 microvolts*
+-80dBm is 22.4 microvolts
 
-*-75dBm is 39.8 microvolts*
+-75dBm is 39.8 microvolts
 
-*-70dBm is 70.7 microvolts*
+-70dBm is 70.7 microvolts
 
-\
+ 
 
 It is very important to choose a frequency that RadioMobile online can
 handle.
 
 Here are the most important frequencies for WiFi links:
 
-\
+ 
 
-***Use************2300************MHz************for************2.4************GHz************links************and************5825************MHz************for************5.8************GHz************links.***
+Use 2300 MHz for 2.4 GHz links and 5825 MHz for 5.8 GHz links.
 
-\
+ 
 
 Once you have entered all the information, click on Submit. In a short
 time, you will be presented a figure similar to the one below.
 
-\
+ 
 
-![](DP/DP8.jpg)\
-\
+![](./DP/DP8.jpg)
 
-*Figure DP 8: Output of the simulation.*
+ 
 
-\
+Figure DP 8: Output of the simulation.
+
+ 
 
 This page has all the necessary information to understand if the link is
 feasible or not.
@@ -10421,57 +10365,54 @@ page you should click on Add to my sites and the link will be stored. If
 you are not satisfied and want to simulate a different equipment setup,
 click on Modify this link.
 
-### **Radio********Mobile********for********Windows********in********simple********steps**
+#### Radio Mobile for Windows in simple steps
 
 This is an abridged guide to start using Radio Mobile after
 installation. Every parameter not specified here can be left at the
 default value and later modified if needed.
 
-\
+ 
 
-**Step********1**: download the digital elevation maps (DEMs) of your
-area of interest. choose SRTM format.
+Step 1: download the digital elevation maps (DEMs) of your area of
+interest. choose SRTM format.
 
-**Step********2**: create a map. In “File” →” Map properties”, choose
-the midpoint of your area of interest as the coordinates for your map
-and a size in km large enough to encompass all your points. Use 514X514
-pixels for now. You can add another type of map (like one with roads) to
-the raw DEM if you like.
+Step 2: create a map. In “File” →” Map properties”, choose the midpoint
+of your area of interest as the coordinates for your map and a size in
+km large enough to encompass all your points. Use 514X514 pixels for
+now. You can add another type of map (like one with roads) to the raw
+DEM if you like.
 
-**Step********3**: Create systems. In “File” →” Network properties”
-→”Systems”. Each one is a combination of TX power, RX sensitivity and
-antenna gain. Select omni antenna even if your antenna is directional,
-but insert the real gain.
+Step 3: Create systems. In “File” →” Network properties” →”Systems”.
+Each one is a combination of TX power, RX sensitivity and antenna gain.
+Select omni antenna even if your antenna is directional, but insert the
+real gain.
 
-**Step********4**: create units. Each unit has a name and a geographical
+Step 4: create units. Each unit has a name and a geographical
 position.You can use degrees, minutes, seconds or degrees and fractions,
 but make sure to select the proper hemisphere (N or S, E or W).
 
-**Step********5**: Assign roles: select item “Networks properties” from
-the menu “File”. Then go to the tab “Membership” where you will be
-allowed to edit the system and role for each unit. Enable each unit in
-the list with a checkmark. Assign a name to your network and in the
-”parameters” tab set the minimum and maximum frequency of operation in
-MHz.
+Step 5: Assign roles: select item “Networks properties” from the menu
+“File”. Then go to the tab “Membership” where you will be allowed to
+edit the system and role for each unit. Enable each unit in the list
+with a checkmark. Assign a name to your network and in the ”parameters”
+tab set the minimum and maximum frequency of operation in MHz.
 
-**Step********6**: View your network on the map. Select “View” →”Show
+Step 6: View your network on the map. Select “View” →”Show
 networks”→”All”
 
-\
+ 
 
-**Step********7**: Obtain the profile and point to point link budget.
-“Tools” →”Radio link”. You can switch to the detailed view that gives
-you a
+Step 7: Obtain the profile and point to point link budget. “Tools”
+→”Radio link”. You can switch to the detailed view that gives you a
 
 textual description of the output of the simulation.
 
-**Step********8**: View coverage: go to “Tools” → “Radio coverage” →
-“Single polar” to obtain the coverage of each station. Here the type of
-antenna becomes relevant. If it is not an omni you should edit the
-antenna pattern and the orientation of the boresight (direction where
-the beam is pointing).
+Step 8: View coverage: go to “Tools” → “Radio coverage” → “Single polar”
+to obtain the coverage of each station. Here the type of antenna becomes
+relevant. If it is not an omni you should edit the antenna pattern and
+the orientation of the boresight (direction where the beam is pointing).
 
-### **Using********Google********Earth********to********obtain********an********elevation********profile**
+#### Using Google Earth to obtain an elevation profile
 
 Google Earth is a very popular mapping application. It can be used to
 obtain the elevation profile between two points and therefore determine
@@ -10480,40 +10421,39 @@ line of sight can be derived from the optical one by adding the effect
 of the earth curvature (by using the modified radius of the earth) and
 the requirements for clearing the first Fresnel zone.
 
-### **The********procedure********is********the********following:**
+#### The procedure is the following:
 
 Install Google Earth in your device, launch the application and zoom
 into the map so you can see the two points that you want to link.
 
-\
+ 
 
-1.  In the upper menu, click on "Add path"
+1.  1.In the upper menu, click on "Add path" 
 
-2.  Click to set the first point and then for the second point
+2.  2.Click to set the first point and then for the second point 
 
-3.  Give the connection a name ("Link" for example) and click OK in the
-    pop-up window
+3.  3.Give the connection a name ("Link" for example) and click OK in
+    the pop-up window 
 
-4.  The connection appears in the menu on the left
+4.  4.The connection appears in the menu on the left 
 
-5.  Right click on the name of the connection ("Link" in our example)
+5.  5.Right click on the name of the connection ("Link" in our example) 
 
-6.  Select "Show elevation profile"
+6.  6.Select "Show elevation profile" 
 
-7.  The elevation profile appears at the bottom on the screen
+7.  7.The elevation profile appears at the bottom on the screen 
 
-8.  If you move along the profile, you will see a red arrow showing
-    where the point is in the map
+8.  8.If you move along the profile, you will see a red arrow showing
+    where the point is in the map 
 
-**Avoiding********noise**
--------------------------
+### Avoiding noise
 
 The unlicensed ISM and U-NII bands represent a very tiny piece of the
 known electromagnetic spectrum. Since this region can be utilised
 without paying license fees, many consumer devices use it for a wide
 range of applications.
 
-\
+ 
 
 Cordless phones, analog video senders, Bluetooth, baby monitors, and
 even microwave ovens compete with wireless data networks for use of the
@@ -10523,52 +10463,51 @@ These signals, as well as other local wireless networks, can cause
 significant problems for long-range wireless links. Here are some steps
 you can use to reduce reception of unwanted signals.
 
-\
+ 
 
-**Increase********antenna********gain******on both sides of a
-point-to-point link. Antennas not only add gain to a link, but their
-increased directionality tends to reject noise from areas around the
-link.
+Increase antenna gain on both sides of a point-to-point link. Antennas
+not only add gain to a link, but their increased directionality tends to
+reject noise from areas around the link.
 
-\
+ 
 
 Two high gain dishes that are pointed at each other will reject noise
 from directions that are outside the path of the link. Using
 omnidirectional antennas will receive noise from all directions.
 
-\
+ 
 
-\
+ 
 
-![](DP/DP9.png)\
-\
+![](./DP/DP9.png)
 
-*Figure****DP****9:****A****single****omnidirectional****antenna****vs.****multiple****sectorials.*
+ 
 
-\
+Figure DP 9: A single omnidirectional antenna vs. multiple sectorials.
 
-**Use********sectorials******instead of using an omnidirectional.
+ 
 
-\
+Use sectorials instead of using an omnidirectional.
+
+ 
 
 By making use of several sectorial antennas, you can reduce the overall
 noise received at a distribution point.
 
-\
+ 
 
 By staggering the channels used on each sectorial, you can also increase
 the available bandwidth to your clients.
 
-**Don’t********use********an********amplifie****r**. Amplifiers can make
-interference issues worse by indiscriminately amplifying all received
-signals, including sources of interference. Amplifiers also cause
-interference problems for other nearby users of the band.
+Don’t use an amplifier. Amplifiers can make interference issues worse by
+indiscriminately amplifying all received signals, including sources of
+interference. Amplifiers also cause interference problems for other
+nearby users of the band.
 
-\
+ 
 
-**Use********the********best********available********channe****l**.
-Remember that 802.11b/g channels are 22 MHz wide, but are only separated
-by 5 MHz.
+Use the best available channel. Remember that 802.11b/g channels are 22
+MHz wide, but are only separated by 5 MHz.
 
 Perform a site survey, and select a channel that is as far as possible
 from existing sources of interference. Remember that the wireless
@@ -10577,44 +10516,42 @@ phones, other networks, etc.) If your link suddenly has trouble sending
 packets, you may need to perform another site survey and pick a
 different channel.
 
-\
+ 
 
-**If********possible,********use********5.8********GHz**. While this is
-only a short-term solution, there is currently far more consumer
-equipment installed in the field that uses 2.4 GHz. Using 802.11a you
-will avoid this congestion altogether.
+If possible, use 5.8 GHz. While this is only a short-term solution,
+there is currently far more consumer equipment installed in the field
+that uses 2.4 GHz. Using 802.11a you will avoid this congestion
+altogether.
 
-\
+ 
 
-**If********all********else********fails,********use********licensed********spectrum**.
-There are places where all available unlicensed spectrum is actually
-used. In these cases, it may make sense to spend the additional money
-for obtaining the respective license and deploy equipment that uses a
-less congested band. For long distance point-to-point links that require
-very high throughput and maximum uptime, this is certainly an option. Of
-course, these features come at a much higher price tag compared to
-unlicensed equipment.
+If all else fails, use licensed spectrum. There are places where all
+available unlicensed spectrum is actually used. In these cases, it may
+make sense to spend the additional money for obtaining the respective
+license and deploy equipment that uses a less congested band. For long
+distance point-to-point links that require very high throughput and
+maximum uptime, this is certainly an option. Of course, these features
+come at a much higher price tag compared to unlicensed equipment.
 
 Recently equipment in the 17 GHz and 24 GHz bands have become available.
 
 Although it is considerably more expensive, it also offers much greater
 bandwidth, and in many countries these frequencies are unlicensed.
 
-\
+ 
 
 To identify sources of noise, you need tools that will show you what is
 happening in the air at 2.4 GHz. We will see some examples of these
-tools in the chapters called **Network********Monitoring******and
-**Maintenance********and********Troubleshooting.**
+tools in the chapters called Network Monitoring and Maintenance and
+Troubleshooting.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-Repeaters
----------
+### Repeaters
 
 The most critical component to building long distance network links is
 line of sight (often abbreviated as LOS).
@@ -10626,7 +10563,7 @@ determine if a link is even possible. But even if there is a mountain
 between two points, remember that obstacles can sometimes be turned into
 assets.
 
-\
+ 
 
 Mountains may block your signal, but assuming power can be provided they
 also make very good repeater sites.
@@ -10642,7 +10579,7 @@ efficiency is slightly less than half of the available bandwidth, since
 the radio can either send or receive data, but never both at once. These
 devices are cheaper, simpler, and have lower power requirements.
 
-\
+ 
 
 A repeater with two (or more) radio cards can operate all radios at full
 capacity, as long as they are each configured to use non-overlapping
@@ -10655,7 +10592,7 @@ Repeaters can be purchased as a complete hardware solution, or easily
 assembled by connecting two or more wireless nodes together with
 Ethernet cable.
 
-\
+ 
 
 When planning to use a repeater built with 802.11 technology, remember
 that nodes must be configured for master, managed, or ad-hoc mode.
@@ -10665,12 +10602,14 @@ allow multiple clients to connect to either side of the repeater. But
 depending on your network layout, one or more devices may need to use
 ad-hoc or even client mode.
 
-![](DP/DP10.png)\
-\
+![](./DP/DP10.png)
 
-*Figure****DP****10:****The****repeater****forwards****packets****over****the****air****between****nodes****that****have****no****direct****line****of****sight.*
+ 
 
-\
+Figure DP 10: The repeater forwards packets over the air between nodes
+that have no direct line of sight.
+
+ 
 
 Typically, repeaters are used to overcome obstacles in the path of a
 long distance link. For example, there may be buildings in your path,
@@ -10682,91 +10621,92 @@ you can’t go over or through an obstacle, you can often go around it.
 Rather than using a direct link, try a multi-hop approach to avoid the
 obstacle.
 
-\
+ 
 
-![](DP/DP11.png)\
-*Figure****DP****11:
-No****power****was****available****at****the****top****of****the****hill,****but****it****was****circumvented****by****using****multiple****repeater****sites****around****the****base.*
+![](./DP/DP11.png)
 
-\
+Figure DP 11: No power was available at the top of the hill, but it was
+circumvented by using multiple repeater sites around the base.
+
+ 
 
 Finally, you may need to consider going backwards in order to go
 forwards. If there is a high site available in a different direction,
 and that site can see beyond the obstacle, a stable link can be made via
 an indirect route.
 
-\
+![](./DP/DP12.png)
 
-![](DP/DP12.png)\
-\
+ 
 
-*Figure****DP****12:**Site****D****could****not****make****a****clean****link****to****site****A****or****B,****since****site****C****is****in****the****way****and****is****not****hosting****a****node.****By****installing****a****high
-repeater,****nodes****A,****B,****and****D****can****communicate****with****each****other.****Note****that****traffic****from****node****D****actually****travels****further****away****from****the****rest****of
-the****network****before****the****repeater****forwards****it****along.*
+Figure DP 12: Site D could not make a clean link to site A or B, since
+site C is in the way and is not hosting a node. By installing a high
+repeater, nodes A, B, and D can communicate with each other. Note that
+traffic from node D actually travels further away from the rest of the
+network before the repeater forwards it along.
 
-**Deployment********planning********for****IP****v6**
------------------------------------------------------
+### Deployment planning for IPv6
 
-As we mentioned in the chapter called **Networkin****g**, most regions
-of the world have either exhausted or nearly exhausted their IPv4
-addresses. Therefore it is important that you build into your planning
-the deployment of IPv6 based networks.
+As we mentioned in the chapter called Networking, most regions of the
+world have either exhausted or nearly exhausted their IPv4 addresses.
+Therefore it is important that you build into your planning the
+deployment of IPv6 based networks.
 
-\
+ 
 
 It is understood that at the time of writing there are still many sites
 and services that are still only available by IPv4.
 
-\
+ 
 
 So in order to become a leader in deploying IPv6, you will need to be
 able to interconnect with legacy IPv4 networks as well as teach and
 guide your users and developers how to handle IPv6 alongside IPv4.
 
-\
+ 
 
 By leading the way in deploying IPv6 in your network you will be at the
 forefront of the Internet and recognised as someone who is prepared to
 be aware of and support the next generation of networking.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
 In preparing for IPv6 here are some steps you can take to help move you
 in the right direction -
 
-\
+ 
 
-1.  Dont buy routers, firewalls and other IP equipment that process IPv4
-    packets in hardware at full speed and only process IPv6 packets more
-    slowly in software or worse still dont handle IPv6 at all. The vast
-    majority of available network devices support IPv6. RIPE has
+1.  1.Dont buy routers, firewalls and other IP equipment that process
+    IPv4 packets in hardware at full speed and only process IPv6 packets
+    more slowly in software or worse still dont handle IPv6 at all. The
+    vast majority of available network devices support IPv6. RIPE has
     prepared some requirements to be added into any call for tender to
-    ensure that IPv6 is included:
+    ensure that IPv6 is included: 
 
-    http://www.ripe.net/ripe/docs/current -ripe-documents/ripe-554
+    http://www.ripe.net/ripe/docs/current -ripe-documents/ripe-554 
 
     You may also look for the IPv6-Ready logo on the data sheets of the
-    devices.
+    devices. 
 
-2.  When deploying new software, make sure it works over IPv6.
+2.  2.When deploying new software, make sure it works over IPv6. 
 
-3.  When discussing your backhaul link with a local ISP, check that they
-    have deployed or have plans to deploy and offer IPv6 services. If
-    not discuss with them how you might co-operate and interconnect your
-    IPv6 network with them. The cost of IPv6 should be included in the
-    overall cost; this means that you will not pay anything more to get
-    IPv6. The Service Level Agreement (SLA) for IPv6 should be identical
-    (throughput, latency, incident response time, ...) as for IPv4.
-    There are several IPv4/IPv6 transition techniques that can be
-    deployed.
+3.  3.When discussing your backhaul link with a local ISP, check that
+    they have deployed or have plans to deploy and offer IPv6 services.
+    If not discuss with them how you might co-operate and interconnect
+    your IPv6 network with them. The cost of IPv6 should be included in
+    the overall cost; this means that you will not pay anything more to
+    get IPv6. The Service Level Agreement (SLA) for IPv6 should be
+    identical (throughput, latency, incident response time, ...) as for
+    IPv4. There are several IPv4/IPv6 transition techniques that can be
+    deployed.  
 
-\
+ 
 
 Here are some urls that you can read that will give you up to date
 information about these -
@@ -10777,14 +10717,14 @@ information about these -
 
 [http://www.6diss.org/tutorials/transitioning.pdf](http://www.6diss.org/tutorials/transitioning.pdf)
 
-\
+ 
 
 There is more information about the growth of IPv6 and the lack of
 available IPv4 adresses in this article published in late 2012.
 
 http://arstechnica.com/business/2013/01/ipv6-takes-one-step-forward-ipv4-two-steps-back-in-2012/
 
-\
+ 
 
 There is also an EC funded project called 6Deploy who offer training and
 helpdesk services for network engineers starting their IPv6 deployments.
@@ -10792,10 +10732,10 @@ It is highly recommended that you contact them to discuss your project.
 
 http://www.6deploy.eu/index.php?page=home
 
-**11. HARDWARE********SELECTION********AND********CONFIGURATION**
-=================================================================
+11. HARDWARE SELECTION AND CONFIGURATION
+----------------------------------------
 
-\
+ 
 
 In the last few years, an unprecedented surge of interest in wireless
 networking hardware has brought a huge variety of inexpensive equipment
@@ -10805,8 +10745,7 @@ So much variety, in fact, that it would be impossible to catalog every
 available component. In this chapter, we’ll look at the sort of features
 and attributes that are desirable in a wireless component.
 
-**Wired********wireless**
--------------------------
+### Wired wireless
 
 With a name like “wireless”, you may be surprised at how many wires are
 involved in making a simple point-to-point link.
@@ -10819,7 +10758,7 @@ network, and a wireless router or bridge attached to the same network.
 Radio components need to be connected to antennas, but along the way
 they may need to interface with a lightning arrestor or other device.
 
-\
+ 
 
 Many components require power, either via an AC mains line or using a DC
 transformer.
@@ -10831,54 +10770,55 @@ Now multiply those cables and connectors by the number of nodes you will
 bring online, and you may well be wondering why this stuff is referred
 to as “wireless”.
 
-\
+ 
 
 The diagram on the next page will give you some idea of the cabling
 required for a typical point-to-point link.
 
-![](HW/HW1.png)\
+![](./HW/HW1.png)
+
 Note that this diagram is not to scale, nor is it necessarily the best
 choice of network design. But it will introduce you to many common
 interconnects and components that you will likely encounter in the real
 world.
 
-\
+ 
 
-*Figure HW 1: Common Interconnects and Components for a Wireless PtP
-link.*
+Figure HW 1: Common Interconnects and Components for a Wireless PtP
+link.
 
-\
+ 
 
 While the actual components used will vary from node to node, every
 installation will incorporate these parts:
 
-\
+ 
 
-1.  An existing computer or network connected to an Ethernet switch.
+1.  1.  1.An existing computer or network connected to an Ethernet
+        switch. 
 
-2.  A device that connects that network to a wireless device (a wireless
-    router, bridge, or repeater).
+    2.  2.A device that connects that network to a wireless device (a
+        wireless router, bridge, or repeater). 
 
-3.  An antenna that is connected via feed line, or is integrated into
-    the wireless device itself.
+    3.  3.An antenna that is connected via feed line, or is integrated
+        into the wireless device itself. 
 
-4.  Electrical components consisting of power supplies, conditioners,
-    and lightning arrestors.
+    4.  4.Electrical components consisting of power supplies,
+        conditioners, and lightning arrestors. 
 
-\
+ 
 
 The actual selection of hardware should be determined by establishing
 the requirements for the project, determining the available budget, and
 verifying that the project is feasible using the available resources
 (including providing for spares and ongoing maintenance costs).
 
-\
+ 
 
 As discussed in other chapters of this book, establishing the scope of
 your project is critical before any purchasing decisions are made.
 
-**Choosing********wireless********components**
-----------------------------------------------
+### Choosing wireless components
 
 Unfortunately, in a world of competitive hardware manufacturers and
 limited budgets, the price tag is the single factor that usually
@@ -10890,22 +10830,22 @@ truth. While the price tag is an important part of any purchasing
 decision, it is vital to understand precisely what you get for your
 money so you can make a choice that fits your needs.
 
-\
+ 
 
 When comparing wireless equipment for use in your network, be sure to
 consider these variables:
 
-\
+ 
 
-**Interoperabilit****y**. Will the equipment you are considering work
-with equipment from other manufacturers? If not, is this an important
-factor for this segment of your network? If the gear in question is
-standard (such as 802.11b/g), then it will likely interoperate with
-equipment from other sources.
+Interoperability. Will the equipment you are considering work with
+equipment from other manufacturers? If not, is this an important factor
+for this segment of your network? If the gear in question is standard
+(such as 802.11b/g), then it will likely interoperate with equipment
+from other sources.
 
-\
+ 
 
-**Rang****e**. This is not something inherent in a particular piece of
+Range. This is not something inherent in a particular piece of
 equipment. A device’s range depends on the antenna connected to it, the
 surrounding terrain, the characteristics of the device at the other end
 of the link, and other factors.
@@ -10914,27 +10854,27 @@ Rather than relying on a semi- fictional “range” rating supplied by the
 manufacturer, it is more useful to know the transmission power of the
 radio as well as the antenna gain (if an antenna is included).
 
-\
+ 
 
 With this information, you can calculate the theoretical range as done
 when looking at link budget calculations as we did in the chapter called
-**Deployment********Plannin****g**.
+Deployment Planning.
 
-\
+ 
 
-**Radio********sensitivit****y**. How sensitive is the radio device at a
-given bit rate? The manufacturer should supply this information, at
-least at the fastest and slowest speeds.
+Radio sensitivity. How sensitive is the radio device at a given bit
+rate? The manufacturer should supply this information, at least at the
+fastest and slowest speeds.
 
 This can be used as a measure of the quality of the hardware, as well as
 allow you to complete a link budget calculation.
 
 When considering radio sensitivity, a lower number is better.
 
-\
+ 
 
-**Throughpu****t**. Manufacturers consistently list the highest possible
-bit rate as the “speed” of their equipment. Keep in mind that the radio
+Throughput. Manufacturers consistently list the highest possible bit
+rate as the “speed” of their equipment. Keep in mind that the radio
 symbol rate (eg. 54 Mbps) is never the actual throughput rating of the
 device (eg. about 22 Mbps for 802.11g).
 
@@ -10944,44 +10884,44 @@ and subtract 20% or so. When in doubt, perform throughput testing on an
 evaluation unit before committing to purchasing a large amount of
 equipment that has no official throughput rating.
 
-\
+ 
 
-**Required********accessorie****s**. To keep the initial price tag low,
-vendors often leave out accessories that are required for normal use.
-Does the price tag include all power adapters? For example DC supplies
-are typically included; Power over Ethernet injectors typically are not.
-Double-check input voltages as well, as equipment is sometimes provided
-with a US power supply.
+Required accessories. To keep the initial price tag low, vendors often
+leave out accessories that are required for normal use. Does the price
+tag include all power adapters? For example DC supplies are typically
+included; Power over Ethernet injectors typically are not. Double-check
+input voltages as well, as equipment is sometimes provided with a US
+power supply.
 
 What about pigtails, adapters, cables, antennas, and radio cards? If you
 intend to use it outdoors, does the device include a weatherproof case?
 
-\
+ 
 
-**Availabilit****y**. Will you be able to easily replace failed
-components? Can you order the part in large quantity, should your
-project require it? What is the projected life span of this particular
-product, both in terms of useful running time in-the-field and likely
-availability from the vendor?
+Availability. Will you be able to easily replace failed components? Can
+you order the part in large quantity, should your project require it?
+What is the projected life span of this particular product, both in
+terms of useful running time in-the-field and likely availability from
+the vendor?
 
-\
+ 
 
-**Power********consumptio****n**. For remote installations, power
-consumption is the most critical issue. If the devices are to be powered
-with solar panels, it is very important to select the ones that require
-the lowest possible power.
+Power consumption. For remote installations, power consumption is the
+most critical issue. If the devices are to be powered with solar panels,
+it is very important to select the ones that require the lowest possible
+power.
 
 The cost of solar panels and batteries can be much higher than the cost
 of wireless devices; so lower power consumption can result in a much
 lower overall budget.
 
-\
+ 
 
-**Other********factor****s**. Be sure that other features are provided
-to meet your particular needs. For example, does the device include an
-external antenna connector? If so, what type is it? Are there user or
-throughput limits imposed by software, and if so, what is the cost to
-increase these limits?
+Other factors. Be sure that other features are provided to meet your
+particular needs. For example, does the device include an external
+antenna connector? If so, what type is it? Are there user or throughput
+limits imposed by software, and if so, what is the cost to increase
+these limits?
 
 What is the physical form factor of the device?
 
@@ -10989,7 +10929,7 @@ Does it support POE as a power source? Does the device provide
 encryption, NAT, bandwidth monitoring tools, or other features critical
 to the intended network design?
 
-\
+ 
 
 By answering these questions first, you will be able to make intelligent
 buying decisions when the time comes to choosing networking hardware. It
@@ -10999,8 +10939,7 @@ vendor to answer them before committing to a purchase, you will make the
 best use of your budget and build a network of components that are well
 suited to your needs.
 
-**Commercial********vs.****DIY********solutions**
--------------------------------------------------
+### Commercial vs. DIY solutions
 
 Your network project will almost certainly consist of components
 purchased from vendors as well as parts that are sourced or even
@@ -11014,7 +10953,7 @@ You can save considerable money in the short term by finding local
 sources for parts and labour, and only importing components that must be
 purchased.
 
-\
+ 
 
 Of course, there is a limit to how much work can be done by any
 individual or group in a given amount of time. To put it another way, by
@@ -11024,7 +10963,7 @@ art of building local telecommunications infrastructure lies in finding
 the right balance of money to effort needed to be expended to solve the
 problem at hand.
 
-\
+ 
 
 Some components, such as radios and antenna feed line, are likely far
 too complex to consider having them fabricated locally. Other
@@ -11050,7 +10989,7 @@ support and a (usually limited) equipment warranty. They also provide a
 consistent platform that tends to lead to very stable, often
 interchangeable network installations.
 
-\
+ 
 
 If a piece of equipment simply doesn’t work or is difficult to configure
 or troubleshoot, a good manufacturer will assist you.
@@ -11072,7 +11011,7 @@ From a network architect’s point of view, the three greatest hidden
 risks when choosing commercial solutions are vendor lock-in,
 discontinued product lines, and ongoing licensing costs.
 
-\
+ 
 
 It can be costly to allow the lure of ill-defined new “features” drive
 the development of your network.
@@ -11086,7 +11025,7 @@ problem).
 As you begin to rely on these features, you will likely decide to
 continue purchasing equipment from the same manufacturer in the future.
 
-\
+ 
 
 This is the essence of vendor lock-in.
 
@@ -11094,12 +11033,12 @@ If a large institution uses a significant amount of proprietary
 equipment, it is unlikely that they will simply abandon it to use a
 different vendor.
 
-\
+ 
 
 Sales teams know this (and indeed, some rely on it) and use vendor
 lock-in as a strategy for price negotiations.
 
-\
+ 
 
 When combined with vendor lock-in, a manufacturer may eventually decide
 to discontinue a product line, regardless of its popularity. This
@@ -11109,7 +11048,7 @@ expensive) model. The long term effects of vendor lock-in and
 discontinued products are difficult to estimate when planning a
 networking project, but should be kept in mind.
 
-\
+ 
 
 Finally, if a particular piece of equipment uses proprietary computer
 code, you may need to license use of that code on an ongoing basis. The
@@ -11119,7 +11058,7 @@ unpaid, some equipment is designed to simply stop working until a valid,
 paid-up license is provided! Be sure that you understand the terms of
 use for any equipment you purchase, including ongoing licensing fees.
 
-\
+ 
 
 By using equipment that supports standards and open source software, you
 can avoid some of these pitfalls.
@@ -11145,7 +11084,7 @@ source software (with the exception of a vendor providing extended
 support or some other service, without charging for the use of the
 software itself).
 
-\
+ 
 
 There have occasionally been vendors who capitalise on the gift that
 open source programmers have given to the world by offering the code for
@@ -11158,13 +11097,13 @@ of “free software” that come with an ongoing license fee.
 The disadvantage of using open source software and generic hardware is
 clearly the question of support.
 
-\
+ 
 
 As problems with the network arise, you will need to solve those
 problems for yourself. This is often accomplished by consulting free
 online resources and search engines, and applying code patches directly.
 
-\
+ 
 
 If you do not have team members who are competent and dedicated to
 designing a solution to your communications problem, then it can take a
@@ -11173,14 +11112,14 @@ considerable amount of time to get a network project off the ground.
 Of course, there is never a guarantee that simply “throwing money at the
 problem” will solve it either.
 
-\
+ 
 
 While we provide many examples of how to do much of the work yourself,
 you may find this work very challenging. You will need to find the
 balance of commercial solutions and the do-it-yourself approach that
 works for your project.
 
-\
+ 
 
 In short, always define the scope of your network first, identify the
 resources you can bring to bear on the problem, and allow the selection
@@ -11189,48 +11128,48 @@ of equipment to naturally emerge from the results.
 Consider commercial solutions as well as open components, while keeping
 in mind the long- term costs of both.
 
-\
+ 
 
 When considering which equipment to use, always remember to compare the
 expected useful distance, reliability, and throughput, in addition to
 the price.
 
-\
+ 
 
 And finally, make sure that the radios you purchase operate in an
 unlicensed band where you are installing them, or if you must use
 licensed spectrum, that you have budget and permission to pay for the
 appropriate licenses.
 
-**Professional********lightning********protection**
----------------------------------------------------
+### Professional lightning protection
 
 Lightning is a natural predator of wireless equipment. A map showing the
 global distribution of lightning from 1995 to 2003 is shown here
 following.
 
-\
+ 
 
-\
+ 
 
-![](HW/HW2.png)\
-\
+![](./HW/HW2.png)
 
-*Figure****HW****2:****Global****distribution****of****lightning****from****1995****to****2003*
+ 
 
-\
+Figure HW 2: Global distribution of lightning from 1995 to 2003
 
-\
+ 
+
+ 
 
 There are two different ways lightning can strike or damage equipment:
 direct hits or induction hits.
 
-\
+ 
 
 Direct hits happen when lightning actually hits the tower or antenna.
 Induction hits are caused when lightning strikes near the tower.
 
-\
+ 
 
 Imagine a negatively charged lightning bolt.
 
@@ -11243,16 +11182,15 @@ handle.
 
 Either type of strike will usually destroy unprotected equipment.
 
-\
+ 
 
-![](HW/HW3.png)\
-\
+![](./HW/HW3.png)
 
-\
+ 
 
-*Figure****HW****3:****A****tower****with****a****heavy****copper****grounding****wire.*
+Figure HW 3: A tower with a heavy copper grounding wire.
 
-\
+ 
 
 Protecting wireless networks from lightning is not an exact science, and
 there is no guarantee that a lightning strike will not happen, even if
@@ -11280,8 +11218,6 @@ ring.
 It is important to note that not all steel conducts electricity the same
 way.
 
-\
-
 Some types of steel act as better electrical conductors than others, and
 different surface coatings can also affect how tower steel handles
 electrical current. Stainless steel is one of the worst conductors, and
@@ -11304,7 +11240,7 @@ connection is made, the exposed area can be repainted, covering the wire
 and connectors if necessary to save the tower from rust and other
 corrosion.
 
-\
+ 
 
 The above solution details the installation of the basic grounding
 system. It provides protection for the tower itself from direct hits,
@@ -11332,8 +11268,7 @@ weak enough, it will not affect the conductor wire of the cable. While
 this method is by no means as good a protection as using the gas
 arrestors, it is better than doing nothing at all.
 
-**Access Point Configuration**
-------------------------------
+### Access Point Configuration
 
 This section will provide a simple procedure for the basic configuration
 of WiFi Access Points and Clients by reviewing the main settings and
@@ -11342,33 +11277,30 @@ analysing their effects on the behaviour of the network.
 It will also suggest some practical tips and tricks and troubleshooting
 advice.
 
-### **Before********you********start**
+#### Before you start
 
 When you receive some new wireless equipment take some time to get
 acquainted with its main features and make sure you:
 
-\
+ 
 
--   Download or otherwise obtain all **user’s********manuals******and
-    **specification********sheets******available for the devices you are
-    going to deploy.
+-   •Download or otherwise obtain all user’s manuals and specification
+    sheets available for the devices you are going to deploy. 
 
--   If you have second-hand devices, be sure to receive full information
-    on their current –or last-known– configuration (e.g. password, IP
-    addresses, etc.)
+-   •If you have second-hand devices, be sure to receive full
+    information on their current –or last-known– configuration (e.g.
+    password, IP addresses, etc.) 
 
--   You should already have a plan on hand for the network you are going
-    to deploy (including **link********budge****t**,
-    **network********topolog****y**, **channels**and
-    **IP********setting****s**).
+-   •You should already have a plan on hand for the network you are
+    going to deploy (including link budget, network topology, channels
+    and IP settings). 
 
--   Be ready to take written notes of all settings that you are going to
-    apply (especially **password****s**!)
+-   •Be ready to take written notes of all settings that you are going
+    to apply (especially passwords!) 
 
--   Make backups of **last********known********good******configuration
-    files.
+-   •Make backups of last known good configuration files. 
 
-### **Getting********in********touch********with********the********device**
+#### Getting in touch with the device
 
 As a first step, it is important that you learn the meaning of all LEDs
 on the device.
@@ -11376,69 +11308,70 @@ on the device.
 The figure below shows the typical front of an Access Point, with
 several LEDs lit.
 
-\
+ 
 
-![](HW/HW4.png)\
-\
+![](./HW/HW4.png)
 
-*Figure****HW****4:****The****front****of****a****typical****Access****Point.*
+ 
 
-\
+Figure HW 4: The front of a typical Access Point.
+
+ 
 
 LEDs typically indicate:
 
-\
+ 
 
--   Presence of power
+-   •Presence of power 
 
--   Active ports / traffic (yellow/green colour)
+-   •Active ports / traffic (yellow/green colour) 
 
--   Error status (red colour)
+-   •Error status (red colour) 
 
--   Received signal strength (LED bars, sometimes multicolour; some
+-   •Received signal strength (LED bars, sometimes multicolour; some
     devices can even be set to light each LED at specific thresholds,
-    e.g. *Ubiquit**i*)
+    e.g. Ubiquiti) 
 
-\
+ 
 
 Sometimes, different meanings are associated with the same LED, using
 different colours and dynamics (e.g. LED is on/off/blinking at different
 speeds).
 
-\
+ 
 
 You should identify the different ports and interfaces on the device:
 
-\
+ 
 
--   Radio interfaces, sometimes called WLANs. They should have one or
-    more antenna connectors (or non-detachable antennas).
+-   •Radio interfaces, sometimes called WLANs. They should have one or
+    more antenna connectors (or non-detachable antennas). 
 
--   One or more Ethernet interfaces:
+-   •One or more Ethernet interfaces: 
 
--   One or more ports for local network (LAN)
+-   •One or more ports for local network (LAN) 
 
--   One port for uplink (also called WAN)
+-   •One port for uplink (also called WAN) 
 
--   Power input (5, 6, 7.5, 12V or other, usually DC). It is really
+-   •Power input (5, 6, 7.5, 12V or other, usually DC). It is really
     (really) important that the power supply matches the voltage!
     Sometimes the power is provided to the device through the same UTP
     cable that carries the Ethernet data: this is called
-    Power-over-Ethernet (PoE).
+    Power-over-Ethernet (PoE). 
 
--   Power button (not always present).
+-   •Power button (not always present). 
 
--   Reset button (often “hidden” in a small hole, can be pressed using a
-    straightened paperclip).
+-   •Reset button (often “hidden” in a small hole, can be pressed using
+    a straightened paperclip). 
 
-\
+ 
 
 The reset button may have different effects (from a simple restart to a
 factory full reset) if pressed briefly vs. for a longer time. It can
 take 30 seconds or more to trigger a full reset.
 
 NOTE: to fully reset (i.e. reset to factory settings) a device that is
-in an *unknown***state may be a painful task!
+in an unknown state may be a painful task!
 
 Be sure to keep written notes of critical parameters like the device IP
 address and network mask, and the administrator username and password.
@@ -11446,55 +11379,57 @@ address and network mask, and the administrator username and password.
 The following figure shows a common Linksys Access Point, with the power
 input, the network ports, the reset button and two antennas.
 
-\
+ 
 
-![](HW/HW5.png)\
-\
+![](./HW/HW5.png)
 
-*Figure****HW****5:****Linksys****Access****Point*
+ 
 
-### **User********interfaces**
+Figure HW 5: Linksys Access Point
+
+#### User interfaces
 
 You can interact (i.e. issue commands and change settings) with the
 Access Point in several ways, depending on the hardware you are using.
 The possible ways are the following:
 
-\
+ 
 
--   Graphical User Interface (web page)
+-   •Graphical User Interface (web page) 
 
--   Graphical User Interface (proprietary software application)
+-   •Graphical User Interface (proprietary software application) 
 
--   Command Line Interface (telnet, ssh)
+-   •Command Line Interface (telnet, ssh) 
 
--   Software interface embedded in the system (when the AP/client is a
-    computer or smartphone with a display and its own OS)
+-   •Software interface embedded in the system (when the AP/client is a
+    computer or smartphone with a display and its own OS) 
 
-\
+ 
 
-### **User********interfaces:********GUI********(web********page)**
+#### User interfaces: GUI (web page)
 
 This system is used in Linksys, Ubiquiti and most modern Aps.
 
 Once you are connected to the AP, you interact with the device using a
 normal browser.
 
-**Advantage****s**: it works with most browsers and operating systems
+Advantages: it works with most browsers and operating systems
 
-**Disadvantage****s**: the static interface does not reflect changes
+Disadvantages: the static interface does not reflect changes
 immediately; poor feedback; can be incompatible with some web browsers;
 requires a working TCP/IP configuration. Some recent implementations
 (e.g. Ubiquiti, shown below) are very good and use modern dynamic web
 features to provide feedback and advanced tools.
 
-![](HW/HW6.png)\
-\
+![](./HW/HW6.png)
 
-*Figure****HW****6:****Ubiquiti****user****interface.*
+ 
 
-\
+Figure HW 6: Ubiquiti user interface.
 
-### **User********interfaces:********GUI********(software********application)**
+ 
+
+#### User interfaces: GUI (software application)
 
 In this case you need a special piece of software to interact with the
 device.
@@ -11502,32 +11437,31 @@ device.
 This system is used in Mikrotik (called Winbox), Apple (called Airport
 Utility), Motorola (called Canopy), many old APs.
 
-\
+ 
 
-**Advantages:******usually powerful and appealing interfaces; allow
-batch configuration of multiple devices.
+Advantages: usually powerful and appealing interfaces; allow batch
+configuration of multiple devices.
 
-**Disadvantages:******proprietary solutions; usually available for only
-one operating system; software must be installed before starting
+Disadvantages: proprietary solutions; usually available for only one
+operating system; software must be installed before starting
 configuration.
 
 Mikrotik Winbox, shown below, is a very powerful solution and can manage
 large networks.
 
-\
+ 
 
-\
+ 
 
-\
+![](./HW/HW7.png)
 
-![](HW/HW7.png)\
-\
+ 
 
-*Figure****HW****7:****Mikrotik****WinBox.*
+Figure HW 7: Mikrotik WinBox.
 
-\
+ 
 
-### **User********interfaces:********Command********Line********Interface********(sometimes********called********text********shell)**
+#### User interfaces: Command Line Interface (sometimes called text shell)
 
 In this case you connect to the device using a serial or Ethernet
 connection, via telnet or ssh. ssh is much safer than telnet from a
@@ -11537,66 +11471,65 @@ Configuration is performed with commands executed in the host operating
 system, usually a flavour of Linux or a proprietary OS, as shown on the
 next page.
 
-\
+ 
 
 This is system is used by Mikrotik (called RouterOS), Ubiquiti (called
 AirOS), high-end APs (Cisco) and embedded PC-based Aps.
 
-\
+ 
 
-**Advantage****s**: very powerful as it can be scripted.
+Advantages: very powerful as it can be scripted.
 
-\
+ 
 
-**Disadvantage****s**: difficult to learn.
+Disadvantages: difficult to learn.
 
-![](HW/HW8.png)\
-\
+![](./HW/HW8.png)
 
-\
+ 
 
-*Figure****HW****8:****Command****Line****Interface.*
+Figure HW 8: Command Line Interface.
 
-### **Configure********the********AP**
+#### Configure the AP
 
 Before configuring the AP, remember to:
 
-\
+ 
 
--   Start from a known state, or reset the device to factory settings
-    (always a good idea!).
+-   •Start from a known state, or reset the device to factory settings
+    (always a good idea!). 
 
--   Connecting to the device via Ethernet is usually easier than via
+-   •Connecting to the device via Ethernet is usually easier than via
     wireless. Most devices with a web GUI have a default IP
     configuration on the network 192.168.0.0, but this is not a rule!
-    Read the manual.
+    Read the manual. 
 
--   If convenient, upgrade the firmware to the latest stable version
-    (but be careful!)
+-   •If convenient, upgrade the firmware to the latest stable version
+    (but be careful!) 
 
--   Change the default admin username and password first!
+-   •Change the default admin username and password first! 
 
--   Change the device name with something that clearly identifies it
+-   •Change the device name with something that clearly identifies it
     (e.g. something like “AP\_conference\_room\_3” or
     “hotspot\_public\_area”). This will help you to recognise the AP in
-    future when you connect to it over the network.
+    future when you connect to it over the network. 
 
-\
+ 
 
-\
+ 
 
--   Firmware upgrade is often a risky procedure, be sure to adopt all
+-   •Firmware upgrade is often a risky procedure, be sure to adopt all
     precautions before attempting it - such as - connecting the device
     and the computer to a UPS, then do not perform the firmware update
     while doing other tasks on the computer, and check that you have a
     valid firmware binary image, READ THE INSTRUCTIONS CAREFULLY! If the
     procedure fails, you can end up with an unusable device that cannot
-    be recovered (the so-called “brick”).
+    be recovered (the so-called “brick”). 
 
--   Remember to write down (and store in a safe place) all these
-    settings, especially the admin username/password.
+-   •Remember to write down (and store in a safe place) all these
+    settings, especially the admin username/password. 
 
-### **Configure********the********AP********-********IP********layer**
+#### Configure the AP - IP layer
 
 If you are confident with what you are doing, you can perform the IP
 configuration after the wireless setup to avoid the reconfiguration and
@@ -11608,61 +11541,59 @@ after each step.
 
 Remember to write down (and store in a safe place) all IP settings!
 
-\
+ 
 
 Configure the Ethernet interface of the AP according to your wired
 network setup:
 
-\
+ 
 
--   IP address/netmask/gateway *or***DHCP
+-   •IP address/netmask/gateway or DHCP 
 
--   DNS address(es)
+-   •DNS address(es) 
 
--   Double check the new settings and apply them (sometimes you may have
-    to reboot the AP)
+-   •Double check the new settings and apply them (sometimes you may
+    have to reboot the AP) 
 
--   Now you may need to reconfigure your PC/laptop to match the new
-    Ethernet setup, and reconnect to the AP.
+-   •Now you may need to reconfigure your PC/laptop to match the new
+    Ethernet setup, and reconnect to the AP. 
 
-### **Configure********the********AP********-********physical********layer**
+#### Configure the AP - physical layer
 
--   Configure the mode: ***master*********(or
-    ***access************point*********or
-    ***base************statio******n***). The device’s mode can usually
-    be configured as: “master” (also called “access point” or “base
-    station” or “BS”), “client” (also called “managed” or “station” or
-    “client station” or “CPE”), “monitor”, “WDS” (Wireless Distribution
-    System), and rarely some other variants.
+-   •Configure the mode: master (or access point or base station). The
+    device’s mode can usually be configured as: “master” (also called
+    “access point” or “base station” or “BS”), “client” (also called
+    “managed” or “station” or “client station” or “CPE”), “monitor”,
+    “WDS” (Wireless Distribution System), and rarely some other
+    variants. 
 
-\
+ 
 
--   Configure the SSID (Service Set Identifier, the name of the wireless
-    network created by the AP, up to 32 characters long):
-    *it****is****best****to choose****a****meaningful****name.*Remember
-    that “security through obfuscation is not real security”, so a
-    hidden or fake/random SSID does not add much security to your
-    network.
+-   •Configure the SSID (Service Set Identifier, the name of the
+    wireless network created by the AP, up to 32 characters long): it is
+    best to choose a meaningful name. Remember that “security through
+    obfuscation is not real security”, so a hidden or fake/random SSID
+    does not add much security to your network. 
 
--   Configure the wireless channel, according to the local regulations
-    and the result of the site survey.
+-   •Configure the wireless channel, according to the local regulations
+    and the result of the site survey.  
 
--   Do not use a channel that is already occupied by another AP or other
-    sources of RF power.
-    *You****should****already****have****planned****the****channel****in****advance,****during****the****design****phas**e*.
-    The choice of the best channel is sometimes a hard task, and you may
-    need to perform a site survey with software tools (wireless
-    sniffers) or hardware spectrum analysers (like the WiSpy from
-    Metageek and the AirView from Ubiquiti).
+-   •Do not use a channel that is already occupied by another AP or
+    other sources of RF power. You should already have planned the
+    channel in advance, during the design phase. The choice of the best
+    channel is sometimes a hard task, and you may need to perform a site
+    survey with software tools (wireless sniffers) or hardware spectrum
+    analysers (like the WiSpy from Metageek and the AirView from
+    Ubiquiti). 
 
--   Configure the transmit power and network speed (these values may
-    also be set to “*automatic*” in some devices). The value of transmit
+-   •Configure the transmit power and network speed (these values may
+    also be set to “automatic” in some devices). The value of transmit
     power is also subject to local regulation, check in advance the
     maximum power allowed by law, and try always to use the minimum
     value that fit your needs, in order to avoid interference with other
-    networks (yours or others).
+    networks (yours or others). 
 
-\
+ 
 
 The choice of network speed is limited to the values that are part of
 802.11a/b/g/n standards (up to 54 Mbps), but some vendors created
@@ -11670,7 +11601,7 @@ extensions to the standards (often called “turbo” modes) of 100 Mbps or
 higher. These are non-standard and may not be able to interoperate with
 equipment from other vendors.
 
-\
+ 
 
 Configuring “backwards compatibility” modes (such as supporting 802.11b
 on 802.11g networks) will reduce the overall throughput available to
@@ -11679,157 +11610,153 @@ slower rate for 802.11b clients, and actual communications between the
 client and the AP happen at 802.11b speeds. This takes more time, and
 slows down the otherwise faster 802.11g clients.
 
-### **Configure********the********AP********–********security**
+#### Configure the AP – security
 
 Security settings are often a hard choice, and it may be difficult to
 balance good protection from unintentional users with easy access for
 authorised users.
 
-\
+ 
 
 More complex security needs will require a more complex configuration
 and additional software.
 
-\
+ 
 
 Configure the security features of the network:
 
-\
+ 
 
--   No encryption (all traffic is in clear)
+-   •No encryption (all traffic is in clear) 
 
--   WEP (*Wired****Equivalent****Privac**y*), 40 or 104 bits keys, it is
-    flawed and therefore deprecated
+-   •WEP (Wired Equivalent Privacy), 40 or 104 bits keys, it is flawed
+    and therefore deprecated 
 
--   WPA / WPA2 (*WiFi****Protected****Acces**s*): PSK, TKIP and EAP
+-   •WPA / WPA2 (WiFi Protected Access): PSK, TKIP and EAP 
 
--   Enable or disable (hide) the SSID broadcast (“beacon”). Hidden SSID
+-   •Enable or disable (hide) the SSID broadcast (“beacon”). Hidden SSID
     and MAC filtering do not add much security, and are hard to maintain
-    and a source of troubles for inexperienced users of the network.
+    and a source of troubles for inexperienced users of the network. 
 
--   Enable or disable an Access Control List (based on MAC addresses of
+-   •Enable or disable an Access Control List (based on MAC addresses of
     clients). MAC filtering is a weak security measure:– A malicious
     client can capture packets and find out which MAC addresses have the
     right to associate– It can then change its own MAC address to one of
-    the accepted ones and “fool” the access point.
+    the accepted ones and “fool” the access point. 
 
-\
+ 
 
 For more information about how to design the security of your wireless
-network please read the chapter called
-**Security********in********Wireless Networks.**
+network please read the chapter called Security in Wireless Networks.
 
-### **Configure********the********AP********-********routing/NAT**
+#### Configure the AP - routing/NAT
 
 Advanced IP layer and routing configuration features are often included
 in modern access points. This can include functionality for routing and
 Network Address Translation (NAT), in addition to basic bridging.
 
-\
+ 
 
 Advanced IP configuration includes:
 
-\
+ 
 
--   Static routing
+-   •Static routing 
 
--   Dynamic routing
+-   •Dynamic routing 
 
--   NAT (masquerading, port forwarding)
+-   •NAT (masquerading, port forwarding) 
 
--   Firewalling
+-   •Firewalling 
 
--   Some APs can also act as file servers and print servers (external HD
-    and printers can be connected via USB)
+-   •Some APs can also act as file servers and print servers (external
+    HD and printers can be connected via USB) 
 
-### **Configure********the********AP********–********advanced**
+#### Configure the AP – advanced
 
 A few more advanced settings may be available for your AP, depending on
 the model/vendor/firmware/etc.:
 
-\
+ 
 
--   Beacon interval
+-   •Beacon interval 
 
--   RTS/CTS. RTS/CTS (ready to send, clear to send) mechanism can help
+-   •RTS/CTS. RTS/CTS (ready to send, clear to send) mechanism can help
     alleviate the problem of hidden nodes (clients that can “hear” the
-    AP but not the other clients, therefore creating interferences).
+    AP but not the other clients, therefore creating interferences). 
 
--   Fragmentation. Configuration of the fragmentation can be used to
+-   •Fragmentation. Configuration of the fragmentation can be used to
     increase performance in the case of low signal areas, those with
-    marginal coverage, or long links.
+    marginal coverage, or long links. 
 
--   Interference robustness
+-   •Interference robustness 
 
--   Vendor extensions to the WiFi standards
+-   •Vendor extensions to the WiFi standards 
 
--   Other settings for long distance links (10 to 100 kilometres) and
-    better security.
+-   •Other settings for long distance links (10 to 100 kilometres) and
+    better security. 
 
-**Configure********the********client**
---------------------------------------
+### Configure the client
 
 The client side configuration is much simpler:
 
-\
+ 
 
--   Configure the mode: **client******(or **manage****d**,
-    **statio****n**, **client********statio****n**, **CPE**)
+-   •Configure the mode: client (or managed, station, client station,
+    CPE) 
 
--   Configure the SSID of the network to be joined
+-   •Configure the SSID of the network to be joined 
 
--   The channel, speed, and other parameters will be set automatically
-    to match the AP
+-   •The channel, speed, and other parameters will be set automatically
+    to match the AP 
 
--   If WEP or WPA is enabled on the AP, you will have to enter the
-    matching password (key)
+-   •If WEP or WPA is enabled on the AP, you will have to enter the
+    matching password (key) 
 
--   Clients may also have additional (often vendor-specific) settings.
-    *For****example,****some****clients****can****be****configured****to****associate****only****with****an
-    AP****with****a****specified****MAC****address.*
+-   •Clients may also have additional (often vendor-specific) settings.
+    For example, some clients can be configured to associate only with
+    an AP with a specified MAC address. 
 
-**Hints********-********working********outdoors**
--------------------------------------------------
+### Hints - working outdoors
 
--   You should try to configure the devices (both APs and clients) well
+-   •You should try to configure the devices (both APs and clients) well
     in advance and in a comfortable place such as a laboratory. Working
-    outdoors is more difficult and may lead to mistakes
-    **(“o****n****-****site”********configuration********=
-    troubl****e**).
+    outdoors is more difficult and may lead to mistakes (“on-site”
+    configuration = trouble). 
 
--   If you **must******configure devices outdoors, be sure to have
-    enough battery charge on your laptop, to carry all the required
-    information with you (on paper, not only in electronic format!) and
-    to carry a notepad to take notes. Good documentation is paramount
-    for future maintenance in the field!
+     
 
-Troubleshooting
----------------
+-   •If you must configure devices outdoors, be sure to have enough
+    battery charge on your laptop, to carry all the required information
+    with you (on paper, not only in electronic format!) and to carry a
+    notepad to take notes. Good documentation is paramount for future
+    maintenance in the field! 
 
--   Organise your work in logical steps and follow them.
+### Troubleshooting
 
--   Read the manual, study the meaning of parameters and settings, run
-    tests and experiments (don’t be scared!).
+-   •Organise your work in logical steps and follow them. 
 
--   In the case of problems, do a factory reset and try again.
+-   •Read the manual, study the meaning of parameters and settings, run
+    tests and experiments (don’t be scared!). 
 
--   If the problem persists, try again
-    **changing********one********parameter/setting********at********a********time.**
+-   •In the case of problems, do a factory reset and try again. 
 
--   It still doesn’t work? Try to search on the web for relevant
+-   •If the problem persists, try again changing one parameter/setting
+    at a time. 
+
+-   •It still doesn’t work? Try to search on the web for relevant
     keywords (name of the device, etc.), search in forums and on
-    manufacturer / vendors websites.
+    manufacturer / vendors websites. 
 
--   Upgrade the firmware to the latest version.
+-   •Upgrade the firmware to the latest version. 
 
--   If you still have problems try with a different client/AP, to check
-    if you have a hardware issue with the original one.
+-   •If you still have problems try with a different client/AP, to check
+    if you have a hardware issue with the original one. 
 
-**12. INDOOR********INSTALLATION**
-==================================
+12. INDOOR INSTALLATION
+-----------------------
 
-Introduction
-------------
+### Introduction
 
 Previous editions of this book have focused on wide-area outdoor
 wireless as a means of connecting communities with each other and to the
@@ -11839,40 +11766,38 @@ WiFi has become the de facto standard for indoor network access in
 Enterprises and schools. This chapter introduces the main focus points
 in choosing and installing WiFi networks indoors.
 
-Preparations
-------------
+### Preparations
 
 Before installing a wireless LAN it is a good idea to first think things
 through a bit:
 
--   What is it that you are planning to do with the wireless network? Is
-    it an addition to the wired network or a replacement for it? Are you
-    going to run applications over the network that are not delay
+-   •What is it that you are planning to do with the wireless network?
+    Is it an addition to the wired network or a replacement for it? Are
+    you going to run applications over the network that are not delay
     tolerant or sensitive to bandwidth variations (like voice and video
-    conferencing).
+    conferencing). 
 
--   The main difference between indoor and outdoor wireless is the
+-   •The main difference between indoor and outdoor wireless is the
     absorption and reflection of radio waves by the building itself.
     What building features do you need to take into account? Do the
     walls have metal, water or heavy concrete in them? Do windows have
     metal in them (e.g. metal coating or metal grids)? Is the building
-    long and stretched or compact?
+    long and stretched or compact? 
 
--   Do you expect users to be mainly static, or will they move a lot?
+-   •Do you expect users to be mainly static, or will they move a lot?
     And when they move, is it important to have uninterrupted handover
     (this means, a handover so quick that you will not notice the
-    interruption of a voice call)?
+    interruption of a voice call)? 
 
--   Are there good places to hang the Access Points? Are wired sockets
+-   •Are there good places to hang the Access Points? Are wired sockets
     and electricity for the APs readily available? Is electricity
     stable? If not, even indoor APs might need stable solar/battery
-    power supplies and/or UPS.
+    power supplies and/or UPS. 
 
--   Are there sources of interference, like ad-hoc APs brought in by
-    users, bluetooth devices, microwaves?
+-   •Are there sources of interference, like ad-hoc APs brought in by
+    users, bluetooth devices, microwaves? 
 
-**Bandwidth********requirements**
----------------------------------
+### Bandwidth requirements
 
 Step one in designing an indoor wireless network is to determine the
 need in terms of the number of concurrent users to support, the number
@@ -11888,7 +11813,7 @@ networks.
 To give you an idea for the bandwidth requirement for some typical
 applications:
 
-\
+ 
 
 web surfing:
 
@@ -11910,7 +11835,7 @@ device backup:
 
 10 - 50 Mb/s
 
-\
+ 
 
 Typical installations in an office environment are dimensioned to
 support 20-30 users per cell and have about 1 access point per 250-500
@@ -11924,8 +11849,7 @@ are surfing the web and 2 are watching online video you will need: 8 \*
 1000 kb/s + 2 \* 4000 kb/s = 16000 kb/s for the 100 square metre area or
 160 kb/s per square metre.
 
-**Frequencies********and********data********rates**
----------------------------------------------------
+### Frequencies and data rates
 
 The 2.4 GHz and the 5 GHz solutions differ in a few key aspects. The 2.4
 GHz band has a better range and less attenuation and is supported in
@@ -11934,8 +11858,6 @@ most devices.
 The main downside of the 2.4 GHz band is that there are only 3
 non-overlapping channels, which severely limits the the number of access
 points that can be placed in a certain area.
-
-\
 
 This is unfortunate since making smaller cells (formed by having the APs
 broadcast with less power) is the easiest way of creating more
@@ -11951,7 +11873,7 @@ deploy without interference from adjacent channels.
 The other important element is the choice of WiFi standard, considering
 that average throughput in Mb/s for the most common technologies are:
 
-\
+ 
 
 11b:
 
@@ -11969,7 +11891,7 @@ that average throughput in Mb/s for the most common technologies are:
 
 25 - 160 Mb/s
 
-\
+ 
 
 It should be noted that performance drops when, for example, both
 802.11b and 11g devices are served by the same AP. In a network where
@@ -11984,8 +11906,7 @@ advantage rather than a problem.
 The deployment of 2.4 GHz for the majority of devices, combined with 5
 GHz for the "important devices" is worth considering too.
 
-**Access****P****oints********choice********and********placement**
-------------------------------------------------------------------
+### Access Points choice and placement
 
 When it comes to choosing Access Points (APs) for indoor wireless there
 are essentially 2 architectural choices: controller based and "fat
@@ -12004,7 +11925,7 @@ cost, ease of management and scalability. In general one can say that
 the more complex the environment and the larger the size the more
 attractive it becomes to run a controller-based solution.
 
-\
+ 
 
 Access Points should in general be placed in the areas with a high
 density of users, the signal will probably "leak" sufficiently to also
@@ -12017,7 +11938,7 @@ in general, if possible the APs should, as much as possible, be isolated
 from other radio sources, by using walls, ceilings and people as
 "shields".
 
-\
+ 
 
 In order to improve performance it is possible to use external antennas.
 Omni directional antennas are the most commonly used and they provide a
@@ -12026,7 +11947,7 @@ however, APs will be installed on walls, ceilings, or columns, and
 omnidirectional antennas are a bad choice, if you look at where the
 radio waves are going, and where the users are.
 
-\
+ 
 
 So for these cases in which the AP is not at the centre of the area to
 be covered, directional antennas are an alternative. Some hotels and
@@ -12036,7 +11957,7 @@ corners of large, open areas or overhead to provide a "canopy" or
 many reflections typically encountered in an indoor environment make it
 difficult to try to fully control a specific coverage.
 
-\
+ 
 
 Access Points can be mounted on the ceiling, on the walls or in
 furniture, each with different characteristics. Ceiling mounting gives a
@@ -12052,14 +11973,13 @@ but offer the advantage of adapting the radio signal to the locations of
 users dynamically - they will direct the radio waves to where they are
 needed, at each point in time.
 
-**SSID****and********Network Architecture**
--------------------------------------------
+### SSID and Network Architecture
 
 Indoor networks are likely to serve many concurrent users. Larger
 complexes like a university campus typically consist of many buildings,
 each with their own indoor network, and outdoor networks in between.
 
-\
+ 
 
 It is therefore important to make a good plan for your SSIDs.
 
@@ -12082,8 +12002,7 @@ This is a trade-off situation - you can either have huge subnets with
 seamless roaming, or a more manageable subnet architecture with separate
 SSIDs such as "Library", "LectureHall", "Cafeteria", ...
 
-**Post Installation**
----------------------
+### Post Installation
 
 Now that the infrastructure is in place it is important to make sure
 that everything works as expected and remains like that. This can be
@@ -12095,16 +12014,16 @@ state-of-the- art. It is important to keep up to date with user
 requirements and match that to planned upgrades of the technology you
 are deploying.
 
-**13. OUTDOOR********INSTALL**
-==============================
+13. OUTDOOR INSTALL
+-------------------
 
-\
+ 
 
 Although WiFi technology was designed for local area networks, its
 impact in developing countries is more dramatic in long-distance
 applications.
 
-\
+ 
 
 In developed countries, fibre optic cables offering large bandwidths
 have been installed satisfying the communication needs of most cities.
@@ -12116,7 +12035,7 @@ other hand, have been much more successful in developing countries and
 the potential for increasing the penetration using wireless networks is
 enormous.
 
-\
+ 
 
 Telcos have installed traditional microwave radio links in most
 countries. This is a mature technology that offers high reliability and
@@ -12124,7 +12043,7 @@ availability reaching 99.999%. However, these systems cost many
 thousands of dollars and require specially trained personnel for
 installation.
 
-\
+ 
 
 Satellite systems have proved well suited for broadcast traffic like TV
 and certain other applications. However, satellite solutions are still
@@ -12134,7 +12053,7 @@ where a Base Station (BS) is serving many Clients/CPEs (point to
 multipoint). In this chapter we will be concentrating on the outdoor
 long- distance point to point links.
 
-\
+ 
 
 Two significant hurdles had to be overcome before applying WiFi to long
 distance: Power budget limitations and timing limitations. The remaining
@@ -12160,37 +12079,37 @@ communications medium. This makes it subject to collisions, which cannot
 be detected over the air, therefore the transmitter relies on receiving
 an acknowledgment for every successfully received frame.
 
-If, after a specified amount of time, called the "*ACKtimeou**t*", the
+If, after a specified amount of time, called the "ACKtimeout", the
 acknowledge frame is not received, the transmitter will resend the
 frame.
 
 Since the transmitter will not send a new frame until the ACK for the
-previous one has been received, the *ACKtimeout***must be kept short.
+previous one has been received, the ACKtimeout must be kept short.
 
 This works well in the original scenario intended for WiFi (indoor
 networks), in which the propagation time of 33.3 microseconds per
 kilometre is negligible, but breaks down for links over a few
 kilometres.
 
-\
+ 
 
 Although many WiFi devices do not have provisions for modifying the
-*ACKtimeou**t*, newer equipment meant for outdoor applications (or third
+ACKtimeout, newer equipment meant for outdoor applications (or third
 party firmware like Open WRT) will give you this possibility, often by
-means of a *distance***field in the GUI (Graphical User Interface).
+means of a distance field in the GUI (Graphical User Interface).
 
 Changing this parameter will allow for a reasonable throughput, which
 will anyway decrease proportionally to the distance. The contention
 window slot-time also needs to be increased to adapt to longer
 distances.
 
-Other manufacturers have chosen to move from random access to
-***Time************Division************Multiple************Access*********(***TDM******A***)
-instead. TDMA divides access to a given channel into multiple time
-slots, and assigns these slots to each node on the network. Each node
-transmits only in its assigned slot, thereby avoiding collisions. In a
-point to point link this provides a great advantage since ACKs are not
-needed because each station takes turns at transmitting and receiving.
+Other manufacturers have chosen to move from random access to Time
+Division Multiple Access (TDMA) instead. TDMA divides access to a given
+channel into multiple time slots, and assigns these slots to each node
+on the network. Each node transmits only in its assigned slot, thereby
+avoiding collisions. In a point to point link this provides a great
+advantage since ACKs are not needed because each station takes turns at
+transmitting and receiving.
 
 While this method is much more efficient, it is not compliant with the
 WiFi standard, so several manufacturers offer it as an optional
@@ -12199,7 +12118,7 @@ protocols (such as Mikrotik Nstreme, or Ubiquiti Networks AirMAX) use
 TDMA to avoid these ACK timing issues.
 
 The 802.11 standard defines the receiver sensitivity as the received
-signal level required to guarantee a BER (Bit Error Rate) below 10^−5^.
+signal level required to guarantee a BER (Bit Error Rate) below 10−5.
 
 This determines the amount of energy per bit required to overcome the
 ambient noise plus the noise generated by the receiver itself. As the
@@ -12211,25 +12130,26 @@ diminishes, or, alternatively, for longer distances one should choose
 lower data rates to compensate for the reduction of the signal strength
 with distance.
 
-**What********is********needed********for********a********long********distance********lin****k****?**
------------------------------------------------------------------------------------------------------
+### What is needed for a long distance link?
 
 There are four aspects that need to be considered to adapt WiFi devices
 to long distance: increase the radio dynamic range; increase the antenna
 gain; decrease the antenna cable loss; and make provisions for the the
 signal propagation time.
 
-\
+ 
 
-![](OI/OI1.png)\
-![](OI/OI1.png)\
-![](OI/OI1.png)\
-\
+![](./OI/OI1.png)
 
-*Figure****OI****1:
-Power****in****dBm****vs****distance****in****a****radio****link****(Power****budget).*
+![](./OI/OI1.png)
 
-\
+![](./OI/OI1.png)
+
+ 
+
+Figure OI 1: Power in dBm vs distance in a radio link (Power budget).
+
+ 
 
 The graph above shows the power level at each point in a wireless link.
 
@@ -12242,7 +12162,7 @@ possible value for the link. This value is called the EIRP (Equivalent
 Isotropic Radiated Power) since it corresponds to the power that a
 transmitter would have to emit if the antenna had no gain.
 
-\
+ 
 
 Between the transmitting and receiving antennas there are free space and
 environmental losses, which increase with the distance between the link
@@ -12250,7 +12170,7 @@ endpoints. The receiving antenna provides some additional gain. Then
 there is a small amount of loss between the receiving antenna and the
 receiving radio.
 
-\
+ 
 
 If the received amount of energy at the far end is greater than the
 receive sensitivity of the radio, the link is possible. Increasing the
@@ -12262,26 +12182,26 @@ range. Make sure that the radio to be employed has connectors for an
 external antenna (some devices have an embedded or otherwise non
 removable antenna).
 
-\
+ 
 
 Decreasing loss in antenna cables is still an important issue, and the
 most radical way to attain it is to place the radio outside, directly
 attached to the antenna, employing a weatherproof box. Often this lends
 to powering the radio using PoE (Power over Ethernet).
 
-\
+ 
 
 Improving the receiver sensitivity implies choosing a model with better
 performance, or settle for lower transmission speeds where sensitivity
 is higher.
 
-\
+ 
 
 Although high gain antennas can be expensive, in many countries one can
 find satellite antennas that are no longer being used and can be
 modified for the WiFi bands.
 
-\
+ 
 
 In a perfect world, we would use the highest gain antennas with the
 loudest and most sensitive radios possible. But a number of practical
@@ -12292,7 +12212,7 @@ avoided. High power transmitters are available from many manufacturers
 that offer up to 1 W of output power which could be used instead of
 amplifiers in those countries where this is legal.
 
-\
+ 
 
 In general, it is better to use high gain antennas than high transmitter
 power. Greater antenna gain will help both in transmission and reception
@@ -12302,8 +12222,7 @@ users and limit multipath effects But a high antenna gain implies a very
 narrow beamwidth, which means that special alignment techniques are
 required.
 
-**Antenna********alignment**
-----------------------------
+### Antenna alignment
 
 For short distances, when the corresponding antenna is visible, the
 antenna alignment procedure reduces to pointing the antenna in the
@@ -12312,7 +12231,7 @@ and in the vertical plane (elevation). This should suffice to establish
 the connection. Once the connection is attained a fine adjustment can be
 made by reading the RSSL (Receiver Signal Strength Level) in the local
 radio. This value is provided by the user interface, and can also be
-obtained from programs like *netstumble**r*. The procedure consists of
+obtained from programs like netstumbler. The procedure consists of
 moving the antenna in the horizontal plane in small steps while reading
 the RSSL. Do not touch the antenna when reading, since your body will
 affect the measurement. Once satisfied that a maximum value is obtained,
@@ -12323,7 +12242,7 @@ tightened. This is all that is needed to aim a client device at an
 Access Point or Base Station. If you have a point to point link, the
 same procedure should be repeated at the other end of the link.
 
-\
+ 
 
 For long distances and when the other end of the link is not visible,
 some extra steps are required. First, the horizontal direction (bearing)
@@ -12331,25 +12250,26 @@ to aim the antenna must be obtained from the coordinates of the end
 points. Then a compass is used to determine the direction in which the
 antenna should be aimed.
 
-Keep in mind that in general there is a difference between the
-*magnetic***bearing measured by the compass and the
-*geographical***bearing obtained from the coordinates of the end points
-or from a map.
+Keep in mind that in general there is a difference between the magnetic
+bearing measured by the compass and the geographical bearing obtained
+from the coordinates of the end points or from a map.
 
-This difference is called the *magnetic****declinatio**n*, it can be
-very significant in some places and must be accounted for to properly
-aim the antenna. Fig. OI 2 shows the 10° difference between the magnetic
-north shown by the compass and the geographical or true north indicated
-by the brass plate.
+This difference is called the magnetic declination, it can be very
+significant in some places and must be accounted for to properly aim the
+antenna. Fig. OI 2 shows the 10° difference between the magnetic north
+shown by the compass and the geographical or true north indicated by the
+brass plate.
 
-\
+ 
 
-![](OI/OI2.png)\
-\
+![](./OI/OI2.png)
 
-*Figure****OI****2:****Difference****between****Magnetic****and****Geographical****North****at****El****Baul,****Venezuela****in****2006.*
+ 
 
-\
+Figure OI 2: Difference between Magnetic and Geographical North at El
+Baul, Venezuela in 2006.
+
+ 
 
 Keep in mind that iron and other magnetic metals will affect the reading
 of the compass, so stay away from those when making the measurement. If
@@ -12377,7 +12297,7 @@ them costing thousands of dollars, but if we are only interested in the
 WiFi bands we can make do with some inexpensive solutions like the
 following:
 
-\
+ 
 
 "RF Explorer" offers inexpensive devices for several frequency bands.
 
@@ -12389,7 +12309,7 @@ and is a stand alone unit that can measure signals from 2.4 to 2.485
 GHz, with a sensitivity of -105 dBm. It has an SMA connector for the
 antenna and therefore is well suited for antenna alignment.
 
-\
+ 
 
 "WiSpy" is a spectrum analyser in a USB dongle that attaches to a
 laptop. You will need the models with SMA RP connector, there is one for
@@ -12397,13 +12317,13 @@ laptop. You will need the models with SMA RP connector, there is one for
 the 5 GHz bands sold for 600\$ at
 [www.metageek.net.](http://www.metageek.net/)
 
-\
+ 
 
 "Ubiquiti Networks" ,
 [www.ubnt.com,](http://www.ubnt.com/)[](http://www.ubnt.com/)used to
 sell USB dongle spectrum analysers for 2.4 GHz at 70\$.
 
-\
+ 
 
 Unfortunately they seem to have discontinued this product after
 incorporating the spectrum analyser capability in their M series radios.
@@ -12435,14 +12355,14 @@ an antenna connector, so that we can attach our own antenna.
 There are many vendors to choose from, see for instance:
 [http://www.lightinthebox.com/Popular/Wifi\_Video\_Transmitter.html](http://www.lightinthebox.com/Popular/Wifi_Video_Transmitter.html)
 
-\
+ 
 
 As an example of long distance link using modified WiFi devices, we can
 mention an experiment performed in April 2005 in Venezuela between Pico
 del Aguila (8.83274638° N, 70.83074570°W,4100 m elevation) and El Baul
 (8.957667° N, 68.297528° W, 155 m elevation).
 
-\
+ 
 
 Using the Radio Mobile software, we find that the distance to El Baul is
 280 km, the azimuth is 97°, the antenna elevation angle is -2.0°, and
@@ -12450,21 +12370,22 @@ the place at which the beam is closest to the ground happens at 246 km,
 where it clears 1.7 times the first Fresnel zone at the 2.412 GHz
 frequency.
 
-\
+ 
 
 Fig. OI 3 shows the output of the program:
 
-\
+ 
 
-![](OI/OI3.png)\
-\
+![](./OI/OI3.png)
 
-\
+ 
 
-*Figure****OI****3:****Profile****of****a****280****km****path****over****which****standard****WiFi****gear****with****OpenWRT****firmware****which****allows****for****the****ACKtimeout****increase
-was****used****to****transfer****files****at****about****65****kb/s****in****April****2006****between****Pico****del****Aguila****and****El****Baul****in****Venezuela.*
+Figure OI 3: Profile of a 280 km path over which standard WiFi gear with
+OpenWRT firmware which allows for the ACKtimeout increase was used to
+transfer files at about 65 kb/s in April 2006 between Pico del Aguila
+and El Baul in Venezuela.
 
-\
+ 
 
 Notice that the earth curvature is quite apparent, and was overcome
 because one of the stations was at 4100 m altitude and the other at
@@ -12473,7 +12394,7 @@ because one of the stations was at 4100 m altitude and the other at
 30 dBi. Streaming video was successfully transmitted despite the limited
 bandwidth.
 
-\
+ 
 
 A year later the experiment was repeated with the same WiFi gear but
 with commercial 32 dBi antennas at both ends and similar results were
@@ -12484,8 +12405,8 @@ with standard 802.11b hardware.
 
 Moving the remote site to a 1400 m high hill called Platillon
 (9.88905350°N, 67.50552400°W), provided a 380 km testbed over which the
-experiment was again successfully repeated as described in the
-**Case****S****tudies******section in this book.
+experiment was again successfully repeated as described in the Case
+Studies section in this book.
 
 This can be illustrated by using an on-line version of Radio Mobile,
 available at
@@ -12501,43 +12422,46 @@ Keep in mind that only radio amateurs frequency are supported in the web
 version, so 2.3 GHz should be used instead of 2.4 GHZ, but the results
 are close enough and where validated by the experiment on the field.
 
-\
+ 
 
 In Figure OI 4 we show the output of the Radio Mobile on- line for this
-experiment that can be replicated by the reader as an exercise*.*
+experiment that can be replicated by the reader as an exercise.
 
-\
+ 
 
-![](OI/OI4.png)\
-\
+![](./OI/OI4.png)
 
-*Figure****OI****4:****Profile****of****a****380****km****test****at****2.4****GHz****performed****in****April****and****August****2007,****Venezuela.*
+ 
 
-\
+Figure OI 4: Profile of a 380 km test at 2.4 GHz performed in April and
+August 2007, Venezuela.
+
+ 
 
 Notice that the earth curvature is even more noticeable over the 380 km
 path, but the height of the end points combined with flat land in
 between allows for ample clearance of the first Fresnel zone.
 
-\
+ 
 
 Figure OI 5 shows the numerical values of the Radio Mobile on-line
 simulation:
 
-\
+ 
 
-![](OI/OI5.png)\
-\
+![](./OI/OI5.png)
 
-*Figure****OI****5:****Results****of****the****Radio****Mobile****on**-**line****simulation****for****the****380****km****link****between****Aguila****and****Platillon.*
+ 
 
-\
+Figure OI 5: Results of the Radio Mobile on-line simulation for the 380
+km link between Aguila and Platillon.
 
-**14. OFF****-****GRID********POWER**
-=====================================
+ 
 
-**Solar****Power**
+14. OFF-GRID POWER
 ------------------
+
+### Solar Power
 
 This chapter provides an introduction to standalone photovoltaic
 systems. Standalone systems work without connection to an established
@@ -12548,12 +12472,12 @@ resources. This chapter only discusses solar systems for the direct
 production of electricity (photovoltaic solar energy). Thermal solar
 energy systems are beyond the scope of this chapter.
 
-### **Solar****E****nergy**
+#### Solar Energy
 
 A photovoltaic system is based on the ability of photovoltaic panels to
 convert sun radiation directly into electrical energy. The total amount
 of solar energy that lights a given area is known as irradiance (G) and
-it is measured in watts per square metre (W/m^2^). The instantaneous
+it is measured in watts per square metre (W/m2). The instantaneous
 values are normally averaged over a period of time, so it is common to
 talk about total irradiance per hour, day or month. The amount of
 irradiance that arrives at the surface of the Earth varies due to
@@ -12569,7 +12493,7 @@ sun hours or PSHs. You can use the PSH value for your region to simplify
 your calculations. One unit of "peak sun hours" corresponds to a
 radiation of 1000 Watts per square metre for the duration of an hour. If
 an area has 4 PSH per day in the worst of the months, it means we can
-expect a daily irradiation of 4000 Wh/m^2^. Low resolution PSH
+expect a daily irradiation of 4000 Wh/m2. Low resolution PSH
 maps/calculation tools are available from a number of online sources
 such as: http://www.wunderground.com/calculators/solar.html
 
@@ -12578,7 +12502,7 @@ weather station.
 
 Airports normally record meteorological data including insolation.
 
-### **What********about********wind********powe****r****?**
+#### What about wind power?
 
 It is possible to use a wind generator in place of solar panels when an
 autonomous system is being designed for installation on a hill or
@@ -12605,8 +12529,7 @@ justified by the meagre amount of power it will add to the overall
 system. This chapter will therefore focus on the use of solar panels for
 generating electricity.
 
-**Photovoltaic********system********components**
-------------------------------------------------
+### Photovoltaic system components
 
 A basic photovoltaic system consists of four main components: solar
 panel, battery, regulator, and load.
@@ -12628,7 +12551,7 @@ wrong.
 These devices include proper wiring, circuit breakers, surge protectors,
 fuses, ground rods, lighting arrestors, etc.
 
-### **The********solar********panel**
+#### The solar panel
 
 The solar panel is composed of solar cells that collect solar radiation
 and transform it into electrical energy. This part of the system is
@@ -12640,16 +12563,19 @@ load. The electrical current supplied by a solar panel varies
 proportionally to the solar radiation. This will vary according to
 climatic conditions, the hour of the day, and the time of the year.
 
-\
+ 
 
-![](OGP/OGP1.png)\
-*Figure****OGP****1:****A****solar****panel*
+![](./OGP/OGP1.png)
+
+Figure OGP 1: A solar panel
+
+ 
 
 Several technologies are used in the manufacture of solar cells.
 
 The most common is crystalline silicon, and can be either
 monocrystalline or polycrystalline. Amorphous silicon can be cheaper but
-is less efficient at converting solar energy to electricity. With a
+is less efficient at converting solar energy to electricity.  With a
 reduced life expectancy and a 6 to 8% transformation efficiency,
 amorphous silicon is typically used for low power equipment, such as
 portable calculators.
@@ -12658,7 +12584,7 @@ New solar technologies, such as silicon ribbon and thin film
 photovoltaics, are currently under development. These technologies
 promise higher efficiencies but are not yet widely available.
 
-### **The********battery**
+#### The battery
 
 The battery stores the energy produced by the panels that is not
 immediately consumed by the load. This stored energy can then be used
@@ -12668,23 +12594,25 @@ form of chemical energy. The most common type of batteries used in solar
 applications are maintenance-free lead-acid batteries, also called
 recombinant or VRLA (valve regulated lead acid) batteries.
 
-\
+ 
 
-![](OGP/OGP2.png)\
-\
+![](./OGP/OGP2.png)
 
-*Figure****OGP****2:****A****200****Ah****lea**d**-**acid****battery.****The****negative****terminal****was****broken****due****to****weight****on****the****terminals****during****transportation.*
+ 
 
-\
+Figure OGP 2: A 200 Ah lead-acid battery. The negative terminal was
+broken due to weight on the terminals during transportation.
+
+ 
 
 Aside from storing energy, sealed lead-acid batteries also serve two
 important functions:
 
--   They are able to provide an instantaneous power superior to that of
+-   •They are able to provide an instantaneous power superior to that of
     the array of panels. This instantaneous power is needed to start
-    some appliances, such as the motor of a refrigerator or a pump.
+    some appliances, such as the motor of a refrigerator or a pump. 
 
--   They determine the operating voltage of your installation.
+-   •They determine the operating voltage of your installation. 
 
 For a small power installation and where space constraints are
 important, other types of batteries (such as NiCd, NiMh, or Li-ion) can
@@ -12693,7 +12621,7 @@ be used.
 These types of batteries need a specialised charger/regulator and cannot
 directly replace lead-acid batteries.
 
-### **The********regulator**
+#### The regulator
 
 The regulator (or more formally, the solar power charge regulator)
 assures that the battery is working in appropriate conditions. It avoids
@@ -12708,10 +12636,13 @@ storage technology used by the battery, the regulator will know the
 precise points where the battery would be overcharged or excessively
 discharged.
 
-\
+ 
 
-![](OGP/OGP3.png)\
-*Figure****OGP****3:****A****30****Amp****solar****charge****controller*
+![](./OGP/OGP3.png)
+
+Figure OGP 3: A 30 Amp solar charge controller
+
+ 
 
 The regulator can include other features that add valuable information
 and security control to the equipment. These features include ammeters,
@@ -12719,7 +12650,7 @@ voltmeters, measurement of ampere-hour, timers, alarms, etc. While
 convenient, none of these features are required for a working
 photovoltaic system.
 
-### **The********converter**
+#### The converter
 
 The electricity provided by the panel array and battery is DC at a fixed
 voltage. The voltage provided might not match what is required by your
@@ -12731,14 +12662,15 @@ supplied by the batteries. DC/DC converters also lose some energy during
 the conversion. For optimal operation, you should design your
 solar-powered system so that the generated DC voltage matches the load.
 
-\
+ 
 
-![](OGP/OGP4.png)\
-\
+![](./OGP/OGP4.png)
 
-*Figure****OGP****4:****An****800****Watt****DC/AC****converter****(power****inverter)*
+ 
 
-### **The********load**
+Figure OGP 4: An 800 Watt DC/AC converter (power inverter)
+
+#### The load
 
 The load is the equipment that consumes the power generated by your
 energy system.
@@ -12753,7 +12685,7 @@ estimate.
 In this type of system it is absolutely necessary to use efficient and
 low power equipment to avoid wasting energy.
 
-### **Putting********it********all********together**
+#### Putting it all together
 
 The complete photovoltaic system incorporates all of these components.
 The solar panels generate power when solar energy is available.
@@ -12766,26 +12698,26 @@ Converters and inverters adapt the stored energy to match the
 requirements of your load. Finally, the load consumes the stored energy
 to do work.
 
-\
+ 
 
 When all of the components are in balance and are properly maintained,
 the system will support itself for years.
 
-\
+ 
 
-![](OGP/OGP5.png)\
-\
+![](./OGP/OGP5.png)
 
-*Figure****OGP****5:****A****solar****installation****with****DC****and****AC****loads*
+ 
 
-\
+Figure OGP 5: A solar installation with DC and AC loads
+
+ 
 
 We will now examine each of the individual components of the
 
 photovoltaic system in greater detail.
 
-**The********solar********panel**
----------------------------------
+### The solar panel
 
 An individual solar panel is made of many solar cells.
 
@@ -12795,14 +12727,13 @@ current and voltage.
 The individual cells are properly encapsulated to provide isolation and
 protection from humidity and corrosion.
 
-![](OGP/OGP6.png)\
-\
+![](./OGP/OGP6.png)
 
-\
+ 
 
-*Figure****OGP****6:****The****effect****of****water****and****corrosion****in****a****solar****panel*
+Figure OGP 6: The effect of water and corrosion in a solar panel
 
-\
+ 
 
 There are different types of modules available on the market, depending
 on the power demands of your application. The most common modules are
@@ -12810,7 +12741,7 @@ composed of 32 or 36 solar cells of crystalline silicon. These cells are
 all of equal size, wired in series, and encapsulated between glass and
 plastic material, using a polymer resin (EVA) as a thermal insulator.
 
-The surface area of the module is typically between 0.1 and 0.5 m^2^.
+The surface area of the module is typically between 0.1 and 0.5 m2.
 Solar panels usually have two electrical contacts, one positive and one
 negative.
 
@@ -12829,18 +12760,20 @@ maximum voltage of the panel. They should only be used when shading is
 unavoidable. It is a much better solution to expose the entire panel to
 full sun whenever possible.
 
-![](OGP/OGP7.png)\
-\
+![](./OGP/OGP7.png)
 
-*Figure****OGP****7:****Different****IV****Curves.****The****current****(A)****changes****with****the****irradiance,****and****the****voltage****(V)****changes****with****the****temperature.*
+ 
 
-\
+Figure OGP 7: Different IV Curves. The current (A) changes with the
+irradiance, and the voltage (V) changes with the temperature.
+
+ 
 
 The electrical performance of a solar module is represented by the IV
 characteristic curve, which represents the current that is provided
 based on the voltage generated for a certain solar radiation.
 
-\
+ 
 
 The curve represents all the possible values of voltage-current.
 
@@ -12851,70 +12784,69 @@ For a given solar cell area, the current generated is directly
 proportional to solar irradiance (G), while the voltage reduces slightly
 with an increase of temperature.
 
-\
+ 
 
 A good regulator will try to maximise the amount of energy that a panel
 provides by tracking the point that provides maximum power (V x I). The
 maximum power corresponds to the knee of the IV curve.
 
-### **Solar********Panel********Parameters**
+#### Solar Panel Parameters
 
 The main parameters that characterise a photovoltaic panel are:
 
-\
+ 
 
-1.  **Short********Circuit********Current******(I~SC~): the maximum
-    current provided by the panel when the connectors are short
-    circuited.
+1.  1.  1.  1.Short Circuit Current (ISC): the maximum current provided
+            by the panel when the connectors are short circuited. 
 
-2.  **Open********Circuit********Voltage******(V~O~~C~): the maximum
-    voltage that the panel provides when the terminals are not connected
-    to any load (an open circuit). This value is normally 22 V for
-    panels that are going to work in 12 V systems, and is directly
-    proportional to the number of cells connected in series.
+        2.  2.Open Circuit Voltage (VOC): the maximum voltage that the
+            panel provides when the terminals are not connected to any
+            load (an open circuit). This value is normally 22 V for
+            panels that are going to work in 12 V systems, and is
+            directly proportional to the number of cells connected in
+            series. 
 
-3.  **Maximum********Power********Point******(P~ma~~x~): the point where
-    the power supplied by the panel is at maximum, where P~max~ = I~max~
-    x V~ma~~x~.
+        3.  3.Maximum Power Point (Pmax): the point where the power
+            supplied by the panel is at maximum, where Pmax = Imax x
+            Vmax. 
 
-\
+ 
 
 The maximum power point of a panel is measured in Watts (W) or peak
-Watts (W~p~). It is important not to forget that in normal conditions
-the panel will not work at peak conditions, as the voltage of operation
-is fixed by the load or the regulator. Typical values of V~max~ and
-I~max~ should be a bit smaller than the I~SC~ and V~OC~.
+Watts (Wp). It is important not to forget that in normal conditions the
+panel will not work at peak conditions, as the voltage of operation is
+fixed by the load or the regulator. Typical values of Vmax and Imax
+should be a bit smaller than the ISC and VOC.
 
-\
+ 
 
-1.  **Fill********Factor******(FF): the relation between the maximum
-    power that the panel can actually provide and the product I~SC~ .
-    V~O~~C~. This gives you an idea of the quality of the panel because
-    it is an indication of the type of IV characteristic curve. The
-    closer FF is to 1, the more power a panel can provide. Common values
-    usually are between 0.7 and 0.8.
+1.  1.  1.  1.Fill Factor (FF): the relation between the maximum power
+            that the panel can actually provide and the product ISC .
+            VOC. This gives you an idea of the quality of the panel
+            because it is an indication of the type of IV characteristic
+            curve. The closer FF is to 1, the more power a panel can
+            provide. Common values usually are between 0.7 and 0.8. 
 
-2.  **Efficiency******(η): the ratio between the maximum electrical
-    power that the panel can give to the load and the power of the solar
-    radiation (p~l~) incident on the panel. This is normally around
-    10-12%, depending on the type of cells (monocrystalline,
-    polycrystalline, amorphous or thin film).
+        2.  2.Efficiency (η): the ratio between the maximum electrical
+            power that the panel can give to the load and the power of
+            the solar radiation (pl) incident on the panel. This is
+            normally around 10-12%, depending on the type of cells
+            (monocrystalline, polycrystalline, amorphous or thin film). 
 
-\
+ 
 
 Considering the definitions of point of maximum power and the fill
 factor we see that:
 
-*η****=****P*~max~***/****P*~*L*~***=****FF****.****I*~*SC*~***.****V*~*OC*~***/****P*~*L*~
+η = Pmax / PL = FF . ISC . VOC / PL
 
-\
+ 
 
-The values of I~SC~, V~O~~C~, I~Pmax~ and V~Pmax~ are provided by the
-manufacturer and refer to standard conditions of measurement with
-irradiance G = 1000 W/m^2^, at sea-level, for a temperature of cells of
-T~c~ = 25ºC.
+The values of ISC, VOC, IPmax and VPmax are provided by the manufacturer
+and refer to standard conditions of measurement with irradiance G = 1000
+W/m2, at sea-level, for a temperature of cells of Tc = 25ºC.
 
-\
+ 
 
 The panel parameter values change for other conditions of irradiance and
 temperature. Manufacturers will sometimes include graphs or tables with
@@ -12922,23 +12854,23 @@ values for conditions different from the standard. You should check the
 performance values at the panel temperatures that are likely to match
 your particular installation.
 
-Be aware that two panels can have the same W~p~ but very different
+Be aware that two panels can have the same Wp but very different
 behaviour in different operating conditions. When acquiring a panel, it
 is important to verify, if possible, that their parameters (at least,
-I~SC~ and V~O~~C~) match the values promised by the manufacturer.
+ISC and VOC) match the values promised by the manufacturer.
 
-### **Panel********parameters********for********system********sizing**
+#### Panel parameters for system sizing
 
 To calculate the number of panels required to cover a given load, you
 just need to know the current and voltage at the point of maximum power:
-I~Pmax~ and V~Pma~~x~.
+IPmax and VPmax.
 
 You should always be aware that the panel is not going to perform under
 perfect conditions as the load or regulation system is not always going
 to work at the point of maximum power of the panel. You should assume a
 loss of efficiency of 5% in your calculations to compensate for this.
 
-### **Interconnection********of********panels**
+#### Interconnection of panels
 
 A solar panel array is a collection of solar panels that are
 electrically interconnected and installed on some type of support
@@ -12949,7 +12881,7 @@ close to (but greater than) the level of voltage of the batteries, and
 that the current generated is sufficient to feed the equipment and to
 charge the batteries.
 
-\
+ 
 
 Connecting solar panels in series increases the generated voltage.
 Connecting panels in parallel increases the current.
@@ -12957,7 +12889,7 @@ Connecting panels in parallel increases the current.
 The number of panels used should be increased until the amount of power
 generated slightly exceeds the demands of your load.
 
-\
+ 
 
 It is very important that all of the panels in your array are as
 identical as possible. In an array, you should use panels of the same
@@ -12965,12 +12897,12 @@ brand and characteristics because any difference in their operating
 conditions will have a big impact on the health and performance of your
 system.
 
-\
+ 
 
 Even panels that have identical performance ratings will usually display
 some variance in their characteristics due to manufacturing processes.
 
-\
+ 
 
 The actual operating characteristics of two panels from the same
 manufacturer can vary by as much as ±10%.
@@ -12979,18 +12911,20 @@ Whenever possible, it is a good idea to test the real-world performance
 of individual panels to verify their operating characteristics before
 assembling them into an array.
 
-\
+ 
 
-![](OGP/OGP8.png)\
-\
+![](./OGP/OGP8.png)
 
-*Figure****OGP****8:****Interconnection****of****panels****in****parallel.****The****voltage****remains****constant****while****the****current****duplicates.****(Photo:****Fantsuam
-Foundation,****Nigeria)*
+ 
 
-### **How********to********choose********a********good********panel**
+Figure OGP 8: Interconnection of panels in parallel. The voltage remains
+constant while the current duplicates. (Photo: Fantsuam Foundation,
+Nigeria)
+
+#### How to choose a good panel
 
 One obvious metric to use when shopping for solar panels is to compare
-the ratio of the nominal peak power (W~p~) to the price. This will give
+the ratio of the nominal peak power (Wp) to the price. This will give
 you a rough idea of the cost per Watt for different panels. But there
 are a number of other considerations to keep in mind as well.
 
@@ -13008,17 +12942,16 @@ are very fragile and the panel must protect them from mechanical
 hazards. Look for the manufacturer's quality guarantee in terms of
 expected power output and mechanical construction.
 
-\
+ 
 
 Finally, be sure that the manufacturer provides not only the nominal
-peak power of the panel (W~p~) but also the variation of the power with
+peak power of the panel (Wp) but also the variation of the power with
 irradiation and temperature. This is particularly important when panels
 are used in arrays, as variations in the operating parameters can have a
 big impact on the quality of power generated and the useful lifetime of
 the panels.
 
-**The********battery**
-----------------------
+### The battery
 
 The battery “hosts” a certain reversible chemical reaction that stores
 electrical energy that can later be retrieved when needed. Electrical
@@ -13053,14 +12986,14 @@ by the panels does not match the energy required to support the load.
 When there is sufficient sun and the load is light, the batteries will
 charge.
 
-\
+ 
 
 Obviously, the batteries will discharge at night whenever any amount of
 power is required. The batteries will also discharge when the irradiance
 is insufficient to cover the requirements of the load (due to the
 natural variation of climatological conditions, clouds, dust, etc.)
 
-\
+ 
 
 If the battery does not store enough energy to meet the demand during
 periods without sun, the system will be exhausted and will be
@@ -13070,7 +13003,7 @@ inefficient. When designing a stand-alone system we need to reach a
 compromise between the cost of components and the availability of power
 from the system.
 
-\
+ 
 
 One way to do this is to estimate the required number of days of
 autonomy. In the case of a telecommunications system, the number of days
@@ -13085,7 +13018,7 @@ autonomy to two or three. In areas with low irradiance, this value may
 need to be increased even more. In any case, you will always have to
 find the proper balance between cost and reliability.
 
-### **Types********of********batteries**
+#### Types of batteries
 
 Many different battery technologies exist, and are intended for use in a
 variety of different applications. The most suitable type for
@@ -13105,7 +13038,7 @@ lead-acid batteries. In many cases when it is difficult to find local,
 good and cheap stationary batteries (importing batteries is not cheap),
 you will be forced to use batteries targeted to the automobile market.
 
-### **Using********car********batteries**
+#### Using car batteries
 
 Automobile batteries are not well suited for photovoltaic applications
 as they are designed to provide a substantial current for just few
@@ -13116,7 +13049,7 @@ when used in photovoltaic systems. Traction batteries can be used in
 small applications where low cost is the most important consideration,
 or when other batteries are not available.
 
-\
+ 
 
 Traction batteries are designed for vehicles and electric wheelbarrows.
 They are cheaper than stationary batteries and can serve in a
@@ -13137,19 +13070,21 @@ battery. If you adjust the density of battery electrolyte, you must use
 distilled water, as tap water or well water will permanently damage the
 battery.
 
-### **States********of********charge**
+#### States of charge
 
 There are two special states of charge that can take place during the
 cyclic charge and discharge of the battery. They should both be avoided
 in order to preserve the useful life of the battery.
 
-\
+ 
+
+1.  ​1. Overcharge
 
 Overcharge takes place when the battery arrives at the limit of its
 capacity. If energy is applied to a battery beyond its point of maximum
 charge, the electrolyte begins to break down.
 
-\
+ 
 
 This produces bubbles of oxygen and hydrogen, in a process is known as
 gasification. This results in a loss of water, oxidation on the positive
@@ -13161,7 +13096,7 @@ tends to concentrate itself at the bottom of the battery thereby
 reducing the effective capacity. The process of gasification agitates
 the electrolyte and avoids stratification.
 
-\
+ 
 
 Again, it is necessary to find a compromise between the advantages
 (avoiding electrolyte stratification) and the disadvantages (losing
@@ -13171,7 +13106,9 @@ voltage of 2.35 to 2.4 Volts for each element of the battery every few
 days, at 25ºC. The regulator should ensure a periodic and controlled
 overcharges.
 
-\
+ 
+
+1.  ​2. Overdischarge
 
 In the same way that there is a upper limit, there is also a lower limit
 to a battery's state of charge. Discharging beyond that limit will
@@ -13181,7 +13118,7 @@ extracted from the battery. When the voltage of the battery reaches the
 minimum limit of 1.85 Volts per cell at 25°C, the regulator disconnects
 the load from the battery.
 
-\
+ 
 
 If the discharge of the battery is very deep and the battery remains
 discharged for a long time, three effects take place: the formation of
@@ -13191,19 +13128,18 @@ forming stable sulphate crystals is called hard sulphation. This is
 particularly negative as it generates big crystals that do not take part
 in any chemical reaction and can make your battery unusable.
 
-### **Battery********Parameters**
+#### Battery Parameters
 
 The main parameters that characterise a battery are:
 
-\
+ 
 
-**Nominal********Voltag****e**, V~NBa~~t~: the most common value being
-12 V.
+        Nominal Voltage, VNBat: the most common value being 12 V.
 
-\
+ 
 
-**Nominal********Capacit****y**, C~NBa~~t~: the maximum amount of energy
-that can be extracted from a fully charged battery. It is expressed in
+        Nominal Capacity, CNBat: the maximum amount of energy that can
+be extracted from a fully charged battery. It is expressed in
 Ampere-hours (Ah) or Watt-hours (Wh).
 
 The amount of energy that can be obtained from a battery depends on the
@@ -13213,11 +13149,10 @@ same battery over a short period. The capacity of a battery is therefore
 specified at different discharging times. For photovoltaic applications,
 this time should be longer than 100 hours (C100).
 
-\
+ 
 
-**Maximum********Depth********of********Discharg****e**, DoD~ma~~x~: The
-depth of discharge is the amount of energy extracted from a battery in a
-single
+        Maximum Depth of Discharge, DoDmax: The depth of discharge is
+the amount of energy extracted from a battery in a single
 
 discharge cycle, expressed as a percentage. The life expectancy of a
 battery depends on how deeply it is discharged in each cycle. The
@@ -13226,15 +13161,15 @@ charge-discharge cycles to the life of the battery. As a general rule
 you should avoid discharging a deep cycle battery beyond 50%. Traction
 batteries should only be discharged by as little as 30%.
 
-\
+ 
 
-**Useful********Capacit****y**, C~UBa~~t~: It is the real (as in usable)
-capacity of a battery. It is equal to the product of the nominal
-capacity and the maximum DoD. For example, a stationary battery of
-nominal capacity (C100) of 120 Ah and depth of discharge of 70% has a
-useful capacity of (120 x 0.7) = 84 Ah.
+        Useful Capacity, CUBat: It is the real (as in usable) capacity
+of a battery. It is equal to the product of the nominal capacity and the
+maximum DoD. For example, a stationary battery of nominal capacity
+(C100) of 120 Ah and depth of discharge of 70% has a useful capacity of
+(120 x 0.7) = 84 Ah.
 
-### **Measuring********the********state********of********charge********of********the********battery**
+#### Measuring the state of charge of the battery
 
 A sealed lead-acid battery of 12 V provides different voltages depending
 on its state of charge. When the battery is fully charged in an open
@@ -13251,18 +13186,18 @@ battery has a voltage of 12.6 V when "full" and 11.6 V when "empty", we
 can estimate that a battery has discharged 70% when it reaches a voltage
 of 11.9 V.
 
-\
+ 
 
 These values are only a rough approximation since they depend on the
 life and quality of the battery, the temperature, etc.
 
-\
+ 
 
-**State********of********Charge**
+State of Charge
 
-**12V********Battery********Voltage**
+12V Battery Voltage
 
-**Volts********per********Cell**
+Volts per Cell
 
 100%
 
@@ -13324,7 +13259,7 @@ life and quality of the battery, the temperature, etc.
 
 1.89
 
-\
+ 
 
 According to this table, and considering that a truck battery should not
 be discharged more than 20% to 30%, we can determine that the useful
@@ -13332,7 +13267,7 @@ capacity of a 170 Ah truck battery is 34 Ah (20%) to 51 Ah (30%). Using
 the same table, we find that we should program the regulator to prevent
 the battery from discharging below 12.3 V.
 
-### **Battery********and********regulator********protection**
+#### Battery and regulator protection
 
 Thermomagnetic circuit breakers or one time fuses must be used to
 protect the batteries and the installation from short circuit and
@@ -13343,7 +13278,7 @@ higher current than their rating to pass for a short time. Quick blow
 fuses will immediately blow if the current flowing through them is
 higher than their rating.
 
-\
+ 
 
 The regulator is connected to the battery and the loads, so two
 different kinds of protection need to be considered. One fuse should be
@@ -13353,14 +13288,16 @@ to protect the regulator from excessive load current.
 
 This second fuse is normally integrated into the regulator itself.
 
-\
+ 
 
-![](OGP/OGP9.png)\
-\
+![](./OGP/OGP9.png)
 
-*Figure****OGP****9:****A****battery****bank****of****3600****Ah,****currents****reach****levels****of****45****A****during****charging*
+ 
 
-\
+Figure OGP 9: A battery bank of 3600 Ah, currents reach levels of 45 A
+during charging
+
+ 
 
 Every fuse is rated with a maximum current and a maximum usable voltage.
 The maximum current of the fuse should be 20% bigger than the maximum
@@ -13374,51 +13311,54 @@ replace a fuse with a wire or a higher rated fuse. First determine the
 cause of the problem, then replace the fuse with another one which has
 the same characteristics.
 
-**Temperature********effects**
-------------------------------
+### Temperature effects
 
 The ambient temperature has several important effects on the
 characteristics of a battery:
 
-\
+ 
 
--   The nominal capacity of a battery (that the manufacturer usually
+-   •The nominal capacity of a battery (that the manufacturer usually
     gives for 25°C) increases with temperature at the rate of about
-    1%/°C. But if the temperature is too high, the chemical reaction
+    1%/°C.  But if the temperature is too high, the chemical reaction
     that takes place in the battery accelerates, which can cause the
     same type of oxidation that takes place during overcharging. This
     will obviously reduce the life expectancy of a battery. This problem
     can be compensated partially in car batteries by using a low density
     of dissolution (a specific gravity of 1.25 when the battery is
-    totally charged).
+    totally charged). 
 
--   As the temperature is reduced, the useful life of the battery
+     
+
+-   •As the temperature is reduced, the useful life of the battery
     increases. But if the temperature is too low, you run the the risk
     of freezing the electrolyte. The freezing temperature depends on the
     density of the solution, which is also related to the state of
     charge of the battery. The lower the density, the greater the risk
     of freezing. In areas of low temperatures, you should avoid deeply
-    discharging the batteries (that is, DoDmax is effectively reduced.)
+    discharging the batteries (that is, DoDmax is effectively reduced.) 
 
--   The temperature also changes the relation between voltage and
+     
+
+-   •The temperature also changes the relation between voltage and
     charge. It is preferable to use a regulator which adjusts the low
     voltage disconnect and reconnect parameters according to
     temperature. The temperature sensor of the regulator should be fixed
-    to the battery using tape or some other simple method.
+    to the battery using tape or some other simple method. 
 
--   In hot areas it is important to keep the batteries as cool as
+-   •In hot areas it is important to keep the batteries as cool as
     possible. The batteries must be stored in a shaded area and never
     get direct sunlight. It's also desirable to place the batteries on a
     small support to allow air to flow under them, thus increase the
-    cooling.
+    cooling. 
 
-### **How********to********choose********a********good********battery**
+#### How to choose a good battery
 
 Choosing a good battery can be very challenging.
 
 High capacity batteries are heavy, bulky and expensive to import.
 
-\
+ 
 
 A 200 Ah battery weighs around 50 kg (120 pounds) and it cannot be
 transported as hand luggage.
@@ -13426,14 +13366,14 @@ transported as hand luggage.
 If you want long-life (as in \> 5 years) and maintenance free batteries
 be ready to pay the price.
 
-\
+ 
 
 A good battery should always come with its technical specifications,
 including the capacity at different discharge rates (C20, C100),
 operating temperature, cut-off voltage points, and requirements for
 chargers.
 
-\
+ 
 
 The batteries must be free of cracks, liquid spillage or any sign of
 damage, and battery terminals should be free of corrosion.
@@ -13443,7 +13383,7 @@ capacity and aging, expect lots of low quality batteries (including
 fakes) in the local markets. A typical price (not including transport
 and import tax) is \$3-4 USD per Ah for 12 V lead-acid batteries.
 
-### **Life********expectancy********versus********number********of********cycles**
+#### Life expectancy versus number of cycles
 
 Batteries are the only component of a solar system that should be
 amortised over a short period and regularly replaced.
@@ -13458,8 +13398,7 @@ capacity the battery, it can last more than 3 years. It can be cheaper
 to buy a battery with 3 times the capacity than to change the battery
 every year.
 
-**The********charge********regulator**
---------------------------------------
+### The charge regulator
 
 The charge regulator is also known as a charge controller, a voltage
 regulator, a charge-discharge controller or a charge-discharge and load
@@ -13487,13 +13426,13 @@ disconnecting or shedding the load. To prevent continuous connections
 and disconnections the regulator will not connect back the loads until
 the battery reaches a low reconnect voltage (LRV).
 
-\
+ 
 
 Typical values for a 12 V lead-acid battery are:
 
-\
+ 
 
-**Voltage********Point**
+Voltage Point
 
 Voltage
 
@@ -13517,7 +13456,7 @@ HVD
 
 15.5
 
-\
+ 
 
 The most modern regulators are also able to automatically disconnect the
 panels during the night to avoid discharging of the battery.
@@ -13531,7 +13470,7 @@ temperature and solar illumination, new regulators are capable of
 constantly tracking the maximum point of power of the solar array. This
 feature is known as maximum power point tracking (MPPT).
 
-### **Regulator********Parameters**
+#### Regulator Parameters
 
 When selecting a regulator for your system, you should at least know the
 operating voltage and the maximum current that the regulator can handle.
@@ -13539,32 +13478,31 @@ The operating voltage will be 12, 24, or 48 V. The maximum current must
 be 20% bigger than the current provided by the array of panels connected
 to the regulator.
 
-\
+ 
 
 Other features and data of interest include:
 
--   Specific values for LVD, LRV and HVD.
+-   •Specific values for LVD, LRV and HVD. 
 
--   Support for temperature compensation. The voltage that indicates the
-    state of charge of the battery varies with temperature. For that
+-   •Support for temperature compensation. The voltage that indicates
+    the state of charge of the battery varies with temperature. For that
     reason some regulators are able to measure the battery temperature
-    and correct the different cut-off and reconnection values.
+    and correct the different cut-off and reconnection values.  
 
--   Instrumentation and gauges. The most common instruments measure the
+-   •Instrumentation and gauges. The most common instruments measure the
     voltage of the panels and batteries, the state of charge (SoC) or
     Depth of Discharge (DoD). Some regulators include special alarms to
     indicate that the panels or loads have been disconnected, LVD or HVD
-    has been reached, etc.
+    has been reached, etc. 
 
-Converters
-----------
+### Converters
 
 The regulator provides DC power at a specific voltage.
 
 Converters and inverters are used to adjust the voltage to match the
 requirements of your load.
 
-### **DC/DC********Converters**
+#### DC/DC Converters
 
 DC/DC converters transform a continuous voltage to another continuous
 voltage of a different value. There are two conversion methods which can
@@ -13581,7 +13519,7 @@ to 6 V, the linear regulator will have an efficiency of only 50%.
 
 A standard switching regulator has an efficiency of at least 80%.
 
-### **DC/AC********Converter********or********Inverter**
+#### DC/AC Converter or Inverter
 
 Inverters are used when your equipment requires AC power. Inverters chop
 and invert the DC current to generate a square wave that is later
@@ -13602,17 +13540,16 @@ sound.
 Aside from the type of waveform, some important features of inverters
 include:
 
-**Reliability********in********the********presence********of********surge****s**.
-Inverters have two power ratings: one for continuous power, and a higher
-rating for peak power. They are capable of providing the peak power for
-a very short amount of time, as when starting a motor. The inverter
-should also be able to safely interrupt itself (with a circuit breaker
-or fuse) in the event of a short circuit, or if the requested power is
-too high.
+        Reliability in the presence of surges. Inverters have two power
+ratings: one for continuous power, and a higher rating for peak power.
+They are capable of providing the peak power for a very short amount of
+time, as when starting a motor. The inverter should also be able to
+safely interrupt itself (with a circuit breaker or fuse) in the event of
+a short circuit, or if the requested power is too high.
 
-\
+ 
 
-**Conversion********efficienc****y**. Inverters are most efficient when
+        Conversion efficiency. Inverters are most efficient when
 providing 50% to 90% of their continuous power rating.
 
 You should select an inverter that most closely matches your load
@@ -13621,27 +13558,26 @@ requirements.
 The manufacturer usually provides the performance of the inverter at 70%
 of its nominal power.
 
-\
+ 
 
-**Battery********chargin****g**. Many inverters also incorporate the
-inverse function: the possibility of charging batteries in the presence
-of an alternative source of current (grid, generator, etc). This type of
+        Battery charging. Many inverters also incorporate the inverse
+function: the possibility of charging batteries in the presence of an
+alternative source of current (grid, generator, etc). This type of
 inverter is known as a charger/inverter.
 
-\
+ 
 
-**Automatic********fal****l****-****ove****r**. Some inverters can
-switch automatically between different sources of power (grid,
-generator, solar) depending on what is available.
+        Automatic fall-over. Some inverters can switch automatically
+between different sources of power (grid, generator, solar) depending on
+what is available.
 
-\
+ 
 
 When using telecommunication equipment, it is best to avoid the use of
 DC/AC converters and feed them directly from a DC source. Most
 communications equipment can accept a wide range of input voltage.
 
-**Equipment********or********load**
------------------------------------
+### Equipment or load
 
 It should be obvious that as power requirements increase, the expense of
 the photovoltaic system also increases. It is therefore critical to
@@ -13654,7 +13590,7 @@ the maximum consumption.
 Once the installation is in place, the established maximum consumption
 must be respected in order to avoid frequent power failures.
 
-### **Home********Appliances**
+#### Home Appliances
 
 The use of photovoltaic solar energy is not recommended for
 heat-exchange applications (electrical heating, refrigerators, toasters,
@@ -13664,41 +13600,42 @@ appliances.
 Here are some points to keep in mind when choosing appropriate equipment
 for use with a solar system:
 
--   The photovoltaic solar energy is suitable for illumination. In this
+-   •The photovoltaic solar energy is suitable for illumination. In this
     case, the use of halogen light bulbs or fluorescent lamps is
     mandatory. Although these lamps are more expensive, they have much
     better energy efficiency than incandescent light bulbs. LED lamps
     are also a good choice as they are very efficient and are fed with
-    DC.
+    DC. 
 
--   It is possible to use photovoltaic power for appliances that require
-    low and constant consumption (as in a typical case, the TV). Smaller
-    televisions use less power than larger televisions. Also consider
-    that a black-and-white TV consumes about half the power of a colour
-    TV.
+-   •It is possible to use photovoltaic power for appliances that
+    require low and constant consumption (as in a typical case, the TV).
+    Smaller televisions use less power than larger televisions. Also
+    consider that a black-and-white TV consumes about half the power of
+    a colour TV. 
 
--   Photovoltaic solar energy is not recommended for any application
+-   •Photovoltaic solar energy is not recommended for any application
     that transforms energy into heat (thermal energy). Use solar heating
-    or butane as an alternative.
+    or butane as an alternative. 
 
--   Conventional automatic washing machines will work, but you should
+-   •Conventional automatic washing machines will work, but you should
     avoid the use of any washing programs that include centrifugal water
-    heating.
+    heating. 
 
--   If you must use a refrigerators, it should consume as little power
+-   •If you must use a refrigerators, it should consume as little power
     as possible. There are specialised refrigerators that work on DC,
-    although their consumption can be quite high (around 1000 Wh/day).
+    although their consumption can be quite high (around 1000 Wh/day). 
 
-**The********estimation********of********total********consumption** is a
-fundamental step in sizing your solar system. Here is a table that gives
-you a general idea of the power consumption that you can expect from
-different appliances.
+     
 
-\
+The estimation of total consumption is a fundamental step in sizing your
+solar system. Here is a table that gives you a general idea of the power
+consumption that you can expect from different appliances.
 
-**Equipment**
+ 
 
-**Consumption******(Watts)
+Equipment
+
+Consumption (Watts)
 
 Portable Computer
 
@@ -13728,7 +13665,7 @@ PC with LCD
 
 6-8
 
-### **Wireless********telecommunications********equipment**
+#### Wireless telecommunications equipment
 
 Saving power by choosing the right gear saves a lot of money and
 trouble. For example, a long distance link doesn't necessarily need a
@@ -13759,13 +13696,13 @@ and will work through such a voltage range without modification or
 becoming hot (even if the device was shipped with a 5 or 12 Volt power
 supply).
 
-**WARNIN****G**: Operating your Access Point with a power supply other
-than the one provided by your manufacturer will certainly void any
-warranty, and may cause damage to your equipment. While the following
-technique will typically work as described, remember that should you
-attempt it, you do so at your own risk.
+WARNING: Operating your Access Point with a power supply other than the
+one provided by your manufacturer will certainly void any warranty, and
+may cause damage to your equipment. While the following technique will
+typically work as described, remember that should you attempt it, you do
+so at your own risk.
 
-\
+ 
 
 Open your Access Point and look near the DC input for two relatively big
 capacitors and an inductor (a ferrite toroid with copper wire wrapped
@@ -13801,14 +13738,14 @@ W, and a 200 mW radio card consumes as much as 3 W. High power cards
 (such as the 400 mW Ubiquiti) consume around 6 W. A repeating station
 with two radios can range between 8 and 10 W.
 
-\
+ 
 
 Although the standard IEEE 802.11 incorporates a power saving mode (PS)
 mechanism, its benefit is not as good as you might hope. The main
 mechanism for energy saving is to allow stations to periodically put
 their wireless cards to "sleep" by means of a timing circuit.
 
-\
+ 
 
 When the wireless card wakes up it verifies if a beacon exists,
 indicating pending traffic. The energy saving therefore only takes place
@@ -13819,7 +13756,7 @@ can cause unstable wireless connections. It is nearly always best to
 leave power saving mode disabled on all equipment, as the difficulties
 created will likely outweigh the meagre amount of saved power.
 
-### **Selecting********the********voltage**
+#### Selecting the voltage
 
 Most low power stand-alone systems use 12 V battery power as that is the
 most common operational voltage in sealed lead-acid batteries.
@@ -13829,37 +13766,35 @@ consideration the most efficient voltage of operation of your equipment.
 While the input voltage can accept a wide range of values, you need to
 ensure that the overall power consumption of the system is minimal.
 
-### Wiring
+#### Wiring
 
 An important component of the installation is the wiring, as proper
 wiring will ensure efficient energy transfer. Some good practices that
 you should consider include:
 
--   Use a screw to fasten the cable to the battery terminal. Loose
-    connections will waste power.
+-   •Use a screw to fasten the cable to the battery terminal. Loose
+    connections will waste power. 
 
--   Spread Vaseline or mineral jelly on the battery terminals. Corroded
-    connections have an increased resistance, resulting in loss.
+-   •Spread Vaseline or mineral jelly on the battery terminals. Corroded
+    connections have an increased resistance, resulting in loss. 
 
-\
+ 
 
 Wire size is normally given in American Wire Gauge (AWG).
 
-\
+ 
 
-During your calculations you will need to convert between AWG and mm^2^
-to estimate cable resistance. For example, an AWG \#6 cable has a
-diameter of 4.11 mm and can handle up to 55 A.
+During your calculations you will need to convert between AWG and mm2 to
+estimate cable resistance. For example, an AWG \#6 cable has a diameter
+of 4.11 mm and can handle up to 55 A.
 
-A **conversion********chart,** including an estimate of resistance and
-current carrying capacity, is available in
-**Appendix********D:********Cables********Size****s**. Keep in mind that
-the current carrying capacity can also vary depending on the type of
-insulation and application. When in doubt, consult the manufacturer for
-more information.
+A conversion chart, including an estimate of resistance and current
+carrying capacity, is available in Appendix D: Cables Sizes. Keep in
+mind that the current carrying capacity can also vary depending on the
+type of insulation and application. When in doubt, consult the
+manufacturer for more information.
 
-**Orientation********of********the********panels**
---------------------------------------------------
+### Orientation of the panels
 
 Most of the energy coming from the sun arrives in a straight line. The
 solar module will capture more energy if it is “facing” the sun,
@@ -13867,21 +13802,20 @@ perpendicular to the straight line between the position of the
 installation and the sun. Of course, the sun's position is constantly
 changing relative to the earth, so we need to find an optimal position
 for our panels. The orientation of the panels is determined by two
-angles, the ***azimuth************a*********and the
-***inclination*********or ***elevation************ß***. The azimuth is
+angles, the azimuth a and the inclination or elevation ß. The azimuth is
 the angle that measures the deviation with respect to the south in the
 northern hemisphere, and with respect to the north in the southern
 hemisphere. The inclination is the angle formed by the surface of the
 module and the horizontal plane.
 
-### Azimuth
+#### Azimuth
 
 You should have the module turned towards the terrestrial equator
 (facing south in the northern hemisphere, and north in the southern) so
 that during the day the panel catches the greatest possible amount of
-radiation (a = 0^o^). It is very important that no part of the panels
-are ever in shade! Study the elements that surround the panel array
-(trees, buildings, walls,
+radiation (a = 0o). It is very important that no part of the panels are
+ever in shade! Study the elements that surround the panel array (trees,
+buildings, walls,
 
 other panels, etc.) to be sure that they will not cast a shadow on the
 panels at any time of the day or year. It is acceptable to turn the
@@ -13889,7 +13823,7 @@ panels
 
 ±20º towards the east or the west if needed (a = ±20º).
 
-### Inclination
+#### Inclination
 
 Once you have fixed the azimuth, the parameter that is key in our
 calculations is the inclination of the panel, which we will express as
@@ -13897,7 +13831,7 @@ the angle beta (ß). The maximum height that the sun reaches every day
 will vary, with the maximum on the day of the summer solstice and the
 minimum on the day of the winter solstice.
 
-\
+ 
 
 Ideally, the panels should track this variation, but this is usually not
 possible for cost reasons. In installations with telecommunications
@@ -13906,7 +13840,7 @@ most telecommunications scenarios the energy demands of the system are
 constant throughout the year. Providing for sufficient power during the
 "worst month" will work well for the rest of the year.
 
-\
+ 
 
 The value of ß should maximise the ratio between the offer and the
 demand for energy.
@@ -13918,7 +13852,7 @@ capture the maximum radiation during "the winter" months.
 You should use the absolute value of the latitude of the place (angle F)
 increased by 10° (ß = | F | + 10 °).
 
-\
+ 
 
 For installations with less consumption during the winter, the value of
 the latitude of the place can be used as the solar panel inclination.
@@ -13930,7 +13864,7 @@ absolute value of the latitude of the place (angle F) decreased by
 
 10° (ß = | F | - 10°).
 
-\
+ 
 
 The inclination of the panel should never be less than 15° to avoid the
 accumulation of dust and/or humidity on the panel. In areas where snow
@@ -13944,23 +13878,26 @@ for the months of summer and another for the months of winter.
 This would require special support structures and a regular schedule for
 changing the position of the panels.
 
-**How********to********size********your********photovoltaic********system**
----------------------------------------------------------------------------
+### How to size your photovoltaic system
 
 When choosing equipment to meet your power needs, you will need to
 determine the following, at a minimum:
 
-\
+ 
 
--   The number and type of solar panels required to capture enough solar
-    energy to support your load.
+-   •The number and type of solar panels required to capture enough
+    solar energy to support your load. 
 
--   The minimum capacity of the battery. The battery will need to store
+-   •The minimum capacity of the battery. The battery will need to store
     enough energy to provide power at night and through days with little
-    sun, and will determine your number of days of autonomy.
+    sun, and will determine your number of days of autonomy. 
 
--   The characteristics of all other components (the regulator, wiring,
-    etc.) needed to support the amount of power generated and stored.
+     
+
+-   •The characteristics of all other components (the regulator, wiring,
+    etc.) needed to support the amount of power generated and stored. 
+
+     
 
 System sizing calculations are important, because unless the system
 components are balanced, energy (and ultimately, money) is wasted. For
@@ -13972,7 +13909,7 @@ regulator of a smaller amperage than needed, or one single cable that is
 too small, can be a cause of failure (or even fire) and render the
 installation unusable.
 
-\
+ 
 
 Never forget that the ability of the photovoltaic energy to produce and
 store electrical energy is limited. Accidentally leaving on a light bulb
@@ -13992,7 +13929,7 @@ it is as reliable as possible.
 Of course, if more panels and batteries are installed, more energy will
 be able to be collected and stored.
 
-\
+ 
 
 This increase of reliability will also have an increase in cost.
 
@@ -14005,30 +13942,28 @@ factor. Finding a balance between cost and reliability is not a easy
 task, but whatever your situation, you should be able to determine what
 it is expected from your design choices, and at what price.
 
-The method we will use for sizing the system is known as the
-***method************of************the************worst************mont******h***.
-We simply calculate the dimensions of the standalone system so it will
-work in the month in which the demand for energy is greatest with
-respect to the available solar energy. It is the worst month of the
-year, as this month will have the largest ratio of demanded energy to
-available energy.
+The method we will use for sizing the system is known as the method of
+the worst month. We simply calculate the dimensions of the standalone
+system so it will work in the month in which the demand for energy is
+greatest with respect to the available solar energy. It is the worst
+month of the year, as this month will have the largest ratio of demanded
+energy to available energy.
 
-Using this method, ***reliability*********is taken into consideration by
-fixing the maximum number of days that the system can work without
-receiving solar radiation (that is, when all consumption is made solely
-at the expense of the energy stored in the battery.) This is known as
-the
-***maximum************number************of************days************of************autonomy*********(N),
-and can be thought of as the number of consecutive cloudy days when the
-panels do not collect any significant amount of energy. When choosing N,
-it is necessary to know the climatology of the place, as well as the
-economic and social relevance of the installation.
+Using this method, reliability is taken into consideration by fixing the
+maximum number of days that the system can work without receiving solar
+radiation (that is, when all consumption is made solely at the expense
+of the energy stored in the battery.) This is known as the maximum
+number of days of autonomy (N), and can be thought of as the number of
+consecutive cloudy days when the panels do not collect any significant
+amount of energy. When choosing N, it is necessary to know the
+climatology of the place, as well as the economic and social relevance
+of the installation.
 
 Will it be used to illuminate houses, a hospital, a factory, for a radio
 link, or for some other application? Remember that as N increases, so
 does the investment in equipment and maintenance.
 
-\
+ 
 
 It is also important to evaluate all possible logistics costs of
 equipment replacement.
@@ -14043,39 +13978,36 @@ value for critical telecommunications equipment is N = 5, whereas for
 low cost client equipment it is possible to reduce the autonomy to N =
 3.
 
-\
+ 
 
-In **Appendix********E:********Solar********Dimensionin****g**, we have
-included several tables that will facilitate the collection of required
-data for sizing the system. The rest of this chapter will explain in
-detail what information you need to collect and explain how to use the
-method of the "worst month".
+In Appendix E: Solar Dimensioning, we have included several tables that
+will facilitate the collection of required data for sizing the system.
+The rest of this chapter will explain in detail what information you
+need to collect and explain how to use the method of the "worst month".
 
-**Data********to********collect**
----------------------------------
+### Data to collect
 
-***Latitude************of************the************installatio******n***.
-Remember to use a positive sign in the northern hemisphere and negative
-in the south.
+Latitude of the installation. Remember to use a positive sign in the
+northern hemisphere and negative in the south.
 
-***Solar************radiation************dat******a***. For the method
-of the "worst month" it is enough to know just twelve values, one for
-every month. The twelve numbers are the monthly average values of daily
-global irradiation on the horizontal plane, G~d~~m~(0), in kWh/m^2^ per
-day. The monthly value is the sum of the values of global irradiation
-for every day of the month, divided by the number of days of the month.
+Solar radiation data. For the method of the "worst month" it is enough
+to know just twelve values, one for every month. The twelve numbers are
+the monthly average values of daily global irradiation on the horizontal
+plane, Gdm(0), in kWh/m2 per day. The monthly value is the sum of the
+values of global irradiation for every day of the month, divided by the
+number of days of the month.
 
 If you have the data in Joules (J), you can apply the following
 conversion:
 
-\
+ 
 
-*1 J = 2.78 × 10^-^^7^ kWh*
+1 J = 2.78 × 10-7 kWh
 
-\
+ 
 
-The irradiation data G~d~~m~(0) of many places of the world is gathered
-in tables and databases.
+The irradiation data Gdm(0) of many places of the world is gathered in
+tables and databases.
 
 You should check for this information from a weather station close to
 your implementation site, but do not be surprised if you cannot find the
@@ -14084,7 +14016,7 @@ data in electronic format.
 It is a good idea to ask companies that install photovoltaic systems in
 the region, as their experience can be of great value.
 
-\
+ 
 
 Do not confuse "sun hours" with the number of "peak sun hours".
 
@@ -14094,12 +14026,11 @@ without clouds, but refers to the amount of daily irradiation.
 A day of 5 hours of sun without clouds does not necessarily have all
 those hours with the sun at its zenith.
 
-A peak sun hour is a normalised value of solar radiation of 1000 W/m^2^
-at 25degC. So when we refer to 5 peak sun hours, this implies a daily
-solar radiation of 5000 W/m^2^.
+A peak sun hour is a normalised value of solar radiation of 1000 W/m2 at
+25degC. So when we refer to 5 peak sun hours, this implies a daily solar
+radiation of 5000 W/m2.
 
-**Electrical********characteristics********of********system********components**
--------------------------------------------------------------------------------
+### Electrical characteristics of system components
 
 The electrical characteristics of the components of your system should
 be provided by the manufacturer. It is advisable to make your our own
@@ -14110,20 +14041,20 @@ expected.
 These are the minimum values that you need to gather before starting
 your system sizing:
 
-\
+ 
 
-**Panels**
+Panels
 
-You need to know the voltage V~Pmax~ and the current I~Pmax~ at the
-point of maximum power in standard conditions.
+You need to know the voltage VPmax and the current IPmax at the point of
+maximum power in standard conditions.
 
-\
+ 
 
-**Batteries**
+Batteries
 
-Nominal capacity (for 100 hours discharge) C~NBat~, operational voltage
-V~NBat~, and either the maximum depth of discharge DoD~max~ or useful
-capacity C~UBat~.
+Nominal capacity (for 100 hours discharge) CNBat, operational voltage
+VNBat, and either the maximum depth of discharge DoDmax or useful
+capacity CUBat.
 
 You also need to know the type of battery that you plan to use, whether
 sealed lead-acid, gel, AGM, modified traction etc.
@@ -14131,27 +14062,27 @@ sealed lead-acid, gel, AGM, modified traction etc.
 The type of battery is important when deciding the cut-off points in the
 regulator.
 
-\
+ 
 
-**Regulator**
+Regulator
 
-You need to know the nominal voltage V~NRe~~g~, and the maximum
-operational current I~maxRe~~g~.
+You need to know the nominal voltage VNReg, and the maximum operational
+current ImaxReg.
 
-\
+ 
 
-**DC/AC********Converter/Inverter**
+DC/AC Converter/Inverter
 
 If you are going to use a converter, you need to know the nominal
-voltage V~NCon~~v~, instantaneous power P~IConv~ and performance at 70%
-of maximum load H~70~.
+voltage VNConv, instantaneous power PIConv and performance at 70% of
+maximum load H70.
 
-\
+ 
 
-**Equipment********or********load**
+Equipment or load
 
-It is necessary to know the nominal voltage V~NC~ and the nominal power
-of operation PC for every piece of equipment powered by the system.
+It is necessary to know the nominal voltage VNC and the nominal power of
+operation PC for every piece of equipment powered by the system.
 
 In order to know the total energy that our installation is going to
 consume, it is also very important to consider the average time each
@@ -14162,9 +14093,9 @@ Is it constant? Or will it be used daily, weekly, monthly or annually?
 Consider any changes in the usage that might impact the amount of energy
 needed (seasonal usage, training or school periods, etc.).
 
-\
+ 
 
-**Other********variables**
+Other variables
 
 Aside from the electrical characteristics of the components and load, it
 is necessary to decide on two more pieces of information before being
@@ -14173,9 +14104,9 @@ able to size a photovoltaic system.
 These two decisions are the required number of days of autonomy and the
 operational voltage of the system.
 
-\
+ 
 
-**N,********number********of********days********of********autonomy**
+N, number of days of autonomy
 
 You need to decide on a value for N that will balance meteorological
 conditions with the type of installation and overall costs. It is
@@ -14185,13 +14116,13 @@ installation, but the next table gives some recommended values.
 Take these values as a rough approximation, and consult with an
 experienced designer to reach a final decision.
 
-\
+ 
 
-**Available********Sunlight**
+Available Sunlight
 
-**Domestic Installation**
+Domestic Installation
 
-**Critical Installation**
+Critical Installation
 
 Very Cloudy
 
@@ -14211,14 +14142,14 @@ Sunny
 
 6
 
-\
+ 
 
-**V**~**N**~**,********nominal********voltage********of********the********installation**
+VN, nominal voltage of the installation
 
 The components of your system need to be chosen to operate at a nominal
-voltage V~N~. This voltage is usually 12 or 24 Volts for small systems,
+voltage VN. This voltage is usually 12 or 24 Volts for small systems,
 and if the total power of consumption surpasses 3 kW, the voltage will
-be 48 V. The selection of V~N~ is not arbitrary, and depends on the
+be 48 V. The selection of VN is not arbitrary, and depends on the
 availability of equipment. If the equipment allows it, try to fix the
 nominal voltage to 12 or 24 V. Many wireless communications boards
 accept a wide range of input voltage and can be used without a
@@ -14229,85 +14160,87 @@ nominal voltages, calculate the voltage that minimises the overall power
 consumption including the losses for power conversion in DC/DC and DC/AC
 converters.
 
-**Procedure********of********calculation**
-------------------------------------------
+### Procedure of calculation
 
 There are three main steps that need to be followed to calculate the
 proper size of a system:
 
-\
+ 
 
-1.  **Calculate********the********available********solar********energy********(the********offer****)**.
-    Based on statistical data of solar radiation, and the orientation
-    and optimal inclination of the solar panels, we can calculate the
-    solar energy available.
+1.  1.  1.Calculate the available solar energy (the offer). Based on
+        statistical data of solar radiation, and the orientation and
+        optimal inclination of the solar panels, we can calculate the
+        solar energy available.  
 
-    The estimation of solar energy available is done in monthly
-    intervals, reducing the statistical data to 12 values. This
-    estimation is a good compromise between precision and simplicity.
+        The estimation of solar energy available is done in monthly
+        intervals, reducing the statistical data to 12 values. This
+        estimation is a good compromise between precision and
+        simplicity. 
 
-2.  **Estimate********the********required********electrical********energy********(the********demand****)**.
-    Record the power consumption characteristics of the equipment chosen
-    as well as estimated usage.
+         
 
-    Then calculate the electrical energy required on a monthly basis.
-    You should consider the expected fluctuations of usage due to the
-    variations between winter and summer, the rainy period / dry season,
-    school / vacation periods, etc. The result will be 12 values of
-    energy demand, one for each month of the year.
+    2.  2.Estimate the required electrical energy (the demand). Record
+        the power consumption characteristics of the equipment chosen as
+        well as estimated usage.  
 
-3.  **Calculate********the********ideal********system********size********(the********result****)**.
+        Then calculate the electrical energy required on a monthly
+        basis. You should consider the expected fluctuations of usage
+        due to the variations between winter and summer, the rainy
+        period / dry season, school / vacation periods, etc. The result
+        will be 12 values of energy demand, one for each month of the
+        year. 
 
-    With the data from the “worst month”, when the relation between the
-    solar demanded energy and the energy available is greatest, we
-    calculate:
+    3.  3.Calculate the ideal system size (the result).  
 
--   The current that the array of panels needs to provide, which will
-    determine the minimum number of panels.
+        With the data from the “worst month”, when the relation between
+        the solar demanded energy and the energy available is greatest,
+        we calculate: 
 
--   The necessary energy storage capacity to cover the minimum number of
-    days of autonomy, which will determine the required number of
-    batteries.
+-   •The current that the array of panels needs to provide, which will
+    determine the minimum number of panels. 
 
--   The required electrical characteristics of the regulator.
+-   •The necessary energy storage capacity to cover the minimum number
+    of days of autonomy, which will determine the required number of
+    batteries. 
 
--   The length and the necessary sections of cables for the electrical
-    connections.
+-   •The required electrical characteristics of the regulator. 
 
-### **Required********current********in********the********worst********month**
+-   •The length and the necessary sections of cables for the electrical
+    connections. 
 
-For each month you need to calculate the value of I~m~, which is the
+#### Required current in the worst month
+
+For each month you need to calculate the value of Im, which is the
 maximum daily current that an array of panels operating at nominal
-voltage of V~N~ needs to provide, in a day with a irradiation of G~dm~
-for month "m", for panels with an inclination of ß degrees.
+voltage of VN needs to provide, in a day with a irradiation of Gdm for
+month "m", for panels with an inclination of ß degrees.
 
-\
+ 
 
-The I~m~(WORST MONTH) will be the largest value of I~m~, and the system
-sizing is based on the data of that worst month.
+The Im(WORST MONTH) will be the largest value of Im, and the system
+sizing is based on the data of that worst month.  
 
-The calculations of G~d~~m~(ß) for a certain place can be made based on
-G~d~~m~(0) using computer software such as PVSYST
+The calculations of Gdm(ß) for a certain place can be made based on
+Gdm(0) using computer software such as PVSYST
 ([http://www.pvsyst.com](http://www.pvsyst.com/)/) or PVSOL
 [(http://www.solardesign.co.uk/).](http://www.solardesign.co.uk/))
 
 Due to losses in the regulator and batteries, and due to the fact that
 the panels do not always work at the point of maximum power, the
-required current I~mMAX~ is calculated as:
+required current ImMAX is calculated as:
 
-\
+ 
 
-*I~mMAX~ = 1.21 I~m~ (WORST MONTH)*
+ImMAX = 1.21 Im (WORST MONTH)
 
-\
+ 
 
-Once you have determined the worst month, the value of I~mMA~~X~, and
-the total energy that you require E~TOTA~~L~(WORST MONTH) you can
-proceed to the final calculations. E~TOTAL~ is the sum of all DC and AC
-loads, in Watts. To calculate E~TOTAL~ see
-**Appendix********E:********Solar Dimensioning.**
+Once you have determined the worst month, the value of ImMAX, and the
+total energy that you require ETOTAL(WORST MONTH) you can proceed to the
+final calculations. ETOTAL is the sum of all DC and AC loads, in Watts.
+To calculate ETOTAL see Appendix E: Solar Dimensioning.
 
-### **Number********of********panels**
+#### Number of panels
 
 By combining solar panels in series and parallel, we can obtain the
 desired voltage and current.
@@ -14320,47 +14253,47 @@ together while the voltage remains unchanged.
 It is very important, to use panels of nearly identical characteristics
 when building an array.
 
-\
+ 
 
-You should try to acquire panels with V~Pmax~ a bit bigger than the
+You should try to acquire panels with VPmax a bit bigger than the
 nominal voltage of the system (12, 24 or 48 V).
 
-\
+ 
 
 Remember that you need to provide a few volts more than the nominal
 voltage of the battery in order to charge it. If it is not possible to
 find a single panel that satisfies your requirements, you need to
 connect several panels in series to reach your desired voltage.
 
-The number of panels in series N~ps~ is equal to the nominal voltage of
+The number of panels in series Nps is equal to the nominal voltage of
 the system divided by the voltage of a single panel, rounded up to the
 nearest integer.
 
-\
+ 
 
-*N~ps~ = V~N~ / V~Pmax~*
+Nps = VN / VPmax
 
-\
+ 
 
-In order to calculate the number of panels in parallel (N~pp~), you need
-to divide the I~mMAX~ by the current of a single panel at the point of
-maximum power I~pmax~, rounded up to the nearest integer.
+In order to calculate the number of panels in parallel (Npp), you need
+to divide the ImMAX by the current of a single panel at the point of
+maximum power Ipmax, rounded up to the nearest integer.
 
-\
+ 
 
-*N~pp~ = I~mMAX~ / I~Pmax~*
+Npp = ImMAX / IPmax
 
-\
+ 
 
 The total number of panels is the result of multiplying the number of
 panels in series (to set the voltage) by the number of panels in
 parallel (to set the current).
 
-\
+ 
 
-*N~TOTAL~ = N~ps~ \* N~pp~*
+NTOTAL = Nps \* Npp
 
-### **Capacity********of********the********battery********or********accumulator**
+#### Capacity of the battery or accumulator
 
 The battery determines the overall voltage of the system and needs to
 have enough capacity to provide energy to the load when there is not
@@ -14369,38 +14302,38 @@ enough solar radiation.
 To estimate the capacity of our battery, we first calculate the required
 energy capacity of our system (necessary capacity, CNEC).
 
-\
+ 
 
 The necessary capacity depends on the energy available during the "worst
 month" and the desired number of days of autonomy (N).
 
-\
+ 
 
-*C~NEC~ (Ah)= E~TOTA~~L~(WORST MONTH)(Wh) / V~N~(V) \* N*
+CNEC (Ah)= ETOTAL(WORST MONTH)(Wh) / VN(V) \* N
 
-\
+ 
 
-The nominal capacity of the battery C~NOM~ needs to be bigger than the
-C~NEC~ as we cannot fully discharge a battery.
+The nominal capacity of the battery CNOM needs to be bigger than the
+CNEC as we cannot fully discharge a battery.
 
-\
+ 
 
 To calculate the size of the battery we need to consider the maximum
 depth of discharge (DoD) that the battery allows:
 
-\
+ 
 
-*C~NO~~M~(Ah) = C~NEC~(Ah) / DoD~MAX~*
+CNOM(Ah) = CNEC(Ah) / DoDMAX
 
-\
+ 
 
-In order to calculate the number of batteries in series (N~b~~s~), we
-divide the nominal voltage of our installation (V~N~) by the nominal
-voltage of a single battery (V~NBa~~t~):
+In order to calculate the number of batteries in series (Nbs), we divide
+the nominal voltage of our installation (VN) by the nominal voltage of a
+single battery (VNBat):
 
-*N~bs~~~= V~N~~~/ V~NBat~*
+Nbs = VN / VNBat
 
-### Regulator
+#### Regulator
 
 One important warning: always use regulators in series, never in
 parallel. If your regulator does not support the current required by
@@ -14408,12 +14341,12 @@ your system, you will need to buy a new regulator with a larger working
 current.
 
 For security reasons, a regulator needs to be able to operate with a
-current I~maxReg~ at least 20% greater than the maximum intensity that
-is provided by the array of panels:
+current ImaxReg at least 20% greater than the maximum intensity that is
+provided by the array of panels:
 
-*I~maxReg~ = 1.2 N~pp~ I~PMax~*
+ImaxReg = 1.2 Npp IPMax
 
-### **DC/AC********Inverter**
+#### DC/AC Inverter
 
 The total energy needed for the AC equipment is calculated including all
 the losses that are introduced by the DC/AC converter or inverter.
@@ -14424,61 +14357,60 @@ inverter varies according to the amount of requested power.
 An inverter has better performance characteristics when operating close
 to its rated power.
 
-\
+ 
 
 Using a 1500 Watt inverter to power a 25 Watt load is extremely
 inefficient.
 
-\
+ 
 
 In order to avoid this wasted energy, it is important to consider not
 the peak power of all your equipment, but the peak power of the
 equipment that is expected to operate simultaneously.
 
-Cables
-------
+### Cables
 
 Once you know the numbers of panels and batteries, and type of
 regulators and inverters that you want to use, it is necessary to
 calculate the length and the thickness of the cables needed to connect
 the components together.
 
-The **length******depends on the location of your the installation. You
-should try to minimise the length of the cables between the regulator,
-panels, and batteries. Using short cables will minimise lost power and
-cable costs.
+The length depends on the location of your the installation. You should
+try to minimise the length of the cables between the regulator, panels,
+and batteries. Using short cables will minimise lost power and cable
+costs.
 
-The **thickness******chosen is based on the length of the cable and the
-maximum current it must carry.
+The thickness chosen is based on the length of the cable and the maximum
+current it must carry.
 
-\
+ 
 
 The goal is to minimise voltage drops.
 
 In order to calculate the thickness S of the cable it is necessary to
 know:
 
-\
+ 
 
--   the maximum current I~MC~ that is going to circulate in the cable.
-    In the case of the panel-battery subsystem, it is I~mMAX~ calculated
-    for every month. In the battery-load subsystem it depends on the way
-    that the loads are connected;
+-   •the maximum current IMC that is going to circulate in the cable. In
+    the case of the panel-battery subsystem, it is ImMAX calculated for
+    every month. In the battery-load subsystem it depends on the way
+    that the loads are connected; 
 
--   the voltage drop (V~a~-V~b~) that we consider acceptable in the
-    cable. The voltage drop that results from adding all possible
-    individual drops is expressed as a percent of the nominal voltage of
-    the installation.
+-   •the voltage drop (Va-Vb) that we consider acceptable in the cable.
+    The voltage drop that results from adding all possible individual
+    drops is expressed as a percent of the nominal voltage of the
+    installation.  
 
-\
+ 
 
 Typical maximum values are:
 
-\
+ 
 
-**Component**
+Component
 
-**Voltage********Drop********(%of********V**~**N**~**)**
+Voltage Drop (%of VN)
 
 Panel Array -\> Battery
 
@@ -14500,40 +14432,39 @@ Main Line (Equipment)
 
 5.00%
 
-**Typical********acceptable********voltage********drops********in********cables**
+Typical acceptable voltage drops in cables
 
-\
+ 
 
 The section of the cable is determined by Ohm's Law:
 
-\
+ 
 
-*S(mm^2^) = r(Ωmm^2^/m)L(m) I~mMA~~X~(A)/ (V~a~-V~b~)(V)*
+S(mm2) = r(Ωmm2/m)L(m) ImMAX(A)/ (Va-Vb)(V)
 
-\
+ 
 
-where *S* is the section, r is resistivity (intrinsic property of the
-material: for copper, 0.01286 Ωmm^2^/m), and L the length.
+where S is the section, r is resistivity (intrinsic property of the
+material: for copper, 0.01286 Ωmm2/m), and L the length.
 
-\
+ 
 
-*S* is chosen taking into consideration the cables available in the
+S is chosen taking into consideration the cables available in the
 market.
 
-\
+ 
 
 You should choose the immediately superior section to the one that is
 obtained from the formula. For security reasons there are some minimum
 values, for the cable that connects the panels and battery, this is a
-minimum of 6 mm^2^. For the other sections, the minimum is 4 mm^2^.
+minimum of 6 mm2. For the other sections, the minimum is 4 mm2.
 
-**Cost********of********a********solar********installation**
-------------------------------------------------------------
+### Cost of a solar installation
 
 While solar energy itself is free, the equipment needed to turn it into
 useful electric energy is not.
 
-\
+ 
 
 You not only need to buy equipment to transform the solar energy in
 electricity and store it for use, but you must also replace and maintain
@@ -14547,15 +14478,15 @@ illustrative example.
 
 The first thing to do it is to calculate the initial investment costs.
 
-\
+ 
 
-**Description**
+Description
 
-**Number**
+Number
 
-**Unit****Cost**
+Unit Cost
 
-**Subtotal**
+ Subtotal
 
 60W Solar Panel (about \$4/W)
 
@@ -14583,21 +14514,15 @@ Wiring (metres)
 
 50 Ah Deep Cycle Batteries
 
-\
-
 6
-
-\
 
 \$150
 
-\
-
 \$900
 
-\
+ 
 
-\
+ 
 
 Total
 
@@ -14609,32 +14534,32 @@ system has been dimensioned.
 You just need to add the price for each piece equipment and the labour
 cost to install and wire the equipment together.
 
-\
+ 
 
 For simplicity, we do not include the costs of transport and
 installation but you should not overlook them.
 
 To figure out how much a system will really cost to operate we must
 estimate how long each part will last and how often you must replace it.
-In accounting terminology this is known as ***amortisatio******n***.
+In accounting terminology this is known as amortisation.
 
-\
+ 
 
 Our new table will look like this:
 
-\
+ 
 
-**Description**
+Description
 
-**Number**
+Number
 
-**Unit********Cost**
+Unit Cost
 
-**Subtotal**
+Subtotal
 
-**Lifetime**(yrs)
+Lifetime(yrs)
 
-**Yearly********Cost**
+Yearly Cost
 
 60W Solar Panel
 
@@ -14686,9 +14611,9 @@ metre
 
 \$180
 
-\
+ 
 
-\
+ 
 
 Total
 
@@ -14698,33 +14623,32 @@ Annual Cost
 
 \$262.50
 
-\
+ 
 
 As you see, once the first investment has been done, an annual cost of
 \$262.50 is expected.
 
-\
+ 
 
 The annual cost is an estimation of the required capital per year to
 replace the system components once they reach the end of their useful
 life.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-**MAINTENANCE, MONITORING AND SUSTAINABILITY**
+4MAINTENANCE, MONITORING AND SUSTAINABILITY
+===========================================
 
-\
-\
+ 
 
-**15. MAINTENANCE********AND********TROUBLESHOOTING**
-=====================================================
+15. MAINTENANCE AND TROUBLESHOOTING
+-----------------------------------
 
-Introduction
-------------
+### Introduction
 
 How you establish the support infrastructure for your network is as
 important as what type of equipment you use. Unlike wired connections,
@@ -14737,8 +14661,7 @@ support your network effectively.
 We also describe some standard troubleshooting techniques that have
 proven successful in solving problems in networks in general.
 
-**Building********your********team**
-------------------------------------
+### Building your team
 
 Every village, company or family has individuals who are intrigued by
 technology.
@@ -14763,13 +14686,11 @@ the network in the coming months and years.
 Young adults and teenagers will go off to university or find employment
 taking their knowledge and skills about the network with them.
 
-\
+ 
 
 These youngsters may also have little influence in the community, where
 an older individual is likely to be more well-known and less impulsive
 regarding making decisions that affect the network as a whole.
-
-\
 
 Even though these individuals might have less time to learn and might
 appear to be less interested, their involvement and proper education
@@ -14890,8 +14811,7 @@ the wrong SSID, or orient the antenna in the wrong direction. It is
 important that they develop a methodology and procedure to resolve these
 problems.
 
-**Proper troubleshooting techniques**
--------------------------------------
+### Proper troubleshooting techniques
 
 No troubleshooting methodology can completely cover all problems you
 will encounter when working with wireless networks. But often, problems
@@ -14899,115 +14819,111 @@ come down to one of a few common mistakes. Here are a few simple points
 to keep in mind that can get your troubleshooting effort working in the
 right direction.
 
-\
+ 
 
--   **Don't********pani****c**. If you are troubleshooting a system, it
-    means that it was working at one time, probably very recently.
-    Before jumping in and making changes, survey the scene and assess
-    exactly what is broken. If you have historical logs or statistics to
-    work from, all the better. If others were using it before it started
-    having problems, ask them to help you by having them tell you what
-    was happening before it stopped working. Be thorough, but don't make
-    it sound like you are accusing them of breaking it.
+-   •Don't panic. If you are troubleshooting a system, it means that it
+    was working at one time, probably very recently. Before jumping in
+    and making changes, survey the scene and assess exactly what is
+    broken. If you have historical logs or statistics to work from, all
+    the better. If others were using it before it started having
+    problems, ask them to help you by having them tell you what was
+    happening before it stopped working. Be thorough, but don't make it
+    sound like you are accusing them of breaking it.  
 
     They may have important information that will help you fix things
     and you want them to be on your side. Be sure to collect information
-    first, so you can make an informed decision before making changes.
+    first, so you can make an informed decision before making changes. 
 
--   **Make********a********backu****p**. This applies before you notice
-    problems, as well as after. If you make a complicated software
-    change to a system, having a backup means that you can quickly
-    restore it to the previous settings and start again. When
-    troubleshooting very complex problems, having a configuration that
-    “sort-of” works can be much better than having a mess that doesnt
-    work at all (and that you cant easily restore from memory).
+-   •Make a backup. This applies before you notice problems, as well as
+    after. If you make a complicated software change to a system, having
+    a backup means that you can quickly restore it to the previous
+    settings and start again. When troubleshooting very complex
+    problems, having a configuration that “sort-of” works can be much
+    better than having a mess that doesnt work at all (and that you cant
+    easily restore from memory).  
 
     Even in a broken configuration, make a backup copy of the parts of
     the system you will be changing before you try to make significant
     changes. If your changes result in an even worse state than when you
     first started working on it, you will at least have a known
-    situation to go back to.
+    situation to go back to. 
 
-\
+ 
 
--   **Is********it********plugged********i****n****?**This step is often
-    overlooked until many other avenues are explored. Plugs can be
-    accidentally (or intentionally) unplugged very easily. Is the lead
-    connected to a good power source? Is the other end connected to your
-    device? Is the power light on? It may sound silly, but you will feel
-    even sillier if you spend a lot of time checking out an antenna feed
-    line only to realise that the AP was unplugged the entire time.
-    Trust me, it happens more often than most of us would care to admit.
+-   •Is it plugged in? This step is often overlooked until many other
+    avenues are explored. Plugs can be accidentally (or intentionally)
+    unplugged very easily. Is the lead connected to a good power source?
+    Is the other end connected to your device? Is the power light on? It
+    may sound silly, but you will feel even sillier if you spend a lot
+    of time checking out an antenna feed line only to realise that the
+    AP was unplugged the entire time. Trust me, it happens more often
+    than most of us would care to admit. 
 
-\
+ 
 
--   **What********was********the********last********thing********change****d****?**If
-    you are the only person with access to the system, what is the last
-    change you made? If others have access to it, what is the last
-    change they made and when? When was the last time the system worked?
-    Often, system changes have unintended consequences that may not be
-    immediately noticed. Roll back that change and see what effect it
-    has on the problem.
+-   •What was the last thing changed? If you are the only person with
+    access to the system, what is the last change you made? If others
+    have access to it, what is the last change they made and when? When
+    was the last time the system worked? Often, system changes have
+    unintended consequences that may not be immediately noticed. Roll
+    back that change and see what effect it has on the problem. 
 
-\
+ 
 
--   **Look********at********date/timestamps********on********files.**Every
-    file on a modern computer system has a date & time associated with
-    it showing when it was created or last changed. On a properly
-    running system, most of the system files will have date/timestamps
-    from months or even years ago. If the system or network was running
-    fine until an hour or so ago, files which have a timestamp within
-    the past few minutes to an hour ago could provide clues about what
-    changed.
+-   •Look at date/timestamps on files. Every file on a modern computer
+    system has a date & time associated with it showing when it was
+    created or last changed. On a properly running system, most of the
+    system files will have date/timestamps from months or even years
+    ago. If the system or network was running fine until an hour or so
+    ago, files which have a timestamp within the past few minutes to an
+    hour ago could provide clues about what changed. 
 
-\
+ 
 
--   **The********known********good.**This idea applies to hardware, as
-    well as software. A known good is any component that you can replace
-    in a complex system to verify that its counterpart is in good,
-    working condition. For example, you may carry a tested Ethernet
-    cable in a tool kit. If you suspect problems with a cable in the
-    field, you can easily swap out the suspect cable with the known good
-    and see if things improve. This is much faster and less error-prone
-    than re-crimping a cable, and immediately tells you if the change
-    fixes the problem. Likewise, you may also pack a backup battery,
-    antenna cable, or a CD-ROM with a known good configuration for the
-    system. When fixing complicated problems, saving your work at a
-    given point lets you return to it as a known good, even if the
-    problem is not yet completely solved.
+-   •The known good. This idea applies to hardware, as well as software.
+    A known good is any component that you can replace in a complex
+    system to verify that its counterpart is in good, working condition.
+    For example, you may carry a tested Ethernet cable in a tool kit. If
+    you suspect problems with a cable in the field, you can easily swap
+    out the suspect cable with the known good and see if things improve.
+    This is much faster and less error-prone than re-crimping a cable,
+    and immediately tells you if the change fixes the problem. Likewise,
+    you may also pack a backup battery, antenna cable, or a CD-ROM with
+    a known good configuration for the system. When fixing complicated
+    problems, saving your work at a given point lets you return to it as
+    a known good, even if the problem is not yet completely solved. 
 
-\
+ 
 
--   **Determine********what********still********works.******This will
-    help you "put a fence around the problem". While complex systems
-    like a wireless network can be made up of many different components,
-    it is likely that the problem is only with a very small number of
-    them. If, for example, somebody in a lab complains they can't access
-    the Internet, check to see if others in the same lab are
-    experiencing the same problem. Is there connectivity in another lab
-    or elsewhere in the building? If the problem is just with one user
-    or within one room, you would want to concentrate your efforts on
-    the equipment in just that one space. If the outage were more
-    widespread, perhaps looking at the equipment where your outside
-    connections come in is more appropriate.
+-   •Determine what still works. This will help you "put a fence around
+    the problem". While complex systems like a wireless network can be
+    made up of many different components, it is likely that the problem
+    is only with a very small number of them. If, for example, somebody
+    in a lab complains they can't access the Internet, check to see if
+    others in the same lab are experiencing the same problem. Is there
+    connectivity in another lab or elsewhere in the building? If the
+    problem is just with one user or within one room, you would want to
+    concentrate your efforts on the equipment in just that one space. If
+    the outage were more widespread, perhaps looking at the equipment
+    where your outside connections come in is more appropriate. 
 
-\
+ 
 
--   **Do********no********harm.******If you don't fully understand how a
-    system works, don't be afraid to call in an expert. If you are not
-    sure if a particular change will damage another part of the system,
-    then either find someone with more experience to help you or devise
-    a way to test your change without doing damage. Putting a penny in
-    place of a fuse may solve the immediate problem, but it may also
-    burn down the building.
+-   •Do no harm. If you don't fully understand how a system works, don't
+    be afraid to call in an expert. If you are not sure if a particular
+    change will damage another part of the system, then either find
+    someone with more experience to help you or devise a way to test
+    your change without doing damage. Putting a penny in place of a fuse
+    may solve the immediate problem, but it may also burn down the
+    building. 
 
-\
+ 
 
 Your troubleshooting team will need to have good troubleshooting skills,
 but may not be competent enough to configure a router from scratch or
 crimp a piece of LMR-400.
 
-\
+ 
 
 It is often much more efficient to have a number of backup components
 on-hand, and train your team to be able to swap out the entire broken
@@ -15020,31 +14936,30 @@ have another backup sent in.
 Assuming that the backups are kept secure and are replaced when used,
 this can save a lot of time for everyone.
 
-**Common network problems**
----------------------------
+### Common network problems
 
 Now we will take a look at some common network problems that you are
 almost certain to face.
 
-\
+ 
 
 Often, connectivity problems come from failed components, adverse
 weather, or simple misconfiguration.
 
-\
+ 
 
 Once your network is connected to the Internet or opened up to the
 general public, considerable threats will come from the network users
 themselves.
 
-\
+ 
 
 These threats can range from the benign to the outright malevolent, but
 all will have impact on your network if it is not properly configured.
 This section looks at some common problems found once your network is in
 use.
 
-### **Locally********hosted********websites**
+#### Locally hosted websites
 
 If a university hosts its website locally, visitors to the website from
 outside the campus and the rest of the world will compete with the
@@ -15053,7 +14968,7 @@ university's staff for Internet bandwidth.
 This includes automated access from search engines that periodically
 spider your entire site.
 
-\
+ 
 
 One solution to this problem is to use split DNS and mirroring.
 
@@ -15062,20 +14977,17 @@ European hosting company, and uses split DNS to direct all users from
 outside the university network to the mirror site, while users on the
 university network access the same site locally.
 
-\
+![](./MT1.png)
 
-![](MT1.png)\
-\
+ 
 
-\
+Figure MT 1: In Example 1, all website traffic coming from the Internet
+must traverse the VSAT. In Example 2, the public web site is hosted on a
+fast European service, while a copy is kept on an internal server for
+very fast local access. This improves the VSAT connection and reduces
+load times for web site users.
 
-*Figure****MT****1:****In****Example****1,****all****website****traffic****coming****from****the****Internet****must****traverse****the****VSAT.
-In****Example****2,****the****public****web****site****is****hosted
-on****a****fast****European****service,****while****a****copy****is****kept****on****an****internal****server****for****very****fast****local****access.
-This****improves****the****VSAT****connection****and
-reduces****load****times****for****web****site****users.*
-
-### **Open********proxies**
+#### Open proxies
 
 A proxy server should be configured to accept only connections from the
 university network, not from the rest of the Internet.
@@ -15090,7 +15002,7 @@ Alternatively, if your proxy server lies behind a border firewall, you
 can configure the firewall to only allow internal hosts to connect to
 the proxy port.
 
-### **Open********relay********hosts**
+#### Open relay hosts
 
 An incorrectly configured mail server will be found by unscrupulous
 people on the Internet, and be used as a relay host to send bulk email
@@ -15102,46 +15014,46 @@ carried out on your mail server (or on the SMTP server that acts as a
 relay host on the perimeter of the campus network). Use telnet to open a
 connection to port 25 of the server in question.
 
-\
+ 
 
-*telnet****mail.uzz.ac.zz****25*
+telnet mail.uzz.ac.zz 25
 
-\
+ 
 
 Then, if an interactive command-line conversation can take place (for
 example, as follows), the server is an open relay host:
 
-\
+ 
 
-*MAIL****FROM:***[*spammer@waste.com*](mailto:spammer@waste.com)
+MAIL FROM: [spammer@waste.com](mailto:spammer@waste.com)
 
-*250****OK****-****mail****from*
+250 OK - mail from
 
-*RCPT****TO:***[*innocent@university.ac.zz*](mailto:innocent@university.ac.zz)
+RCPT TO: [innocent@university.ac.zz](mailto:innocent@university.ac.zz)
 
-*250****OK****-****rcpt****to***[*spammer@waste.com*](mailto:spammer@waste.com)
+ 250 OK - rcpt to [spammer@waste.com](mailto:spammer@waste.com)
 
-\
+ 
 
 Instead, the reply after the first MAIL FROM should be something like:
 
-\
+ 
 
 550 Relaying is prohibited.
 
-\
+ 
 
 An online tester is available at sites such as
 [http://www.mailradar.com/openrelay/](http://www.mailradar.com/openrelay/)[](http://www.mailradar.com/openrelay/)or
 [http://www.checkor.com/](http://www.checkor.com/)
 
-\
+ 
 
 Since bulk emailers have automated methods to find such open relay
 hosts, an institution that does not protect its mail systems is almost
 guaranteed to be found and abused.
 
-\
+ 
 
 Configuring the mail server not to be an open relay consists of
 specifying the networks and hosts that are allowed to relay mail through
@@ -15149,9 +15061,9 @@ them in the MTA (eg., Sendmail, Postfix, Exim, or Exchange).
 
 This will likely be the IP address range of the campus network.
 
-\
+ 
 
-### **Pee****r****-****t****o****-****peer********networking**
+#### Peer-to-peer networking
 
 Bandwidth abuse through peer-to-peer (P2P) file-sharing programs can be
 prevented in the following way.
@@ -15169,7 +15081,7 @@ PCs using software such as Partition Image (see
 Drive Image Pro (see
 [http://www.powerquest.com/).](http://www.powerquest.com/))
 
-\
+ 
 
 From time to time, users may succeed in installing new software or
 otherwise damaging the software on the computer (causing it to hang
@@ -15177,7 +15089,7 @@ often, for example). When this happens, an administrator can simply put
 the disk image back, causing the operating system and all software on
 the computer to be exactly as specified.
 
-### **Programs********that********install********themselves********(from********the********Internet)**
+#### Programs that install themselves (from the Internet)
 
 There are programs that automatically install themselves and then keep
 on using bandwidth.
@@ -15185,7 +15097,7 @@ on using bandwidth.
 Some programs are spyware, which keep sending information about a user's
 browsing habits to a company somewhere on the Internet.
 
-\
+ 
 
 These programs are preventable to some extent by user education and
 locking down PCs to prevent administrative access for normal users. In
@@ -15193,7 +15105,7 @@ other cases, there are software solutions to find and remove these
 problem programs, such as Spychecker
 [(http://www.spychecker.com/).](http://www.spychecker.com/))
 
-### **Windows********updates**
+#### Windows updates
 
 Microsoft Windows operating systems assume that a computer with a LAN
 connection has a good link to the Internet, and automatically downloads
@@ -15201,31 +15113,33 @@ security patches, bug fixes and feature enhancements from the Microsoft
 Web site. This can consume massive amounts of bandwidth on an expensive
 Internet link.
 
-\
+ 
 
 The two possible approaches to this problem are:
 
-\
+ 
 
--   Disable Windows updates on all workstation PCs. The security updates
-    are very important for servers, but whether workstations in a
-    protected private network such as a campus network need them is
-    debatable.
+-   •Disable Windows updates on all workstation PCs. The security
+    updates are very important for servers, but whether workstations in
+    a protected private network such as a campus network need them is
+    debatable.  
 
--   Install a Software Update Server. This is a free program from
+     
+
+-   •Install a Software Update Server. This is a free program from
     Microsoft that enables you to download all the updates from
     Microsoft overnight on to a local server and distribute the updates
     to client workstations from there. In this way, Windows updates need
     not use any bandwidth on the Internet link during the day.
     Unfortunately, all client PCs need to be configured to use the
-    Software Update Server for this to have an effect.
+    Software Update Server for this to have an effect. 
 
     If you have a flexible DNS server, you can also configure it to
     answer requests for windowsupdate.microsoft.com and direct the
     updater to your update server. This is only a good option for large
-    networks, but can save untold amounts of Internet bandwidth.
+    networks, but can save untold amounts of Internet bandwidth. 
 
-### **Programs********that********assume********a********high********bandwidth********link**
+#### Programs that assume a high bandwidth link
 
 In addition to Windows updates, many other programs and services assume
 that bandwidth is not a problem, and therefore consume bandwidth for
@@ -15248,7 +15162,7 @@ connecting to time servers on the Internet. It is more efficient to
 install a local time server and distribute accurate time from there,
 rather than to tie up the Internet link with these requests.
 
-### **Worms********and********viruses**
+#### Worms and viruses
 
 Worms and viruses can generate enormous amounts of traffic. It is
 therefore essential that anti-virus protection is installed on all PCs.
@@ -15264,13 +15178,13 @@ by default. This should be disabled if that server has a different
 function; the fewer services a computer runs, the less there is to
 exploit.
 
-### **Email********forwarding********loops**
+#### Email forwarding loops
 
 Occasionally, a single user making a mistake can cause a problem. For
 example, a user whose university account is configured to forward all
 mail to her Yahoo account.
 
-\
+ 
 
 The user goes on holiday. All emails sent to her in her absence are
 still forwarded to her Yahoo account, which can grow to only 2 MB.
@@ -15282,7 +15196,7 @@ Yahoo account.
 An email loop is formed that might send hundreds of thousands of emails
 back and forth, generating massive traffic and crashing mail servers.
 
-\
+ 
 
 There are features of mail server programs that can recognise loops.
 These should be turned on by default.
@@ -15291,7 +15205,7 @@ Administrators must also take care that they do not turn this feature
 off by mistake, or install an SMTP forwarder that modifies mail headers
 in such a way that the mail server does not recognise the mail loop.
 
-### **Large********downloads**
+#### Large downloads
 
 A user may start several simultaneous downloads, or download large files
 such as 650MB ISO images.
@@ -15301,13 +15215,13 @@ In this way, a single user can use up most of the bandwidth.
 The solutions to this kind of problem lie in training, offline
 downloading, and monitoring.
 
-\
+ 
 
 Offline downloading can be implemented in at least two ways:
 
-\
+ 
 
--   At the University of Moratuwa, a system was implemented using URL
+-   •At the University of Moratuwa, a system was implemented using URL
     redirection. Users accessing ftp:// URLs are served a directory
     listing in which each file has two links: one for normal
     downloading, and the other for offline downloading. If the offline
@@ -15318,25 +15232,25 @@ Offline downloading can be implemented in at least two ways:
     sorted by file size. Therefore, small files are downloaded first. As
     some bandwidth is allocated to this system even during peak hours,
     users requesting small files may receive them within minutes,
-    sometimes even faster than an online download.
+    sometimes even faster than an online download. 
 
-\
+ 
 
--   Another approach would be to create a web interface where users
+-   •Another approach would be to create a web interface where users
     enter the URL of the file they want to download. This is then
     downloaded overnight using a cron job or scheduled task. This system
     would only work for users who are not impatient, and are familiar
     with what file sizes would be problematic for download during the
-    working day.
+    working day. 
 
-### **Sending large files**
+#### Sending large files
 
 When users need to transfer large files to collaborators elsewhere on
 the Internet, they should be shown how to schedule the upload. In
 Windows, an upload to a remote FTP server can be done using an FTP
 script file, which is a text file containing FTP commands.
 
-### **Users********sending********each********other********files**
+#### Users sending each other files
 
 Users often need to send each other large files. It is a waste of
 bandwidth to send these via the Internet if the recipient is local. A
@@ -15352,20 +15266,20 @@ and when they access that URL they can download it.
 
 This is what the University of Bristol has done with their FLUFF system.
 The University offers a facility for the upload of large files (FLUFF)
-available from *http://www.bris.ac.uk/it-services/applications/fluff/*
+available from http://www.bris.ac.uk/it-services/applications/fluff/
 
-\
+ 
 
 There are also tools like SparkleShare
-([*http://sparkleshare.org/*](http://sparkleshare.org/)*)* and LipSync
-([*https://github.com/philcryer/lipsync*](https://github.com/philcryer/lipsync))
+([http://sparkleshare.org/](http://sparkleshare.org/)) and LipSync
+([https://github.com/philcryer/lipsync](https://github.com/philcryer/lipsync))
 which are Open Source packages that you can install and set up yourself
 to do much the same thing.
 
 There are also new online free services such as Google Drive which can
 be setup for file sharing and common editing.
 
-\
+ 
 
 Consider using rsync
 ([http://rsync.samba.org/)](http://www.rsync.org/)for those users who
@@ -15381,7 +15295,7 @@ already exists.
 If it does, both sides compare their copies and the sender transmits
 over only the differences to the destination.
 
-\
+ 
 
 For example, if a 10 MB database of research data only has 23 KB of new
 data vs. the last version, only the 23 KB of changes will be
@@ -15390,8 +15304,7 @@ transmitted.
 Rsync can also use the SSH protocol, providing a secure transport layer
 for sync actions.
 
-**Trouble** t**racking** **and** r**eporting**
-----------------------------------------------
+### Trouble tracking and reporting
 
 Troubleshooting is only one half of the task of problem-solving on a
 wireless network.
@@ -15400,28 +15313,28 @@ Once a problem has been diagnosed and fixed, it needs to be documented
 in a permanent way so that others who work on the network either now or
 in the future, will be able to learn from the incident.
 
-\
+ 
 
 Keeping a record of problems and incidents that occur is also a good way
 to track and fix long-term problems that may occur, say, once every few
 months but follow a definite pattern.
 
-\
+ 
 
 You can also reduce the complexity and frustration of troubleshooting a
 problem if you keep a log of every change made to the network.
 
-\
+ 
 
 The Logbook is where you and your team write down every change made to a
 system, along with the date and time the change was made. For example:
 
-\
+ 
 
-*23 July 10:15AM Changed default route on host alpha from 123.45.67.89
-to 123.56.78.1 because upstream ISP moved our gateway.*
+23 July 10:15AM Changed default route on host alpha from 123.45.67.89 to
+123.56.78.1 because upstream ISP moved our gateway.
 
-\
+ 
 
 As your network grows, consider installing a trouble-tracking system
 like JIRA or Bugzilla to help better keep track of who is working on
@@ -15431,20 +15344,19 @@ method for assigning tasks and helping to prevent things like two people
 stepping on each other's work while they both try to fix the same
 problem.
 
-\
+ 
 
 Trouble-ticketing systems are a subject that would fill an entire
 separate book, so we will only mention them briefly here to make you
 aware of them. They can also be quite complex to set up, so for simple
 networks, a logbook will do.
 
-\
+ 
 
-**16. NETWORK** **MONITORING**
-==============================
+16. NETWORK MONITORING
+----------------------
 
-Introduction
-------------
+### Introduction
 
 Network monitoring is the use of logging and analysis tools to
 accurately determine traffic flows, utilisation, and other performance
@@ -15457,42 +15369,42 @@ needed.
 
 These tools can help you answer critical questions, such as:
 
-\
+ 
 
--   What are the most popular services used on the network?
+-   •What are the most popular services used on the network?  
 
--   Who are the heaviest network users?
+-   •Who are the heaviest network users? 
 
--   What other wireless channels are in use in my area?
+-   •What other wireless channels are in use in my area? 
 
--   Are users installing wireless access points on my private wired
-    network?
+-   •Are users installing wireless access points on my private wired
+    network?  
 
--   At what time of the day is the network most utilised?
+-   •At what time of the day is the network most utilised? 
 
--   What sites do your users frequent?
+-   •What sites do your users frequent? 
 
--   Is the amount of inbound or outbound traffic close to the available
-    network capacity?
+-   •Is the amount of inbound or outbound traffic close to the available
+    network capacity? 
 
--   Are there indications of an unusual network situation that is
-    consuming bandwidth or causing other problems?
+-   •Are there indications of an unusual network situation that is
+    consuming bandwidth or causing other problems? 
 
--   Is our Internet Service Provider (ISP) providing the level of
-    service that we are paying for?
+-   •Is our Internet Service Provider (ISP) providing the level of
+    service that we are paying for?  
 
-\
+ 
 
 This should be answered in terms of available bandwidth, packet loss,
 latency, and overall availability.
 
 And perhaps the most important question of all:
 
-\
+ 
 
--   Do the observed traffic patterns fit our expectations?
+-   •Do the observed traffic patterns fit our expectations? 
 
-\
+ 
 
 Monitoring and metrics tools are vitally important programs to have on
 hand to check on the health of your network and diagnose/troubleshoot
@@ -15518,13 +15430,12 @@ being currently developed as of this writing, but it is left as an
 exercise to the reader to determine if a particular tool is suitable for
 their situation.
 
-**Network** m**onitoring** e**xample**
---------------------------------------
+### Network monitoring example
 
 Let's look at how a typical system administrator can make good use of
 network monitoring tools.
 
-### **An** **effective** **network** **monitoring** **example**
+#### An effective network monitoring example
 
 For the purposes of example, let's assume that we are in charge of a
 network that has been running for three months. It consists of 50
@@ -15541,24 +15452,24 @@ are on the receiving end of these complaints.
 How can you diagnose the sudden drop in network and computer performance
 and also justify the network hardware and bandwidth costs?
 
-### **Monitoring** **the** **LAN** **(local** **traffic)**
+#### Monitoring the LAN (local traffic)
 
 To get an idea of exactly what is causing the slow down, you should
 begin by looking at traffic on the local LAN.
 
 There are several advantages to monitoring local traffic:
 
-\
+ 
 
-1.  Troubleshooting is greatly simplified. Viruses can be detected and
-    eliminated.
+1.  1.Troubleshooting is greatly simplified. Viruses can be detected and
+    eliminated. 
 
-2.  Malicious users can be detected and dealt with.
+2.  2.Malicious users can be detected and dealt with. 
 
-3.  Network hardware and resources can be justified with real
-    statistics.
+3.  3.Network hardware and resources can be justified with real
+    statistics. 
 
-\
+ 
 
 Assume that all of the switches support the Simple Network Management
 Protocol (SNMP). SNMP is an application-layer protocol designed to
@@ -15581,7 +15492,7 @@ anti-spyware software on all of the machines, the internal LAN traffic
 settles down to expected levels. The machines run much more quickly,
 spam emails are reduced, and the users' morale quickly improves.
 
-### **Monitoring** **the** **WAN** **(external** **traffic)**
+#### Monitoring the WAN (external traffic)
 
 In addition to watching the traffic on the internal LAN, you need to
 demonstrate that the bandwidth the organisation is paying for is
@@ -15605,8 +15516,7 @@ enabled device, such as a router. If your router does not support SNMP,
 then you can add a switch between your router and your ISP connection,
 and monitor the port traffic just as you would with an internal LAN.
 
-**Detecting** n**etwork** o**utages**
--------------------------------------
+### Detecting network outages
 
 With monitoring tools in place, you now have an accurate measurement of
 how much bandwidth the organisation is using.
@@ -15630,11 +15540,14 @@ This is also an excellent time to review your operational policy with
 the Board, and discuss ways to bring actual usage in line with that
 policy.
 
-\
+ 
 
-![](NM/NM1.png)\
-*Figure* *NM* *1:* *A* *graph* *with* *a* *"flat* *top"* *is* *one*
-*indication* *of* *overutilisation.*
+![](./NM/NM1.png)
+
+Figure NM 1: A graph with a "flat top" is one indication of
+overutilisation.
+
+ 
 
 Later in the week, you receive an emergency phone call in the evening.
 Apparently, no one in the lab can browse the web or send email. You rush
@@ -15645,7 +15558,7 @@ areas one by one until you realise that the network switch is off - a
 loose power cable is to blame. After applying power, the network comes
 to life again.
 
-\
+ 
 
 How can you troubleshoot such an outage without such time consuming
 trial and error? Is it possible to be notified of outages as they occur,
@@ -15659,7 +15572,7 @@ displaying the network status graphically on a web page, it will send
 notifications via SMS or email, alerting you immediately when problems
 arise.
 
-\
+ 
 
 With good monitoring tools in place, you will be able to justify the
 cost of equipment and bandwidth by effectively demonstrating how it is
@@ -15673,13 +15586,12 @@ problems do come up, it is simple to determine the source and nature of
 the problem. Your job is easier, the Board is satisfied, and your users
 are much happier.
 
-**Monitoring** **your** **network**
------------------------------------
+### Monitoring your network
 
 Managing a network without monitoring is similar to driving a vehicle
 without a speedometer or a fuel gauge.
 
-\
+ 
 
 How do you know how fast you are going? Is the car consuming fuel as
 efficiently as promised by the dealers? If you do an engine overhaul
@@ -15694,45 +15606,59 @@ and hardware purchases, and to account for usage trends.
 There are several benefits to implementing a good monitoring system for
 your network:
 
-\
+ 
 
--   Network budget and resources are justified. Good monitoring tools
+-   •Network budget and resources are justified. Good monitoring tools
     can demonstrate without a doubt that the network infrastructure
     (bandwidth, hardware, and software) is suitable and able to handle
-    the requirements of network users.
+    the requirements of network users. 
 
--   Network intruders are detected and filtered. By watching your
+     
+
+-   •Network intruders are detected and filtered. By watching your
     network traffic, you can detect attackers and prevent access to
-    critical internal servers and services.
+    critical internal servers and services. 
 
--   Network viruses are easily detected. You can be alerted to the
+     
+
+-   •Network viruses are easily detected. You can be alerted to the
     presence of network viruses, and take appropriate action before they
-    consume Internet bandwidth and destabilise your network.
+    consume Internet bandwidth and destabilise your network. 
 
--   Troubleshooting of network problems is greatly simplified. Rather
+     
+
+-   •Troubleshooting of network problems is greatly simplified. Rather
     than attempting "trial and error" to debug network problems, you can
     be instantly notified of specific problems. Some kinds of problems
-    can even be repaired automatically.
+    can even be repaired automatically. 
 
--   Network performance can be highly optimised. Without effective
+     
+
+-   •Network performance can be highly optimised. Without effective
     monitoring, it is impossible to fine tune your devices and protocols
-    to achieve the best possible performance.
+    to achieve the best possible performance. 
 
--   Capacity planning is much easier. With solid historical performance
+     
+
+-   •Capacity planning is much easier. With solid historical performance
     records, you do not have to "guess" how much bandwidth you will need
-    as your network grows.
+    as your network grows. 
 
--   Proper network usage can be enforced. When bandwidth is a scarce
+     
+
+-   •Proper network usage can be enforced. When bandwidth is a scarce
     resource, the only way to be fair to all users is to ensure that the
-    network is being used for its intended purpose.
+    network is being used for its intended purpose. 
 
-Fortunately, network monitoring does not need to be an expensive
+     
+
+ Fortunately, network monitoring does not need to be an expensive
 undertaking. There are many freely available open source tools that will
 show you exactly what is happening on your network in considerable
 detail. This section will help you identify many invaluable tools and
 how best to use them.
 
-### **The** **dedicated** **monitoring** **server**
+#### The dedicated monitoring server
 
 While monitoring services can be added to an existing network server, it
 is often desirable to dedicate one machine (or more, if necessary) to
@@ -15740,7 +15666,7 @@ network monitoring. Some applications (such as ntop
 [http://www.ntop.org/)](http://www.ntop.org/))[](http://www.ntop.org/))require
 considerable resources to run, particularly on a busy network.
 
-\
+ 
 
 But most logging and monitoring programs have modest RAM and storage
 requirements, typically with little CPU power required. Since open
@@ -15749,7 +15675,7 @@ of hardware resources, this makes it possible to build a very capable
 monitoring server from recycled PC parts. There is usually no need to
 purchase a brand new server to relegate to monitoring duties.
 
-\
+ 
 
 The exception to this rule is in very large installations.
 
@@ -15757,7 +15683,7 @@ If your network includes more than a few hundred nodes, or if you
 consume more than 50 Mbps of Internet bandwidth, you will likely need to
 split up monitoring duties between a few dedicated machines.
 
-\
+ 
 
 This depends largely on exactly what you want to monitor.
 
@@ -15772,7 +15698,7 @@ While consolidating monitoring services to a single machine will
 streamline administration and upgrades, it can also ensure better
 ongoing monitoring.
 
-\
+ 
 
 For example, if you install monitoring services on a web server, and
 that web server develops problems, then your network may not be
@@ -15780,7 +15706,7 @@ monitored until the problem is resolved. To a network administrator, the
 data collected about network performance is nearly as important as the
 network itself.
 
-\
+ 
 
 Your monitoring should be robust and protected from service outages as
 well as possible.
@@ -15788,9 +15714,9 @@ well as possible.
 Without network statistics, you are effectively blind to problems with
 the network.
 
-\
+ 
 
-### **Where** **does** **the** **server** **fit** **in** **your** **network?**
+#### Where does the server fit in your network?
 
 If you are only interested in collecting network flow statistics from a
 router, you can do this from just about anywhere on the LAN.
@@ -15798,7 +15724,7 @@ router, you can do this from just about anywhere on the LAN.
 This provides simple feedback about utilisation, but cannot give you
 comprehensive details about usage patterns.
 
-\
+ 
 
 Figure NM 2 below shows a typical MRTG graph generated from the Internet
 router.
@@ -15806,15 +15732,17 @@ router.
 While the inbound and outbound utilisation are clear, there is no detail
 about which computers, users, or protocols are using bandwidth.
 
-\
+ 
 
-![](NM/NM2.png)\
-\
+![](./NM/NM2.png)
 
-*Figure****NM****2:****Polling****the****edge****router****can****show****you****the****overall****network****utilisation,****but****you****cannot****break****the****data****down****further****into
-machines,****services,****and****users.*
+ 
 
-\
+Figure NM 2: Polling the edge router can show you the overall network
+utilisation, but you cannot break the data down further into machines,
+services, and users.
+
+ 
 
 For more detail, the dedicated monitoring server must have access to
 everything that needs to be watched.
@@ -15834,12 +15762,11 @@ That connection can either be a physical cable, or if your network
 switches support it, a VLAN specifically configured for monitoring
 traffic.
 
-\
+ 
 
-![](NM/NM3.png)\
-*Figure****NM****3:****Use****the****monitor****port****on****your****switch****to****observe****traffic****crossing****all****of****the****network****ports.*
+![](./NM/NM3.png)
 
-\
+ 
 
 If monitor port functionality is not available on your switch, the
 monitoring server may be installed between your internal LAN and the
@@ -15848,8 +15775,12 @@ for the network, as the network will fail if the monitoring server
 develops a problem. It is also a potential performance bottleneck, if
 the server cannot keep up with the demands of the network.
 
-![](NM/NM4.png)\
-*Figure****NM****4:****By****inserting****a****network****monitor****between****the****LAN****and****your****Internet****connection,****you****can****observe****all****network****traffic.*
+![](./NM/NM4.png)
+
+Figure NM 4: By inserting a network monitor between the LAN and your
+Internet connection, you can observe all network traffic.
+
+ 
 
 A better solution is to use a simple network hub (not a switch) which
 connects the monitoring machine to the internal LAN, external router,
@@ -15861,22 +15792,22 @@ hubs are generally considered to be much more reliable than routers.
 
 They are also very easily replaced should they fail.
 
-\
+ 
 
-![](NM/NM5.png)\
-\
+![](./NM/NM5.png)
 
-\
+ 
 
-*Figure****NM****5:****If****your****switch****does****not****provide****monitor****port****functionality,****you****can****insert****a****network****hub****between****your****Internet****router****and****the
-LAN,****and****connect****the****monitoring****server****to****the****hub.*
+Figure NM 5: If your switch does not provide monitor port functionality,
+you can insert a network hub between your Internet router and the LAN,
+and connect the monitoring server to the hub.
 
-\
+ 
 
 Once your monitoring server is in place, you are ready to start
 collecting data.
 
-### **What********to********monitor**
+#### What to monitor
 
 It is possible to plot just about any network event and watch its value
 on a graph over time. Since every network is slightly different, you
@@ -15886,70 +15817,70 @@ performance of your network.
 Here are some important indicators that many network administrators will
 typically track.
 
-**Wireless********statistics**
+Wireless statistics
 
--   Received signal and noise from all backbone nodes
+-   •Received signal and noise from all backbone nodes  
 
--   Number of associated stations
+-   •Number of associated stations 
 
--   Detected adjacent networks and channels
+-   •Detected adjacent networks and channels  
 
--   Excessive retransmissions
+-   •Excessive retransmissions 
 
--   Radio data rate, if using automatic rate scaling
+-   •Radio data rate, if using automatic rate scaling 
 
-**Switch statistics**
+Switch statistics
 
--   Bandwidth usage per switch port
+-   •Bandwidth usage per switch port  
 
--   Bandwidth usage broken down by protocol
+-   •Bandwidth usage broken down by protocol 
 
--   Bandwidth usage broken down by MAC address
+-   •Bandwidth usage broken down by MAC address  
 
--   Broadcasts as a percentage of total packets
+-   •Broadcasts as a percentage of total packets  
 
--   Packet loss and error rate
+-   •Packet loss and error rate 
 
-**Internet statistics**
+Internet statistics
 
--   Internet bandwidth use by host and protocol
+-   •Internet bandwidth use by host and protocol  
 
--   Proxy server cache hits
+-   •Proxy server cache hits 
 
--   Top 100 sites accessed
+-   •Top 100 sites accessed  
 
--   DNS requests
+-   •DNS requests 
 
--   Number of inbound emails / spam emails / email bounces
+-   •Number of inbound emails / spam emails / email bounces  
 
--   Outbound email queue size
+-   •Outbound email queue size 
 
--   Availability of critical services (web servers, email servers,
-    etc.).
+-   •Availability of critical services (web servers, email servers,
+    etc.).  
 
--   Ping times and packet loss rates to your ISP
+-   •Ping times and packet loss rates to your ISP 
 
--   Status of backups
+-   •Status of backups 
 
-**System health statistics**
+System health statistics
 
--   Memory usage
+-   •Memory usage  
 
--   Swap file usage
+-   •Swap file usage 
 
--   Process count / zombie processes
+-   •Process count / zombie processes  
 
--   System load
+-   •System load 
 
--   Uninterruptible Power Supply (UPS) voltage and load
+-   •Uninterruptible Power Supply (UPS) voltage and load  
 
--   Temperature, fan speed, and system voltages
+-   •Temperature, fan speed, and system voltages 
 
--   Disk SMART status
+-   •Disk SMART status  
 
--   RAID array status
+-   •RAID array status 
 
-\
+ 
 
 You should use this list as a suggestion of where to begin. As your
 network matures, you will likely find new key indicators of network
@@ -15966,54 +15897,62 @@ CPU usage and disk space, in order to receive advance warning if it
 becomes overloaded or faulty. A monitoring machine that is low on
 resources can affect your ability to monitor the network effectively.
 
-**Types********of********monitoring********tools**
---------------------------------------------------
+### Types of monitoring tools
 
 We will now look at several different classes of monitoring tools.
 
-1.  Network detection tools listen for the beacons sent by wireless
+1.  1.Network detection tools listen for the beacons sent by wireless
     access points, and display information such as the network name,
-    received signal strength, and channel.
+    received signal strength, and channel. 
 
-2.  Spot check tools are designed for troubleshooting and normally run
+     
+
+2.  2.Spot check tools are designed for troubleshooting and normally run
     interactively for short periods of time. A program such as ping may
     be considered an active spot check tool, since it generates traffic
-    by polling a particular machine.
+    by polling a particular machine. 
 
-3.  Passive spot check tools include protocol analysers, which inspect
+     
+
+3.  3.Passive spot check tools include protocol analysers, which inspect
     every packet on the network and provide complete detail about any
     network conversation (including source and destination addresses,
-    protocol information, and even application data).
+    protocol information, and even application data). 
 
-4.  Trending tools perform unattended monitoring over long periods, and
-    typically plot the results on a graph.
+     
 
-5.  Throughput testing tools tell you the actual bandwidth available
-    between two points on a network.
+4.  4.Trending tools perform unattended monitoring over long periods,
+    and typically plot the results on a graph. 
 
-6.  Realtime monitoring tools perform similar monitoring, but notify
+     
+
+5.  5.Throughput testing tools tell you the actual bandwidth available
+    between two points on a network. 
+
+     
+
+6.  6.Realtime monitoring tools perform similar monitoring, but notify
     administrators immediately if they detect a problem. Intrusion
     detection tools watch for undesirable or unexpected network traffic,
     and take appropriate action (typically denying access and/or
-    notifying a network administrator).
+    notifying a network administrator). 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-**Network********detection**
-----------------------------
+### Network detection
 
 The simplest wireless monitoring tools simply provide a list of
 available networks, along with basic information (such as signal
 strength and channel). They let you quickly detect nearby networks and
 determine if they are in range or are causing interference.
 
-### **The********buil****t-****in********client.**
+#### The built-in client.
 
 All modern operating systems provide built-in support for wireless
 networking. This typically includes the ability to scan for available
@@ -16026,9 +15965,9 @@ office setting.
 They tend to provide little information apart from network names and the
 available signal to the access point currently in use.
 
-\
+ 
 
-**Netstumbler**
+Netstumbler
 ([http://www.wirelessdefence.org/Contents/NetstumblerMain.ht](http://www.wirelessdefence.org/Contents/NetstumblerMain.htm)m).
 This is the most popular tool for detecting wireless networks using
 Microsoft Windows. It supports a variety of wireless cards, and is very
@@ -16046,8 +15985,7 @@ directly related to the Netstumbler, Macstumbler provides much of the
 same functionality but for the Mac OS X platform. It works with all
 Apple Airport cards.
 
-**Spot********check********tools**
-----------------------------------
+### Spot check tools
 
 What do you do when the network breaks? If you can’t access a web page
 or email server, and clicking the reload button doesn’t fix the problem,
@@ -16057,60 +15995,59 @@ problem.
 These tools will help you to determine just where a connection problem
 exists.
 
-\
+ 
 
 This section is simply an introduction to commonly used troubleshooting
 tools.
 
 For more discussion of common network problems and how to diagnose them,
-see the chapter called
-**Maintenance********and********Troubleshootin****g**.
+see the chapter called Maintenance and Troubleshooting.
 
-### ping
+#### ping
 
 Just about every operating system (including Windows, Mac OS X, and of
 course Linux and BSD) includes a version of the ping utility. It uses
 ICMP packets to attempt to contact a specified host, and tells you how
 long it takes to get a response.
 
-\
+ 
 
 Knowing what to ping is just as important as knowing how to ping. If you
 find that you cannot connect to a particular service in your web browser
 (say, [http://yahoo.com/),](http://yahoo.com/))[](http://yahoo.com/))you
 could try to ping it:
 
-\
+ 
 
-*\$ ping yahoo.com*
+\$ ping yahoo.com
 
-\
+ 
 
-*PING yahoo.com (66.94.234.13): 56 data bytes*
+PING yahoo.com (66.94.234.13): 56 data bytes
 
-\
+ 
 
-*64 bytes from 66.94.234.13: icmp\_seq=0 ttl=57 time=29.375 ms*
+64 bytes from 66.94.234.13: icmp\_seq=0 ttl=57 time=29.375 ms
 
-*64 bytes from 66.94.234.13: icmp\_seq=1 ttl=56 time=35.467 ms*
+64 bytes from 66.94.234.13: icmp\_seq=1 ttl=56 time=35.467 ms
 
-*64 bytes from 66.94.234.13: icmp\_seq=2 ttl=56 time=34.158 ms*
+64 bytes from 66.94.234.13: icmp\_seq=2 ttl=56 time=34.158 ms
 
-*\^C*
+\^C
 
-\
+ 
 
-*--- yahoo.com ping statistics ---*
+--- yahoo.com ping statistics ---
 
-\
+ 
 
-*3 packets transmitted, 3 packets received, 0% packet loss*
+3 packets transmitted, 3 packets received, 0% packet loss
 
-\
+ 
 
-*round-trip min/avg/max/stddev = 29.375/33.000/35.467/2.618 ms*
+round-trip min/avg/max/stddev = 29.375/33.000/35.467/2.618 ms
 
-\
+ 
 
 Hit control-C when you are finished collecting data.
 
@@ -16124,42 +16061,42 @@ if the ping doesn’t return any data at all?
 If you are pinging a name instead of an IP address, you may be running
 into DNS problems.
 
-\
+ 
 
 Try pinging an IP address on the Internet. If you can’t reach it, it’s a
 good idea to see if you can ping your default router:
 
-\
+ 
 
-*\$ ping 69.90.235.230*
+\$ ping 69.90.235.230
 
-\
+ 
 
-*PING 69.90.235.230 (69.90.235.230): 56 data bytes*
+PING 69.90.235.230 (69.90.235.230): 56 data bytes
 
-\
+ 
 
-*64 bytes from 69.90.235.230: icmp\_seq=0 ttl=126 time=12.991 ms*
+64 bytes from 69.90.235.230: icmp\_seq=0 ttl=126 time=12.991 ms
 
-*64 bytes from 69.90.235.230: icmp\_seq=1 ttl=126 time=14.869 ms*
+64 bytes from 69.90.235.230: icmp\_seq=1 ttl=126 time=14.869 ms
 
-*64 bytes from 69.90.235.230: icmp\_seq=2 ttl=126 time=13.897 ms*
+64 bytes from 69.90.235.230: icmp\_seq=2 ttl=126 time=13.897 ms
 
-*\^C*
+\^C
 
-\
+ 
 
-*--- 216.231.38.1 ping statistics ---*
+--- 216.231.38.1 ping statistics ---
 
-\
+ 
 
-*3 packets transmitted, 3 packets received, 0% packet loss*
+3 packets transmitted, 3 packets received, 0% packet loss
 
-\
+ 
 
-*round-trip min/avg/max/stddev = 12.991/13.919/14.869/0.767 ms*
+round-trip min/avg/max/stddev = 12.991/13.919/14.869/0.767 ms
 
-\
+ 
 
 If you can’t ping your default router, then chances are you won’t be
 able to get to the Internet either. If you can’t even ping other IP
@@ -16192,7 +16129,7 @@ methods. Network debugging with ping is a bit of an art, but it is
 useful to learn. Since you will likely find ping on just about any
 machine you will work on, it’s a good idea to learn how to use it well.
 
-### **traceroute********and********mtr**
+#### traceroute and mtr
 
 [http://www.bitwizard.nl/mtr](http://www.bitwizard.nl/mtr/)[/](http://www.bitwizard.nl/mtr/)
 
@@ -16201,54 +16138,54 @@ tracert in some versions of Microsoft Windows). By running traceroute,
 you can find the location of problems between your computer and any
 point on the Internet:
 
-\
+ 
 
-*\$ traceroute -n google.com*
+\$ traceroute -n google.com
 
-\
+ 
 
-*traceroute to google.com (72.14.207.99), 64 hops max, 40 byte packets*
+traceroute to google.com (72.14.207.99), 64 hops max, 40 byte packets
 
-\
+ 
 
-*1 10.15.6.1 4.322 ms 1.763 ms 1.731 ms*
+1 10.15.6.1 4.322 ms 1.763 ms 1.731 ms
 
-\
+ 
 
-*2 216.231.38.1 36.187 ms 14.648 ms 13.561 ms*
+2 216.231.38.1 36.187 ms 14.648 ms 13.561 ms
 
-\
+ 
 
-*3 69.17.83.233 14.197 ms 13.256 ms 13.267 ms*
+3 69.17.83.233 14.197 ms 13.256 ms 13.267 ms
 
-\
+ 
 
-*4 69.17.83.150 32.478 ms 29.545 ms 27.494 ms*
+4 69.17.83.150 32.478 ms 29.545 ms 27.494 ms
 
-\
+ 
 
-*5 198.32.176.31 40.788 ms 28.160 ms 28.115 ms*
+5 198.32.176.31 40.788 ms 28.160 ms 28.115 ms
 
-\
+ 
 
-*6 66.249.94.14 28.601 ms 29.913 ms 28.811 ms*
+6 66.249.94.14 28.601 ms 29.913 ms 28.811 ms
 
-\
+ 
 
-*7 172.16.236.8 2328.809 ms 2528.944 ms 2428.719 ms*
+7 172.16.236.8 2328.809 ms 2528.944 ms 2428.719 ms
 
-\
+ 
 
-*8 \* \* \**
+8 \* \* \*
 
-\
+ 
 
 The -n switch tells traceroute not to bother resolving names in DNS, and
 makes the trace run more quickly. You can see that at hop seven, the
 round trip time shoots up to more than two seconds, while packets seem
 to be discarded at hop eight.
 
-\
+ 
 
 This might indicate a problem at that point in the network.
 
@@ -16260,286 +16197,196 @@ into a single tool. By running mtr, you can get an ongoing average of
 latency and packet loss to a single host, instead of the momentary
 snapshot that ping and traceroute provide.
 
-\
+ 
 
-**My traceroute [v0.69]**
+My traceroute [v0.69]
 
-\
+ 
 
-*tesla.rob.swn (0.0.0.0) (tos=0x0 psize=64 bitpat Sun Jan 8 20:01:26
-2006)*
+tesla.rob.swn (0.0.0.0) (tos=0x0 psize=64 bitpat Sun Jan 8 20:01:26
+2006)
 
-\
+ 
 
-*Keys: Help Display mode Restart statistics Order of fields quit*
+Keys: Help Display mode Restart statistics Order of fields quit
 
-\
+ 
 
-***Packets***
+Packets        
 
-***Pings***
+Pings
 
-***Host***
+Host
 
-***Loss%***
+Loss%
 
-***Snt***
+Snt
 
-***Last***
+Last
 
-***Avg***
+Avg
 
-***Best***
+Best
 
-***Wrst***
+Wrst
 
-***StDev***
+StDev
 
-*1. gremlin.rob.swn*
+​1. gremlin.rob.swn
 
-*0.0%*
+0.0%
 
-*4*
+4
 
-*1.9*
+1.9
 
-\
+2.0
 
-*2.0*
+1.7
 
-\
+2.6
 
-*1.7*
+0.4
 
-\
+​2. er1.sea1.speakeasy.net
 
-*2.6*
+0.0%
 
-\
+4
 
-*0.4*
+15.5
 
-\
+14.0
 
-*2. er1.sea1.speakeasy.net*
+12.7
 
-*0.0%*
+15.5
 
-*4*
+1.3
 
-*15.5*
+​3. 220.ge-0-1-0.cr2.sea1.
 
-\
+Speakeasy.net
 
-*14.0*
+0.0%
 
-\
+4
 
-*12.7*
+11.0
 
-\
+11.7
 
-*15.5*
+10.7
 
-\
+14.0
 
-*1.3*
+1.6
 
-\
+​4. fe-0-3-0.cr2.sfo1.
 
-*3. 220.ge-0-1-0.cr2.sea1.*
+speakeasy.net
 
-*Speakeasy.net*
+0.0%
 
-*0.0%*
+4
 
-*4*
+36.0
 
-*11.0*
+34.7
 
-\
+28.7
 
-*11.7*
+38.1
 
-\
+4.1
 
-*10.7*
+​5. bas1-m.pao.yahoo.com
 
-\
+0.0%
 
-*14.0*
+4
 
-\
+27.9
 
-*1.6*
+29.6
 
-\
+27.9
 
-*4. fe-0-3-0.cr2.sfo1.*
+33.0
 
-*speakeasy.net*
+2.4
 
-*0.0%*
+​6. so-1-1-0.pat1.dce.
 
-*4*
+yahoo.com
 
-*36.0*
+0.0%
 
-\
+4
 
-*34.7*
+89.7
 
-\
+91.0
 
-*28.7*
+89.7
 
-\
+93.0
 
-*38.1*
+1.4
 
-\
+​7. ae1.p400.msr1.dcn.
 
-*4.1*
+yahoo.com  
 
-\
+0.0%
 
-*5. bas1-m.pao.yahoo.com*
+4
 
-*0.0%*
+91.2
 
-*4*
+93.1
 
-*27.9*
+90.8
 
-\
+99.2
 
-*29.6*
+4.1
 
-\
+​8. ge5-2.bas1-m.dcn.
 
-*27.9*
+yahoo.com
 
-\
+0.0%
 
-*33.0*
+4
 
-\
+89.3
 
-*2.4*
+91.0
 
-\
+89.3
 
-*6. so-1-1-0.pat1.dce.*
+93.4
 
-*yahoo.com*
+1.9
 
-*0.0%*
+9.w2.rc.vip.dcn.yahoo.com
 
-*4*
+0.0%
 
-*89.7*
+3
 
-\
+91.2
 
-*91.0*
+93.1
 
-\
+90.8
 
-*89.7*
+99.2
 
-\
+4.1
 
-*93.0*
-
-\
-
-*1.4*
-
-\
-
-*7. ae1.p400.msr1.dcn.*
-
-*yahoo.com*
-
-*0.0%*
-
-*4*
-
-*91.2*
-
-\
-
-*93.1*
-
-\
-
-*90.8*
-
-\
-
-*99.2*
-
-\
-
-*4.1*
-
-\
-
-*8. ge5-2.bas1-m.dcn.*
-
-*yahoo.com*
-
-*0.0%*
-
-*4*
-
-*89.3*
-
-\
-
-*91.0*
-
-\
-
-*89.3*
-
-\
-
-*93.4*
-
-\
-
-*1.9*
-
-\
-
-*9.w2.rc.vip.dcn.yahoo.com*
-
-*0.0%*
-
-*3*
-
-*91.2*
-
-\
-
-*93.1*
-
-\
-
-*90.8*
-
-\
-
-*99.2*
-
-\
-
-*4.1*
-
-\
-
-\
+ 
 
 The data will be continuously updated and averaged over time.
 
@@ -16550,8 +16397,7 @@ While these tools will not reveal precisely what is wrong with the
 network, they can give you enough information to know where to continue
 troubleshooting.
 
-**Protocol********analysers**
------------------------------
+### Protocol analysers
 
 Network protocol analysers provide a great deal of detail about
 information flowing through a network, by allowing you to inspect
@@ -16560,7 +16406,7 @@ data-link layer or above. For wireless networks, you can inspect
 information all the way down to individual 802.11 frames. Here are
 several popular (and free) network protocol analysers:
 
-### Kismet
+#### Kismet
 
 [http://www.kismetwireless.net](http://www.kismetwireless.net/)[/](http://www.kismetwireless.net/)
 
@@ -16586,7 +16432,7 @@ all of this without transmitting any data.
 
 Kismet is an invaluable tool for diagnosing wireless network problems.
 
-### KisMAC
+#### KisMAC
 
 [http://kisma](http://kismac-ng.org/)c-ng.org
 
@@ -16596,7 +16442,7 @@ scanner that will log data to disk in PCAP format compatible with
 Wireshark. It supports passive scanning with AirportExtreme cards as
 well as a variety of USB wireless adapters.
 
-### tcpdump
+#### tcpdump
 
 [http://www.tcpdump.org/](http://www.tcpdump.org/)
 
@@ -16616,31 +16462,33 @@ tool in Unix derivatives (Linux, BSD, and Mac OS X). There is also a
 Windows port called WinDump available at
 [http://www.winpcap.org/windump](http://www.winpcap.org/windump/)/
 
-### Wireshark
+#### Wireshark
 
 [http://www.wireshark.org](http://www.wireshark.org/)/
 
 Formerly known as Ethereal, Wireshark is a free network protocol
 analyser for Unix and Windows.
 
-\
+ 
 
-![](NM/NM6.png)\
-\
+![](./NM/NM6.png)
 
-*Figure****NM****6:****Wireshark****(formerly****Ethereal)****is****a****powerful****network****protocol****analyser****that****can****show****you****as****much****detail****as****you****like****about
-any****packet.*
+ 
+
+Figure NM 6: Wireshark (formerly Ethereal) is a powerful network
+protocol analyser that can show you as much detail as you like about any
+packet.
 
 Wireshark allows you to examine data from a live network or from a
 capture file on disk, and interactively browse and sort the captured
 data.
 
-\
+ 
 
 Both summary and detailed information is available for each packet,
 including the full header and data portions.
 
-\
+ 
 
 Wireshark has several powerful features, including a rich display filter
 language and the ability to view the reconstructed stream of a TCP
@@ -16657,20 +16505,19 @@ For example, a machine infected with a network worm or virus can be
 identified by looking for the machine that is sending out the same sort
 of TCP/IP packets to large groups of IP addresses.
 
-**Trending********tools**
--------------------------
+### Trending tools
 
 Trending tools are used to see how your network is used over a long
 period of time. They work by periodically monitoring your network
 activity, and displaying a summary in a human-readable form (such as a
 graph). Trending tools collect data as well as analyse and report on it.
 
-\
+ 
 
 Below are some examples of trending tools. Some of them need to be used
 in conjunction with each other, as they are not stand-alone programs.
 
-### MRTG
+#### MRTG
 
 [http://oss.oetiker.ch/mrtg](http://oss.oetiker.ch/mrtg/)/
 
@@ -16680,7 +16527,7 @@ representation of inbound and outbound traffic.
 
 These are typically displayed on a web page.
 
-\
+ 
 
 MRTG can be a little confusing to set up, especially if you are not
 familiar with SNMP.
@@ -16689,14 +16536,14 @@ But once it is installed, MRTG requires virtually no maintenance, unless
 you change something on the system that is being monitored (such as its
 IP address).
 
-\
+![](./NM/NM7.png)
 
-![](NM/NM7.png)\
-\
+ 
 
-*Figure****NM****7:****MRTG****is****probably****the****most****widely****installed****network****flow****grapher.*
+Figure NM 7: MRTG is probably the most widely installed network flow
+grapher.
 
-### RRDtool
+#### RRDtool
 
 RRD is short for Round Robin Database. RRD is a database that stores
 information in a very compact way that does not expand over time.
@@ -16707,7 +16554,7 @@ It is used to keep track of time-series data (such as network bandwidth,
 machine room temperature, or server load average) and can display that
 data as an average over time.
 
-\
+ 
 
 Note that RRDtool itself does not contact network devices to retrieve
 data. It is merely a database manipulation tool.
@@ -16718,22 +16565,22 @@ that present you with a friendly web interface for configuration and
 display. RRD graphs give you more control over display options and the
 number of items available on a graph as compared to MRTG.
 
-\
+ 
 
-![](NM/NM8.png)\
-\
+![](./NM/NM8.png)
 
-*Figure****NM****8:****RRDtool****gives****you****a****lot****of****flexibility****in****how****your****collected****network****data****may****be****displayed.*
+ 
 
-\
+Figure NM 8: RRDtool gives you a lot of flexibility in how your
+collected network data may be displayed.
 
-\
+ 
 
 RRDtool is included in virtually all modern Linux distributions, and can
 be downloaded from
 [http://oss.oetiker.ch/rrdtool](http://oss.oetiker.ch/rrdtool/)/
 
-### **ntop**
+#### ntop
 
 For historical traffic analysis and usage, you will certainly want to
 investigate ntop.
@@ -16747,27 +16594,27 @@ On very busy networks, ntop can use a lot of CPU and disk space, but it
 gives you extensive insight into how your network is being used. It runs
 on Linux, BSD, Mac OS X, and Windows.
 
-\
+ 
 
 Some of its more useful features include:
 
-\
+ 
 
 Traffic display can be sorted by various criteria (source, destination,
 protocol, MAC address, etc.).
 
-\
+ 
 
 Traffic statistics grouped by protocol and port number.
 
-\
+ 
 
 An IP traffic matrix which shows connections between machines Network
 flows for routers or switches that support the NetFlow protocol Host
 operating system identification, P2P traffic, identification, numerous
 graphical charts, Perl, PHP, and Python API.
 
-\
+ 
 
 ntop is available from
 [http://www.ntop.org/](http://www.ntop.org/)[](http://www.ntop.org/)and
@@ -16776,27 +16623,26 @@ is available for most operating systems.
 It is often included in many of the popular Linux distributions,
 including RedHat, Debian, and Ubuntu.
 
-\
+ 
 
 While it can be left running to collect historical data, ntop can be
 fairly CPU intensive, depending on the amount of traffic observed.
 
-\
+ 
 
 If you are going to run it for long periods you should monitor the CPU
 utilisation of the monitoring machine.
 
-\
+ 
 
-![](NM/NM9.png)\
-\
+![](./NM/NM9.png)
 
-\
+ 
 
-*Figure****NM****9:
-ntop****displays****a****wealth****of****information****about****how****your****network****is****utilised****by****various****clients****and****servers.*
+Figure NM 9: ntop displays a wealth of information about how your
+network is utilised by various clients and servers.
 
-\
+ 
 
 The main disadvantage of ntop is that it does not provide instantaneous
 information, only long-term totals and averages.
@@ -16804,7 +16650,7 @@ information, only long-term totals and averages.
 This can make it difficult to use to diagnose a problem that starts
 suddenly.
 
-### Cacti
+#### Cacti
 
 [http://www.cacti.net](http://www.cacti.net/)/
 
@@ -16818,15 +16664,17 @@ actual data gathering.
 There is support for SNMP devices, and custom scripts can easily be
 written to poll virtually any conceivable network event.
 
-\
+ 
 
-![](NM/NM10.png)\
-\
+![](./NM/NM10.png)
 
-*Figure****NM****10:****Cacti****can****manage****the****polling****of****your****network****devices,****and****can****build****very****complex****and****informative****visualisations****of****network
-behaviour.*
+ 
 
-\
+Figure NM 10: Cacti can manage the polling of your network devices, and
+can build very complex and informative visualisations of network
+behaviour.
+
+ 
 
 Cacti can be somewhat confusing to configure, but once you work through
 the documentation and examples, it can yield very impressive graphs.
@@ -16834,24 +16682,24 @@ the documentation and examples, it can yield very impressive graphs.
 There are hundreds of templates for various systems available on the
 cacti website, and the code is under rapid development.
 
-### NetFlow
+#### NetFlow
 
 NetFlow is a protocol for collecting IP traffic information invented by
 Cisco. From the Cisco website:
 
-\
+ 
 
 Cisco IOS NetFlow efficiently provides a key set of services for IP
 applications, including network traffic accounting, usage-based network
 billing, network planning, security, Denial of Service monitoring
 capabilities, and network monitoring.
 
-\
+ 
 
 NetFlow provides valuable information about network users and
 applications, peak usage times, and traffic routing.
 
-\
+ 
 
 Cisco routers can generate NetFlow information which is available from
 the router in the form of UDP packets. NetFlow is also less CPU-
@@ -16860,7 +16708,7 @@ granular information than SNMP, letting you get a more detailed picture
 of port and protocol usage.This information is collected by a NetFlow
 collector that stores and presents the data as an aggregate over time.
 
-\
+ 
 
 By analysing flow data, one can build a picture of traffic flow and
 traffic volume in a network or on a connection. There are several
@@ -16872,7 +16720,7 @@ of NetFlow as an alternative to SNMP for Cisco devices. For more
 information about NetFlow, see
 [http://en.wikipedia.org/wiki/Netflow](http://en.wikipedia.org/wiki/Netflow)[](http://en.wikipedia.org/wiki/Netflow).
 
-### Flowc
+#### Flowc
 
 [http://netacad.kiev.ua/flowc](http://netacad.kiev.ua/flowc/)/. Flowc is
 an open source NetFlow collector (see NetFlow above). It is lightweight
@@ -16882,14 +16730,15 @@ reports from the data using SQL, or use the included report generators.
 The built-in report generators produce reports in HTML, plain text or a
 graphical format.
 
-\
+ 
 
-![](NM/NM11.png)\
-\
+![](./NM/NM11.png)
 
-*Figure****NM****11:****A****typical****flow****chart****generated****by****Flowc.*
+ 
 
-\
+Figure NM 11: A typical flow chart generated by Flowc.
+
+ 
 
 The large gap in data probably indicates a network outage.
 
@@ -16899,7 +16748,7 @@ the occurrence.
 To be notified when network problems occur, use a realtime monitoring
 tool such as Nagios.
 
-### SmokePing
+#### SmokePing
 
 [http://oss.oetiker.ch/smokeping](http://oss.oetiker.ch/smokeping/)/.
 SmokePing is a deluxe latency measurement tool written in Perl.
@@ -16911,7 +16760,7 @@ SmokePing uses the RRDtool for data storage, and can draw very
 informative graphs that present up to the minute information on the
 state of your network connection.
 
-\
+ 
 
 It is very useful to run SmokePing on a host with good connectivity to
 your entire network.
@@ -16922,23 +16771,25 @@ problems.
 Combined with MRTG or Cacti, you can observe the effect that network
 congestion has on packet loss and latency.
 
-\
+ 
 
 SmokePing can optionally send alerts when certain conditions are met,
 such as when excessive packet loss is seen on a link for an extended
 period of time. An example of SmokePing in action is shown in Figure NM
 12.
 
-\
+ 
 
-![](NM/NM12.png)\
-\
+![](./NM/NM12.png)
 
-*Figure****NM****12:****SmokePing****can****simultaneously****display****packet****loss****and****latency****spreads****in****a****single****graph.*
+ 
 
-\
+Figure NM 12: SmokePing can simultaneously display packet loss and
+latency spreads in a single graph.
 
-### EtherApe
+ 
+
+#### EtherApe
 
 [http://etherape.sourceforge.net](http://etherape.sourceforge.net/)[/](http://etherape.sourceforge.net/)
 
@@ -16950,7 +16801,7 @@ live network connection or read from a tcpdump capture file. EtherApe
 doesn't show quite as much detail as ntop, but its resource requirements
 are much lighter.
 
-### iptraf
+#### iptraf
 
 [http://iptraf.seul.org](http://iptraf.seul.org/)/
 
@@ -16962,21 +16813,24 @@ checksum errors, and more. It is a simple to use program that uses
 minimal system resources. While it does not keep historical data, it is
 very useful for displaying an instantaneous usage report.
 
-\
+ 
 
-![](NM/NM13.png)\
-*Figure****NM****13:****iptraf's****statistical****breakdown****of****traffic****by****port.*
+![](./NM/NM13.png)
 
-### Argus
+Figure NM 13: iptraf's statistical breakdown of traffic by port.
+
+ 
+
+#### Argus
 
 [http://qosient.com/argus](http://qosient.com/argus/)/.
 
 Argus stands for Audit Record Generation and Utilisation System. Argus
 is also the name of the mythological Greek god who had hundreds of eyes.
 
-\
+ 
 
-*From****the****Argus****website:*
+From the Argus website:
 
 Argus generates flow statistics such as connectivity, capacity, demand,
 loss, delay, and jitter on a per transaction basis. Argus can be used to
@@ -16995,7 +16849,7 @@ network device, and a client that connects to the master and displays
 the usage statistics. Argus runs on BSD, Linux, and most other UNIX
 systems.
 
-### NeTraMet
+#### NeTraMet
 
 [http://www.caida.org/tools/measurement/netramet](http://www.caida.org/tools/measurement/netramet/)/
 
@@ -17009,8 +16863,7 @@ addresses used on either end, and can include Ethernet, IP, protocol
 information, or other identifiers. NeTraMet runs on DOS and most UNIX
 systems, including Linux and BSD.
 
-**Throughput********testing**
------------------------------
+### Throughput testing
 
 How fast can the network go?
 
@@ -17020,16 +16873,16 @@ You can get a very good estimate of your throughput capacity by flooding
 the link with traffic and measuring how long it takes to transfer the
 data.
 
-\
+ 
 
-![](NM/NM14.png)\
-\
+![](./NM/NM14.png)
 
-\
+ 
 
-*Figure****NM****14:****Tools****such****as****this****one****from****SpeedTest.net****are****pretty,****but****don't****always****give****you****an****accurate****picture****of****network****performance.*
+Figure NM 14: Tools such as this one from SpeedTest.net are pretty, but
+don't always give you an accurate picture of network performance.
 
-\
+ 
 
 While there are web pages available that will perform a “speed test” in
 your browser (such as
@@ -17044,7 +16897,7 @@ Internet.
 Here are a few tools that will allow you to perform throughput testing
 on your own networks.
 
-### ttcp
+#### ttcp
 
 Now a standard part of most Unix-like systems, ttcp is a simple network
 performance testing tool.
@@ -17053,26 +16906,25 @@ One instance is run on either side of the link you want to test.
 
 The first node runs in receive mode, and the other transmits:
 
-\
+ 
 
-*node\_a\$ ttcp -r -s*
+node\_a\$ ttcp -r -s
 
-*node\_b\$ ttcp -t -s node\_a*
+node\_b\$ ttcp -t -s node\_a
 
-*ttcp-t: buflen=8192, nbuf=2048, align=16384/0, port=5001 tcp -\>
-node\_a*
+ttcp-t: buflen=8192, nbuf=2048, align=16384/0, port=5001 tcp -\> node\_a
 
-*ttcp-t: socket*
+ttcp-t: socket
 
-*ttcp-t: connect*
+ttcp-t: connect
 
-*ttcp-t: 16777216 bytes in 249.14 real seconds = 65.76 KB/sec +++*
+ttcp-t: 16777216 bytes in 249.14 real seconds = 65.76 KB/sec +++
 
-*ttcp-t: 2048 I/O calls, msec/call = 124.57, calls/sec = 8.22*
+ttcp-t: 2048 I/O calls, msec/call = 124.57, calls/sec = 8.22
 
-*ttcp-t: 0.0user 0.2sys 4:09real 0% 0i+0d 0maxrss 0+0pf 7533+0csw*
+ttcp-t: 0.0user 0.2sys 4:09real 0% 0i+0d 0maxrss 0+0pf 7533+0csw
 
-\
+ 
 
 After collecting data in one direction, you should reverse the transmit
 and receive partners to test the link in the other direction. It can
@@ -17085,7 +16937,7 @@ to ttcp is that it hasn’t been developed in years. Fortunately, the code
 has been released in the public domain and is freely available. Like
 ping and traceroute, ttcp is found as a standard tool on many systems.
 
-### iperf
+#### iperf
 
 [http://iperf.sourceforge.net/.](http://iperf.sourceforge.net/)Much like
 ttcp, iperf is a command line tool for estimating the throughput of a
@@ -17095,25 +16947,25 @@ pair.
 
 To run iperf, launch a server on one side and a client on the other:
 
-\
+ 
 
-*node\_a\$ iperf -s*
+node\_a\$ iperf -s
 
-*node\_b\$ iperf -c node\_a*
+node\_b\$ iperf -c node\_a
 
-*------------------------------------------------------------*
+------------------------------------------------------------
 
-*Client connecting to node\_a, TCP port 5001*
+Client connecting to node\_a, TCP port 5001
 
-*TCP window size: 16.0 KByte (default)*
+TCP window size: 16.0 KByte (default)
 
-*------------------------------------------------------------*
+------------------------------------------------------------
 
-*[ 5] local 10.15.6.1 port 1212 connected with 10.15.6.23 port 5001*
+[ 5] local 10.15.6.1 port 1212 connected with 10.15.6.23 port 5001
 
-*[ ID] Interval Transfer Bandwidth*
+[ ID] Interval Transfer  Bandwidth
 
-*[ 5] 0.0-11.3 sec 768 KBytes 558 Kbits/sec*
+[ 5] 0.0-11.3 sec 768 KBytes         558 Kbits/sec
 
 The server side will continue to listen and accept client connections on
 port 5001 until you hit control-C to kill it. This can make it handy
@@ -17124,7 +16976,7 @@ active development, and has many new features (including IPv6 support).
 This makes it a good choice as a performance tool when building new
 networks.
 
-### bing
+#### bing
 
 http://fgouget.free.fr/bing/indx-en.shtml
 
@@ -17142,8 +16994,7 @@ outside your network. Since it uses relatively little bandwidth, bing
 can give you a rough idea of network performance without running up the
 charges that a flood test would certainly incur.
 
-**Realtime********tools********and********intrusion********detection**
-----------------------------------------------------------------------
+### Realtime tools and intrusion detection
 
 It is desirable to find out when people are trying to break into your
 network, or when some part of the network has failed.
@@ -17152,12 +17003,12 @@ Because no system administrator can be monitoring a network all the
 time, there are programs that constantly monitor the status of the
 network and can send alerts when notable events occur.
 
-\
+ 
 
 The following are some open source tools that can help perform this
 task.
 
-### Snort
+#### Snort
 
 Snort (http://www.snort.org/) is a packet sniffer and logger which can
 be used as a lightweight network intrusion detection system.
@@ -17165,7 +17016,7 @@ be used as a lightweight network intrusion detection system.
 It features rule-based logging and can perform protocol analysis,
 content searching, and packet matching.
 
-\
+ 
 
 It can be used to detect a variety of attacks and probes, such as
 stealth port scans, CGI attacks, SMB probes, OS fingerprinting attempts,
@@ -17188,7 +17039,7 @@ Internet bandwidth.
 See [http://snort.org/docs/](http://snort.org/docs/) for an extensive
 list of installation and configuration resources.
 
-### **Apache:********mod\_security**
+#### Apache: mod\_security
 
 ModSecurity ([http://www.modsecurity.org](http://www.modsecurity.org/)/)
 is an open source intrusion detection and prevention engine for web
@@ -17202,19 +17053,19 @@ applications from known and unknown attacks.
 It can be used on its own, or as a module in the Apache web server
 (http://www.apache.org/).
 
-\
+ 
 
 There are several sources for updated mod\_security rules that help
 protect against the latest security exploits.
 
-\
+ 
 
 One excellent resource is GotRoot, which maintains a huge and frequently
 updated repository of rules:
 
 [http://www.atomicorp.com/wiki/index.php/Atomic\_ModSecurity\_Rules](http://www.atomicorp.com/wiki/index.php/Atomic_ModSecurity_Rules)
 
-\
+ 
 
 Web application security is important in defending against attacks on
 your web server, which could result in the theft of valuable or personal
@@ -17222,7 +17073,7 @@ data, or in the server being used to launch attacks or send spam to
 other Internet users. As well as being damaging to the Internet as a
 whole, such intrusions can seriously reduce your available bandwidth.
 
-### Nagios
+#### Nagios
 
 Nagios ([http://nagios.org](http://nagios.org/)/) is a program that
 monitors hosts and services on your network, notifying you immediately
@@ -17249,14 +17100,16 @@ that a TCP port responds to requests, but Nagios can actually retrieve a
 web page or make a database request, and verify that the response is not
 an error.
 
-\
+ 
 
-![](NM/NM15.png)\
-\
+![](./NM/NM15.png)
 
-*Figure****NM****15:****Nagios****keeps****you****informed****the****moment****a****network****fault****or****service****outage****occurs.*
+ 
 
-\
+Figure NM 15: Nagios keeps you informed the moment a network fault or
+service outage occurs.
+
+ 
 
 Nagios can even notify you when bandwidth usage, packet loss, machine
 room temperature, or other network health indicator crosses a particular
@@ -17265,7 +17118,7 @@ threshold.
 This can give you advance warning of network problems, often allowing
 you to respond to the problem before users have a chance to complain.
 
-### Zabbix
+#### Zabbix
 
 Zabbix ([http://www.zabbix.org](http://www.zabbix.org/)/) is an open
 source realtime monitoring tool that is something of a hybrid between
@@ -17277,14 +17130,13 @@ modern realtime monitor (such as SNMP polling and instant notification
 of error conditions). Zabbix is released under the GNU General Public
 License.
 
-**Other********useful********tools**
-------------------------------------
+### Other useful tools
 
 There are thousands of free network monitoring tools that fill very
 specialised needs. Here are a few of our favourites that don't quite fit
 into the above categories.
 
-### ngrep
+#### ngrep
 
 Ngrep provides most of GNU grep's pattern matching features, but applies
 them to network traffic. It currently recognises IPv4 and IPv6, TCP,
@@ -17295,11 +17147,11 @@ expressions. You don't necessarily need to be a regex expert to be able
 to make basic use of ngrep. For example, to view all packets that
 contain the string GET (presumably HTTP requests), try this:
 
-\
+ 
 
-*\# ngrep -q GET*
+\# ngrep -q GET
 
-\
+ 
 
 Pattern matches can be constrained further to match particular
 protocols, ports, or other criteria using BPF filters. This is the
@@ -17307,21 +17159,21 @@ filter language used by common packet sniffing tools, such as tcpdump
 and snoop. To view GET or POST strings sent to destination port 80, use
 this command line:
 
-\
+ 
 
-*\#****ngrep****-**q****'GET|POST'****port****80*
+\# ngrep -q 'GET|POST' port 80
 
-\
+ 
 
 By using ngrep creatively, you can detect anything from virus activity
 to spam email. You can download ngrep at
-[http://ngrep.sourceforge.net](http://ngrep.sourceforge.net/)**/****.**
+[http://ngrep.sourceforge.net](http://ngrep.sourceforge.net/)/.
 
-### nmap/Zenmap
+#### nmap/Zenmap
 
-**nmap******is a network diagnostic tool for showing the state and
-availability of network ports on a network interface. A common use is to
-scan a network host on a TCP/IP network for what ports are open, thereby
+nmap is a network diagnostic tool for showing the state and availability
+of network ports on a network interface. A common use is to scan a
+network host on a TCP/IP network for what ports are open, thereby
 allowing one to create a "map" of the network services that the machine
 provides. The nmap tool does this by sending specially crafted packets
 to a target network host and noticing the response(s). For example, a
@@ -17341,33 +17193,32 @@ network users as a way to "scope out" a system before attacking it. Like
 many diagnostic tools, nmap can be used for good or ill and network
 administrators would do well to be aware of both sides. The nmap tool is
 released under the GPL license and the latest version can be found at
-[*http://www.nmap.or*](http://www.nmap.org/)*g*.
+[http://www.nmap.or](http://www.nmap.org/)g.
 
-### **Zenmap******
+#### Zenmap
 
 Zenmap is a cross-platform GUI for nmap which runs under Linux, Windows,
 Mac OS X, BSD, etc. and can be downloaded from the nmap.org site as
 well.
 
-### netcat
+#### netcat
 
-Somewhat between **nmap******and **tcpdum****p**, **netcat******is
-another diagnostic tool for poking and prodding at ports and connections
-on a network. It takes its name from the UNIX **cat(1)******utility,
-which simply reads out whatever file you ask it to. Similarly, netcat
-reads and writes data across any arbitrary TCP or UDP port. The netcat
-utility is not a packet analyser but works on the data(payload)
-contained in the packets.
+Somewhat between nmap and tcpdump, netcat is another diagnostic tool for
+poking and prodding at ports and connections on a network. It takes its
+name from the UNIX cat(1) utility, which simply reads out whatever file
+you ask it to. Similarly, netcat reads and writes data across any
+arbitrary TCP or UDP port. The netcat utility is not a packet analyser
+but works on the data(payload) contained in the packets.
 
 For example, here is how to run a very simple 1-line, 1-time web server
 with netcat:
 
-\
+ 
 
-*{****echo****-**ne****"HTTP/1.0****200****OK\\r\\n\\r\\n";****cat****some.file;****}****|****nc****-**l****8080*
+{ echo -ne "HTTP/1.0 200 OK\\r\\n\\r\\n"; cat some.file; } | nc -l 8080
 
-The file *some.file*******will be sent to the first host that connects
-to port 8080 on the system running netcat.
+The file some.file will be sent to the first host that connects to port
+8080 on the system running netcat.
 
 The -l command tells netcat to "listen" on port 8080 and wait until it
 gets a connection.
@@ -17384,8 +17235,7 @@ You can download the latest version of netcat from
 
 It is available under a Permissive Free Software License.
 
-**What********is********norma****l****?**
------------------------------------------
+### What is normal?
 
 If you are looking for a definitive answer as to what your traffic
 patterns should look like, you are going to be disappointed.
@@ -17396,34 +17246,35 @@ you can determine what is normal for your network.
 While every environment is different, some of the factors that can
 influence the appearance of your traffic patterns are:
 
-\
+ 
 
--   The capacity of your Internet connection
+-   •The capacity of your Internet connection 
 
--   The number of users that have access to the network
+-   •The number of users that have access to the network 
 
--   The social policy (byte charging, quotas, honour system, etc.).
+-   •The social policy (byte charging, quotas, honour system, etc.).  
 
--   The number, types, and level of services offered
+-   •The number, types, and level of services offered 
 
--   The health of the network (presence of viruses, excessive
+-   •The health of the network (presence of viruses, excessive
     broadcasts, routing loops, open email relays, denial of service
-    attacks, etc.).
+    attacks, etc.).  
 
--   The competence of your computer users
+-   •The competence of your computer users 
 
--   The location and configuration of control structures (firewalls,
-    proxy servers, caches, and so on)
+-   •The location and configuration of control structures (firewalls,
+    proxy servers, caches, and so on) 
+
+     
 
 This is not a definitive list, but should give you an idea of how a wide
 range of factors can affect your bandwidth patterns.
 
-\
+ 
 
 With this in mind, let's look at the topic of baselines.
 
-**Establishing********a********baseline**
------------------------------------------
+### Establishing a baseline
 
 Since every environment is different, you need to determine for yourself
 what your traffic patterns look like under normal situations. This is
@@ -17447,15 +17298,17 @@ with such changes by trying different possible values. Knowing what the
 baseline looks like will show you whether your changes have improved
 matters, or made them worse.
 
-\
+ 
 
-![](NM/NM17.png)\
-\
+![](./NM/NM17.png)
 
-*Figure****NM****16:****By****collecting****data****over****a****long****period****of****time,****you****can****predict****the****growth****of****your****network****and****make****changes****before****problems
-develop.*
+ 
 
-\
+Figure NM 16: By collecting data over a long period of time, you can
+predict the growth of your network and make changes before problems
+develop.
+
+ 
 
 In Figure NM 16, we can see the effect of the implementation of delay
 pools on Internet utilisation around the period of May.
@@ -17473,14 +17326,15 @@ accessed or the average utilisation by your top twenty users, to
 determine if habits have simply changed. As we will see later, MRTG,
 RRDtool, and Cacti are excellent tools you can use to keep a baseline.
 
-\
+ 
 
-![](NM/NM17.png)\
-\
+![](./NM/NM17.png)
 
-*Figure****NM****17:****The****traffic****trend****at****Aidworld****logged****over****a****single****day.*
+ 
 
-\
+Figure NM 17: The traffic trend at Aidworld logged over a single day.
+
+ 
 
 Figure NM 17 shows traffic on an Aidworld firewall over a period of 24
 hours. There is nothing apparently wrong with this graph, but users were
@@ -17493,15 +17347,17 @@ finished by 09:00, but on the last day it was still running at 16:30.
 Further investigation revealed a problem with the backup software, which
 ran at 03:00 every day.
 
-\
+ 
 
-![](NM/NM18.png)\
-\
+![](./NM/NM18.png)
 
-*Figure****NM****18:****The****same****network****logged****over****an****entire****week****reveals****a****problem****with****backups,****which****caused****unexpected****congestion****for
-network****users.*
+ 
 
-\
+Figure NM 18: The same network logged over an entire week reveals a
+problem with backups, which caused unexpected congestion for network
+users.
+
+ 
 
 Figure NM 19 shows measurements of latency on the same connection as
 measured by the program called SmokePing. The position of the dots shows
@@ -17512,15 +17368,17 @@ The colour of the dots indicates the number of lost packets. This graph
 over a period of four hours does not help to identify whether there are
 any problems on the network.
 
-\
+ 
 
-![](NM/NM19.png)\
-![](NM/NM19.png)\
-\
+![](./NM/NM19.png)
 
-*Figure****NM****19:****Four****hours****of****jitter****and****packet****loss.*
+![](./NM/NM19.png)
 
-\
+ 
+
+Figure NM 19: Four hours of jitter and packet loss.
+
+ 
 
 The next graph (Figure NM 20) shows the same data over a period of 16
 hours.
@@ -17534,43 +17392,45 @@ This indicates that additional monitoring should be performed during
 these periods to establish the cause of the high latency to avoid
 problems such as the backup not completing in the future.
 
-\
+ 
 
-![](NM/NM20.png)\
-\
+![](./NM/NM20.png)
 
-*Figure****NM****20:****A****higher****spread****of****jitter****is****revealed****in****the****16****hour****log.*
+ 
 
-\
+Figure NM 20: A higher spread of jitter is revealed in the 16 hour log.
+
+ 
 
 Figure NM 21 shows that Tuesday was significantly worse than Sunday or
 Monday for latency, especially during the early morning period.
 
 This might indicate that something has changed on the network.
 
-\
+ 
 
-![](NM/NM21.png)\
-*Figure****NM****21:****Zooming****out****to****the****week****long****view****reveals****a****definite****repetition****of****increased****latency****and****packet****loss****in****the****early****morning
-hours.*
+![](./NM/NM21.png)
 
-### \
-\
+Figure NM 21: Zooming out to the week long view reveals a definite
+repetition of increased latency and packet loss in the early morning
+hours.
 
-### **How********do********I********interpret********the********traffic********grap****h****?**
+ 
+
+#### How do I interpret the traffic graph?
 
 In a basic network flow graph (such as that generated by the network
 monitor tool MRTG), the green area indicates inbound traffic, while the
 blue line indicates outbound traffic.
 
-\
+ 
 
 Inbound traffic is traffic that originates from another network
 (typically the Internet) and is addressed to a computer inside your
 network. Outbound traffic is traffic that originates from your network,
 and is addressed to a computer somewhere on the Internet.
 
-\
+ 
 
 Depending on what sort of network environment you have, the graph will
 help you understand how your network is actually being used. For
@@ -17580,18 +17440,18 @@ mail or serving web pages), while monitoring client machines might
 reveal higher amounts of inbound traffic to the machines as they receive
 data from the servers.
 
-\
+ 
 
-![](NM/NM22.png)\
-\
+![](./NM/NM22.png)
 
-\
+ 
 
-*Figure****NM****22:****The****classic****network****flow****graph.
-The****green****area****represents****inbound****traffic,****while****the****blue****line****represents****outbound****traffic.
-The****repeating****arcs****of****outbound****traffic****show****when****the****nightly****backups****have****run.*
+Figure NM 22: The classic network flow graph. The green area represents
+inbound traffic, while the blue line represents outbound traffic. The
+repeating arcs of outbound traffic show when the nightly backups have
+run.
 
-\
+ 
 
 Traffic patterns will vary with what you are monitoring. A router will
 normally show more incoming traffic than outgoing traffic as users
@@ -17603,14 +17463,16 @@ incoming traffic should look like.It is up to you to establish a
 baseline to understand what normal network traffic patterns look like on
 your network.
 
-### **Detecting********network********overload**
+#### Detecting network overload
 
 Figure NM 23 shows traffic on an overloaded Internet connection.
 
-![](NM/NM23.png)\
-\
+![](./NM/NM23.png)
 
-*Figure****NM****23:****Fla**t**-**topped****graphs****indicate****overloading****of****available****bandwidth.*
+ 
+
+Figure NM 23: Flat-topped graphs indicate overloading of available
+bandwidth.
 
 The most apparent sign of overloading is the flat tops on outbound
 traffic during the middle of every day.
@@ -17621,14 +17483,14 @@ maximum theoretical capacity of the link.
 In this case it may indicate that you are not getting as much bandwidth
 from your service provider as you expect.
 
-### **Measuring********95th********percentile**
+#### Measuring 95th percentile
 
 The 95th percentile is a widely used mathematical calculation to
 evaluate regular and sustained utilisation of a network pipe.
 
 Its value shows the highest consumption of traffic for a given period.
 
-\
+ 
 
 Calculating the 95th percentile means that 95% of the time the usage is
 below a certain amount, and 5% of the time usage is above that amount.
@@ -17636,14 +17498,15 @@ below a certain amount, and 5% of the time usage is above that amount.
 The 95th percentile is a good guideline to show bandwidth that is
 actually used at least 95% of the time.
 
-\
+ 
 
-![](NM/NM24.png)\
-\
+![](./NM/NM24.png)
 
-*Figure****NM****24:****The****horizontal****line****shows****the****95th****percentile****amount.*
+ 
 
-\
+Figure NM 24: The horizontal line shows the 95th percentile amount.
+
+ 
 
 MRTG and Cacti will calculate the 95th percentile for you.
 
@@ -17652,8 +17515,7 @@ This is a sample graph of a 960 kbps connection.
 The 95th percentile came to 945 kbps after discarding the highest 5% of
 traffic.
 
-**Monitoring********RAM********and********CPU********usage**
-------------------------------------------------------------
+### Monitoring RAM and CPU usage
 
 By definition, servers provide critical services that should always be
 available. Servers receive and respond to client machine requests,
@@ -17675,12 +17537,14 @@ Alt + Del keys, and then click on the Performance tab. On a Linux or BSD
 box, you can type top in a terminal window. To keep historical logs of
 such performance, MRTG or RRDtool can also be used.
 
-\
+ 
 
-![](NM/NM25.png)\
-\
+![](./NM/NM25.png)
 
-*Figure****NM****25:****RRDtool****can****show****arbitrary****data,****such****as****memory****and****CPU****usage,****expressed****as****an****average****over****time.*
+ 
+
+Figure NM 25: RRDtool can show arbitrary data, such as memory and CPU
+usage, expressed as an average over time.
 
 Mail servers require adequate space, as some people may prefer to leave
 their email messages on the server for long periods of time.
@@ -17704,7 +17568,7 @@ monitoring usage and telling people when they are using too much.
 Nagios can notify you when disk usage, CPU utilisation, or other system
 resources cross a critical threshold.
 
-\
+ 
 
 If a machine becomes unresponsive or slow, and measurements show that a
 system resource is being heavily used, this may be an indication that an
@@ -17722,7 +17586,7 @@ constantly swapping large amounts of data to and from the disk.
 
 This is known as thrashing, and is extremely bad for performance.
 
-\
+ 
 
 It can usually be fixed by investigating which process is using the most
 RAM, and killing or reconfiguring that process. Failing that, the system
@@ -17734,8 +17598,7 @@ entire system. Since the availability of parts and systems varies widely
 around the world, be sure to weigh the cost of parts vs. whole systems,
 including shipping and taxes, when determining the cost of upgrading.
 
-Summary
--------
+### Summary
 
 In summary in this chapter we've tried to give you an insight into how
 to monitor your network and computing resources cost effectively and
@@ -17750,13 +17613,12 @@ The end result is keeping your network and computing resources healthy
 and keeping all of your users happy with the service you are providing
 them.
 
-**17. ECONOMIC********SUSTAINABILITY**
-======================================
+17. ECONOMIC SUSTAINABILITY
+---------------------------
 
-\
+ 
 
-Introduction
-------------
+### Introduction
 
 Achieving long-term sustainability is perhaps the most difficult goal
 when designing and operating wireless networks. The prohibitive cost of
@@ -17765,27 +17627,27 @@ heavily regulated by the government, imposes a substantial operating
 expense that makes these networks sensitive to economic fluctuations and
 necessitates innovation to attain viability.
 
-\
+ 
 
 Substantial progress in the use of wireless networks for rural
 communications has been accomplished over the past few years, due in
 large part to technological breakthroughs.
 
-\
+ 
 
 Long-distance links have been constructed, high bandwidth designs are
 possible and secure means to access networks are available. In contrast,
 there have been fewer successes with the development of sustainable
 business models for wireless networks, particularly for remote areas.
 
-\
+ 
 
 Based on experiences and observations of existing networks, as well as
 knowledge from entrepreneurial development best practices, this chapter
 will focus on documenting methods for building sustainable wireless
 networks.
 
-\
+ 
 
 In the past decade, there has been tremendous growth in Internet access
 across the world. Most cities now have wireless or DSL networks and
@@ -17797,7 +17659,7 @@ challenge. There is little wired infrastructure beyond principal cities
 in many countries. Therefore, wireless remains one of the few choices
 for providing affordable Internet access.
 
-\
+ 
 
 There are now proven models for rural access using wireless. This book
 was written for those wishing to connect their communities.
@@ -17810,13 +17672,13 @@ to expand sustainable access where large telecommunications operators
 have not yet installed their networks into areas that would otherwise
 not be economically feasible by traditional models.
 
-\
+ 
 
 Two common misconceptions must be dispelled. First, many people assume
 that there is one preferred business model that will work in every
 community, and the key to success is to find that one “eureka” solution.
 
-\
+ 
 
 In practice, this is not the case. Each community, town or village is
 different. There is no prescribed model that meets the needs of all
@@ -17824,14 +17686,14 @@ areas. Despite the fact that some places may be similar in economic
 terms, the characteristics of a sustainable business model vary from
 community to community.
 
-\
+ 
 
 Although one model may work in one village, another village nearby may
 not possess the same necessary qualities for this model to be
 sustainable. In this circumstance, other innovative models must be
 customised to fit the context of this particular community.
 
-\
+ 
 
 Another misconception is that sustainability has the same definition for
 all people. Although this term generally means that a system is built to
@@ -17841,7 +17703,7 @@ sustainability. Also, instead of the horizon being indeterminate, it
 centres on a time period of five years – the period in which these ICT
 infrastructure and wireless technologies are expected to be useful.
 
-\
+ 
 
 Thus, the term sustainability will be used to encapsulate a system
 designed to persist for approximately five years. As we explained
@@ -17849,7 +17711,7 @@ earlier in the book, wireless networks in local communities often
 stimulate the growth of connectivity and usage, and the installation of
 fibre begins to become a reality.
 
-\
+ 
 
 So creating a sustainable model for your wireless network may lead to
 growth of other networks and installation of longer term greater
@@ -17861,17 +17723,17 @@ network as it grows in size and reach.
 When determining and implementing the best model for a wireless network,
 several key factors will help to ensure its success.
 
-\
+ 
 
 This chapter is not meant to be a guide for managing sustainable
 wireless networks.
 
-\
+ 
 
 Rather, this is a “how-to” guide seeking to present an approach that
 will enable you to find the model that best fits your situation.
 
-\
+ 
 
 The tools and information contained within this chapter will help people
 starting wireless networks to ask the right questions and gather the
@@ -17881,35 +17743,34 @@ where each step is followed until completion.
 
 In fact, the process is ongoing and iterative.
 
-\
+ 
 
 All of the steps are integrally connected to each other, and often you
 will revisit steps several times as you progress.
 
-**Create********a********mission********statement**
----------------------------------------------------
+### Create a mission statement
 
-What do you want to accomplish by setting up your network?
+ What do you want to accomplish by setting up your network?
 
-\
+ 
 
 It seems like a simple question. However, many wireless networks are
 installed without a clear vision of what they are doing and what they
 hope to accomplish in the future. The first step involves documenting
 this vision with the input of your entire team or staff.
 
-\
+ 
 
--   What is the purpose of the wireless network?
+-   •What is the purpose of the wireless network?  
 
--   Who does the network seek to serve?
+-   •Who does the network seek to serve?  
 
--   What does the network do to address the community’s needs and to
-    create value?
+-   •What does the network do to address the community’s needs and to
+    create value?  
 
--   What are the principles that guide the network?
+-   •What are the principles that guide the network?  
 
-\
+ 
 
 A good mission statement expresses the purpose of your network in a
 concise, meaningful way while articulating your values and services.
@@ -17917,7 +17778,7 @@ concise, meaningful way while articulating your values and services.
 Above all, your mission provides a vision of the aspirations for your
 wireless network.
 
-\
+ 
 
 It is important that every team member working to build the wireless
 network is included in the process of developing your mission, which
@@ -17925,7 +17786,7 @@ helps create further buy-in. It will garner support and commitment not
 only from your staff, but also from customers, partners and donors,
 which will further your overall objectives.
 
-\
+ 
 
 In the dynamic world of technology, the needs of customers and the best
 way to satisfy those needs change rapidly; therefore, the development of
@@ -17937,8 +17798,7 @@ realities of your environment. Based on an analysis of the external
 environment and your internal competencies, you must constantly modify
 the mission throughout the life-cycle of the wireless network.
 
-**Evaluate********the********demand********for********potential********offerings**
-----------------------------------------------------------------------------------
+### Evaluate the demand for potential offerings
 
 The next step in deriving your business model involves assessing the
 community’s demand for the network’s products and services. First,
@@ -17947,28 +17807,28 @@ have a need for information and would benefit from the wireless
 network’s offerings. Potential users could consist of a wide variety of
 individuals and organisations that include, but are not limited to:
 
-\
+ 
 
--   Farmers’ associations and cooperatives
+-   •Farmers’ associations and cooperatives  
 
--   Women’s groups
+-   •Women’s groups 
 
--   Schools and universities
+-   •Schools and universities  
 
--   Businesses and local entrepreneurs
+-   •Businesses and local entrepreneurs  
 
--   Health clinics and hospitals
+-   •Health clinics and hospitals  
 
--   Religious groups
+-   •Religious groups 
 
--   International and local non-governmental organizations (NGOs) Local
-    and national government agencies
+-   •International and local non-governmental organizations (NGOs) Local
+    and national government agencies 
 
--   Radio stations
+-   •Radio stations 
 
--   Organisations in the tourist industry
+-   •Organisations in the tourist industry 
 
-\
+ 
 
 Once you establish a list of all the potential user groups of the
 network, you must determine their needs for access to information and
@@ -18024,8 +17884,7 @@ Your entire network should be based on the demand in the community.
 If you set up a wireless network in which the community does not find
 value or cannot afford its services, it will ultimately fail.
 
-**Establish********appropriate********incentives**
---------------------------------------------------
+### Establish appropriate incentives
 
 Often, there is little economic incentive for subsistence-based economic
 participants to access the Internet.
@@ -18053,17 +17912,17 @@ from the outside.
 
 To begin, you should try to answer the following questions:
 
-\
+ 
 
-1.  What economic value can this network generate for the local economy
-    and for whom?
+1.  1.  1.What economic value can this network generate for the local
+        economy and for whom? 
 
-2.  How much perceivable economic value can be generated?
+    2.  2.How much perceivable economic value can be generated? 
 
-3.  Can present impediments be overcome to allow the achievement of
-    these economic returns?
+    3.  3.Can present impediments be overcome to allow the achievement
+        of these economic returns? 
 
-\
+ 
 
 By answering these questions, the network will be able to clearly
 articulate its value proposition for its users. For example, “By using
@@ -18089,8 +17948,7 @@ access to images and other bandwidth intensive services. Again, knowing
 how much value your network will create for these merchants will allow
 you to gauge how much they will be able to afford for your services.
 
-**Research********the********regulatory********environment********for********wireless**
----------------------------------------------------------------------------------------
+### Research the regulatory environment for wireless
 
 The regulatory environment for wireless networks also affects the type
 of business model that can be implemented.
@@ -18128,8 +17986,7 @@ your own country what is legally allowed. You can start by checking
 wikipedia -
 [http://en.wikipedia.org/wiki/Voice\_over\_I](http://en.wikipedia.org/wiki/Voice_over_IP)P
 
-**Analyse********the********competition**
------------------------------------------
+### Analyse the competition
 
 The next phase in the evaluation of your community involves an analysis
 of the wireless network’s competition. Competitors include organisations
@@ -18169,15 +18026,14 @@ the competition.
 For example, a wireless network that can exclusively offer a faster
 Internet connection than a competitor is a competitive advantage.
 
-**Determine********initial********and********recurring********costs********and********pricing**
------------------------------------------------------------------------------------------------
+### Determine initial and recurring costs and pricing
 
 When you are planning to set up and operate your wireless network, you
 must determine the resources needed to start your project and the
 recurring operating costs. Start-up costs include everything you must
 purchase to start your wireless network.
 
-\
+ 
 
 These expenses can range from the initial investment you make in
 hardware, access to towers and so on plus equipment for access points,
@@ -18193,7 +18049,7 @@ obsolete equipment.
 Every piece of equipment will eventually break down or become outdated
 at some point, and you should set aside extra money for this purpose.
 
-\
+ 
 
 An advisable and very common method to deal with this is to take the
 price of the device and divide it by the period of time you estimate
@@ -18220,7 +18076,7 @@ realistic estimations of your recurring expenses.
 
 It is always better to over-budget for expenses than to under-budget.
 
-\
+ 
 
 With every wireless project, there are always unforeseen costs,
 especially during the first year of operations as you learn how to
@@ -18229,84 +18085,85 @@ categories of costs that you should include, both in start-up phase and
 for your recurring costs, just to give you an idea of how to get started
 on calculating your costs:-
 
-**Categories********of********Costs**
--------------------------------------
+### Categories of Costs
 
-***Labour************costs************-***
+Labour costs -
 
--   Check ups (analyses) and consultancies
+-   •Check ups (analyses) and consultancies 
 
--   Development costs for programming, testing, integration etc.
+-   •Development costs for programming, testing, integration etc.  
 
--   Installation costs
+-   •Installation costs 
 
--   Recruiting costs
+-   •Recruiting costs 
 
--   Training costs (introduction and on-going)
+-   •Training costs (introduction and on-going) 
 
--   Handling costs / salaries for employees or freelancers, including
-    yourself
+-   •Handling costs / salaries for employees or freelancers, including
+    yourself  
 
--   Equipment maintenance staff costs
+-   •Equipment maintenance staff costs 
 
--   Software support staff costs
+-   •Software support staff costs  
 
--   Security personnel
+-   •Security personnel 
 
-\
+ 
 
-***No******n******-******labour************costs************-***
+Non-labour costs -
 
--   Acquisition and production costs (for hardware like PCs, VSAT, radio
-    link equipment and software)
+-   •Acquisition and production costs (for hardware like PCs, VSAT,
+    radio link equipment and software)  
 
--   Ancillary equipment (e.g., switches, cables and cabling, generator,
-    UPS, etc.)
+-   •Ancillary equipment (e.g., switches, cables and cabling, generator,
+    UPS, etc.) 
 
--   Data protection and security
+-   •Data protection and security 
 
--   Start-up inventory (chairs, tables, lighting, curtains, tiles and
-    carpeting)
+-   •Start-up inventory (chairs, tables, lighting, curtains, tiles and
+    carpeting) 
 
--   Premises costs (new building, modification, air conditioning,
-    electrical wiring and boxes, security grills)
+-   •Premises costs (new building, modification, air conditioning,
+    electrical wiring and boxes, security grills)  
 
--   Legal costs, such as business registration
+-   •Legal costs, such as business registration 
 
--   Initial license costs (VSAT)
+-   •Initial license costs (VSAT) 
 
--   Initial marketing costs (flyers, stickers, posters, opening party)
+-   •Initial marketing costs (flyers, stickers, posters, opening party) 
 
--   Operating costs for hardware and operating systems (Internet access,
-    telephone, etc.)
+-   •Operating costs for hardware and operating systems (Internet
+    access, telephone, etc.)  
 
--   Rent or leasing rates (for tower space for example)
+-   •Rent or leasing rates (for tower space for example) 
 
--   Depreciation of hardware and equipment
+-   •Depreciation of hardware and equipment  
 
--   License fees
+-   •License fees 
 
--   Consumables and office supplies (e.g., data media, paper, binds,
-    clips)
+-   •Consumables and office supplies (e.g., data media, paper, binds,
+    clips)  
 
--   Operational costs to maintain data protection and security
+-   •Operational costs to maintain data protection and security 
 
--   Insurance premiums
+-   •Insurance premiums 
 
--   Costs for energy and to ensure power supply
+-   •Costs for energy and to ensure power supply 
 
--   Loan payments, capital costs for paying back your setup costs
+-   •Loan payments, capital costs for paying back your setup costs 
 
--   Costs for advertising
+-   •Costs for advertising 
 
--   Local fees
+-   •Local fees 
 
--   Legal and accounting services
+-   •Legal and accounting services 
+
+     
 
 To improve your chances of sustainability, it is generally best to
 maintain the lowest cost structure for your network.
 
-\
+ 
 
 In other words, keep your expenses as low as possible.
 
@@ -18324,7 +18181,7 @@ alternative method of connectivity may be more appropriate. Do not be
 afraid to think outside the box and be creative when determining the
 best solution.
 
-\
+ 
 
 Keeping your costs down should not be at the cost of quality. Because
 low-quality equipment is more likely to malfunction, you could be
@@ -18361,30 +18218,29 @@ cheaper (or better) devices to keep your infrastructure competitive and
 up-to-date. As mentioned before, it is highly important that you save
 enough to be able to do so, when necessary.
 
-\
+ 
 
 Once you have identified and mapped out your costs, you should also
 determine what and how to charge for your services. This is a
 complicated and time-consuming process to do correctly. These key tips
 will assist when making pricing decisions:
 
-\
+ 
 
--   Calculate the prices you charge so that you cover all costs to
-    provide the service, including all recurring expenses
+-   •Calculate the prices you charge so that you cover all costs to
+    provide the service, including all recurring expenses  
 
--   Examine the prices of your competitors.
+-   •Examine the prices of your competitors. 
 
--   Evaluate what your customers are willing and able to pay for your
-    services, and make sure your prices correspond with these
+-   •Evaluate what your customers are willing and able to pay for your
+    services, and make sure your prices correspond with these 
 
-\
+ 
 
 It is absolutely essential to make a financial plan before you start to
 find out if your project can be sustainable.
 
-**Secure********the********financing**
---------------------------------------
+### Secure the financing
 
 Once you have determined your initial and recurring costs and created
 your financial plan, you know how much financing you will need to run a
@@ -18413,7 +18269,7 @@ Development Agency (CIDA), are also considered donors. Large foundations
 like the Gates Foundation and the Soros Foundation and private
 commercial companies are other types of donors.
 
-\
+ 
 
 Typically, receiving funding involves a competitive or a non-competitive
 process. The non-competitive process is more infrequent, so we will
@@ -18435,7 +18291,7 @@ Sometimes donors also supply funding to support an organisation’s
 operations, but this type of funding is more unusual than the
 competitive bid process for a specific project.
 
-\
+ 
 
 Another way of accessing the necessary funds to start and maintain a
 wireless network is through microfinance, or the provision of loans,
@@ -18455,7 +18311,7 @@ submitting a loan application in the hopes of receiving a loan, and the
 lender, the individual or organisation that provides the loan, giving
 money on condition that it is returned with interest.
 
-\
+ 
 
 The use of microcredit to fund wireless networks does pose one
 constraint. Usually, microcredit involves very small sums of money.
@@ -18472,7 +18328,7 @@ They then rent the use of their mobile phones to community members on a
 per-call basis and earn enough money to repay their debt and make a
 profit for themselves and their families.
 
-\
+ 
 
 Another mechanism for getting funding to start a wireless network is
 angel funding. Angel investors are normally wealthy individuals that
@@ -18498,8 +18354,7 @@ impossible.
 The best way to find potential investors is through your social network
 and through research online.
 
-**Evaluate********the********strengths********and********weaknesses********of********the********internal situation**
---------------------------------------------------------------------------------------------------------------------
+### Evaluate the strengths and weaknesses of the internal situation
 
 A network is only as good as the people who work and operate it.
 
@@ -18521,7 +18376,7 @@ gaps. One tool often used to assist with this self-evaluation is an
 analysis of strengths, weaknesses, opportunities and threats, called
 SWOT.
 
-\
+ 
 
 To conduct this analysis, specify your internal strengths and
 weaknesses, and elaborate upon the external opportunities and threats in
@@ -18534,7 +18389,7 @@ strengths and weaknesses allow you to evaluate your capacities
 internally and better understand what your organisation can do, as well
 as its limits.
 
-\
+ 
 
 By understanding your strengths and weaknesses and comparing them to
 those of your competitors, you can determine your competitive advantages
@@ -18544,7 +18399,7 @@ You can also note the areas where you can improve. Opportunities and
 threats are external, which enable you to analyse real world conditions
 and how these conditions influence your network.
 
-\
+ 
 
 The diagram on the next page will help you in creating your own SWOT
 analysis for your organisation.
@@ -18552,13 +18407,13 @@ analysis for your organisation.
 Be sure to respond to the questions asked and list your strengths,
 weaknesses, opportunities and threats in the spaces designated.
 
-\
+ 
 
-\
+ 
 
-**Strengths**
+Strengths
 
-**Weaknesses**
+Weaknesses
 
 What do you do well?
 
@@ -18571,9 +18426,9 @@ Where do you have fewer resources than others?
 
 What are others likely to see as weaknesses?
 
-**Opportunities**
+Opportunities
 
-**Threats**
+Threats
 
 What good opportunities are open to you? What trends could you take
 advantage of? How can you turn your strengths into opportunities?
@@ -18582,8 +18437,7 @@ What trends could harm you? What is your competition doing?
 
 What threats do your weaknesses expose you to?
 
-**Putting********it********all********together**
-------------------------------------------------
+### Putting it all together
 
 Once you have gathered all of the information, you are ready to put
 everything together and decide upon the best model for the wireless
@@ -18627,31 +18481,32 @@ Although the centre added great value to the community, it did have some
 shortcomings, primarily technical, economic, and political issues that
 limited its sustainability.
 
-\
+ 
 
 A study was commissioned to consider options for its future.
 
 After reviewing the centre’s cost structure, it was determined that it
 needed to cut its costs and look for new ways to increase its revenues.
 
-\
+ 
 
 The largest expenses were electricity and Internet access; therefore,
 creative models needed to be constructed to reduce the telecentre’s
 costs and provide access in a way that was sustainable.
 
-\
+ 
 
-\
+ 
 
-![](ES/ES1.png)\
-\
+![](./ES/ES1.png)
 
-*Figure****ES****1:****Shared****Internet****over****wireless*
+ 
 
-\
+Figure ES 1: Shared Internet over wireless
 
-\
+ 
+
+ 
 
 In this instance, a traditional VSAT had been used for connectivity.
 
@@ -18673,14 +18528,15 @@ general business operations of the entire network.
 Therefore, this model worked well in Vanga because it had been tailored
 to meet community demand and leverage local economic resources.
 
-\
+ 
 
-![](ES/ES2.png)\
-\
+![](./ES/ES2.png)
 
-*Figure****ES****2:****DakNet's****roaming****access****point*
+ 
 
-\
+Figure ES 2: DakNet's roaming access point
+
+ 
 
 Another example of a model adapted to fit the local context is that of
 First Mile Solutions’ DakNet. This model has been deployed in villages
@@ -18722,8 +18578,7 @@ Finally, to ensure this model will sustain itself, there should be
 sufficient demand for information and communication and few competitors
 in the community.
 
-Conclusion
-----------
+### Conclusion
 
 No single business model will enable wireless networks to be sustainable
 in all environments; different models must be used and adapted as the
@@ -18738,1606 +18593,1536 @@ by using the methods detailed in this chapter, you will help to ensure
 that your network brings value to the community in a way that
 corresponds with the users’ needs.
 
-\
+ 
 
-\
+ 
 
-**GLOSSARY**
+5GLOSSARY
+=========
 
 Glossary
-========
+--------
 
-#### 0 - 9
+0 - 9
 
-***802.11.*** While 802.11 is a wireless protocol in its own right,
-802.11 is often used to refer to a family of wireless networking
-protocols used mainly for local area networking. Three popular variants
-include 802.11b, 802.11g, and 802.11a. See also: ***Wi-Fi.***
+802.11. While 802.11 is a wireless protocol in its own right, 802.11 is
+often used to refer to a family of wireless networking protocols used
+mainly for local area networking. Three popular variants include
+802.11b, 802.11g, and 802.11a. See also: Wi-Fi.
 
-#### A
+A
 
-***AC***see ***Alternating Current***
+AC see Alternating Current
 
-***access point (AP).*** A device that creates a wireless network that
-is usually connected to a wired Ethernet network. See also: ***CPE,
-master mode***
+access point (AP). A device that creates a wireless network that is
+usually connected to a wired Ethernet network. See also: CPE, master
+mode
 
-***accumulator.*** Another name for a ***battery***.
+accumulator. Another name for a battery.
 
-***ad-hoc mode.*** A radio mode used by 802.11 devices that allows the
+ad-hoc mode. A radio mode used by 802.11 devices that allows the
 creation of a network without an access point. Mesh networks often use
-radios in ad-hoc mode. See also: ***managed mode, master mode, monitor
-mode***
+radios in ad-hoc mode. See also: managed mode, master mode, monitor mode
 
-***Address Resolution Protocol (ARP).***A protocol widely used on
-Ethernet networks to translate IP addresses into MAC addresses.
+Address Resolution Protocol (ARP). A protocol widely used on Ethernet
+networks to translate IP addresses into MAC addresses.
 
-***address space.***A group of IP addresses that all reside within the
-same logical subnet.
+address space. A group of IP addresses that all reside within the same
+logical subnet.
 
-***advertised window.***The portion of a TCP header that specifies how
-many additional bytes of data the receiver is prepared to accept.
+advertised window. The portion of a TCP header that specifies how many
+additional bytes of data the receiver is prepared to accept.
 
-***Alternating Current (AC).*** An electrical current which varies over
-time in a cyclic manner. AC current is typically used for lighting and
-appliances. See also: ***Direct Current***
+Alternating Current (AC). An electrical current which varies over time
+in a cyclic manner. AC current is typically used for lighting and
+appliances. See also: Direct Current
 
-***amortization.***An accounting technique used to manage the expected
-cost of replacement and obsolescence of equipment over time.
+amortization. An accounting technique used to manage the expected cost
+of replacement and obsolescence of equipment over time.
 
-***amplifier.***A device used to increase the transmitted power of a
-wireless device.
+amplifier. A device used to increase the transmitted power of a wireless
+device.
 
-***amplitude.*** The distance from the center of a wave to the extreme
-of one of its peaks.
+amplitude. The distance from the center of a wave to the extreme of one
+of its peaks.
 
-***anchor clients.***Business clients of a subscription system who are
+anchor clients. Business clients of a subscription system who are
 reliable and can be considered low-risk.
 
-***AND logic.*** A logical operation that only evaluates as true if all
-of the items being compared also evaluate as true. See also: ***OR
-logic***.
+AND logic. A logical operation that only evaluates as true if all of the
+items being compared also evaluate as true. See also: OR logic.
 
-***anonymizing proxy.*** A network service that hides the source or
+anonymizing proxy. A network service that hides the source or
 destination of communications. Anonymizing proxies can be used to
 protect people's privacy and to reduce an organization's exposure to
 legal liability for the actions of its users.
 
-***anonymity.*** In computer networks, communications that cannot be
-linked to a unique individual are said to be anonymous. The trade-off of
-anonymity versus accountability in communications is an ongoing debate
-online, and rules about anonymous communications vary widely around the
-world. See also: ***authenticated***
+anonymity. In computer networks, communications that cannot be linked to
+a unique individual are said to be anonymous. The trade-off of anonymity
+versus accountability in communications is an ongoing debate online, and
+rules about anonymous communications vary widely around the world. See
+also: authenticated
 
-***antenna diversity.*** A technique used to overcome multipath
-interference by using two or more physically separated receiving
-antennas.
+antenna diversity. A technique used to overcome multipath interference
+by using two or more physically separated receiving antennas.
 
-***antenna gain.***The amount of power concentrated in the direction of
+antenna gain. The amount of power concentrated in the direction of
 strongest radiation of an antenna, usually expressed in dBi. Antenna
 gain is reciprocal, which means that the effect of gain is present when
 transmitting as well as receiving.
 
-***antenna pattern.*** A graph that describes the relative strength of a
+antenna pattern. A graph that describes the relative strength of a
 radiated field in various directions from an antenna. See also:
-***rectangular plot, polar plot, linear polar coordinates, logarithmic
-polar coordinates***
+rectangular plot, polar plot, linear polar coordinates, logarithmic
+polar coordinates
 
-***AP*** see ***Access Point***
+AP see Access Point
 
-***application layer.***The topmost layer in the OSI and TCP/IP network
+application layer. The topmost layer in the OSI and TCP/IP network
 models.
 
-***Argus***see ***Audit Record Generation and Utilization System***
+Argus see Audit Record Generation and Utilization System
 
-***ARP*** see ***Address Resolution Protocol***
+ARP see Address Resolution Protocol
 
-***associated.*** An 802.11 radio is associated to an access point when
-it is ready to communicate with the network. This means that it is tuned
-to the proper channel, in range of the AP, using the correct SSID and
-other authentication parameters, etc.
+associated. An 802.11 radio is associated to an access point when it is
+ready to communicate with the network. This means that it is tuned to
+the proper channel, in range of the AP, using the correct SSID and other
+authentication parameters, etc.
 
-***at.*** A Unix facility that allows timed, one-shot execution of
-programs. See also: ***cron***
+at. A Unix facility that allows timed, one-shot execution of programs.
+See also: cron
 
-***attenuation.***The reduction of available radio power as it is
-absorbed along a path, such as through trees, walls, buildings, or other
-objects. See also: ***free space loss, scattering***
+attenuation. The reduction of available radio power as it is absorbed
+along a path, such as through trees, walls, buildings, or other objects.
+See also: free space loss, scattering
 
-***Audit Record Generation and Utilization System (Argus).***An open
-source network monitoring tool used for tracking flows between hosts.
-Argus is available from *http://www.qosient.com/argus* .
+Audit Record Generation and Utilization System (Argus). An open source
+network monitoring tool used for tracking flows between hosts. Argus is
+available from http://www.qosient.com/argus .
 
-***authenticated.*** A network user that has proven their identity to a
+authenticated. A network user that has proven their identity to a
 service or device (such as an access point) beyond a shadow of a doubt,
-usually by some means of cryptography. See also: ***anonymity***
+usually by some means of cryptography. See also: anonymity
 
-***azimuth.*** The angle that measures deviation with respect to the
-south in the northern hemisphere, and with respect to the north in the
-southern hemisphere. See also: ***inclination***
+azimuth. The angle that measures deviation with respect to the south in
+the northern hemisphere, and with respect to the north in the southern
+hemisphere. See also: inclination
 
-#### B
+B
 
-***bandwidth.***A measure of frequency ranges, typically used for
-digital communications. The word bandwidth is also commonly used
-interchangeably with ***capacity*** to refer to the theoretical maximum
-data rate of a digital communications line. See also: ***capacity,
-channel, throughput***
+bandwidth. A measure of frequency ranges, typically used for digital
+communications. The word bandwidth is also commonly used interchangeably
+with capacity to refer to the theoretical maximum data rate of a digital
+communications line. See also: capacity, channel, throughput
 
-***battery.*** A device used to store energy in a photovoltaic system.
-See also: ***solar panel, regulator, load, converter, inverter***
+battery. A device used to store energy in a photovoltaic system. See
+also: solar panel, regulator, load, converter, inverter
 
-***beamwidth.*** The angular distance between the points on either side
-of the main lobe of an antenna, where the received power is half that of
-the main lobe. The beamwidth of an antenna is usually stated for both
-the horizontal and vertical planes.
+beamwidth. The angular distance between the points on either side of the
+main lobe of an antenna, where the received power is half that of the
+main lobe. The beamwidth of an antenna is usually stated for both the
+horizontal and vertical planes.
 
-***benchmarking.***Testing the maximum performance of a service or
-device. Benchmarking a network connection typically involves flooding
-the link with traffic and measuring the actual observed throughput, both
-on transmit and receive.
+benchmarking. Testing the maximum performance of a service or device.
+Benchmarking a network connection typically involves flooding the link
+with traffic and measuring the actual observed throughput, both on
+transmit and receive.
 
-***BGAN*** see ***Broadband Global Access Network***
+BGAN see Broadband Global Access Network
 
-***BNC connector.*** A coaxial cable connector that uses a
-"quick-connect" style bayonet lug. BNC connectors are typically found on
-10base2 coaxial Ethernet.
+BNC connector. A coaxial cable connector that uses a "quick-connect"
+style bayonet lug. BNC connectors are typically found on 10base2 coaxial
+Ethernet.
 
-***bridge.***A network device that connects two networks together at the
-***data link layer***. Bridges do not route packets at the ***network
-layer***. They simply repeat packets between two ***link-local***
-networks. See also: ***router*** and ***transparent bridging
-firewall***.
+bridge. A network device that connects two networks together at the data
+link layer. Bridges do not route packets at the network layer. They
+simply repeat packets between two link-local networks. See also: router
+and transparent bridging firewall.
 
-***bridge-utils.*** A Linux software package that is required for
-creating 802.1d Ethernet bridges. *http://bridge.sourceforge.net/*
+bridge-utils. A Linux software package that is required for creating
+802.1d Ethernet bridges. http://bridge.sourceforge.net/
 
-***Broadband Global Access Network (BGAN)***. One of several standards
-used for satellite Internet access. See also: ***Digital Video Broadcast
-(DVB-S)*** and ***Very Small Aperture Terminal (VSAT)***.
+Broadband Global Access Network (BGAN). One of several standards used
+for satellite Internet access. See also: Digital Video Broadcast (DVB-S)
+and Very Small Aperture Terminal (VSAT).
 
-***broadcast address.***On IP networks, the broadcast IP address is used
-to send data to all hosts in the local subnet. On Ethernet networks, the
+broadcast address. On IP networks, the broadcast IP address is used to
+send data to all hosts in the local subnet. On Ethernet networks, the
 broadcast MAC address is used to send data to all machines in the same
 collision domain.
 
-***bypass diodes.*** A feature found on some solar panels that prevents
-the formation of ***hot-spots*** on shaded cells, but reduces the
-maximum voltage of the panel.
+bypass diodes. A feature found on some solar panels that prevents the
+formation of hot-spots on shaded cells, but reduces the maximum voltage
+of the panel.
 
-#### C
+C
 
-***CA*** see ***Certificate Authority***
+CA see Certificate Authority
 
-***Cacti***(*http://www.cacti.net/*). A popular web-based monitoring
-tool written in PHP.
+Cacti (http://www.cacti.net/). A popular web-based monitoring tool
+written in PHP.
 
-***capacity.***The theoretical maximum amount of traffic provided by a
-digital communications line. Often used interchangeably with
-***bandwidth***.
+capacity. The theoretical maximum amount of traffic provided by a
+digital communications line. Often used interchangeably with bandwidth.
 
-***captive portal.***A mechanism used to transparently redirect web
-browsers to a new location. Captive portals are often used for
-authentication or for interrupting a user's online session (for example,
-to display an Acceptable Use Policy).
+captive portal. A mechanism used to transparently redirect web browsers
+to a new location. Captive portals are often used for authentication or
+for interrupting a user's online session (for example, to display an
+Acceptable Use Policy).
 
-***cell.*** Solar panels are made up of several individual cells, which
-are electrically connected to provide a particular value of current and
+cell. Solar panels are made up of several individual cells, which are
+electrically connected to provide a particular value of current and
 voltage. Batteries are also made up of individual cells connected in
 series, each of which contributes about 2 volts to the battery.
 
-***Certificate Authority.*** A trusted entity that issues signed
-cryptographic keys. See also: ***Public Key Infrastructure, SSL***
+Certificate Authority. A trusted entity that issues signed cryptographic
+keys. See also: Public Key Infrastructure, SSL
 
-***channel capacity.*** The maximum amount of information that can be
-sent using a given bandwidth. See also: ***bandwidth, throughput, data
-rate***
+channel capacity. The maximum amount of information that can be sent
+using a given bandwidth. See also: bandwidth, throughput, data rate
 
-***channel.***A well defined range of frequencies used for
-communications. 802.11 channels use 22 MHz of bandwidth, but are only
-separated by 5 MHz. See also: ***Appendix B.***
+channel. A well defined range of frequencies used for communications.
+802.11 channels use 22 MHz of bandwidth, but are only separated by 5
+MHz. See also: Appendix B.
 
-***CIDR***see ***Classless Inter-Domain Routing***
+CIDR see Classless Inter-Domain Routing
 
-***CIDR notation.***A method used to define a network mask by specifying
-the number of bits present. For example, the netmask 255.255.255.0 can
-be specified as /24 in CIDR notation.
+CIDR notation. A method used to define a network mask by specifying the
+number of bits present. For example, the netmask 255.255.255.0 can be
+specified as /24 in CIDR notation.
 
-***circular polarization.*** An electro-magnetic field where the
-electric field vector appears to be rotating with circular motion about
-the direction of propagation, making one full turn for each RF cycle.
-See also: ***horizontal polarization, vertical polarization***
+circular polarization. An electro-magnetic field where the electric
+field vector appears to be rotating with circular motion about the
+direction of propagation, making one full turn for each RF cycle. See
+also: horizontal polarization, vertical polarization
 
-***Class A, B, and C networks.*** For some time, IP address space was
+Class A, B, and C networks. For some time, IP address space was
 allocated in blocks of three different sizes. These were Class A (about
 16 million addresses), Class B (about 65 thousand addresses), and Class
 C (255 addresses). While CIDR has replaced class-based allocation, these
 classes are often still referred to and used internally in organizations
-using private address space. See also: ***CIDR notation***.
+using private address space. See also: CIDR notation.
 
-***Classless Inter-Domain Routing.***CIDR was developed to improve
-routing efficiency on the Internet backbone by enabling route
-aggregation and network masks of arbitrary size. CIDR replaces the old
-class-based addressing scheme. See also: ***Class A, B, and C
-networks***.
+Classless Inter-Domain Routing. CIDR was developed to improve routing
+efficiency on the Internet backbone by enabling route aggregation and
+network masks of arbitrary size. CIDR replaces the old class-based
+addressing scheme. See also: Class A, B, and C networks.
 
-***client.*** An 802.11 radio card in ***managed mode***. Wireless
-clients will join a network created by an access point, and
-automatically change the channel to match it. See also: ***access point,
-mesh***
+client. An 802.11 radio card in managed mode. Wireless clients will join
+a network created by an access point, and automatically change the
+channel to match it. See also: access point, mesh
 
-***closed network.*** An access point that does not broadcast its SSID,
-often used as a security measure.
+closed network. An access point that does not broadcast its SSID, often
+used as a security measure.
 
-***coax.***A round (coaxial) cable with a center wire surrounded by a
+coax. A round (coaxial) cable with a center wire surrounded by a
 dielectric, outer conductor, and tough insulating jacket. Antenna cables
 are usually made of coax. Coax is short for "of common axis".
 
-***collision.***On an Ethernet network, a collision occurs when two
-devices connected to the same physical segment attempt to transmit at
-the same time. When collisions are detected, devices delay
-retransmission for a brief, randomly selected period.
+collision. On an Ethernet network, a collision occurs when two devices
+connected to the same physical segment attempt to transmit at the same
+time. When collisions are detected, devices delay retransmission for a
+brief, randomly selected period.
 
-***conductor.*** A material that easily allows electric or thermal
-energy to flow through without much resistance. See also: ***dielectric,
-insulator***
+conductor. A material that easily allows electric or thermal energy to
+flow through without much resistance. See also: dielectric, insulator
 
-***connectionless protocol.***A network protocol (such as UDP) that
-requires no session initiation or maintenance. Connectionless protocols
-typically require less overhead than session oriented protocols, but do
-not usually offer data protection or packet reassembly. See also:
-***session oriented protocol***.
+connectionless protocol. A network protocol (such as UDP) that requires
+no session initiation or maintenance. Connectionless protocols typically
+require less overhead than session oriented protocols, but do not
+usually offer data protection or packet reassembly. See also: session
+oriented protocol.
 
-***consistent platform.*** Maintenance costs can be reduced by using a
+consistent platform. Maintenance costs can be reduced by using a
 consistent platform, with the same hardware, software, and firmware for
 many components in a network.
 
-***constructive interference.*** When two identical waves merge and are
-in phase, the amplitude of the resulting wave is twice that of either of
+constructive interference. When two identical waves merge and are in
+phase, the amplitude of the resulting wave is twice that of either of
 the components. This is called constructive interference. See also:
-***destructive interference***
+destructive interference
 
-***controls.***In ***NEC2***, controls define the RF source in an
-antenna model. See also:***structure***
+controls. In NEC2, controls define the RF source in an antenna model.
+See also: structure
 
-***converter.*** A device used to convert DC signals into a different DC
-or AC voltage. See also: ***inverter***
+converter. A device used to convert DC signals into a different DC or AC
+voltage. See also: inverter
 
-***CPE*** see ***Customer Premises Equipment***
+CPE see Customer Premises Equipment
 
-***cron.***A Unix facility that allows timed and repeated execution of
-programs. See also: ***at***
+cron. A Unix facility that allows timed and repeated execution of
+programs. See also: at
 
-***Customer Premises Equipment.***Network equipment (such as a
-***router*** or ***bridge***) that is installed at a customer's
-location.
+Customer Premises Equipment. Network equipment (such as a router or
+bridge) that is installed at a customer's location.
 
-#### D
+D
 
-***data link layer.***The second layer in both the OSI and TCP/IP
-network models. Communications at this layer happen directly between
-nodes. On Ethernet networks, this is also sometimes called the MAC
-layer.
+data link layer. The second layer in both the OSI and TCP/IP network
+models. Communications at this layer happen directly between nodes. On
+Ethernet networks, this is also sometimes called the MAC layer.
 
-***data rate.***The speed at which 802.11 radios exchange symbols, which
-is always higher than the available throughput. For example, the nominal
+data rate. The speed at which 802.11 radios exchange symbols, which is
+always higher than the available throughput. For example, the nominal
 data rate of 802.11g is 54 Mbps, while the maximum throughput is about
-20 Mbps). See also: ***throughput***
+20 Mbps). See also: throughput
 
-***dB*** see ***decibel***
+dB see decibel
 
-***DC*** see ***Direct Current***
+DC see Direct Current
 
-***DC/AC Converter.***A device that converts DC power into AC power,
-suitable for use with many appliances. Also known as an ***inverter***.
+DC/AC Converter. A device that converts DC power into AC power, suitable
+for use with many appliances. Also known as an inverter.
 
-***DC/DC Converter.***A device that changes the voltage of a DC power
-source. See also: ***linear conversion, switching conversion***
+DC/DC Converter. A device that changes the voltage of a DC power source.
+See also: linear conversion, switching conversion
 
-***decibel (dB).***A logarithmic unit of measurement that expresses the
+decibel (dB). A logarithmic unit of measurement that expresses the
 magnitude of power relative to a reference level. Commonly used units
 are dBi (decibels relative to an isotropic radiator) and dBm (decibels
 relative to a milliwatt).
 
-***default gateway.***When a router receives a packet destined for a
-network for which it has no explicit route, the packet is forwarded to
-the default gateway. The default gateway then repeats the process,
-possibly sending the packet to its own default gateway, until the packet
-reaches its ultimate destination.
+default gateway. When a router receives a packet destined for a network
+for which it has no explicit route, the packet is forwarded to the
+default gateway. The default gateway then repeats the process, possibly
+sending the packet to its own default gateway, until the packet reaches
+its ultimate destination.
 
-***default route.*** A network route that points to the default gateway.
+default route.  A network route that points to the default gateway.
 
-***Denial of Service (DoS).***An attack on network resources, usually
+Denial of Service (DoS). An attack on network resources, usually
 achieved by flooding a network with traffic or exploiting a bug in an
 application or network protocol.
 
-***depreciation.***An accounting method used to save money to cover the
+depreciation. An accounting method used to save money to cover the
 eventual break down of equipment.
 
-***destructive interference.***When two identical waves merge and are
-exactly out of phase, the amplitude of the resulting wave is zero. This
-is called destructive interference. See also: ***constructive
-interference***
+destructive interference. When two identical waves merge and are exactly
+out of phase, the amplitude of the resulting wave is zero. This is
+called destructive interference. See also: constructive interference
 
-***DHCP*** see ***Dynamic Host Configuration Protocol***
+DHCP see Dynamic Host Configuration Protocol
 
-***dielectric.*** A non-conductive material that separates conducting
-wires inside a cable.
+dielectric. A non-conductive material that separates conducting wires
+inside a cable.
 
-***Digital Elevation Map (DEM).***Data that represents the height of
-terrain for a given geographic area. These maps are used by programs
-such as ***Radio Mobile*** to model electromagnetic propagation.
+Digital Elevation Map (DEM). Data that represents the height of terrain
+for a given geographic area. These maps are used by programs such as
+Radio Mobile to model electromagnetic propagation.
 
-***Digital Video Broadcast (DVB-S)***. One of several standards used for
-satellite Internet access. See also: ***Broadband Global Access Network
-(BGAN)*** and ***Very Small Aperture Terminal (VSAT)***.
+Digital Video Broadcast (DVB-S). One of several standards used for
+satellite Internet access. See also: Broadband Global Access Network
+(BGAN) and Very Small Aperture Terminal (VSAT).
 
-***dipole antenna.*** The simplest form of ***omnidirectional
-antenna***.
+dipole antenna. The simplest form of omnidirectional antenna.
 
-***Direct Current (DC).***An electrical current which remains constant
-over time. DC current is typically used for network equipment, such as
-access points and routers. See also: ***Alternating Current***
+Direct Current (DC). An electrical current which remains constant over
+time. DC current is typically used for network equipment, such as access
+points and routers. See also: Alternating Current
 
-***Direct Sequence Spread Spectrum (DSSS).*** The radio modulation
-scheme used by 802.11b.
+Direct Sequence Spread Spectrum (DSSS). The radio modulation scheme used
+by 802.11b.
 
-***directional antenna.*** An antenna that radiates very strongly in a
+directional antenna. An antenna that radiates very strongly in a
 particular direction. Examples of directional antennas include the yagi,
-dish, and waveguide antennas. See also: ***omnidirectional antenna,
-sectorial antenna***
+dish, and waveguide antennas. See also: omnidirectional antenna,
+sectorial antenna
 
-***directivity.***The ability of an antenna to focus energy in a
-particular direction when transmitting, or to receive energy from a
-particular direction when receiving.
+directivity. The ability of an antenna to focus energy in a particular
+direction when transmitting, or to receive energy from a particular
+direction when receiving.
 
-***diversity*** see ***antenna diversity***
+diversity see antenna diversity
 
-***DNS*** see ***Domain Name Service***
+DNS see Domain Name Service
 
-***DNS caching.*** By installing a DNS server on your local LAN, DNS
-requests for an entire network may be cached locally, improving response
-times. This technique is called DNS caching.
+DNS caching. By installing a DNS server on your local LAN, DNS requests
+for an entire network may be cached locally, improving response times.
+This technique is called DNS caching.
 
-***dnsmasq.***An open source caching DNS and DHCP server, available from
-*http://thekelleys.org.uk/*
+dnsmasq. An open source caching DNS and DHCP server, available from
+http://thekelleys.org.uk/
 
-***Domain Name Service (DNS).*** The widely used network protocol that
-maps IP addresses to names.
+Domain Name Service (DNS). The widely used network protocol that maps IP
+addresses to names.
 
-***dominant mode.***The lowest frequency that can be transmitted by a
+dominant mode. The lowest frequency that can be transmitted by a
 waveguide of a given size.
 
-***DoS*** see ***Denial of Service***
+DoS see Denial of Service
 
-***DSSS*** see ***Direct Sequence Spread Spectrum***
+DSSS see Direct Sequence Spread Spectrum
 
-***DVB-S*** see ***Digital Video Broadcast.***
+DVB-S see Digital Video Broadcast.
 
-***Dynamic Host Configuration Protocol (DHCP).***A protocol used by
-hosts to automatically determine their IP address.
+Dynamic Host Configuration Protocol (DHCP). A protocol used by hosts to
+automatically determine their IP address.
 
-#### E
+E
 
-***eavesdropper.*** Someone who intercepts network data such as
-passwords, email, voice data, or online chat.
+eavesdropper. Someone who intercepts network data such as passwords,
+email, voice data, or online chat.
 
-***edge.***The place where one organization's network meets another.
-Edges are defined by the location of the external ***router***, which
-often acts as a ***firewall***.
+edge. The place where one organization's network meets another. Edges
+are defined by the location of the external router, which often acts as
+a firewall.
 
-***electromagnetic spectrum.***The very wide range of possible
-frequencies of electromagnetic energy. Parts of the electromagnetic
-spectrum include radio, microwave, visible light, and X rays.
+electromagnetic spectrum. The very wide range of possible frequencies of
+electromagnetic energy. Parts of the electromagnetic spectrum include
+radio, microwave, visible light, and X rays.
 
-***electromagnetic wave.*** A wave that propagates through space without
-the need for a propagating medium. It contains an electric and a
-magnetic component. See also: ***mechanical wave***
+electromagnetic wave. A wave that propagates through space without the
+need for a propagating medium. It contains an electric and a magnetic
+component. See also: mechanical wave
 
-***elevation***see ***inclination***
+elevation see inclination
 
-***end span injectors.*** An 802.3af ***Power over Ethernet*** device
-that provides power via the Ethernet cable. An Ethernet switch that
-provides power on each port is an example of an end span injector. See
-also: ***mid span injectors***
+end span injectors. An 802.3af Power over Ethernet device that provides
+power via the Ethernet cable. An Ethernet switch that provides power on
+each port is an example of an end span injector. See also: mid span
+injectors
 
-***end-to-end encryption.*** An encrypted connection negotiated by both
-ends of a communications session. End-to-end encryption can provide
-stronger protection than ***link layer encryption*** when used on
-untrusted networks (such as the Internet).
+end-to-end encryption. An encrypted connection negotiated by both ends
+of a communications session. End-to-end encryption can provide stronger
+protection than link layer encryption when used on untrusted networks
+(such as the Internet).
 
-***EtherApe.*** An open source network visualization tool. Available at
-*http://etherape.sourceforge.net/*
+EtherApe. An open source network visualization tool. Available at
+http://etherape.sourceforge.net/
 
-***Ethereal*** see ***Wireshark***.
+Ethereal see Wireshark.
 
-***Extended Service Set Identifier (ESSID).***The name used to identify
-an 802.11 network. See also: ***closed network***
+Extended Service Set Identifier (ESSID). The name used to identify an
+802.11 network. See also: closed network
 
-***external traffic.***Network traffic that originates from, or is
-destined for, an IP address outside your internal network, such as
-Internet traffic.
+external traffic. Network traffic that originates from, or is destined
+for, an IP address outside your internal network, such as Internet
+traffic.
 
-#### F
+F
 
-***firestarter.*** A graphical front-end for configuring Linux firewalls
-available from *http://www.fs-security.com/*.
+firestarter. A graphical front-end for configuring Linux firewalls
+available from http://www.fs-security.com/.
 
-***filter.*** The default table used in the Linux netfilter firewall
-system is the filter table. This table is used for determining traffic
-that should be accepted or denied.
+filter. The default table used in the Linux netfilter firewall system is
+the filter table. This table is used for determining traffic that should
+be accepted or denied.
 
-***firewall.*** A router that accepts or denies traffic based on some
+firewall. A router that accepts or denies traffic based on some
 criteria. Firewalls are one basic tool used to protect entire networks
 from undesirable traffic.
 
-***flush.*** To remove all entries in a routing table or netfilter
-chain.
+flush. To remove all entries in a routing table or netfilter chain.
 
-***forwarding.***When routers receive packets that are destined for a
+forwarding. When routers receive packets that are destined for a
 different host or network, they send the packet to the next router
 closest to its ultimate destination. This process is called forwarding.
 
-***forwarding loops.*** A routing misconfiguration where packets are
-forwarded cyclically between two or more routers. Catastrophic network
-failure is prevented by using the TTL value on every packet, but
-forwarding loops need to be resolved for proper network operations.
+forwarding loops. A routing misconfiguration where packets are forwarded
+cyclically between two or more routers. Catastrophic network failure is
+prevented by using the TTL value on every packet, but forwarding loops
+need to be resolved for proper network operations.
 
-***free space loss.***Power diminished by geometric spreading of the
-wavefront, as the wave propagates through space. See also:
-***attenuation, free space loss, Appendix C***
+free space loss. Power diminished by geometric spreading of the
+wavefront, as the wave propagates through space. See also: attenuation,
+free space loss, Appendix C
 
-***frequency.***The number of whole waves that pass a fixed point in a
-period of time. See also: ***wavelength, Hertz***
+frequency. The number of whole waves that pass a fixed point in a period
+of time. See also: wavelength, Hertz
 
-***front-to-back ratio.***The ratio of the maximum ***directivity*** of
-an antenna to its directivity in the opposite direction.
+front-to-back ratio. The ratio of the maximum directivity of an antenna
+to its directivity in the opposite direction.
 
-***full duplex.*** Communications equipment that can send and receive at
-the same time (such as a telephone). See also: ***half duplex***
+full duplex. Communications equipment that can send and receive at the
+same time (such as a telephone). See also: half duplex
 
-***fwbuilder.*** A graphical tool that lets you create ***iptables***
-scripts on a machine separate from your server, and then transfer them
-to the server later. *http://www.fwbuilder.org/*
+fwbuilder. A graphical tool that lets you create iptables scripts on a
+machine separate from your server, and then transfer them to the server
+later. http://www.fwbuilder.org/
 
-#### G
+G
 
-***gain.***The ability of a radio component (such as an antenna or
-amplifier) to increase the power of a signal. See also: ***decibel***
+gain. The ability of a radio component (such as an antenna or amplifier)
+to increase the power of a signal. See also: decibel
 
-***gain transfer.***Comparing an antenna under test against a known
-standard antenna, which has a calibrated gain.
+gain transfer. Comparing an antenna under test against a known standard
+antenna, which has a calibrated gain.
 
-***gasification.***The production bubbles of oxygen and hydrogen that
-occurs when a battery is ***overcharged***.
+gasification. The production bubbles of oxygen and hydrogen that occurs
+when a battery is overcharged.
 
-***globally routable.***An address issued by an ISP or RIR that is
-reachable from any point on the Internet. In IPv4, there are
-approximately four billion possible IP addresses, although not all of
-these are globally routable.
+globally routable. An address issued by an ISP or RIR that is reachable
+from any point on the Internet. In IPv4, there are approximately four
+billion possible IP addresses, although not all of these are globally
+routable.
 
-#### H
+H
 
-***half duplex.*** Communications equipment that can send or receive,
-but never both at once (such as a handheld radio). See also: ***full
-duplex***.
+half duplex. Communications equipment that can send or receive, but
+never both at once (such as a handheld radio). See also: full duplex.
 
-***Heliax.***High quality coaxial cable that has a solid or tubular
-center conductor with a corrugated solid outer conductor which enables
-it to flex. See also: ***coax***
+Heliax. High quality coaxial cable that has a solid or tubular center
+conductor with a corrugated solid outer conductor which enables it to
+flex. See also: coax
 
-***Hertz (Hz).*** A measure of ***frequency***, denoting some number of
-cycles per second.
+Hertz (Hz). A measure of frequency, denoting some number of cycles per
+second.
 
-***HF*** (***High-Frequency***). Radio waves from 3 to 30 MHz are
-referred to as HF. Data networks can be built on HF that operate at very
-long range, but with very low data capacity.
+HF (High-Frequency). Radio waves from 3 to 30 MHz are referred to as HF.
+Data networks can be built on HF that operate at very long range, but
+with very low data capacity.
 
-***hop.***Data that crosses one network connection. A web server may be
+hop. Data that crosses one network connection. A web server may be
 several hops away from your local computer, as packets are forwarded
 from router to router, eventually reaching their ultimate destination.
 
-***horizontal polarization.***An electromagnetic field with the electric
-component moving in a linear horizontal direction. See also: ***circular
-polarization, vertical polarization***
+horizontal polarization. An electromagnetic field with the electric
+component moving in a linear horizontal direction. See also: circular
+polarization, vertical polarization
 
-***hot-spot.*** In wireless networks, a hot-spot is a location that
-provides Internet access via ***Wi-Fi***, typically by use of a
-***captive portal***. In ***photovoltaic systems***, a hot-spot occurs
-when a single ***cell*** in a ***solar panel*** is shaded, causing it to
-act as a resistive load rather than to generate power.
+hot-spot. In wireless networks, a hot-spot is a location that provides
+Internet access via Wi-Fi, typically by use of a captive portal. In
+photovoltaic systems, a hot-spot occurs when a single cell in a solar
+panel is shaded, causing it to act as a resistive load rather than to
+generate power.
 
-***hub.***An Ethernet networking device that repeats received data on
-all connected ports. See also: ***switch***.
+hub. An Ethernet networking device that repeats received data on all
+connected ports. See also: switch.
 
-***Huygens principle.***A wave model that proposes an infinite number of
+Huygens principle. A wave model that proposes an infinite number of
 potential wavefronts along every point of an advancing wavefront.
 
-***Hz*** see ***Hertz***
+Hz see Hertz
 
-#### I
+I
 
-***IANA*** see ***Internet Assigned Numbers Authority***
+IANA see Internet Assigned Numbers Authority
 
-***ICMP*** see ***Internet Control Message Protocol***
+ICMP see Internet Control Message Protocol
 
-***ICP*** see ***Inter-Cache Protocol***
+ICP see Inter-Cache Protocol
 
-***impedance.***The quotient of voltage over current of a transmission
-line, consisting of a resistance and a reactance. The load impedance
-must match the source impedance for maximum power transfer (50Ω for most
+impedance. The quotient of voltage over current of a transmission line,
+consisting of a resistance and a reactance. The load impedance must
+match the source impedance for maximum power transfer (50Ω for most
 communications equipment).
 
-***inbound traffic.***Network packets that originate from outside the
-local network (typically the Internet) and are bound for a destination
-inside the local network. See also: ***outbound traffic***.
+inbound traffic. Network packets that originate from outside the local
+network (typically the Internet) and are bound for a destination inside
+the local network. See also: outbound traffic.
 
-***inclination.*** The angle that marks deviation from a horizontal
-plane. See also: ***azimuth***
+inclination. The angle that marks deviation from a horizontal plane. See
+also: azimuth
 
-***infrastructure mode*** see ***master mode***
+infrastructure mode see master mode
 
-***insulator*** see ***dielectric***
+insulator see dielectric
 
-***Inter-Cache Protocol (ICP).***A high performance protocol used to
+Inter-Cache Protocol (ICP). A high performance protocol used to
 communicate between web caches.
 
-***Internet Assigned Numbers Authority (IANA).*** The organization that
+Internet Assigned Numbers Authority (IANA). The organization that
 administers various critical parts of Internet infrastructure, including
 IP address allocation, DNS root name servers, and protocol service
 numbers.
 
-***Internet Control Message Protocol (ICMP).***A Network Layer protocol
-used to inform nodes about the state of the network. ICMP is part of the
-Internet protocol suite. See also: ***Internet protocol suite***.
+Internet Control Message Protocol (ICMP). A Network Layer protocol used
+to inform nodes about the state of the network. ICMP is part of the
+Internet protocol suite. See also: Internet protocol suite.
 
-***Internet layer*** see ***network layer***
+Internet layer see network layer
 
-***Internet Protocol (IP).***The most com-mon network layer protocol in
-use. IP defines the hosts and networks that make up the global Internet.
+Internet Protocol (IP). The most com-mon network layer protocol in use.
+IP defines the hosts and networks that make up the global Internet.
 
-***Internet protocol suite (TCP/IP).***The family of communication
-protocols that make up the Internet. Some of these protocols include
-TCP, IP, ICMP, and UDP. Also called the ***TCP/IP protocol suite***, or
-simply ***TCP/IP***.
+Internet protocol suite (TCP/IP). The family of communication protocols
+that make up the Internet. Some of these protocols include TCP, IP,
+ICMP, and UDP. Also called the TCP/IP protocol suite, or simply TCP/IP.
 
-***Intrusion Detection System (IDS).***A program that watches network
+Intrusion Detection System (IDS). A program that watches network
 traffic, looking for suspicious data or behavior patterns. An IDS may
 make a log entry, notify a network administrator, or take direct action
 in response to undesirable traffic.
 
-***inverter*** see ***DC/AC Converter***
+inverter see DC/AC Converter
 
-***IP*** see ***Internet Protocol***
+IP see Internet Protocol
 
-***iproute2.*** The advanced routing tools package for Linux, used for
-traffic shaping and other advanced techniques. Available from
-*http://linux-net.osdl.org/*
+iproute2. The advanced routing tools package for Linux, used for traffic
+shaping and other advanced techniques. Available from
+http://linux-net.osdl.org/
 
-***iptables.*** The primary command used to manipulate netfilter
-firewall rules.
+iptables. The primary command used to manipulate netfilter firewall
+rules.
 
-***irradiance.***The total amount of solar energy that lights a given
-area, in W/m2
+irradiance. The total amount of solar energy that lights a given area,
+in W/m2
 
-***ISM band.***ISM is short for Industrial, Scientific, and Medical. The
-ISM band is a set of radio frequencies set aside by the ITU for
-unlicensed use.
+ISM band. ISM is short for Industrial, Scientific, and Medical. The ISM
+band is a set of radio frequencies set aside by the ITU for unlicensed
+use.
 
-***isotropic antenna.***A hypothetical antenna that evenly distributes
-power in all directions, approximated by a dipole.
+isotropic antenna. A hypothetical antenna that evenly distributes power
+in all directions, approximated by a dipole.
 
-***IV characteristic curve.***A graph that represents the current that
-is provided based on the voltage generated for a certain solar
-radiation.
+IV characteristic curve. A graph that represents the current that is
+provided based on the voltage generated for a certain solar radiation.
 
-\
-\
+K
 
-#### K
+knetfilter. A graphical front-end for configuring Linux firewalls.
+Available from http://venom.oltrelinux.com/
 
-***knetfilter.*** A graphical front-end for configuring Linux firewalls.
-Available from *http://venom.oltrelinux.com/*
-
-***known good.***In troubleshooting, a known good is any component that
-can be substituted to verify that its counterpart is in good, working
+known good. In troubleshooting, a known good is any component that can
+be substituted to verify that its counterpart is in good, working
 condition.
 
-#### L
+L
 
-***lag.*** Common term used to describe a network with high
-***latency***.
+lag. Common term used to describe a network with high latency.
 
-***lambda (λ)*** see ***wavelength***
+lambda (λ) see wavelength
 
-***LAN*** see ***Local Area Network***
+LAN see Local Area Network
 
-***latency.***The amount of time it takes for a packet to cross a
-network connection. It is often (incorrectly) used interchangeably with
-Round Trip Time (RTT), since measuring the RTT of a wide-area connection
-is trivial compared to measuring the actual latency. See also: ***Round
-Trip Time***.
+latency. The amount of time it takes for a packet to cross a network
+connection. It is often (incorrectly) used interchangeably with Round
+Trip Time (RTT), since measuring the RTT of a wide-area connection is
+trivial compared to measuring the actual latency. See also: Round Trip
+Time.
 
-***lead-acid batteries.***Batteries consisting of two submerged lead
+lead-acid batteries. Batteries consisting of two submerged lead
 electrodes in an electrolytic solution of water and sulfuric acid. See
-also: ***stationary batteries***
+also: stationary batteries
 
-***lease time.***In DHCP, IP addresses are assigned for a limited period
-of time, known as the lease time. After this time period expires,
-clients must request a new IP address from the DHCP server.
+lease time. In DHCP, IP addresses are assigned for a limited period of
+time, known as the lease time. After this time period expires, clients
+must request a new IP address from the DHCP server.
 
-***Line of Sight (LOS).*** If a person standing at point A has an
-unobstructed view of point B, then point A is said to have a clear Line
-of Sight to point B.
+Line of Sight (LOS). If a person standing at point A has an unobstructed
+view of point B, then point A is said to have a clear Line of Sight to
+point B.
 
-***linear polar coordinates.*** A graph system with equally spaced,
-graduated concentric circles representing an absolute value on a polar
-projection. Such graphs are typically used to represent antenna
-radiation patterns. See also: ***logarithmic polar coordinates***
+linear polar coordinates. A graph system with equally spaced, graduated
+concentric circles representing an absolute value on a polar projection.
+Such graphs are typically used to represent antenna radiation patterns.
+See also: logarithmic polar coordinates
 
-***linear conversion.***A DC voltage conversion method that lowers the
-voltage by converting excess energy to heat. See also: ***switching
-conversion***
+linear conversion. A DC voltage conversion method that lowers the
+voltage by converting excess energy to heat. See also: switching
+conversion
 
-***linear polarization.***An ***electro-magnetic wave*** where the
-electric field vector stays in the same plane all the time. The electric
-field may leave the antenna in a vertical orientation, a horizontal
-orientation, or at some angle between the two. See also: ***vertical
-polarization, horizontal polarization***
+linear polarization. An electro-magnetic wave where the electric field
+vector stays in the same plane all the time. The electric field may
+leave the antenna in a vertical orientation, a horizontal orientation,
+or at some angle between the two. See also: vertical polarization,
+horizontal polarization
 
-***link budget.***The amount of radio energy available to overcome path
+link budget. The amount of radio energy available to overcome path
 losses. If the available link budget exceeds the path loss, minimum
 receive sensitivity of the receiving radio, and any obstacles, then
 communications should be possible.
 
-***link layer encryption.***An encrypted connection between
-***link-local*** devices, typically a wireless ***client*** and an
-***access point***. See also: ***end-to-end encryption***
+link layer encryption. An encrypted connection between link-local
+devices, typically a wireless client and an access point. See also:
+end-to-end encryption
 
-***link-local.*** Network devices that are connected to the same
-physical segment communicate with each other directly are said to be
-link-local. A link-local connection cannot cross a router boundary
-without using some kind of encapsulation, such as a ***tunnel*** or a
-***VPN***.
+link-local. Network devices that are connected to the same physical
+segment communicate with each other directly are said to be link-local.
+A link-local connection cannot cross a router boundary without using
+some kind of encapsulation, such as a tunnel or a VPN.
 
-***listen.*** Programs that accept connections on a TCP port are said to
+listen. Programs that accept connections on a TCP port are said to
 listen on that port.
 
-***load.***Equipment in a photovoltaic system that consumes energy. See
-also: ***battery, solar panel, regulator, converter, inverter***
+load. Equipment in a photovoltaic system that consumes energy. See also:
+battery, solar panel, regulator, converter, inverter
 
-***Local Area Network (LAN).***A network (typically Ethernet) used
-within an organization. The part of a network that exists just behind an
-ISP's router is generally considered to be part of the LAN. See also:
-***WAN***.
+Local Area Network (LAN). A network (typically Ethernet) used within an
+organization. The part of a network that exists just behind an ISP's
+router is generally considered to be part of the LAN. See also: WAN.
 
-***logarithmic polar coordinates.*** A graph system with logarithmically
+logarithmic polar coordinates. A graph system with logarithmically
 spaced, graduated concentric circles representing an absolute value on a
 polar projection. Such graphs are typically used to represent antenna
-radiation patterns. See also: ***linear polar coordinates***
+radiation patterns. See also: linear polar coordinates
 
-***long fat pipe network.***A network connection (such as VSAT) that has
-high capacity and high latency. In order to achieve the best possible
+long fat pipe network. A network connection (such as VSAT) that has high
+capacity and high latency. In order to achieve the best possible
 performance, TCP/IP must be tuned to match the traffic on such links.
 
-***LOS*** see ***Line of Sight***
+LOS see Line of Sight
 
-#### M
+M
 
-***MAC layer***see ***data link layer***
+MAC layer see data link layer
 
-***MAC address.***A unique 48 bit number assigned to every networking
-device when it is manufactured. The MAC address is used for link-local
+MAC address. A unique 48 bit number assigned to every networking device
+when it is manufactured. The MAC address is used for link-local
 communications.
 
-***MAC filtering.***An access control method based on the MAC address of
+MAC filtering. An access control method based on the MAC address of
 communicating devices.
 
-***MAC table.***A network switch must keep track of the MAC addresses
-used on each physical port, in order to efficiently distribute packets.
-This information is kept in a table called the MAC table.
+MAC table. A network switch must keep track of the MAC addresses used on
+each physical port, in order to efficiently distribute packets. This
+information is kept in a table called the MAC table.
 
-***maintenance-free lead-acid batteries*** see ***lead-acid batteries***
+maintenance-free lead-acid batteries see lead-acid batteries
 
-***Man-In-The-Middle (MITM).***A network attack where a malicious user
+Man-In-The-Middle (MITM). A network attack where a malicious user
 intercepts all communications between a client and a server, allowing
 information to be copied or manipulated.
 
-***managed hardware.*** Networking hardware that provides an
-administrative interface, port counters, SNMP, or other interactive
-features is said to be managed.
+managed hardware. Networking hardware that provides an administrative
+interface, port counters, SNMP, or other interactive features is said to
+be managed.
 
-***managed mode.***A radio mode used by 802.11 devices that allows the
-radio to join a network created by an access point. See also: ***master
-mode, ad-hoc mode, monitor mode***
+managed mode. A radio mode used by 802.11 devices that allows the radio
+to join a network created by an access point. See also: master mode,
+ad-hoc mode, monitor mode
 
-***master browser.*** On Windows networks, the master browser is the
-computer that keeps a list of all the computers, shares and printers
-that are available in *Network Neighborhood*or *My Network Places*.
+master browser. On Windows networks, the master browser is the computer
+that keeps a list of all the computers, shares and printers that are
+available in Network Neighborhood or My Network Places.
 
-***master mode.***A radio mode used by 802.11 devices that allows the
-radio to create networks just as an access point does. See also:
-***managed mode, ad-hoc mode, monitor mode***
+master mode. A radio mode used by 802.11 devices that allows the radio
+to create networks just as an access point does. See also: managed mode,
+ad-hoc mode, monitor mode
 
-***match condition.*** In netfilter, a match condition specifies the
-criteria that determine the ultimate target for a given packet. Packets
-may be matched on MAC address, source or destination IP address, port
-number, data contents, or just about any other property.
+match condition. In netfilter, a match condition specifies the criteria
+that determine the ultimate target for a given packet. Packets may be
+matched on MAC address, source or destination IP address, port number,
+data contents, or just about any other property.
 
-***Maximum Depth of Discharge (DoD******max******).***The amount of
-energy extracted from a battery in a single discharge cycle, expressed
-as a percentage.
+Maximum Depth of Discharge (DoDmax). The amount of energy extracted from
+a battery in a single discharge cycle, expressed as a percentage.
 
-***Maximum Power Point (P******max******).*** The point where the power
-supplied by a solar panel is at maximum.
+Maximum Power Point (Pmax). The point where the power supplied by a
+solar panel is at maximum.
 
-***MC-Card.***A very small microwave connector found on Lucent /
-Orinoco / Avaya equipment.
+MC-Card. A very small microwave connector found on Lucent / Orinoco /
+Avaya equipment.
 
-***mechanical wave.***A wave caused when some medium or object is
-swinging in a periodic manner. See also: ***electromagnetic wave***
+mechanical wave. A wave caused when some medium or object is swinging in
+a periodic manner. See also: electromagnetic wave
 
-***Media Access Control layer*** see ***data link layer***
+Media Access Control layer see data link layer
 
-***mesh.*** A network with no hierarchical organization, where every
-node on the network carries the traffic of every other as needed. Good
-mesh network implementations are self-healing, which means that they
+mesh. A network with no hierarchical organization, where every node on
+the network carries the traffic of every other as needed. Good mesh
+network implementations are self-healing, which means that they
 automatically detect routing problems and fix them as needed.
 
-***message types.*** Rather that port numbers, ICMP traffic uses message
-types to define the type of information being sent. See also:
-***ICMP***.
+message types. Rather that port numbers, ICMP traffic uses message types
+to define the type of information being sent. See also: ICMP.
 
-***method of the worst month.***A method for calculating the dimensions
-of a standalone photovoltaic system so it will work in the month in
-which the demand for energy is greatest with respect to the available
-solar energy. It is the worst month of the year, as this month with have
-the largest ratio of demanded energy to available energy.
+method of the worst month. A method for calculating the dimensions of a
+standalone photovoltaic system so it will work in the month in which the
+demand for energy is greatest with respect to the available solar
+energy. It is the worst month of the year, as this month with have the
+largest ratio of demanded energy to available energy.
 
-***MHF*** see ***U.FL***
+MHF see U.FL
 
-***microfinance.***The provision of small loans, savings and other basic
+microfinance. The provision of small loans, savings and other basic
 financial services to the world’s poorest people.
 
-***mid span injectors.*** A ***Power over Ethernet*** device inserted
-between an Ethernet switch and the device to be powered. See also:
-***end span injectors***
+mid span injectors. A Power over Ethernet device inserted between an
+Ethernet switch and the device to be powered. See also: end span
+injectors
 
-***milliwatts (mW).***A unit of power representing one thousandth of a
-Watt.
+milliwatts (mW). A unit of power representing one thousandth of a Watt.
 
-***MITM*** see ***Man-In-The-Middle***
+MITM see Man-In-The-Middle
 
-***MMCX.***A very small microwave connector commonly found on equipment
+​MMCX. A very small microwave connector commonly found on equipment
 manufactured by Senao and Cisco.
 
-***monitor mode.***A radio mode used by 802.11 devices not normally used
-for communications that allows the radio passively monitor radio
-traffic. See also: ***master mode, managed mode, ad-hoc mode***
+monitor mode. A radio mode used by 802.11 devices not normally used for
+communications that allows the radio passively monitor radio traffic.
+See also: master mode, managed mode, ad-hoc mode
 
-***monitor port.*** On a managed switch, one or more monitor ports may
-be defined that receive traffic sent to all of the other ports. This
-allows you to connect a traffic monitor server to the port to observe
-and analyze traffic patterns.
+monitor port. On a managed switch, one or more monitor ports may be
+defined that receive traffic sent to all of the other ports. This allows
+you to connect a traffic monitor server to the port to observe and
+analyze traffic patterns.
 
-***Multi Router Traffic Grapher (MRTG).***An open source tool used for
-graphing traffic statistics. Available from
-*http://oss.oetiker.ch/mrtg/*
+Multi Router Traffic Grapher (MRTG). An open source tool used for
+graphing traffic statistics. Available from http://oss.oetiker.ch/mrtg/
 
-***multipath.***The phenomenon of reflections of a signal reaching their
+multipath. The phenomenon of reflections of a signal reaching their
 target along different paths, and therefore at different times.
 
-***multipoint-to-multipoint***see ***mesh***
+multipoint-to-multipoint see mesh
 
-***mW*** see ***milliwatt***
+mW see milliwatt
 
-***My TraceRoute (mtr)***. A network diagnostic tool used as an
-alternative to the traditional traceroute program.
-*http://www.bitwizard.nl/mtr/.*See also: ***traceroute*** /
-***tracert***.
+My TraceRoute (mtr). A network diagnostic tool used as an alternative to
+the traditional traceroute program. http://www.bitwizard.nl/mtr/. See
+also: traceroute / tracert.
 
-#### N
+N
 
-***N connector.***A sturdy microwave connector commonly found on outdoor
+N connector. A sturdy microwave connector commonly found on outdoor
 networking components, such as antennas and outdoor access points.
 
-***Nagios***(*http://nagios.org/*) A realtime monitoring tool that logs
-and notifies a system administrator about service and network outages.
+Nagios (http://nagios.org/) A realtime monitoring tool that logs and
+notifies a system administrator about service and network outages.
 
-***NAT*** see ***Network Address Translation***
+NAT see Network Address Translation
 
-***nat.*** The table used in the Linux netfilter firewall system to
-configure Network Address Translation.
+nat. The table used in the Linux netfilter firewall system to configure
+Network Address Translation.
 
-***NEC2*** see ***Numerical Electromagnetics Code***
+NEC2 see Numerical Electromagnetics Code
 
-***NetBIOS.*** A session layer protocol used by Windows networking for
-file and printer sharing. See also: ***SMB***.
+NetBIOS. A session layer protocol used by Windows networking for file
+and printer sharing. See also: SMB.
 
-***netfilter.*** The packet filtering framework in modern Linux kernels
-is known as netfilter. It uses the iptables command to manipulate filter
-rules. *http://netfilter.org/*
+netfilter. The packet filtering framework in modern Linux kernels is
+known as netfilter. It uses the iptables command to manipulate filter
+rules. http://netfilter.org/
 
-***netmask*** (***network mask***). A netmask is a 32-bit number that
-divides the 16 million available IP addresses into smaller chunks,
-called subnets. All IP networks use IP addresses in combination with
-netmasks to logically group hosts and networks.
+netmask (network mask). A netmask is a 32-bit number that divides the 16
+million available IP addresses into smaller chunks, called subnets. All
+IP networks use IP addresses in combination with netmasks to logically
+group hosts and networks.
 
-***NeTraMet.*** An open source network flow analysis tool available from
-*freshmeat.net/projects/netramet/*
+NeTraMet. An open source network flow analysis tool available from
+freshmeat.net/projects/netramet/
 
-***network address.*** The lowest IP number in a subnet. The network
-address is used in routing tables to specify the destination to be used
-when sending packets to a logical group of IP addresses.
+network address. The lowest IP number in a subnet. The network address
+is used in routing tables to specify the destination to be used when
+sending packets to a logical group of IP addresses.
 
-***Network Address Translation (NAT).***NAT is a networking technology
-that allows many computers to share a single, globally routable IP
-address. While NAT can help to solve the problem of limited IP address
-space, it creates a technical challenge for two-way services, such as
-Voice over IP.
+Network Address Translation (NAT). NAT is a networking technology that
+allows many computers to share a single, globally routable IP address.
+While NAT can help to solve the problem of limited IP address space, it
+creates a technical challenge for two-way services, such as Voice over
+IP.
 
-***network detection.***Network diagnostic tools that display
-information about wireless networks, such as the network name, channel,
-and encryption method used.
+network detection. Network diagnostic tools that display information
+about wireless networks, such as the network name, channel, and
+encryption method used.
 
-***network layer.***Also called the Internet layer. This is the third
-layer of the OSI and TCP/IP network models, where IP operates and
-Internet routing takes place.
+network layer. Also called the Internet layer. This is the third layer
+of the OSI and TCP/IP network models, where IP operates and Internet
+routing takes place.
 
-***network mask*** see ***netmask***
+network mask see netmask
 
-***ngrep.***An open source network security utility used to find
-patterns in data flows. Available for free from
-*http://ngrep.sourceforge.net/*
+ngrep. An open source network security utility used to find patterns in
+data flows. Available for free from http://ngrep.sourceforge.net/
 
-***node.***Any device capable of sending and receiving data on a
-network. Access points, routers, computers, and laptops are all examples
-of nodes.
+node. Any device capable of sending and receiving data on a network.
+Access points, routers, computers, and laptops are all examples of
+nodes.
 
-***Nominal Capacity (C******N******).***The maximum amount of energy
-that can be extracted from a fully charged battery. It is expressed in
-Ampere-hours (Ah) or Watt-hours (Wh).
+Nominal Capacity (CN). The maximum amount of energy that can be
+extracted from a fully charged battery. It is expressed in Ampere-hours
+(Ah) or Watt-hours (Wh).
 
-***Nominal Voltage (V******N******).***The operating voltage of a
-photovoltaic system, typically 12 or 24 volts.
+Nominal Voltage (VN). The operating voltage of a photovoltaic system,
+typically 12 or 24 volts.
 
-***ntop.*** A network monitoring tool that provides extensive detail
-about connections and protocol use on a local area network.
-*******http://www.ntop.org/*
+ntop. A network monitoring tool that provides extensive detail about
+connections and protocol use on a local area network.
+ http://www.ntop.org/
 
-***null.***In an antenna radiation pattern, a null is a zone in which
-the effective radiated power is at a minimum.
+null. In an antenna radiation pattern, a null is a zone in which the
+effective radiated power is at a minimum.
 
-***nulling.***A specific case of ***multipath*** interference where the
-signal at the receiving antenna is zeroed by the ***destructive
-interference*** of reflected signals.
+nulling. A specific case of multipath interference where the signal at
+the receiving antenna is zeroed by the destructive interference of
+reflected signals.
 
-***number of days of autonomy (N).*** The maximum number of days that a
+number of days of autonomy (N). The maximum number of days that a
 photovoltaic system can operate without significant energy received from
 the sun.
 
-***Numerical Electromagnetics Code (NEC2).*** A free antenna modeling
-package that lets you build an antenna model in 3D, and then analyze the
+Numerical Electromagnetics Code (NEC2). A free antenna modeling package
+that lets you build an antenna model in 3D, and then analyze the
 antenna’s electromagnetic response.
-*[http://www.nec2.org/](http://www.nec2.org/)*
+[http://www.nec2.org/](http://www.nec2.org/)
 
-#### O
+O
 
-***OFDM*** see ***Orthogonal Frequency Division Multiplexing***
+OFDM see Orthogonal Frequency Division Multiplexing
 
-***omnidirectional antenna.*** An antenna that radiates almost equally
-in every direction in the horizontal plane. See also: ***directional
-antenna, sectorial antenna***
+omnidirectional antenna. An antenna that radiates almost equally in
+every direction in the horizontal plane. See also: directional antenna,
+sectorial antenna
 
-***one-arm repeater.***A wireless repeater that only uses a single
-radio, at significantly reduced throughput. See also: ***repeater***
+one-arm repeater. A wireless repeater that only uses a single radio, at
+significantly reduced throughput. See also: repeater
 
-***onion routing.***A privacy tool (such as ***Tor***) that repeatedly
-bounces your TCP connections across a number of servers spread
-throughout the Internet, wrapping routing information in a number of
-encrypted layers.
+onion routing. A privacy tool (such as Tor) that repeatedly bounces your
+TCP connections across a number of servers spread throughout the
+Internet, wrapping routing information in a number of encrypted layers.
 
-***OR logic.***A logical operation that evaluates as true if any of the
-items being compared also evaluate as true. See also: ***AND logic***.
+OR logic. A logical operation that evaluates as true if any of the items
+being compared also evaluate as true. See also: AND logic.
 
-***Orthogonal Frequency Division Multiplexing (OFDM)***
+Orthogonal Frequency Division Multiplexing (OFDM)
 
-***OSI network model.*** A popular model of network communications
-defined by the ISO/IEC 7498-1 standard. The OSI model consists of seven
+OSI network model. A popular model of network communications defined by
+the ISO/IEC 7498-1 standard. The OSI model consists of seven
 interdependent layers, from the physical through the application. See
-also: ***TCP/IP network model***.
+also: TCP/IP network model.
 
-***outbound traffic.*** Network packets that originate from the local
-network and are bound for a destination outside the local network
-(typically somewhere on the Internet). See also: ***inbound traffic***.
+outbound traffic. Network packets that originate from the local network
+and are bound for a destination outside the local network (typically
+somewhere on the Internet). See also: inbound traffic.
 
-***overcharge.***The state of a battery when charge is applied beyond
-the limit of the battery's capacity. If energy is applied to a battery
+overcharge. The state of a battery when charge is applied beyond the
+limit of the battery's capacity. If energy is applied to a battery
 beyond its point of maximum charge, the electrolyte begins to break
-down. ***Regulators*** will allow a small amount of overcharge time to a
-battery to avoid ***gasification***, but will remove power before the
-battery is damaged.
+down. Regulators will allow a small amount of overcharge time to a
+battery to avoid gasification, but will remove power before the battery
+is damaged.
 
-***overdischarge.***Discharging a battery beyond its ***Maximum Depth of
-Discharge***, which results in deterioration of the battery.
+overdischarge. Discharging a battery beyond its Maximum Depth of
+Discharge, which results in deterioration of the battery.
 
-***oversubscribe.***To allow more users than the maximum available
-bandwidth can support.
+oversubscribe. To allow more users than the maximum available bandwidth
+can support.
 
-#### P
+P
 
-***packet.*** On IP networks, messages sent between computers are broken
-into small pieces called packets. Each packet includes a source,
-destination, and other routing information that is used to route it to
-its ultimate destination. Packets are reassembled again at the remote
-end by TCP (or another protocol) before being passed to the application.
+packet. On IP networks, messages sent between computers are broken into
+small pieces called packets. Each packet includes a source, destination,
+and other routing information that is used to route it to its ultimate
+destination. Packets are reassembled again at the remote end by TCP (or
+another protocol) before being passed to the application.
 
-***packet filter.*** A firewall that operates at the Internet layer by
+packet filter. A firewall that operates at the Internet layer by
 inspecting source and destination IP addresses, port numbers, and
 protocols. Packets are either permitted or discarded depending on the
 packet filter rules.
 
-***partition.*** A technique used by network hubs to limit the impact of
-computers that transmit excessively. Hubs will temporarily remove the
+partition. A technique used by network hubs to limit the impact of
+computers that transmit excessively.  Hubs will temporarily remove the
 abusive computer (partition it) from the rest of the network, and
 reconnect it again after some time. Excessive partitioning indicates the
 presence of an excessive bandwidth consumer, such as a peer-to-peer
 client or network virus.
 
-***passive POE injector*** see ***Power over Ethernet***
+passive POE injector see Power over Ethernet
 
-***path loss.***Loss of radio signal due to the distance between
+path loss. Loss of radio signal due to the distance between
 communicating stations.
 
-***Peak Sun Hours (PSH).***Average value of daily irradiation for a
-given area.
+Peak Sun Hours (PSH). Average value of daily irradiation for a given
+area.
 
-***photovoltaic generator*** see ***solar panel***
+photovoltaic generator see solar panel
 
-***photovoltaic solar energy.***The use of solar panels to collect solar
-energy to produce electricity. See also: ***thermal solar energy***
+photovoltaic solar energy. The use of solar panels to collect solar
+energy to produce electricity. See also: thermal solar energy
 
-***photovoltaic system.*** An energy system that generates electrical
-energy from solar radiation and stores it for later use. A standalone
+photovoltaic system. An energy system that generates electrical energy
+from solar radiation and stores it for later use. A standalone
 photovoltaic system does this without any connection to an established
-power grid. See also: ***battery, solar panel, regulator, load,
-converter, inverter***
+power grid. See also: battery, solar panel, regulator, load, converter,
+inverter
 
-***physical layer.***The lowest layer in both the OSI and TCP/IP network
+physical layer. The lowest layer in both the OSI and TCP/IP network
 models. The physical layer is the actual medium used for communications,
 such as copper cable, optic fiber, or radio waves.
 
-***pigtail.***A short microwave cable that converts a non-standard
-connector into something more robust and commonly available.
+pigtail. A short microwave cable that converts a non-standard connector
+into something more robust and commonly available.
 
-***ping.*** A ubiquitous network diagnostic utility that uses ICMP echo
+ping. A ubiquitous network diagnostic utility that uses ICMP echo
 request and reply messages to determine the round trip time to a network
 host. Ping can be used to determine the location of network problems by
 "pinging" computers in the path between the local machine and the
 ultimate destination.
 
-***PKI*** see ***Public Key Infrastructure***
+PKI see Public Key Infrastructure
 
-***plomb.***A heavy piece of metal buried in the earth to improve a
-ground connection.
+plomb. A heavy piece of metal buried in the earth to improve a ground
+connection.
 
-***PoE*** see ***Power over Ethernet***
+PoE see Power over Ethernet
 
-***point-to-multipoint.***A wireless network where several nodes connect
-back to a central location. The classic example of a point-to-multipoint
+point-to-multipoint. A wireless network where several nodes connect back
+to a central location. The classic example of a point-to-multipoint
 network is an access point at an office with several laptops using it
-for Internet access. See also: ***point-to-point,
-multipoint-to-multipoint***
+for Internet access. See also: point-to-point, multipoint-to-multipoint
 
-***point-to-point.***A wireless network consisting of only two stations,
-usually separated by a great distance. See also: ***point-to-multipoint,
-multipoint-to-multipoint***
+point-to-point. A wireless network consisting of only two stations,
+usually separated by a great distance. See also: point-to-multipoint,
+multipoint-to-multipoint
 
-***Point-to-Point Protocol (PPP).***A network protocol typically used on
+Point-to-Point Protocol (PPP). A network protocol typically used on
 serial lines (such as a dial-up connection) to provide IP connectivity.
 
-***polar plot.***A graph where points are located by projection along a
+polar plot. A graph where points are located by projection along a
 rotating axis (radius) to an intersection with one of several concentric
-circles. See also: ***rectangular plot***
+circles. See also: rectangular plot
 
-***polarization.***The direction of the electric component of an
+polarization. The direction of the electric component of an
 electro-magnetic wave as it leaves the transmitting antenna. See also:
-***horizontal polarization, vertical polarization, circular
-polarization***
+horizontal polarization, vertical polarization, circular polarization
 
-***polarization mismatch.***A state where a transmitting and receiving
+polarization mismatch. A state where a transmitting and receiving
 antenna do not use the same polarization, resulting in signal loss.
 
-***policy.*** In netfilter, the policy is the default action to be taken
-when no other filtering rules apply. For example, the default policy for
-any chain may be set to ACCEPT or DROP.
+policy. In netfilter, the policy is the default action to be taken when
+no other filtering rules apply. For example, the default policy for any
+chain may be set to ACCEPT or DROP.
 
-***port counters.*** Managed switches and routers provide statistics for
-each network port called port counters. These statistics may include
-inbound and outbound packet and byte counts, as well as errors and
+port counters. Managed switches and routers provide statistics for each
+network port called port counters. These statistics may include inbound
+and outbound packet and byte counts, as well as errors and
 retransmissions.
 
-***power.***The amount of energy in a certain amount of time.
+power. The amount of energy in a certain amount of time.
 
-***Power over Ethernet (PoE).*********A technique used to supply DC
-power to devices using the Ethernet data cable. See also: ***end span
-injectors, mid span injectors***
+Power over Ethernet (PoE). A technique used to supply DC power to
+devices using the Ethernet data cable. See also: end span injectors, mid
+span injectors
 
-***PPP*** see ***Point to Point Protocol***
+PPP see Point to Point Protocol
 
-***presentation layer.***The sixth layer of the OSI networking model.
-This layer deals with data representation, such as MIME encoding or data
+presentation layer. The sixth layer of the OSI networking model. This
+layer deals with data representation, such as MIME encoding or data
 compression.
 
-***private address space.*** A set of reserved IP addresses outlined in
+private address space. A set of reserved IP addresses outlined in
 RFC1918. Private address space is frequently used within an
 organization, in conjunction with Network Address Translation (NAT). The
 reserved private address space ranges include 10.0.0.0/8, 172.16.0.0/12,
-and 192.168.0.0/16. See also: ***NAT***.
+and 192.168.0.0/16. See also: NAT.
 
-***Privoxy***(*http://www.privoxy.org/*). A web proxy that provides
-anonymity through the use of filters. Privoxy is often used in
-conjunction with ***Tor***.
+Privoxy (http://www.privoxy.org/). A web proxy that provides anonymity
+through the use of filters. Privoxy is often used in conjunction with
+Tor.
 
-***proactive routing.***A ***mesh*** implementation where every node
-knows about the existence of every other node in the mesh cloud as well
-as which nodes may be used to route traffic to them. Each node maintains
-a routing table covering the whole mesh cloud. See also: ***reactive
-routing***
+proactive routing. A mesh implementation where every node knows about
+the existence of every other node in the mesh cloud as well as which
+nodes may be used to route traffic to them. Each node maintains a
+routing table covering the whole mesh cloud. See also: reactive routing
 
-***protocol analyzer.***A diagnostic program used to observe and
-disassemble network packets. Protocol analyzers provide the greatest
-possible detail about individual packets.
+protocol analyzer. A diagnostic program used to observe and disassemble
+network packets. Protocol analyzers provide the greatest possible detail
+about individual packets.
 
-***protocol stack.***A set of network protocols that provide
-interdependent layers of functionality. See also: ***OSI network
-model*** and ***TCP/IP network model***.
+protocol stack. A set of network protocols that provide interdependent
+layers of functionality. See also: OSI network model and TCP/IP network
+model.
 
-***PSH*** see ***Peak Sun Hours***
+PSH see Peak Sun Hours
 
-***Public key cryptography.***A form of encryption used by SSL, SSH, and
+Public key cryptography. A form of encryption used by SSL, SSH, and
 other popular security programs. Public key cryptography allows
 encrypted information to be exchanged over an untrusted network without
 the need to distribute a secret key.
 
-***Public Key Infrastructure (PKI).***A security mechanism used in
-conjunction with ***public key cryptography*** to prevent the
-possibility of ***Man-In-The-Middle*** attacks. See also: ***certificate
-authority***
+Public Key Infrastructure (PKI). A security mechanism used in
+conjunction with public key cryptography to prevent the possibility of
+Man-In-The-Middle attacks. See also: certificate authority
 
-#### Q
+Q
 
-***quick blow.***A type of fuse that immediately blows if the current
-flowing through it is higher than their rating. See also: ***slow
-blow***
+quick blow. A type of fuse that immediately blows if the current flowing
+through it is higher than their rating. See also: slow blow
 
-\
-\
+R
 
-#### R
+radiation pattern see antenna pattern.
 
-***radiation pattern*** see ***antenna pattern.***
+radio. The portion of the electromagnetic spectrum in which waves can be
+generated by applying alternating current to an antenna.
 
-***radio.***The portion of the electromagnetic spectrum in which waves
-can be generated by applying alternating current to an antenna.
+reactive routing. A mesh implementation where routes are computed only
+when it is necessary to send data to a specific node. See also:
+proactive routing
 
-***reactive routing.***A ***mesh*** implementation where routes are
-computed only when it is necessary to send data to a specific node. See
-also: ***proactive routing***
+realtime monitoring. A network monitoring tool that performs unattended
+monitoring over long periods, and notifies administrators immediately
+when problems arise.
 
-***realtime monitoring.***A network monitoring tool that performs
-unattended monitoring over long periods, and notifies administrators
-immediately when problems arise.
+reciprocity. An antenna's ability to maintain the same characteristics
+regardless if whether it is transmitting or receiving.
 
-***reciprocity.***An antenna's ability to maintain the same
-characteristics regardless if whether it is transmitting or receiving.
+recombinant batteries see lead-acid batteries
 
-***recombinant batteries*** see***lead-acid batteries***
+rectangular plot. A graph where points are located on a simple grid. See
+also: polar plot
 
-***rectangular plot.***A graph where points are located on a simple
-grid. See also: ***polar plot***
-
-***Regional Internet Registrars (RIR).***The 4 billion available IP
-addresses are administered by the IANA. The space has been divided into
-large subnets, which are delegated to one of the five regional Internet
+Regional Internet Registrars (RIR). The 4 billion available IP addresses
+are administered by the IANA. The space has been divided into large
+subnets, which are delegated to one of the five regional Internet
 registries, each with authority over a large geographic area.
 
-***regulator.***The component of a ***photovoltaic system*** that
-assures that the ***battery*** is working in appropriate conditions. It
-avoids ***overcharging*** or ***underchar******ging*** the battery, both
-of which are very detrimental to the life of the battery. See also:
-***solar panel, battery, load, converter, inverter***
+regulator. The component of a photovoltaic system that assures that the
+battery is working in appropriate conditions. It avoids overcharging or
+undercharging the battery, both of which are very detrimental to the
+life of the battery. See also: solar panel, battery, load, converter,
+inverter
 
-***repeater.***A node that is configured to rebroadcast traffic that is
-not destined for the node itself, often used to extend the useful range
-of a network.
+repeater. A node that is configured to rebroadcast traffic that is not
+destined for the node itself, often used to extend the useful range of a
+network.
 
-***Request for Comments (RFC).*** RFCs are a numbered series of
-documents published by the Internet Society that document ideas and
-concepts related to Internet technologies. Not all RFCs are actual
-standards, but many are either approved explicitly by the IETF, or
-eventually become de facto standards. RFCs can be viewed online at
-*http://rfc.net/.*
+Request for Comments (RFC). RFCs are a numbered series of documents
+published by the Internet Society that document ideas and concepts
+related to Internet technologies. Not all RFCs are actual standards, but
+many are either approved explicitly by the IETF, or eventually become de
+facto standards. RFCs can be viewed online at http://rfc.net/.
 
-***return loss.***A logarithmic ratio measured in dB that compares the
-power reflected by the antenna to the power that is fed into the antenna
-from the transmission line. See also: ***impedance***
+return loss. A logarithmic ratio measured in dB that compares the power
+reflected by the antenna to the power that is fed into the antenna from
+the transmission line. See also: impedance
 
-***reverse polarity (RP).*** Proprietary microwave connectors, based on
-a standard connector but with the genders reversed. The ***RP-TNC*** is
-probably the most common reverse polarity connector, but others (such as
-RP-SMA and RP-N) are also commonplace.
+reverse polarity (RP). Proprietary microwave connectors, based on a
+standard connector but with the genders reversed. The RP-TNC is probably
+the most common reverse polarity connector, but others (such as RP-SMA
+and RP-N) are also commonplace.
 
-***RF transmission line.***The connection (typically ***coax***,
-***Heliax***, or a ***waveguide***) between a radio and an antenna.
+RF transmission line. The connection (typically coax, Heliax, or a
+waveguide) between a radio and an antenna.
 
-***RIR*** see ***Regional Internet Registrars***
+RIR see Regional Internet Registrars
 
-***Round Trip Time (RTT).***The amount of time it takes for a packet to
-be acknowledged from the remote end of a connection. Frequently confused
-with ***latency***.
+Round Trip Time (RTT). The amount of time it takes for a packet to be
+acknowledged from the remote end of a connection. Frequently confused
+with latency.
 
-***rogue access points.***An unauthorized access point incorrectly
-installed by legitimate users, or by a malicious person who intends to
-collect data or do harm to the network.
+rogue access points. An unauthorized access point incorrectly installed
+by legitimate users, or by a malicious person who intends to collect
+data or do harm to the network.
 
-***Round Robin Database (RRD).***A database that stores information in a
-very compact way that does not expand over time. This is the data format
-used by RRDtool and other network monitoring tools.
+Round Robin Database (RRD). A database that stores information in a very
+compact way that does not expand over time. This is the data format used
+by RRDtool and other network monitoring tools.
 
-***router.*** A device that forwards packets between different networks.
-The process of forwarding packets to the next hop is called
-***routing.***
+router. A device that forwards packets between different networks. The
+process of forwarding packets to the next hop is called routing.
 
-***routing.***The process of forwarding packets between different
-networks. A device that does this is called a ***router***.
+routing. The process of forwarding packets between different networks. A
+device that does this is called a router.
 
-***routing table.*** A list of networks and IP addresses kept by a
-router to determine how packets should be forwarded. If a router
-receives a packet for a network that is not in the routing table, the
-router uses its default gateway. Routers operate at the Network Layer.
-See also: ***bridge*** and ***default gateway***.
+routing table. A list of networks and IP addresses kept by a router to
+determine how packets should be forwarded. If a router receives a packet
+for a network that is not in the routing table, the router uses its
+default gateway. Routers operate at the Network Layer. See also: bridge
+and default gateway.
 
-***RP*** see ***Reverse Polarity***
+RP see Reverse Polarity
 
-***RP-TNC.***A common proprietary version of the TNC microwave
-connector, with the genders reversed. The RP-TNC is often found on
-equipment manufactured by Linksys.
+RP-TNC. A common proprietary version of the TNC microwave connector,
+with the genders reversed. The RP-TNC is often found on equipment
+manufactured by Linksys.
 
-***RRD***see ***Round Robin Database***
+RRD see Round Robin Database
 
-***RRDtool.*** A suite of tools that allow you to create and modify RRD
+RRDtool. A suite of tools that allow you to create and modify RRD
 databases, as well as generate useful graphs to present the data.
 RRDtool is used to keep track of time-series data (such as network
 bandwidth, machine room temperature, or server load average) and can
 display that data as an average over time. RRDtool is available from
-*http://oss.oetiker.ch/rrdtool/*
+http://oss.oetiker.ch/rrdtool/
 
-***rsync***(*http://rsync.samba.org/*). An open source incremental file
+rsync (http://rsync.samba.org/). An open source incremental file
 transfer utility used for maintaining mirrors.
 
-***RTT*** see ***Round Trip Time***
+RTT see Round Trip Time
 
-#### S
+S
 
-***SACK*** see ***Selective Acknowledgment***
+SACK see Selective Acknowledgment
 
-***scattering.***Signal loss due to objects in the path between two
-nodes. See also: ***free space loss, attenuation***
+scattering. Signal loss due to objects in the path between two nodes.
+See also: free space loss, attenuation
 
-***sectorial antenna.***An antenna that radiates primarily in a specific
+sectorial antenna. An antenna that radiates primarily in a specific
 area. The beam can be as wide as 180 degrees, or as narrow as 60
-degrees. See also: ***directional antenna, omnidirectional antenna***
+degrees. See also: directional antenna, omnidirectional antenna
 
-***Secure Sockets Layer (SSL).***An end-to-end encryption technology
-built into virtually all web browsers. SSL uses ***public key
-cryptography*** and a trusted ***public key infrastructure*** to secure
-data communications on the web. Whenever you visit a web URL that starts
-with https, you are using SSL.
+Secure Sockets Layer (SSL). An end-to-end encryption technology built
+into virtually all web browsers. SSL uses public key cryptography and a
+trusted public key infrastructure to secure data communications on the
+web. Whenever you visit a web URL that starts with https, you are using
+SSL.
 
-***Selective Acknowledgment (SACK).***A mechanism used to overcome TCP
+Selective Acknowledgment (SACK). A mechanism used to overcome TCP
 inefficiencies on high latency networks, such as VSAT.
 
-***Server Message Block (SMB).***A network protocol used in Windows
-networks to provide file sharing services. See also: ***NetBIOS***.
+Server Message Block (SMB). A network protocol used in Windows networks
+to provide file sharing services. See also: NetBIOS.
 
-***Service Set ID (SSID)*** see ***Extended Service Set Identifier***
+Service Set ID (SSID) see Extended Service Set Identifier
 
-***session layer.***Layer five of the OSI model, the Session Layer
-manages logical connections between applications.
+session layer. Layer five of the OSI model, the Session Layer manages
+logical connections between applications.
 
-***session oriented protocol.*** A network protocol (such as TCP) that
+session oriented protocol. A network protocol (such as TCP) that
 requires initialization before data can be exchanged, as well as some
 clean-up after data exchange has completed. Session oriented protocols
 typically offer error correction and packet reassembly, while
-connectionless protocols do not. See also: ***connectionless
-protocol***.
+connectionless protocols do not. See also: connectionless protocol.
 
-***shared medium.***A ***link-local*** network where every node can
-observe the traffic of every other node.
+shared medium. A link-local network where every node can observe the
+traffic of every other node.
 
-***Shorewall***(*http://shorewall.net/*). A configuration tool used for
-setting up netfilter firewalls without the need to learn iptables
-syntax.
+Shorewall (http://shorewall.net/). A configuration tool used for setting
+up netfilter firewalls without the need to learn iptables syntax.
 
-***sidelobes.***No antenna is able to radiate all the energy in one
-preferred direction. Some is inevitably radiated in other directions.
-These smaller peaks are referred to as sidelobes.
+sidelobes. No antenna is able to radiate all the energy in one preferred
+direction. Some is inevitably radiated in other directions. These
+smaller peaks are referred to as sidelobes.
 
-***signal generator.***A transmitter that emits  continuously at a
-specific frequency.
+signal generator. A transmitter that emits  continuously at a specific
+frequency.
 
-***Simple Network Management Protocol (SNMP).***A protocol designed to
+Simple Network Management Protocol (SNMP). A protocol designed to
 facilitate the exchange of management information between network
 devices. SNMP is typically used to poll network switches and routers to
 gather operating statistics.
 
-***site-wide web cache.*** While all modern web browsers provide a local
-data cache, large organizations can improve efficiency by installing a
+site-wide web cache. While all modern web browsers provide a local data
+cache, large organizations can improve efficiency by installing a
 site-wide web cache, such as Squid. A site-wide web cache keeps a copy
 of all requests made from within an organization, and serves the local
-copy on subsequent requests. See also: ***Squid***.
+copy on subsequent requests. See also: Squid.
 
-***slow blow.***A fuse that allows a current higher than its rating to
-pass for a short time. See also: ***quick blow***
+slow blow. A fuse that allows a current higher than its rating to pass
+for a short time. See also: quick blow
 
-***SMA.***A small threaded microwave connector.
+SMA. A small threaded microwave connector.
 
-***SMB*** see ***Server Message Block***
+SMB see Server Message Block
 
-***SmokePing.*** A latency measurement tool that measures, stores and
-displays latency, latency distribution and packet loss all on a single
-graph. SmokePing is available from *http://oss.oetiker.ch/smokeping/*
+SmokePing. A latency measurement tool that measures, stores and displays
+latency, latency distribution and packet loss all on a single graph.
+SmokePing is available from http://oss.oetiker.ch/smokeping/
 
-***SNMP*** see ***Simple Network Management Protocol***
+SNMP see Simple Network Management Protocol
 
-***Snort*** (*http://www.snort.org/*). A very popular open source
-intrusion detection system. See also: ***Intrusion Detection System***.
+Snort (http://www.snort.org/). A very popular open source intrusion
+detection system. See also: Intrusion Detection System.
 
-***SoC*** see ***State of Charge***
+SoC see State of Charge
 
-***solar module*** see ***solar panel***
+solar module see solar panel
 
-***solar panel.***The component of a ***photovoltaic system*** used to
-convert solar radiation into electricity. See also: ***battery,
-regulator, load, converter, inverter***
+solar panel. The component of a photovoltaic system used to convert
+solar radiation into electricity. See also: battery, regulator, load,
+converter, inverter
 
-***solar panel array.***A set of ***solar panels*** wired in series
-and/or parallel in order to provide the necessary energy for a given
-***load***.
+solar panel array. A set of solar panels wired in series and/or parallel
+in order to provide the necessary energy for a given load.
 
-***solar power charge regulator*** see ***regulator***
+solar power charge regulator see regulator
 
-***spectrum*** see ***electromagnetic spectrum***
+spectrum see electromagnetic spectrum
 
-***spectrum analyzer.***A device that provides a visual representation
-of the electromagnetic spectrum. See also: ***Wi-Spy***
+spectrum analyzer. A device that provides a visual representation of the
+electromagnetic spectrum. See also: Wi-Spy
 
-\
-\
+Speed. A generic term used to refer to the responsiveness of a network
+connection. A "high-speed" network should have low latency and more than
+enough capacity to carry the traffic of its users. See also: bandwidth,
+capacity, and latency.
 
-***Speed.*** A generic term used to refer to the responsiveness of a
-network connection. A "high-speed" network should have low latency and
-more than enough capacity to carry the traffic of its users. See also:
-***bandwidth***, ***capacity***, and ***latency***.
+split horizon DNS. A technique used to serve different answers to DNS
+requests based on the source of the request. Split horizon is used to
+direct internal users to a different set of servers than Internet users.
 
-***split horizon DNS.*** A technique used to serve different answers to
-DNS requests based on the source of the request. Split horizon is used
-to direct internal users to a different set of servers than Internet
-users.
+spoof. To impersonate a network device, user, or service.
 
-***spoof.***To impersonate a network device, user, or service.
+spot check tools. Network monitoring tools that are run only when needed
+to diagnose a problem. Ping and traceroute are examples of spot check
+tools.
 
-***spot check tools.*** Network monitoring tools that are run only when
-needed to diagnose a problem. Ping and traceroute are examples of spot
-check tools.
-
-***Squid.*** A very popular open source web proxy cache. It is flexible,
+Squid. A very popular open source web proxy cache. It is flexible,
 robust, full-featured, and scales to support networks of nearly any
-size. *http://www.squid-cache.org/*
+size. http://www.squid-cache.org/
 
-***SSID*** see ***Extended Service Set Identifier***
+SSID see Extended Service Set Identifier
 
-***SSL*** see ***Secure Sockets Layer***
+SSL see Secure Sockets Layer
 
-***standalone photovoltaic system*** see ***photovoltaic system***
+standalone photovoltaic system see photovoltaic system
 
-***State of Charge (SoC).***The amount of charge present in a battery,
+State of Charge (SoC). The amount of charge present in a battery,
 determined by the current voltage and type of battery.
 
-***stateful inspection.*** Firewall rules that are aware of the the
-state associated with a given packet. The state is not part of the
-packet as transmitted over the Internet, but is determined by the
-firewall itself. New, established, and related connections may all be
-taken into consideration when filtering packets. Stateful inspection is
-sometimes called connection tracking.
+stateful inspection. Firewall rules that are aware of the the state
+associated with a given packet. The state is not part of the packet as
+transmitted over the Internet, but is determined by the firewall itself.
+New, established, and related connections may all be taken into
+consideration when filtering packets. Stateful inspection is sometimes
+called connection tracking.
 
-***stationary batteries.***Batteries designed to have a fixed location
-and in scenarios where the power consumption is more or less irregular.
+stationary batteries. Batteries designed to have a fixed location and in
+scenarios where the power consumption is more or less irregular.
 Stationary batteries can accommodate deep discharge cycles, but they are
 not designed to produce high currents in brief periods of time. See
-also: ***lead-acid batteries***
+also: lead-acid batteries
 
-***structure.***In ***NEC2***, a numerical description of where the
-different parts of the antenna are located, and how the wires are
-connected up. See also: ***controls***
+structure. In NEC2, a numerical description of where the different parts
+of the antenna are located, and how the wires are connected up. See
+also: controls
 
-***subnet mask*** see ***netmask***
+subnet mask see netmask
 
-***subnets.***A subset of a range of IP networks, defined by
-***netmasks***.
+subnets. A subset of a range of IP networks, defined by netmasks.
 
-***switch.*** A network device that provides a temporary, dedicated
-connection between communicating devices. See also: ***hub***.
+switch. A network device that provides a temporary, dedicated connection
+between communicating devices. See also: hub.
 
-***switching conversion.***A DC voltage conversion method that uses a
+switching conversion. A DC voltage conversion method that uses a
 magnetic component to temporarily store the energy and transform it to
-another voltage. Switching conversion is much more efficient than
-***linear conversion***.
+another voltage. Switching conversion is much more efficient than linear
+conversion.
 
-#### T
+T
 
-***target.*** In netfilter, the action to be taken once a packet matches
-a rule. Some possible netfilter targets include ***ACCEPT***,
-***DROP***, ***LOG***, and ***REJECT***.
+target. In netfilter, the action to be taken once a packet matches a
+rule.  Some possible netfilter targets include  ACCEPT, DROP, LOG, and
+REJECT.
 
-***TCP*** see ***Transmission Control Protocol***
+TCP see Transmission Control Protocol
 
-***TCP acknowledgment spoofing***
+TCP acknowledgment spoofing
 
-***TCP window size.*** The TCP parameter that defines how much data that
-may be sent before an ACK packet is returned from the receiving side.
-For instance, a window size of 3000 would mean that two packets of 1500
+TCP window size. The TCP parameter that defines how much data that may
+be sent before an ACK packet is returned from the receiving side. For
+instance, a window size of 3000 would mean that two packets of 1500
 bytes each will be sent, after which the receiving end will either ACK
 the chunk or request retransmission.
 
-***TCP/IP*** see ***Internet protocol suite***
+TCP/IP see Internet protocol suite
 
-***TCP/IP network model.*** A popular simplification of the OSI network
-model that is used with Internet networks. The TCP/IP model consists of
-five interdependent layers, from the physical through the application.
-See also: ***OSI network model***.
+TCP/IP network model. A popular simplification of the OSI network model
+that is used with Internet networks. The TCP/IP model consists of five
+interdependent layers, from the physical through the application. See
+also: OSI network model.
 
-***tcpdump.*** A popular open source packet capture and analysis tool
-available at*******http://www.tcpdump.org/.*See also: ***WinDump*** and
-***Wireshark***.
+tcpdump. A popular open source packet capture and analysis tool
+available at http://www.tcpdump.org/. See also: WinDump and Wireshark.
 
-***Temporal Key Integrity Protocol (TKIP).***An encryption protocol used
-in conjunction with ***WPA*** to improve the security of a
-communications session.
+Temporal Key Integrity Protocol (TKIP). An encryption protocol used in
+conjunction with WPA to improve the security of a communications
+session.
 
-***thermal solar energy.***Energy collected from the sun in the form of
-heat. See also: ***photovoltaic solar energy***
+thermal solar energy. Energy collected from the sun in the form of heat.
+See also: photovoltaic solar energy
 
-***thrashing.***The state when a computer has exhausted the available
-RAM and must use the hard disk for temporary storage, greatly reducing
-system performance.
+thrashing. The state when a computer has exhausted the available RAM and
+must use the hard disk for temporary storage, greatly reducing system
+performance.
 
-***throughput.***The actual amount of information per second flowing
-through a network connection, disregarding protocol overhead.
+throughput. The actual amount of information per second flowing through
+a network connection, disregarding protocol overhead.
 
-***throughput testing tools.***Tools that measure the actual bandwidth
+throughput testing tools. Tools that measure the actual bandwidth
 available between two points on a network.
 
-***Time To Live (TTL).***A TTL value acts as a deadline or emergency
-brake to signal a time when the data should be discarded. In TCP/IP
-networks, the TTL is a counter that starts at some value (such as 64)
-and is decremented at each router hop. If the TTL reaches zero, the
-packet is discarded. This mechanism helps reduce damage caused by
-routing loops. In DNS, the TTL defines the amount of time that a
-particular zone record should be kept before it must be refreshed. In
-Squid, the TTL defines how long a cached object may be kept before it
-must be again retrieved from the original website.
+Time To Live (TTL). A TTL value acts as a deadline or emergency brake to
+signal a time when the data should be discarded. In TCP/IP networks, the
+TTL is a counter that starts at some value (such as 64) and is
+decremented at each router hop. If the TTL reaches zero, the packet is
+discarded. This mechanism helps reduce damage caused by routing loops.
+In DNS, the TTL defines the amount of time that a particular zone record
+should be kept before it must be refreshed. In Squid, the TTL defines
+how long a cached object may be kept before it must be again retrieved
+from the original website.
 
-***TKIP*** see ***Temporal Key Integrity Protocol***
+TKIP see Temporal Key Integrity Protocol
 
-***TNC connector.*** A common, sturdy threaded microwave connector.
+TNC connector. A common, sturdy threaded microwave connector.
 
-***Tor*** (*http://www.torproject.org/*). An ***onion routing*** tool
-that provides good protection against traffic analysis.
+Tor (http://www.torproject.org/). An onion routing tool that provides
+good protection against traffic analysis.
 
-***traceroute / tracert***. A ubiquitous network diagnostic utility
-often used in conjunction with ping to determine the location of network
-problems. The Unix version is called traceroute, while the Windows
-version is tracert. Both use ICMP echo requests with increasing TTL
-values to determine which routers are used to connect to a remote host,
-and also display latency statistics. Another variant is tracepath, which
-uses a similar technique with UDP packets. See also: ***mtr***.
+traceroute / tracert. A ubiquitous network diagnostic utility often used
+in conjunction with ping to determine the location of network problems.
+The Unix version is called traceroute, while the Windows version is
+tracert. Both use ICMP echo requests with increasing TTL values to
+determine which routers are used to connect to a remote host, and also
+display latency statistics. Another variant is tracepath, which uses a
+similar technique with UDP packets. See also: mtr.
 
-***traction batteries*** see ***lead-acid batteries***
+traction batteries see lead-acid batteries
 
-***Transmission Control Protocol (TCP).***A session oriented protocol
-that operates at the Transport Layer, providing packet reassembly,
-congestion avoidance, and reliable delivery. TCP is an integral protocol
-used by many Internet applications, including HTTP and SMTP. See also:
-***UDP***.
+Transmission Control Protocol (TCP). A session oriented protocol that
+operates at the Transport Layer, providing packet reassembly, congestion
+avoidance, and reliable delivery. TCP is an integral protocol used by
+many Internet applications, including HTTP and SMTP. See also: UDP.
 
-***transmission power.***The amount of power provided by the radio
+transmission power. The amount of power provided by the radio
 transmitter, before any antenna gain or line losses.
 
-***transparent bridging firewall***. A firewall technique that
-introduces a bridge that selectively forwards packets based on firewall
-rules. One benefit of a transparent bridging firewall is that it does
-not require an IP address. See also: ***bridge***.
+transparent bridging firewall. A firewall technique that introduces a
+bridge that selectively forwards packets based on firewall rules. One
+benefit of a transparent bridging firewall is that it does not require
+an IP address. See also: bridge.
 
-***transparent cache***. A method of implementing a site-wide web cache
-that requires no configuration on the web clients. Web requests are
-silently redirected to the cache, which makes the request on behalf of
-the client. Transparent caches cannot use authentication, which makes it
+transparent cache. A method of implementing a site-wide web cache that
+requires no configuration on the web clients. Web requests are silently
+redirected to the cache, which makes the request on behalf of the
+client. Transparent caches cannot use authentication, which makes it
 impossible to implement traffic accounting at the user level. See also:
-***site-wide web cache***, ***Squid***.
+site-wide web cache, Squid.
 
-***transparent proxy.***A caching proxy installed so that users’ web
-requests are automatically forwarded to the proxy server, without any
-need to manually configure web browsers to use it.
+transparent proxy. A caching proxy installed so that users’ web requests
+are automatically forwarded to the proxy server, without any need to
+manually configure web browsers to use it.
 
-***transport layer.***The third layer of the OSI and TCP/IP network
-models, which provides a method of reaching a particular service on a
-given network node. Examples of protocols that operate at this layer are
-***TCP*** and ***UDP***.
+transport layer. The third layer of the OSI and TCP/IP network models,
+which provides a method of reaching a particular service on a given
+network node. Examples of protocols that operate at this layer are TCP
+and UDP.
 
-***trending.***A type of network monitoring tool that performs
-unattended monitoring over long periods, and plots the results on a
-graph. Trending tools allow you to predict future behavior of your
-network, which helps you plan for upgrades and changes.
+trending. A type of network monitoring tool that performs unattended
+monitoring over long periods, and plots the results on a graph. Trending
+tools allow you to predict future behavior of your network, which helps
+you plan for upgrades and changes.
 
-***TTL*** see ***Time To Live***
+TTL see Time To Live
 
-***tunnel***. A form of data encapsulation that wraps one protocol stack
+tunnel. A form of data encapsulation that wraps one protocol stack
 within another. This is often used in conjunction with encryption to
 protect communications from potential eavesdroppers, while eliminating
 the need to support encryption within the application itself. Tunnels
-are often used conjunction with ***VPN***s.
+are often used conjunction with VPNs.
 
-#### U
+U
 
-***U.FL.***A very tiny microwave connector commonly used on mini-PCI
-radio cards.
+U.FL. A very tiny microwave connector commonly used on mini-PCI radio
+cards.
 
-***UDP*** see ***User Datagram Protocol***
+UDP see User Datagram Protocol
 
-***unintentional users.***Laptop users who accidentally associate to the
+unintentional users. Laptop users who accidentally associate to the
 wrong wireless network.
 
-***Unshielded Twisted Pair (UTP).***Cable used for 10baseT and 100baseT
+Unshielded Twisted Pair (UTP). Cable used for 10baseT and 100baseT
 Ethernet, consisting of four pairs of twisted wires.
 
-***Useful Capacity (C******u******).***The usable capacity of a battery,
-equal to the product of the ***Nominal Capacity*** and the ***Maximum
-Depth of Discharge***.
+Useful Capacity (Cu ). The usable capacity of a battery, equal to the
+product of the Nominal Capacity and the Maximum Depth of Discharge.
 
-***User Datagram Protocol (UDP)***. A ***connectionless protocol*** (at
-the ***transport layer***) commonly used for video and audio streaming.
+User Datagram Protocol (UDP). A connectionless protocol (at the
+transport layer) commonly used for video and audio streaming.
 
-***UTP*** see ***Unshielded Twisted Pair***
+UTP see Unshielded Twisted Pair
 
-\
-\
+V
 
-#### V
+valve regulated lead acid battery (VRLA) see lead-acid batteries
 
-***valve regulated lead acid battery (VRLA)*** see ***lead-acid
-batteries***
-
-***vertical polarization.***An electro-magnetic field with the electric
+vertical polarization. An electro-magnetic field with the electric
 component moving in a linear vertical direction. Most wireless consumer
-electronic devices use vertical polarization. See also: ***circular
-polarization, vertical polarization***
+electronic devices use vertical polarization. See also: circular
+polarization, vertical polarization
 
-***Very Small Aperture Terminal (VSAT).***One of several standards used
-for satellite Internet access. VSAT is the most widely deployed
-satellite technology used in Africa. See also: ***Broadband Global
-Access Network (BGAN)*** and ***Digital Video Broadcast (DVB-S)***.
+Very Small Aperture Terminal (VSAT). One of several standards used for
+satellite Internet access. VSAT is the most widely deployed satellite
+technology used in Africa. See also: Broadband Global Access Network
+(BGAN) and Digital Video Broadcast (DVB-S).
 
-***video sender.***A 2.4 GHz video transmitter that can be used as an
-inexpensive ***signal generator***.
+video sender. A 2.4 GHz video transmitter that can be used as an
+inexpensive signal generator.
 
-***Virtual Private Network (VPN).***A tool used to join two networks
-together over an untrusted network (such as the Internet). VPNs are
-often used to connect remote users to an organization's network when
-traveling or working from home. VPNs use a combination of encryption and
-tunneling to secure all network traffic, regardless of the application
-being used. See also: ***tunnel***.
+Virtual Private Network (VPN). A tool used to join two networks together
+over an untrusted network (such as the Internet). VPNs are often used to
+connect remote users to an organization's network when traveling or
+working from home. VPNs use a combination of encryption and tunneling to
+secure all network traffic, regardless of the application being used.
+See also: tunnel.
 
-***VoIP***(***Voice over IP***). A technology that provides
-telephone-like features over an Internet connection. Examples of popular
-VoIP clients include Skype, Gizmo Project, MSN Messenger, and iChat.
+VoIP (Voice over IP). A technology that provides telephone-like features
+over an Internet connection. Examples of popular VoIP clients include
+Skype, Gizmo Project, MSN Messenger, and iChat.
 
-***VPN*** see ***Virtual Private Network.***
+VPN see Virtual Private Network.
 
-***VRLA*** see ***valve regulated lead acid battery***
+VRLA see valve regulated lead acid battery
 
-***VSAT*** see ***Very Small Aperture Terminal***
+VSAT see Very Small Aperture Terminal
 
-***Very Small Aperture Terminal (VSAT).***One of several standards used
-for satellite Internet access. VSAT is the most widely deployed
-satellite technology used in Africa. See also: ***Broadband Global
-Access Network (BGN)*** and ***Digital Video Broadcast (DVB-S)***.
+Very Small Aperture Terminal (VSAT). One of several standards used for
+satellite Internet access. VSAT is the most widely deployed satellite
+technology used in Africa. See also: Broadband Global Access Network
+(BGN) and Digital Video Broadcast (DVB-S).
 
-\
-\
+W
 
-\
-\
+WAN see Wide Area Network
 
-\
-\
-
-#### W
-
-***WAN*** see ***Wide Area Network***
-
-***War drivers.***Wireless enthusiasts who are interested in finding the
+War drivers. Wireless enthusiasts who are interested in finding the
 physical location of wireless networks.
 
-***wavelength.***The distance measured from a point on one wave to the
+wavelength. The distance measured from a point on one wave to the
 equivalent part of the next, for example from the top of one peak to the
-next. Also known as ***lambda (λ).***
+next. Also known as lambda (λ).
 
-***WEP*** see ***Wired Equivalent Privacy***
+WEP see Wired Equivalent Privacy
 
-***wget.*** An open source command line tool for downloading web
-pages.*******http://www.gnu.org/software/wget/*
+wget. An open source command line tool for downloading web pages.
+http://www.gnu.org/software/wget/
 
-***Wi-Fi.*** A marketing brand owned by the Wi-Fi Alliance that is used
-to refer to various wireless networking technologies (including 802.11a,
-802.11b, and 802.11g). Wi-Fi is short for ***Wireless Fidelity***.
+Wi-Fi. A marketing brand owned by the Wi-Fi Alliance that is used to
+refer to various wireless networking technologies (including 802.11a,
+802.11b, and 802.11g). Wi-Fi is short for Wireless Fidelity.
 
-***Wi-Fi Protected Access (WPA).***A fairly strong ***link layer
-encryption*** protocol supported by most modern ***Wi-Fi*** equipment.
+Wi-Fi Protected Access (WPA). A fairly strong link layer encryption
+protocol supported by most modern Wi-Fi equipment.
 
-***Wi-Spy.***An inexpensive 2.4 GHz spectrum analysis tool available
-from *http://www.metageek.net/*.
+Wi-Spy. An inexpensive 2.4 GHz spectrum analysis tool available from
+http://www.metageek.net/.
 
-***Wide Area Network (WAN).***Any long distance networking technology.
-Leased lines, frame relay, DSL, fixed wireless, and satellite all
-typically implement wide area networks. See also: ***LAN***.
+Wide Area Network (WAN). Any long distance networking technology. Leased
+lines, frame relay, DSL, fixed wireless, and satellite all typically
+implement wide area networks. See also: LAN.
 
-***wiki.***A web site that allows any user to edit the contents of any
-page. One of the most popular public wikis is
-*http://www.wikipedia.org/*
+wiki. A web site that allows any user to edit the contents of any page.
+One of the most popular public wikis is http://www.wikipedia.org/
 
-***window scale.*** A TCP enhancement defined by RFC1323 that allows TCP
+window scale. A TCP enhancement defined by RFC1323 that allows TCP
 window sizes larger than 64KB.
 
-***WinDump.***The Windows version of tcpdump. It is available
-from*******http://www.winpcap.org/windump/*
+WinDump. The Windows version of tcpdump. It is available from
+http://www.winpcap.org/windump/
 
-***Wired Equivalent Privacy (WEP).***A somewhat secure ***link layer
-encryption*** protocol supported by virtually all 802.11a/b/g equipment.
+Wired Equivalent Privacy (WEP). A somewhat secure link layer encryption
+protocol supported by virtually all 802.11a/b/g equipment.
 
-***Wireless Fidelity***see***Wi-Fi***.
+Wireless Fidelity see Wi-Fi.
 
-***wireshark.*** A free network protocol analyzer for Unix and Windows.
-*http://www.wireshark.org/*
+wireshark. A free network protocol analyzer for Unix and Windows.
+http://www.wireshark.org/
 
-***WPA*** see ***Wi-Fi Protected Access***
+WPA see Wi-Fi Protected Access
 
-#### Z
+Z
 
-***Zabbix*** (*http://www.zabbix.org/*) A realtime monitoring tool that
-logs and notifies a system administrator about service and network
-outages.
+Zabbix (http://www.zabbix.org/) A realtime monitoring tool that logs and
+notifies a system administrator about service and network outages.
 
-\
-\
+ 
 
-\
+ 
 
-\
+6APPENDICES
+===========
 
-APPENDICES
+ 
 
-\
+APPENDIX A: ANTENNA CONSTRUCTION
+--------------------------------
 
-**APPENDIX********A:********ANTENNA********CONSTRUCTION**
-=========================================================
+### Guidelines for building some simple types of antennas
 
-**Guidelines********for********building********some********simple********types********of********antennas**
-----------------------------------------------------------------------------------------------------------
-
-**Collinear********omni**
--------------------------
+### Collinear omni
 
 This antenna is very simple to build, requiring just a piece of wire, an
 N socket and a square metallic plate. It can be used for indoor or
@@ -20356,52 +20141,61 @@ four elements will have 7 to 9 dBi of gain.
 
 We are going to describe how to build the long antenna only.
 
-### **Parts********list********and********tools********required**
+#### Parts list and tools required
 
--   One screw-on N-type female connector
+-   •One screw-on N-type female connector 
 
--   50 cm of copper or brass wire of 2 mm of diameter
+-   •50 cm of copper or brass wire of 2 mm of diameter  
 
--   10x10 cm or greater square metallic plate
+-   •10x10 cm or greater square metallic plate 
 
--   Ruler
+-   •Ruler  
 
--   Pliers
+-   •Pliers  
 
--   File
+-   •File 
 
--   Soldering iron and solder
+-   •Soldering iron and solder 
 
--   Drill with a set of bits for metal (including a 15 mm diameter bit)
+-   •Drill with a set of bits for metal (including a 15 mm diameter bit)
+     
 
--   A piece of pipe or a drill bit with a diameter of 1 cm
+-   •A piece of pipe or a drill bit with a diameter of 1 cm 
 
--   Vice or clamp
+-   •Vice or clamp  
 
--   Hammer
+-   •Hammer 
 
--   ![](AC/AC1.png)\
-    Spanner or monkey wrench
+-   •
+    ![](./AC/AC1.png)
+     
+    Spanner or monkey wrench 
 
-*Figure****AC****1:****10****cm****x****10****cm****aluminum****plate.*
+Figure AC 1: 10 cm x 10 cm aluminum plate.
 
-### Construction
+#### Construction
 
 Straighten the wire using the vice.
 
-\
+ 
 
-![](AC/AC2.png)\
-*Figure****AC****2:****Make****the****wire****as****straight****as****you****can.*
+![](./AC/AC2.png)
+
+Figure AC 2: Make the wire as straight as you can.
+
+ 
 
 With a marker, draw a line at 2.5 cm starting from one end of the wire.
 On this line, bend the wire at 90 degrees with the help of the vice and
 of the hammer.
 
-\
+ 
 
-![](AC/AC3.png)\
-*Figure****AC****3:****Gently****tap****the****wire****to****make****a****sharp****bend.*
+![](./AC/AC3.png)
+
+Figure AC 3: Gently tap the wire to make a sharp bend.
+
+ 
 
 Draw another line at a distance of 3.6 cm from the bend.
 
@@ -20409,32 +20203,35 @@ Using the vice and the hammer, bend once again the wire over this second
 line at 90 degrees, in the opposite direction to the first bend but in
 the same plane. The wire should look like a ‘Z’.
 
-\
+ 
 
-![](AC/AC4.png)\
-*Figure****AC****4:****Bend****the****wire****into****a****“Z”****shape.*
+![](./AC/AC4.png)
+
+Figure AC 4: Bend the wire into a “Z” shape.
+
+ 
 
 We will now twist the ‘Z’ portion of the wire to make a coil with a
 diameter of 1 cm. To do this, we will use the pipe or the drill bit and
 curve the wire around it, with the help of the vice and of the pliers.
 
-\
+ 
 
-\
+![](./AC/AC5.png)
 
-![](AC/AC5.png)\
-*Figure****AC****5:****Bend****the****wire****around****the****drill****bit****to****make****a****coil.*
+Figure AC 5: Bend the wire around the drill bit to make a coil.
 
-\
+ 
 
 The coil will look like this:
 
-\
+ 
 
-![](AC/AC6.png)\
-*Figure****AC****6:****The****completed****coil.*
+![](./AC/AC6.png)
 
-\
+Figure AC 6: The completed coil.
+
+ 
 
 You should make a second coil at a distance of 7.8 cm from the first
 one. Both coils should have the same turning direction and should be
@@ -20443,26 +20240,29 @@ placed on the same side of the wire.
 Make a third and a fourth coil following the same procedure, at the same
 distance of 7.8 cm one from each other.
 
-\
+ 
 
 Trim the last phased element at a distance of 8.0 cm from the fourth
 coil.
 
-\
+ 
 
-![](AC/AC7.png)\
-*Figure****AC****7:
-Try****to****keep****it****as****straight****possible.*
+![](./AC/AC7.png)
+
+Figure AC 7: Try to keep it as straight possible.
+
+ 
 
 If the coils have been made correctly, it should now be possible to
 insert a pipe through all the coils as shown.
 
-\
+ 
 
-![](AC/AC8.png)\
-*Figure****AC****8:****Inserting****a****pipe****can****help****to****straighten****the****wire.*
+![](./AC/AC8.png)
 
-\
+Figure AC 8: Inserting a pipe can help to straighten the wire.
+
+ 
 
 With a marker and a ruler, draw the diagonals on the metallic plate,
 finding its centre.
@@ -20471,136 +20271,147 @@ With a small diameter drill bit, make a pilot hole at the centre of the
 plate. Increase the diameter of the hole using bits with an increasing
 diameter.
 
-\
+ 
 
-\
+ 
 
-\
+![](./AC/AC9.png)
 
-![](AC/AC9.png)\
-*Figure****AC****9:****Drilling****the****hole****in****the****metal****plate.*
+Figure AC 9: Drilling the hole in the metal plate.
 
-\
+ 
 
 The hole should fit the N connector exactly. Use a file if needed.
 
-\
+ 
 
-![](AC/AC10.png)\
-*Figure****AC****10:****The****N****connector****should****fit****snugly****in****the****hole.*
+![](./AC/AC10.png)
 
-\
+Figure AC 10: The N connector should fit snugly in the hole.
+
+ 
 
 To have an antenna impedance of 50 Ohms, it is important that the
 visible surface of the internal insulator of the connector (the white
 area around the central pin) is at the same level as the surface of the
 plate.
 
-\
+ 
 
 For this reason, cut 0.5 cm of copper pipe with an external diameter of
 2 cm, and place it between the connector and the plate.
 
-![](AC/AC11.png)\
-\
+![](./AC/AC11.png)
 
-*Figure****AC****11:****Adding****a****copper****pipe****spacer****helps****to****match****the****impedance****of****the****antenna****to****50****Ohms.*
+ 
 
-\
+Figure AC 11: Adding a copper pipe spacer helps to match the impedance
+of the antenna to 50 Ohms.
+
+ 
 
 Screw the nut to the connector to fix it firmly on the plate using the
 spanner.
 
-\
+ 
 
-![](AC/AC12.png)\
-\
+![](./AC/AC12.png)
 
-*Figure****AC****12:****Secure****the****N****connector****tightly****to****the****plate.*
+ 
 
-\
+Figure AC 12: Secure the N connector tightly to the plate.
+
+ 
 
 Smooth with the file the side of the wire which is 2.5 cm long, from the
 first coil. Tin the wire for around 0.5 cm at the smoothed end helping
 yourself with the vice.
 
-![](AC/AC13.png)\
-\
+![](./AC/AC13.png)
 
-*Figure****AC****13:
-Add****a****little****solder****to****the****end****of****the****wire****to****“tin”****it****prior****to****soldering.*
+ 
 
-\
+Figure AC 13: Add a little solder to the end of the wire to “tin” it
+prior to soldering.
+
+ 
 
 With the soldering iron, tin the central pin of the connector. Keeping
 the wire vertical with the pliers, solder its tinned side in the hole of
 the central pin. The first coil should be at 3.0 cm from the plate.
 
-\
+ 
 
-![](AC/AC14.png)\
-*Figure****AC****14:****The****first****coil****should****start****3.0****cm****from****the****surface****of****the****plate.*
+![](./AC/AC14.png)
+
+Figure AC 14: The first coil should start 3.0 cm from the surface of the
+plate.
+
+ 
 
 We are now going to stretch the coils extending the total vertical
 length of the wire. Using the vice and the pliers, you should pull the
 cable so that the final length of the coil is of 2.0 cm.
 
-![](AC/AC15.png)\
-\
+![](./AC/AC15.png)
 
-*Figure****AC****15:****Stretching****the****coils.
-Be****very****gentle****and****try****not****to****scrape****the****surface****of****the****wire****with****the****pliers.*
+ 
 
-\
+Figure AC 15: Stretching the coils. Be very gentle and try not to scrape
+the surface of the wire with the pliers.
+
+ 
 
 Repeat the same procedure for the other three coils, stretching their
 length to 2.0 cm.
 
-![](AC/AC16.png)\
-*Figure****AC****16:****Repeat****the****stretching****procedure****for****all****of****the****remaining****coils.*
+![](./AC/AC16.png)
 
-\
+Figure AC 16: Repeat the stretching procedure for all of the remaining
+coils.
 
-\
+ 
+
+ 
 
 At the end the antenna should measure 42.5 cm from the plate to the top.
 
-\
+ 
 
-\
+ 
 
-![](AC/AC17.png)\
-\
+![](./AC/AC17.png)
 
-\
+ 
 
-*Figure AC 17: The finished antenna should be 42.5 cm from the plate to
-the end of the wire.*
+Figure AC 17: The finished antenna should be 42.5 cm from the plate to
+the end of the wire.
 
-\
+ 
 
 If you have a spectrum analyzer with a tracking generator and a
 directional coupler, you can check the curve of the reflected power of
 the antenna.
 
-\
+ 
 
 The following picture shows the display of the spectrum analyzer.
 
-![](AC/AC18.png)\
-\
+![](./AC/AC18.png)
 
-*Figure****AC****18:****A****spectrum****plot****of****the****reflected****power****of****the****collinear****omni.*
+ 
 
-\
+Figure AC 18: A spectrum plot of the reflected power of the collinear
+omni.
+
+ 
 
 If you intend to use this antenna outside, you will need to weatherproof
 it. The simplest method is to enclose the whole thing in a large piece
 of PVC pipe closed with caps. Cut a hole at the bottom for the
 transmission line, and seal the antenna shut with silicone or PVC glue.
 
-Cantenna
---------
+### Cantenna
 
 The waveguide antenna, sometimes called a Cantenna, uses a tin can as a
 waveguide and a short wire soldered on an N connector as a probe for
@@ -20610,28 +20421,28 @@ It is a directional antenna, useful for short to medium distance
 point-to-point links. It may be also used as a feeder for a parabolic
 dish or grid.
 
-\
+ 
 
 Not all cans are good for building an antenna because there are
 dimensional constraints.
 
-\
+ 
 
 ​1. The acceptable values for the diameter D of the feed are between
 0.60 and 0.75 wavelength in air at the design frequency. At 2.44 GHz the
 wavelength λ is 12.2 cm, so the can diameter should be in the range of
 7.3 - 10 cm.
 
-\
+ 
 
-​2. The length L of the can preferably should be at least 0.75 λ~G~ ,
-where λ~G~ is the guide wavelength and is given by:
+​2. The length L of the can preferably should be at least 0.75 λG ,
+where λG is the guide wavelength and is given by:
 
-\
+ 
 
-*λ~G~ = λ/(sqrt(1 - (λ / 1.706D)^2^))*
+λG = λ/(sqrt(1 - (λ / 1.706D)2))
 
-\
+ 
 
 For D = 7.3 cm, we need a can of at least 56.4 cm, while for D = 9.2 cm
 we need a can of at least 14.8 cm. Generally the smaller the diameter,
@@ -20641,87 +20452,93 @@ have a diameter of 8.3 cm and a height of about 21 cm.
 ​3. The probe for coaxial cable to waveguide transition should be
 positioned at a distance S from the bottom of the can, given by:
 
-\
+ 
 
-*S = 0.25 λ~G~*
+S = 0.25 λG
 
-\
+ 
 
 Its length should be 0.25 λ, which at 2.44 GHz corresponds to 3.05 cm.
 
-\
+ 
 
-![](AC/AC19.png)\
-\
+![](./AC/AC19.png)
 
-*Figure****AC****19:****Dimensional****constraints****on****the****cantenna*
+ 
 
-\
+Figure AC 19: Dimensional constraints on the cantenna
+
+ 
 
 The gain for this antenna will be in the order of 10 to 14 dBi, with a
 beamwidth of around 60 degrees.
 
-![](AC/AC20.png)\
-\
+![](./AC/AC20.png)
 
-*Figure****AC****20:****The****finished****cantenna.*
+ 
 
-### **Parts********list**
+Figure AC 20: The finished cantenna.
 
--   one screw-on N-type female connector
+#### Parts list
 
--   4 cm of copper or brass wire of 2 mm of diameter
+-   •one screw-on N-type female connector 
 
--   an oil can of 8.3 cm of diameter and 21 cm of height
+-   •4 cm of copper or brass wire of 2 mm of diameter  
 
-![](AC/AC21.png)\
-\
+-   •an oil can of 8.3 cm of diameter and 21 cm of height 
 
-*Figure****AC****21:****Parts****needed****for****the****cantenna.*
+     
 
-### **Tools********required**
+![](./AC/AC21.png)
 
--   Can opener
+ 
 
--   Ruler
+Figure AC 21: Parts needed for the cantenna.
 
--   Pliers
+#### Tools required
 
--   File
+-   •Can opener  
 
--   Soldering iron
+-   •Ruler  
 
--   Solder
+-   •Pliers 
 
--   Drill with a set of bits for metal (with a 1.5 cm diameter bit)
+-   •File 
 
--   Vice or clamp
+-   •Soldering iron  
 
--   Spanner or monkey wrench
+-   •Solder 
 
--   Hammer
+-   •Drill with a set of bits for metal (with a 1.5 cm diameter bit)  
 
--   Punch
+-   •Vice or clamp 
 
-### Construction
+-   •Spanner or monkey wrench  
+
+-   •Hammer 
+
+-   •Punch 
+
+#### Construction
 
 With the can opener, carefully remove the upper part of the can.
 
-\
+ 
 
-![](AC/AC22.png)\
-\
+![](./AC/AC22.png)
 
-*Figure****AC****22:****Be****careful****of****sharp****edges****when****opening****the****can.*
+ 
 
-\
+Figure AC 22: Be careful of sharp edges when opening the can.
+
+ 
 
 The circular disk has a very sharp edge. Be careful when handling it!
 
 Empty the can and wash it with soap. If the can contained pineapple,
 cookies, or some other tasty treat, have a friend serve the food.
 
-\
+ 
 
 With the ruler, measure 6.2 cm from the bottom of the can and draw a
 point. Be careful to measure from the inner side of the bottom. Use a
@@ -20730,10 +20547,11 @@ mark the point. This makes it easier to precisely drill the hole. Be
 careful not to change the shape of the can doing this by inserting a
 small block of wood or other object in the can before tapping it.
 
-\
+ 
 
-![](AC/AC23.png)\
-*Figure****AC****23:****Mark****the****hole****before****drilling.*
+![](./AC/AC23.png)
+
+ 
 
 With a small diameter drill bit, make a hole at the centre of the plate.
 Increase the diameter of the hole using bits with an increasing
@@ -20743,50 +20561,55 @@ Use the file to smooth the border of the hole and to remove the painting
 around it in order to ensure a better electrical contact with the
 connector.
 
-\
+ 
 
-![](AC/AC24.png)\
-\
+![](./AC/AC24.png)
 
-*Figure****AC****24:****Carefully****drill****a****pilot****hole,****then****use****a****larger****bit****to****finish****the****job.*
+ 
 
-\
+Figure AC 24: Carefully drill a pilot hole, then use a larger bit to
+finish the job.
+
+ 
 
 Smooth with the file one end of the wire. Tin the wire for around 0.5 cm
 
 at the same end helping yourself with the vice.
 
-![](AC/AC25.png)\
-\
+![](./AC/AC25.png)
 
-*Figure****AC****25:****Tin****the****end****of****the****wire****before****soldering.*
+ 
 
-\
+Figure AC 25: Tin the end of the wire before soldering.
+
+ 
 
 With the soldering iron, tin the central pin of the connector.
 
 Keeping the wire vertical with the pliers, solder its tinned side in the
 hole of the central pin.
 
-\
+ 
 
-![](AC/AC26.png)\
-\
+![](./AC/AC26.png)
 
-*Figure****AC****26:****Solder****the****wire****to****the****gold****cup****on****the****N****connector.*
+ 
 
-\
+Figure AC 26: Solder the wire to the gold cup on the N connector.
+
+ 
 
 Insert a washer and gently screw the nut onto the connector.
 
 Trim the wire at 3.05 cm measured from the bottom part of the nut.
 
-![](AC/AC27.png)\
-\
+![](./AC/AC27.png)
 
-*Figure****AC****27:****The****length****of****the****wire****is****critical.*
+ 
 
-\
+Figure AC 27: The length of the wire is critical.
+
+ 
 
 Unscrew the nut from the connector, leaving the washer in place.
 
@@ -20794,22 +20617,24 @@ Insert the connector into the hole of the can.
 
 Screw the nut on the connector from inside the can.
 
-\
+ 
 
-![](AC/AC28.png)\
-*Figure****AC****28:****Assemble****the****antenna.*
+![](./AC/AC28.png)
+
+ 
 
 Use the pliers or the monkey wrench to screw firmly the nut on the
 connector. You are done!
 
-\
+ 
 
-![](AC/AC29.png)\
-\
+![](./AC/AC29.png)
 
-*Figure****AC****29: Your****finished****cantenna.*
+ 
 
-\
+Figure AC 29: Your finished cantenna.
+
+ 
 
 As with the other antenna designs, you should make a weatherproof
 enclosure for the antenna if you wish to use it outdoors. PVC works well
@@ -20819,8 +20644,7 @@ the ends with caps and glue.
 You will need to drill a hole in the side of the tube to accommodate the
 N connector on the side of the can.
 
-**Cantenna********as********dish********feed**
-----------------------------------------------
+### Cantenna as dish feed
 
 As with the USB dongle parabolic, you can use the cantenna design as a
 feeder for a parabolic reflector thus attaining a significantly higher
@@ -20835,8 +20659,7 @@ parabolic increases, so does the potential gain and directivity of the
 antenna. With very large parabolas, you can achieve significantly higher
 gain.
 
-NEC2
-----
+### NEC2
 
 NEC2 stands for Numerical Electromagnetics Code (version 2) and is a
 free antenna modeling package. NEC2 lets you build an antenna model in
@@ -20873,7 +20696,7 @@ using xnecview. You should see the expected pattern, horizontally
 omnidirectional, with a peak at the optimum angle of takeoff. Windows
 and Mac versions are also available.
 
-\
+ 
 
 The advantage of NEC2 is that we can get an idea of how the antenna
 works before building it, and how we can modify the design in order to
@@ -20883,17 +20706,14 @@ antenna designers.
 
 NEC2 is available from [http://www.nec2.org/](http://www.nec2.org/)
 
-**APPENDIX********B:********CHANNEL ALLOCATIONS**
-=================================================
-
-\
-\
+APPENDIX B: CHANNEL ALLOCATIONS
+-------------------------------
 
 The following tables list the channel numbers and centre frequencies
 used for 802.11a and 802.11b/g.
 
 Note that while all of these frequencies are in the unlicensed ISM and
-U-NII bands, not all channels are available in all countries. Many
+ U-NII bands, not all channels are available in all countries. Many
 regions impose restrictions on output power and indoor / outdoor use on
 some channels.
 
@@ -20902,15 +20722,15 @@ regulations before transmitting. Note that these tables show the center
 frequency for each channel. Channels are 22MHz wide in 802.11b/g, and
 20MHz wide in 802.11a.
 
-~802.11b\\ /\\ g~
+802.11b / g
 
-~Channel\\ \#~
+Channel \#
 
-~Center\\ Frequency\\ (GHz)~
+Center Frequency (GHz)
 
-~Channel\\ \#~
+Channel \#
 
-~Center\\ Frequency\\ (GHz)~
+Center Frequency (GHz)
 
 1
 
@@ -20968,26 +20788,11 @@ frequency for each channel. Channels are 22MHz wide in 802.11b/g, and
 
 2.484
 
-\
-\
+802.11a
 
-\
-\
+Channel
 
-\
-\
-
-\
-\
-
-\
-\
-
-~802.11a~
-
-~Channel~
-
-~Center\\ Frequency\\ (GHz)~
+Center Frequency (GHz)
 
 34
 
@@ -21053,43 +20858,39 @@ frequency for each channel. Channels are 22MHz wide in 802.11b/g, and
 
 5805
 
-\
+ 
 
-**APPENDIX********C:********PATH********LOSS**
-==============================================
+APPENDIX C: PATH LOSS
+---------------------
 
-\
-\
+ 
 
-\
-\
+ 
 
-\
-\
+ 
 
-![](appendix.c.png)\
-\
+![](./appendix.c.png)
 
-\
+ 
 
-**APPENDIX********D:********CABLE********SIZES**
-================================================
+APPENDIX D: CABLE SIZES
+-----------------------
 
-\
+ 
 
 Wire gauge, diameter, current capacity, and resistance at 20°C. These
 values can vary from cable to cable. When in doubt, consult the
 manufacturer's specifications.
 
-\
+ 
 
-~AWG\\ Gauge~
+AWG Gauge
 
-~Diameter\\ (mm)~
+Diameter (mm)
 
-~Ohms\\ /\\ Meter~
+Ohms / Meter
 
-~Max\\ Amperes~
+Max Amperes
 
 0000
 
@@ -21204,587 +21005,573 @@ manufacturer's specifications.
 15
 
 APPENDIX E: SOLAR DIMENSIONING
-==============================
+------------------------------
 
 Use these tables to collect the necessary data to estimate the required
 size of your solar energy system.
 
-~General\\ Data~
+General Data
 
-~Site\\ Name~
+Site Name
 
-\
+ 
 
-~Site\\ Latitude\\ (°)~
+Site Latitude (°)
 
-\
+ 
 
-~Irradiation\\ Data~
+Irradiation Data
 
-G~dm~(0), in kWh / m^2^ per day)
+Gdm(0), in kWh / m2 per day)
 
-~Jan~
+Jan
 
-~Feb~
+Feb
 
-~Mar~
+Mar
 
-~Apr~
+Apr
 
-~May~
+May
 
-~Jun~
+Jun
 
-~Jul~
+Jul
 
-~Aug~
+Aug
 
-~Sep~
+Sep
 
-~Oct~
+Oct
 
-~Nov~
+Nov
 
-~Dec~
+Dec
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-~Worst\\ Irradiation\\ Month~
+Worst Irradiation Month
 
-\
+ 
 
-\
-\
+Reliability and System Operational Voltage
 
-~Reliability\\ and\\ System\\ Operational\\ Voltage~
+Days of Autonomy (N)
 
-~Days\\ of\\ Autonomy\\ (N)~
+ 
 
-\
+Nominal Voltage (VNEquip)
 
-~Nominal\\ Voltage\\ (VNEquip)~
+ 
 
-\
+Component Characteristics
 
-~Component\\ Characteristics~
+Solar Panels
 
-~Solar\\ Panels~
+Voltage @ Maximum Power (Vpmax)
 
-~Voltage\\ @\\ Maximum\\ Power\\ (Vpmax)~
+ 
 
-\
+Current @ Maximum Power (Ipmax)
 
-~Current\\ @\\ Maximum\\ Power\\ (Ipmax)~
+ 
 
-\
+Panel Type/Model and Power (Wp)
 
-~Panel\\ Type/Model\\ and\\ Power\\ (Wp)~
+ 
 
-\
+Batteries
 
-~Batteries~
+Nominal Capacity @ 100 H (CNBat)
 
-~Nominal\\ Capacity\\ @\\ 100\\ H\\ (CNBat)~
+ 
 
-\
+Nominal Voltage (VNBat)
 
-~Nominal\\ Voltage\\ (VNBat)~
+ 
 
-\
+Maximum Depth of Discharge (DoDMAX)
 
-~Maximum\\ Depth\\ of\\ Discharge\\ (DoDMAX)~
+or Usable Capacity (CUBat)
 
-~or\\ Usable\\ Capacity\\ (CUBat)~
+ 
 
-\
+Regulator
 
-~Regulator~
+Nominal Voltage (VNReg)
 
-~Nominal\\ Voltage\\ (VNReg)~
+ 
 
-\
+Maximum Current (ImaxReg)
 
-~Maximum\\ Current\\ (ImaxReg)~
+ 
 
-\
+DC/AC Inverter (if needed)
 
-~DC/AC\\ Inverter\\ (if\\ needed)~
+Nominal Voltage (VNConv)
 
-~Nominal\\ Voltage\\ (VNConv)~
+ 
 
-\
+Instantaneous Power (PIConv)
 
-~Instantaneous\\ Power\\ (PIConv)~
+ 
 
-\
+Performance @ 70% Load
 
-~Performance\\ @\\ 70%\\ Load~
+ 
 
-\
+Loads
 
-~Loads~
+Estimated Energy Consumed by the Loads (DC)
 
-~Estimated\\ Energy\\ Consumed\\ by\\ the\\ Loads\\ (DC)~
+Month of Greatest Consumption
 
-~Month\\ of\\ Greatest\\ Consumption~
+ 
 
-\
+Description
 
-~Description~
+\# of Units
 
-~\#\\ of\\ Units~
+x Nominal Power
 
-~x\\ Nominal\\ Power~
+x Usage
 
-~x\\ Usage~
+Hours / Day
 
-~Hours\\ /\\ Day~
+= Energy
 
-~=\\ Energy~
+(Wh/day)
 
-~(Wh/day)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ETOTAL DC
 
-~ETOTAL\\ DC~
+ 
 
-\
+Estimated Energy Consumed by the Loads (AC)
 
-~Estimated\\ Energy\\ Consumed\\ by\\ the\\ Loads\\ (AC)~
+Month of Greatest Consumption
 
-~Month\\ of\\ Greatest\\ Consumption~
+ 
 
-\
+Description
 
-~Description~
+\# of Units
 
-~\#\\ of\\ Units~
+x Nominal Power
 
-~x\\ Nominal\\ Power~
+x Usage
 
-~x\\ Usage~
+Hours / Day
 
-~Hours\\ /\\ Day~
+= Energy
 
-~=\\ Energy~
+(Wh/day)
 
-~(Wh/day)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ETOTAL AC (before converter)
 
-~ETOTAL\\ AC\\ (before\\ converter)~
+ 
 
-\
+ETOTAL AC (after converter) = ETOTAL AC / 70%
 
-~ETOTAL\\ AC\\ (after\\ converter)\\ =\\ ETOTAL\\ AC\\ /\\ 70%~
+ 
 
-\
+### Finding the Worst Month
 
-Finding the Worst Month
------------------------
+Site Name
 
-~Site\\ Name~
+ 
 
-\
+Site Latitude (°)
 
-~Site\\ Latitude\\ (°)~
+ 
 
-\
+Nominal Voltage of the Installation VN
 
-~Nominal\\ Voltage\\ of\\ the\\ Installation\\ VN~
+ 
 
-\
+(Month)
 
-~(Month)~
+J
 
-~J~
+F
 
-~F~
+M
 
-~M~
+A
 
-~A~
+M
 
-~M~
+J
 
-~J~
+J
 
-~J~
+A
 
-~A~
+S
 
-~S~
+O
 
-~O~
+N
 
-~N~
+D
 
-~D~
+Inclination ß
 
-~Inclination~ß
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+Gdm (ß) (kWh/m2 × day)
 
-~Gdm\\ (ß)\\ (kWh/m2\\ ×\\ day)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ETOTAL (DC) (Wh/day)
 
-~ETOTAL\\ (DC)\\ (Wh/day)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ETOTAL (AC) (Wh/day)
 
-~ETOTAL\\ (AC)\\ (Wh/day)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ETOTAL (AC + DC)=
 
-~ETOTAL\\ (AC\\ +\\ DC)=~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+Im (A) = ETOTAL (Wh/day) × 1kW/m2/ (Gdm(ß) x VN)
 
-~Im\\ (A)\\ =\\ ETOTAL\\ (Wh/day)\\ ×\\ 1kW/m2/\\ (Gdm(ß)\\ x\\ VN)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+Worst Month Summary
 
-~Worst\\ Month\\ Summary~
+Worst Month
 
-~Worst\\ Month~
+ 
 
-\
+Im (A)
 
-~Im\\ (A)~
+ 
 
-\
+ImMAX (A) = 1.21 x Im
 
-~ImMAX\\ (A)\\ =\\ 1.21\\ x\\ Im~
+ 
 
-\
+ETOTAL (AC + DC)
 
-~ETOTAL\\ (AC\\ +\\ DC)~
+ 
 
-\
+### Final Calculations
 
-Final Calculations
-------------------
+Panels
 
-~Panels~
+Panels in Series (NPS)
 
-~Panels\\ in\\ Series\\ (NPS)~
+NPS = VN / VPmax =
 
-~NPS\\ =\\ VN\\ /\\ VPmax\\ =~
+ 
 
-\
+Panels in Parallel (NPP)
 
-~Panels\\ in\\ Parallel\\ (NPP)~
+NPP = ImMAX / IPmax =
 
-~NPP\\ =\\ ImMAX\\ /\\ IPmax\\ =~
+ 
 
-\
+Total Number of Panels
 
-~Total\\ Number\\ of\\ Panels~
+NTOT = NPS x NPP =
 
-~NTOT\\ =\\ NPS\\ x\\ NPP\\ =~
+ 
 
-\
+Batteries
 
-~Batteries~
+Necessary Capacity (CNEC)
 
-~Necessary\\ Capacity\\ (CNEC)~
+ETOTAL(WORST MONTH) / VN x N
 
-~ETOTAL(WORST\\ MONTH)\\ /\\ VN\\ x\\ N~
+ 
 
-\
+Nominal Capacity (CNOM)
 
-~Nominal\\ Capacity\\ (CNOM)~
+CNEC / DoDMAX
 
-~CNEC\\ /\\ DoDMAX~
+ 
 
-\
+Number of Batteries in Series (NBS)
 
-~Number\\ of\\ Batteries\\ in\\ Series\\ (NBS)~
+VN / VNBAT
 
-~VN\\ /\\ VNBAT~
+ 
 
-\
+Cables
 
-~Cables~
+ 
 
-\
+Panels \> Batteries
 
-~Panels\\ \>\\ Batteries~
+Batteries \> Converter
 
-~Batteries\\ \>\\ Converter~
+Main Line
 
-~Main\\ Line~
+Voltage Drop (Va - Vb)
 
-~Voltage\\ Drop\\ (Va\\ -\\ Vb)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+Thickness (Section)
 
-~Thickness\\ (Section)~
+r x L x ImMAX / (Va - Vb)
 
-~r\\ x\\ L\\ x\\ ImMAX\\ /\\ (Va\\ -\\ Vb)~
+ 
 
-\
+ 
 
-\
+ 
 
-\
+For cable thickness computation, r = 0.01286 Ω mm2/m (for copper) and L
+is the length in metres.
 
-\
-\
+APPENDIX F: RESOURCES
+---------------------
 
-For cable thickness computation, r = 0.01286 Ω mm^2^/m (for copper) and
-L is the length in metres.
-
-\
-\
-
-\
-\
-
-**APPENDIX********F:********RESOURCES**
-=======================================
-
-\
+ 
 
 We recommend these resources for learning more about the various aspects
 of wireless networking.
 
-### **Antennas********And********Antenna********Design**
+#### Antennas And Antenna Design
 
 Free antenna designs,
 [http://www.freeantennas.com/](http://www.freeantennas.com/)
@@ -21802,7 +21589,7 @@ Unofficial NEC2 code archives,
 USB WiFi dish designs,
 [http://www.usbwifi.orcon.net.nz/](http://www.usbwifi.orcon.net.nz/)
 
-### **Network Troubleshooting********Tools**
+#### Network Troubleshooting Tools
 
 Bing throughput measurement
 tool,[http://fgouget.free.fr/bing/inde](http://fgouget.free.fr/bing/index-en.shtml)x-en.shtml
@@ -21876,7 +21663,7 @@ nmap, [http://www.nmap.org](http://www.nmap.org/)
 
 netcat, [http://nc110.sourceforge.net/](http://nc110.sourceforge.net/)
 
-### Security
+#### Security
 
 AntiProxy http proxy circumvention tools and information,
 [http://www.antiproxy.com/](http://www.antiproxy.com/)
@@ -21955,7 +21742,7 @@ Tor, [http://www.torproject.org/](http://www.torproject.org/)
 
 Spychecker, [http://www.spychecker.com/](http://www.spychecker.com/)
 
-### **Bandwidth********Optimisation**
+#### Bandwidth Optimisation
 
 Cache hierarchies with Squid,
 
@@ -21992,7 +21779,7 @@ Link-Related Degradations,
 
 Squid web proxy cache, http://squid-cache.org/
 
-### **Mesh********Networking**
+#### Mesh Networking
 
 Freifunk OLSR mesh firmware for the Linksys WRT54G,
 [http://www.freifunk.net/wiki/FreifunkFirmware](http://www.freifunk.net/wiki/FreifunkFirmware)
@@ -22012,7 +21799,7 @@ Open WRT,
 Village Telco,
 [www.villagetelco.org](http://objavi.booki.cc/tmp/wirelessnetworkinginthedevelopingworld-en-2013.02.13-23.20.02.odtQlyYWy/appendix-e/www.villagetelco.org)
 
-### **Wireless********Operating********Systems********And********Drivers**
+#### Wireless Operating Systems And Drivers
 
 DD-WRT wireless router OS,http://www.dd-wrt.com/
 
@@ -22033,7 +21820,7 @@ OpenWRT wireless router OS for Linksys access points,
 Tomato wireless router OS for Linksys access points,
 [http://www.polarcloud.com/tomato](http://www.polarcloud.com/tomato)
 
-### **Wireless********Tools**
+#### Wireless Tools
 
 Chillispot captive portal,
 [http://www.chillispot.info/](http://www.chillispot.info/)
@@ -22087,7 +21874,7 @@ http://www.seeedstudio.com/depot/-p-924.htmlcPath=174
 VideoSend.
 [http://www.lightinthebox.com/Popular/Wifi\_Video\_Transmitter.html](http://www.lightinthebox.com/Popular/Wifi_Video_Transmitter.html)
 
-### **General********Wireless********Related********Information**
+#### General Wireless Related Information
 
 Homebrew wireless hardware designs,
 [http://www.w1ghz.org/](http://www.w1ghz.org/)
@@ -22113,7 +21900,7 @@ Stephen Foskett's Power Over Ethernet (PoE) Calculator,
 White Spaces project,
 [http://www.wirelesswhitespace.org/projects.aspx](http://www.wirelesswhitespace.org/projects.aspx)
 
-### **General********Computing********Tools**
+#### General Computing Tools
 
 File sharing, [http://sparkleshare.org](http://sparkleshare.org/),
 [https://github.com/philcryer/lipsyn](https://github.com/philcryer/lipsync)c,
@@ -22126,7 +21913,7 @@ Open Relay testing,
 Disk imaging, [http://www.partimage.org](http://www.partimage.org/),
 [http://www.powerquest.com/](http://www.powerquest.com/)
 
-### **Networking********Services********And********Training**
+#### Networking Services And Training
 
 Wireless Toolkit,
 [http://wtkit.org/groups/wtkit/wiki/820cb/download\_page.html](http://wtkit.org/groups/wtkit/wiki/820cb/download_page.html)
@@ -22167,7 +21954,7 @@ Virtual IT outsourcing,
 Collection of looking glasses,
 [http://www.traceroute.org/](http://www.traceroute.org/)
 
-### **Regional********Internet********Registrars**
+#### Regional Internet Registrars
 
 IANA, [http://www.iana.org/](http://www.iana.org/)
 
@@ -22181,7 +21968,7 @@ LACNIC, [http://www.lacnic.net/](http://www.lacnic.net/)
 
 RIPE NCC, [http://www.ripe.net/](http://www.ripe.net/)
 
-### **IPv6********Transitioning**
+#### IPv6 Transitioning
 
 http://www.petri.co.il/ipv6-transition.htm
 
@@ -22199,7 +21986,7 @@ Test your IPv6,
 
 IPv6 Deployment status, [http://6lab.cisco.com](http://6lab.cisco.com/)
 
-### **Dynamic********Routing********Protocols**
+#### Dynamic Routing Protocols
 
 http://www.ciscopress.com/store/routing-tcp-ip-volume-i-ccie-professional-development-9781578700417?w\_ptgrevartcl=Dynamic%20Routing%20Protocols\_24090
 
@@ -22212,7 +21999,7 @@ https://learningnetwork.cisco.com/docs/DOC-7985
 OSPF Design guide:
 [http://www.cisco.com/warp/public/104/1.pdf](http://www.cisco.com/warp/public/104/1.pdf)
 
-### **Solar********Panel********Design**
+#### Solar Panel Design
 
 Low resolution PSH maps/calculation tools,
 
@@ -22227,7 +22014,7 @@ PVSYST, [http://www.pvsyst.com/](http://www.pvsyst.com/)
 Solar Design,
 [http://www.solardesign.co.uk/](http://www.solardesign.co.uk/)
 
-### **Miscellaneous********Links**
+#### Miscellaneous Links
 
 Cygwin Linux-like environment for Windows,
 [http://www.cygwin.com/](http://www.cygwin.com/) Graphviz network graph
@@ -22261,90 +22048,93 @@ wget web utility for Windows,
 ISO Standard,
 [http://standards.iso.org/ittf/PubliclyAvailableStandards](http://standards.iso.org/ittf/PubliclyAvailableStandards/)
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-### Books
+#### Books
 
 802.11 Networks: The Definitive Guide, 2nd Edition. Matthew Gast,
 O’Reilly Media. ISBN \#0-596-10052-3
 
-\
+ 
 
 802.11 Wireless Network Site Surveying and Installation. Bruce
 Alexander, Cisco Press. ISBN \#1-587-05164-8
 
-\
+ 
 
 The ARRL UHF/Microwave Experimenter’s Manual. American Radio Relay
 League. ISBN \#0-87259-312-6
 
-\
+ 
 
 Building Wireless Community Networks, 2nd Edition. Rob Flickenger,
 O’Reilly Media. ISBN \#0-596-00502-4
 
-\
+ 
 
 Deploying License-Free Wireless Wide-Area Networks. Jack Unger, Cisco
 Press. ISBN \#1-587-05069-2
 
-\
+ 
 
 Wireless Hacks, 2nd Edition. Rob Flickenger and Roger Weeks, O’Reilly
 Media. ISBN \#0-596-10144-9
 
-\
+ 
 
 IPv6 Security (Cisco Press Networking Technology). Scott Hogg, Eric
 Vyncke, Cisco Press. ISBN \# 1587055945
 
-\
+ 
 
 LAN Switch Security: What Hackers Know About Your Switches. Eric Vyncke
 and Christopher Paggen. ISBN \#1587052563
 
-\
+ 
 
-Building the Mobile Internet. Mark Grayson, Kevin Shatzkamer, Klaas
+ Building the Mobile Internet. Mark Grayson, Kevin Shatzkamer, Klaas
 Wierenga. ISBN \# 1587142430
 
-\
+ 
 
-CASE STUDIES
+7CASE STUDIES
+=============
 
-**Case********Studies********-********Introduction**
-====================================================
+1.   
 
-\
+Case Studies - Introduction
+---------------------------
+
+ 
 
 No matter how much planning goes into building a link or node location,
 you will inevitably have to jump in and actually install something. This
 is the moment of truth that demonstrates just how accurate your
 estimates and predictions prove to be.
 
-\
+ 
 
 It is a rare day when everything goes precisely as planned. Even after
 you install your 1st, 10th, or 100th node, you will still find that
@@ -22355,13 +22145,12 @@ are an old hand at this, it is reassuring to remember that there is
 always more to learn and even the experts who have contributed to this
 book still learn from each field project they are involved in!
 
-\
+ 
 
 Below are a few last minute tips and thoughts before we embark on
 telling you about our latest field adventures.
 
-**Equipment********enclosures**
--------------------------------
+### Equipment enclosures
 
 Cheap plastics are often easy to find, but they maybe made of poor
 materials and are thin, thus mostly unsuitable for enclosing equipment.
@@ -22382,8 +22171,7 @@ ground inside the PVC holding the access point. A wire mesh cover made
 from locally available screen material was used to secure the exhaust
 hole from infestations.
 
-**Antenna********masts**
-------------------------
+### Antenna masts
 
 Recovering used materials for use to build antenna masts is a good plan.
 Local metal workers may already be familiar with how to make
@@ -22391,7 +22179,7 @@ Local metal workers may already be familiar with how to make
 television masts from scrap metal. A few quick adaptations and these
 same masts can be re-purposed for wireless networks.
 
-\
+ 
 
 The typical mast is the 5 metre pole, comprised of a single 30mm
 diameter pipe which is then planted into cement. It's best to construct
@@ -22399,7 +22187,7 @@ the mast in two parts, with a removable mast that fits into a base which
 is slightly larger in diameter. Alternatively, the mast may be made with
 arms that can be securely cemented into a wall.
 
-\
+ 
 
 This type of mast can be augmented by several metres with the use of guy
 lines.
@@ -22407,13 +22195,12 @@ lines.
 To steady the pole, plant three lines 120 degrees apart, forming an
 angle of at least 33 degrees with the tower.
 
-\
+ 
 
 Details of how to earth the mast can be found in the chapter called
-**Hardware********Selection********and********Configuration.**
+Hardware Selection and Configuration.
 
-**Involve********the********local********community**
-----------------------------------------------------
+### Involve the local community
 
 Community involvement is imperative in assuring the success and
 sustainability of a project. Involving the community in a project can be
@@ -22423,20 +22210,20 @@ Moreover, a community might be afraid and could subvert an initiative.
 Regardless of the complexity of the undertaking, a successful project
 needs support and buy-in from those it will serve.
 
-\
+ 
 
 Take your time and be selective in finding the right people for your
 project. No other decision will affect your project more than having
 effective, trusted local people on your team.
 
-\
+ 
 
 In addition, take note of key players in an institution, or community.
 Identify those people who are likely to be opponents and proponents of
 your project. As early as possible, attempt to earn the support of the
 potential proponents and to diffuse the opponents.
 
-\
+ 
 
 This is a difficult task and one that requires intimate knowledge of the
 institution or community.
@@ -22444,47 +22231,46 @@ institution or community.
 If the project does not have a local ally, the project must take time to
 acquire this knowledge and trust from the community.
 
-\
+ 
 
 Do not try to introduce a technology to a community without
 understanding which applications will serve the community.
 
-\
+ 
 
 When gathering information, verify the facts that you are given. Most
 often, local partners who trust you will be very frank, honest, and
 helpful.
 
-\
+ 
 
 When looking at payment methods for your new wireless service, pre-paid
 services are ideal, as they do not require a legal contract. Commitment
 is assured by the investment of funds before service is given.
 
-\
+ 
 
 Buy-in also requires that those involved invest in the project
 themselves. A project should ask for reciprocal involvement from the
 community.
 
-\
+ 
 
 Above all, the “no-go” option should always be evaluated. If a local
 ally and community buy-in cannot be had, the project should consider
 choosing a different community or beneficiary.
 
-\
+ 
 
 There must be a negotiation; equipment, money, and training cannot be
 gifts. The community must be involved and they too must contribute.
 
-**Now********read********on**
------------------------------
+### Now read on
 
 In the next chapters of this section you will find some of our projects
 described, which hopefully you will find useful to learn from.
 
-\
+ 
 
 We havent included Case Studies from earlier versions of this book
 except for the one in Venezuela which was extremely instrumental in
@@ -22499,35 +22285,32 @@ project.
 
 http://www.inveneo.org/90km-wireless-link-for-mfangano-island/
 
-\
-
 We hope you now enjoy reading each of the Case Studies following this
 intro. You will see who was involved and of course their profile is
-included in the **Acknowledgements******of this book.
+included in the Acknowledgements of this book.
 
-\
+ 
 
 All of the authors have been involved in field deployments and also
 monitor our Facebook page which you can find here.
 
-\
+ 
 
 [https://www.facebook.com/groups/wirelessu](https://www.facebook.com/groups/wirelessu/?fref=ts)
 
-\
+ 
 
 So as you begin to plan your next deployment, please do post any
 questions you have for the experts to respond to.
 
-\
+ 
 
-**Case****Stud****y****:****L****ong****D****istance********802.11********in**Venezuela
-=======================================================================================
+Case Study: Long Distance 802.11 in Venezuela
+---------------------------------------------
 
-\
+ 
 
-Introduction
-------------
+### Introduction
 
 Although this Case Study is several years old now, we have left it in
 this version of the book as it still to this day is the longest ever
@@ -22536,20 +22319,19 @@ pioneering work of those who are still authoring this book. And in fact
 some of the preparation work involved in the setup of this test is still
 relevant for those planning long distance outdoor links. Enjoy reading!
 
-Background
-----------
+### Background
 
 Thanks to a favourable topography, Venezuela already had some long range
 WLAN links, like the 70 km long operated by Fundacite Mérida between
 Pico Espejo and Canagua.
 
-\
+ 
 
 To test the limits of the WiFi technology, it is necessary to find a
 path with an unobstructed line of sight and a clearance of at least 60%
 of the first Fresnel zone.
 
-\
+ 
 
 While looking at the terrain in Venezuela, in search of a stretch with
 high elevation at the ends and low ground in between, I first focused in
@@ -22574,8 +22356,7 @@ Using the free software Radio Mobile
 found that there was no obstruction of the first Fresnel zone, over a
 280 km path between Pico del Aguila and El Baúl.
 
-**Action Plan**
----------------
+### Action Plan
 
 Once satisfied with the existence of a suitable trajectory, we looked at
 the equipment needed to achieve the goal.
@@ -22587,7 +22368,7 @@ they are robust and trustworthy. The free space loss at 280 km is 149
 dB. So, we would need 30 dBi antennas at both ends and even that would
 leave very little margin for other losses.
 
-\
+ 
 
 On the other hand, the Linksys WRT54G wireless router runs Linux.
 
@@ -22599,7 +22380,7 @@ acknowledgment time of the MAC layer, as well as the output power.
 Another firmware, DD-WRT, has a GUI interface and a very convenient site
 survey utility.
 
-\
+ 
 
 Furthermore, the Linksys can be located closer to the antenna than a
 laptop.
@@ -22617,15 +22398,14 @@ years of using it, we felt confident that it could serve our purpose.
 
 Of course, we kept a spare set handy just in case.
 
-\
+ 
 
 By setting the output power to 100 mW (20 dBm), we could obtain a 5dB
 advantage compared with the Orinoco card.
 
 Therefore, we settled for a pair of WRT54Gs.
 
-**Pico********del****Aguila****Site Survey**
---------------------------------------------
+### Pico del Aguila Site Survey
 
 On January 15, 2006, I went to Pico Águila to check out the site that
 Radio Mobile had reported as suitable.
@@ -22633,14 +22413,14 @@ Radio Mobile had reported as suitable.
 The azimuth towards El Baúl is 86°, but since the magnetic declination
 is 8° 16’, our antenna should be pointed to a magnetic bearing of 94°.
 
-\
+ 
 
 Unfortunately, when I looked towards 94°, I found the line of sight
 obstructed by an obstacle that had not been shown by the software, due
 to the limited resolution of the digital elevation maps that are freely
 available.
 
-\
+ 
 
 I rode my mountain bike for several hours examining the surrounding area
 looking for a clear path towards the East. Several promising spots were
@@ -22648,47 +22428,49 @@ identified, and for each of them I took photos and recorded the
 coordinates with a GPS for later processing with the Radio Mobile
 software.
 
-\
+ 
 
 This led me to refine my path selection, resulting in the one depicted
 in Figure CsLD 1 using Google Earth:
 
-\
+ 
 
-![](CsLD/CsLD1.png)\
-\
+![](./CsLD/CsLD1.png)
 
-\
+ 
 
-*Figure****CsLD****1:****View****of****the****280****km****link.****Maracaibo’s****Lake****is****to****the****West,****and****the****Peninsula****of****Paraguaná****is****to****the****North.*
+Figure CsLD 1: View of the 280 km link. Maracaibo’s Lake is to the West,
+and the Peninsula of Paraguaná is to the North.
 
-\
+ 
 
 The radio profile obtained with Radio Mobile is shown in Figure CsLD 2:
 
-\
+ 
 
-![](CsLD/CsLD2.png)\
-\
+![](./CsLD/CsLD2.png)
 
-*Figure****CsLD****2:****Map****and****profile****of****the****proposed****path****between****Pico****Aguila,****and****Morrocoy****Hill,****near****the****town****of****El****Baúl.*
+ 
 
-\
+Figure CsLD 2: Map and profile of the proposed path between Pico Aguila,
+and Morrocoy Hill, near the town of El Baúl.
+
+ 
 
 The details of the wireless link are displayed in Figure CsLD 3:
 
-\
+ 
 
-![](CsLD/CsLD3.png)\
-\
+![](./CsLD/CsLD3.png)
 
-*Figure****CsLD****3:****Propagation****details****of****the****280****km****link.*
+ 
+
+Figure CsLD 3: Propagation details of the 280 km link.
 
 In order to achieve a reasonable margin of some 12 dB for the link, we
 needed antennas with at least 30 dBi gain at each end.
 
-Antennas
---------
+### Antennas
 
 High gain antennas for the 2.4 GHz band were not available in Venezuela.
 
@@ -22700,7 +22482,7 @@ reflector. This offered ample gain, albeit with some difficulties in the
 aiming of the 3.5° beam. The 22.5° offset meant that the dish appeared
 to be pointing downwards when it was horizontally aligned.
 
-\
+ 
 
 Several tests were performed using various cantennas and a 12 dBi Yagi
 as a feed. We pointed the antenna at a base station of the university
@@ -22709,14 +22491,14 @@ test site sits at 2000m and therefore the elevation angle is 8°. Because
 of the offset feed, we pointed the dish 14° downward, as can be seen in
 the following picture:
 
-\
+ 
 
-![](CsLD/CsLD4.png)\
-\
+![](./CsLD/CsLD4.png)
 
-*Figure****CsLD****4:****2.4****m****offset****fed****reflector****with****a****12****dBi****antenna****at****its****focus,****looking****14°****down.****The****actual****elevation****is****8°****up.*
+ 
 
-\
+Figure CsLD 4: 2.4 m offset fed reflector with a 12 dBi antenna at its
+focus, looking 14° down. The actual elevation is 8° up.
 
 We were able to establish a link with the base station at Aguada, but
 our efforts to measure the gain of the setup using Netstumbler were not
@@ -22727,7 +22509,7 @@ For a meaningful measurement of the gain, we needed a signal generator
 and a spectrum analyser. These instruments were also required for the
 field trip in order to align the antennas properly.
 
-\
+ 
 
 While waiting for the required equipment, we looked for an antenna to be
 used at the other end, and also a pointing system better suited to the
@@ -22738,7 +22520,7 @@ wireless training event that I have been attending since 1996. While
 there, I mentioned the project to my colleague Carlo Fonda, who was
 immediately thrilled and eager to participate.
 
-\
+ 
 
 The collaboration between the Latin American Networking School (EsLaRed)
 and the Abdus Salam International Centre for Theoretical Physics (ICTP)
@@ -22751,7 +22533,7 @@ networking (organized by ICTP) and another on computer networks
 (organized by EsLaRed) that are hosted in several countries throughout
 Latin America.
 
-\
+ 
 
 Accordingly, it was not difficult to persuade Professor Sandro
 Radicella, the head of the Aeronomy and Radio Propagation Laboratory at
@@ -22762,22 +22544,24 @@ Back at home, I found a 2.75 m parabolic central fed mesh antenna at a
 neighbours house. Mr. Ismael Santos graciously lent his antenna for the
 experiment.
 
-\
+ 
 
 Figure CsLD 5 shows the disassembly of the mesh reflector.
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-![](CsLD/CsLD5.png)\
-\
+![](./CsLD/CsLD5.png)
 
-*Figure****CsLD****5:****Carlo****and****Ermanno****disassembling****the****satellite****dish****supplied****by****Mr.****Ismael****Santos.*
+ 
 
-\
+Figure CsLD 5: Carlo and Ermanno disassembling the satellite dish
+supplied by Mr. Ismael Santos.
+
+ 
 
 We exchanged the feed for a 2.4 GHz one, and aimed the antenna at a
 signal generator that was located on top of a ladder some 30 m away.
@@ -22786,10 +22570,13 @@ With a spectrum analyser, we measured the maximum of the signal and
 located the focus. We also pinpointed the boresight for both the central
 fed and the offset antennas. This is shown in Figure CsLD 6:
 
-\
+ 
 
-![](CsLD/CsLD6.png)\
-*Figure****CsLD****6:****Finding****the****focus****of****the****antennas****with****the****2.4****GHz****feed*
+![](./CsLD/CsLD6.png)
+
+Figure CsLD 6: Finding the focus of the antennas with the 2.4 GHz feed
+
+ 
 
 We also compared the power of the received signal with the output of a
 commercial 24 dBi antenna. This showed a difference of 8 dB, which led
@@ -22798,8 +22585,7 @@ course, there is some uncertainty about this value. We were receiving
 reflected signals, but the value agreed with the calculation from the
 antenna dimension.
 
-**El****Baù****l****Site S****urvey**
--------------------------------------
+### El Baùl Site Survey
 
 Once we were satisfied with the proper functioning and aim of both
 antennas, we decided to do a site survey at the other end of the El Baúl
@@ -22811,7 +22597,7 @@ surrounding area, about 155 m above sea level. It provides an
 unobstructed view towards El Aguila. There is a dirt road to the top, a
 must for our purpose, given the weight of the antenna.
 
-### **Performing********the********experiment**
+#### Performing the experiment
 
 On Wednesday April 12th, Javier Triviño and Ermanno Pietrosemoli
 travelled towards Baúl with the offset antenna loaded on top of a four-
@@ -22823,10 +22609,13 @@ with assistance of Franco Bellarosa, Lourdes Pietrosemoli and José
 Triviño) rode to the previously surveyed area at Pico del Aguila in a
 Bronco truck that carried the 2.7 m mesh antenna.
 
-\
+ 
 
-![](CsLD/CsLD7.png)\
-*Figure****CsLD****7:****Pico****del****Águila****and****surrounds****map****with****Bronco****truck.*
+![](./CsLD/CsLD7.png)
+
+Figure CsLD 7: Pico del Águila and surrounds map with Bronco truck.
+
+ 
 
 Poor weather is common at altitudes of 4100 m above sea level. The
 Aguila team was able to install and point the mesh antenna before the
@@ -22845,10 +22634,13 @@ removed the signal generator and replaced it with a Linksys WRT54G
 wireless router configured as an access point. Javier substituted the
 spectrum analyser on our end for another WRT54G configured as a client.
 
-\
+ 
 
-![](CsLD/CsLD8.png)\
-*Figure****CsLD****8:****Aiming****the****antenna****at****el****Águila.*
+![](./CsLD/CsLD8.png)
+
+Figure CsLD 8: Aiming the antenna at el Águila.
+
+ 
 
 At once, we started receiving "beacons" but ping packets did not get
 through. This was expected, since the propagation time of the radio wave
@@ -22858,46 +22650,52 @@ adjusting the ACK timing. After Carlo adjusted for the 3 orders of
 magnitude increase in delay above what the standard WiFi link expects,
 we began receiving packets with a delay of about 5 ms.
 
-![](CsLD/CsLD9.png)\
-\
+![](./CsLD/CsLD9.png)
 
-*Figure****CsLD****9:****El****Baúl****antenna****installation.****Actual****elevation****was****1°****upward,****since****the****antenna****has****an****offset****of****22.5°.*
+ 
 
-\
+Figure CsLD 9: El Baúl antenna installation. Actual elevation was 1°
+upward, since the antenna has an offset of 22.5°.
+
+ 
 
 We proceeded to transfer several PDF files between Carlo’s and Javier’s
 laptops. The results are shown in Figure CsLD 10.
 
-\
+ 
 
-![](CsLD/CsLD10.png)\
-\
+![](./CsLD/CsLD10.png)
 
-*Figure****CsLD****10:****Screenshot****of****Javier’s****laptop****showing****details****of****PDF****file****transfer****from****Carlo’s****laptop****280****km****away,****using****two****WRT54G
-wireless****routers,****no****amplifiers.*
+ 
 
-\
+Figure CsLD 10: Screenshot of Javier’s laptop showing details of PDF
+file transfer from Carlo’s laptop 280 km away, using two WRT54G wireless
+routers, no amplifiers.
+
+ 
 
 Note the ping time of a few milliseconds.
 
-![](CsLD/CsLD11.png)\
-\
+![](./CsLD/CsLD11.png)
 
-*Figure****CsLD****11:****Javier****Triviño****(right)****and****Ermanno****Pietrosemoli****beaming****from****the****El****Baúl****antenna.*
+ 
 
-\
+Figure CsLD 11: Javier Triviño (right) and Ermanno Pietrosemoli beaming
+from the El Baúl antenna.
 
-\
+ 
 
-![](CsLD/CsLD12.png)\
-\
+ 
 
-*Figure****CsLD****12:****Carlo****Fonda****at****the****Aguila****Site*
+![](./CsLD/CsLD12.png)
 
-**Mérida,********Venezuela,********17********April********2006.**
------------------------------------------------------------------
+ 
 
-\
+Figure CsLD 12: Carlo Fonda at the Aguila Site
+
+### Mérida, Venezuela, 17 April 2006.
+
+ 
 
 One year after performing the experiment just described, we found the
 time and resources to repeat it.
@@ -22906,7 +22704,7 @@ We used commercial 30 dBi antennas, and also a couple of wireless
 routers which had been modified by the TIER group led by Dr. Eric Brewer
 of Berkeley University.
 
-\
+ 
 
 The purpose of the modification of the standard WiFi MAC is to make it
 suitable for long distance applications by replacing the CSMA Media
@@ -22916,7 +22714,7 @@ point-to-point links since it does not require the reception of ACKs.
 This eliminates the need to wait for the 2 ms round trip propagation
 time on a 300 km path.
 
-\
+ 
 
 On April 28th, 2007, a team formed by Javier Triviño, José Torres and
 Francisco Torres installed one of the antennas at El Aguila site. The
@@ -22924,20 +22722,19 @@ other team, formed by Leonardo González V., Leonardo González G.,
 Alejandro González and Ermanno Pietrosemoli, installed the other antenna
 at El Baúl.
 
-\
+ 
 
 A solid link was quickly established using the Linksys WRT54G routers.
 This allowed for video transmission at a measured throughput of 65 kbps.
 With the TDMA routers, the measured throughput was 3 Mbps in each
 direction.
 
-\
+ 
 
 This produced the total of 6 Mbps as predicted by the simulations done
 at Berkeley.
 
-**Can********we********do********bette****r****?**
---------------------------------------------------
+### Can we do better?
 
 Thrilled by these results, which pave the way for really inexpensive
 long distance broadband links, the second team moved to another location
@@ -22946,29 +22743,30 @@ Platillón. Platillón is 1500 m above sea level and there is an
 unobstructed first Fresnel zone towards El Aguila (located at 4200 m
 above sea level).
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
 The proposed path is shown in Figure CsLD 13:
 
-\
+ 
 
-![](CsLD/CsLD13.png)\
-\
+![](./CsLD/CsLD13.png)
 
-*Figure****CsLD****13:****Map****and****profile****of****the****380****km****path.*
+ 
 
-\
+Figure CsLD 13: Map and profile of the 380 km path.
 
-\
+ 
+
+ 
 
 Again, the link was quickly established with the Linksys and the TIER
 supplied routers.
 
-\
+ 
 
 The Linksys link showed approximately 1% packet loss, with an average
 round trip time of 12 ms.
@@ -22978,7 +22776,7 @@ propagation times of 1 ms.
 
 This allowed for video transmission, but the link was not stable.
 
-\
+ 
 
 We noticed considerable signal fluctuations that often interrupted the
 communication.
@@ -22987,14 +22785,14 @@ However, when the received signal was about -78 dBm, the measured
 throughput was a total of 6 Mbps bidirectional with the TIER routers
 implementing TDMA.
 
-![](CsLD/CsLD14_1.JPG)\
-\
+![](./CsLD/CsLD14_1.JPG)
 
-\
+ 
 
-*Figure****CsLD****14:****The****team****at****el****Aguila,****José****Torres****(left),****Javier****Triviño****(centre)****and****Francisco****Torres****(right).*
+Figure CsLD 14: The team at el Aguila, José Torres (left), Javier
+Triviño (centre) and Francisco Torres (right).
 
-\
+ 
 
 Although further tests must be conducted to ascertain the limits for
 stable throughput, we are confident that Wi-Fi has a great potential for
@@ -23002,27 +22800,28 @@ long distance broadband communication. It is particularly well suited
 for rural areas were the spectrum is still not crowded and interference
 is not a problem, provided there is good radio line of sight.
 
-Acknowledgments
----------------
+### Acknowledgments
 
 We wish to express our gratitude to Mr. Ismael Santos for lending the
 mesh antenna to be installed at El Aguila and to Eng. Andrés
 Pietrosemoli for supplying the special scaffolding joints used for the
 installation and transportation of the antennas.
 
-\
+ 
 
 We'd also like to thank the Abdus Salam International Centre of
 Theoretical Physics for supporting Carlo Fonda’s trip from Italy to
 Venezuela.
 
-![](CsLD/CsLD15.JPG)\
-\
+![](./CsLD/CsLD15.JPG)
 
-*Figure****CsLD****15:****The****team****at****Platillon.****From****left****to****right:****Leonardo****González****V.,****Leonardo****González****G.,****Ermanno****Pietrosemoli****and
-Alejandro****González.*
+ 
 
-\
+Figure CsLD 15: The team at Platillon. From left to right: Leonardo
+González V., Leonardo González G., Ermanno Pietrosemoli and Alejandro
+González.
+
+ 
 
 The 2006 experiment was performed by Ermanno Pietrosemoli, Javier
 Triviño from EsLaRed, Carlo Fonda, and Gaya Fior from ICTP. With the
@@ -23054,15 +22853,15 @@ Fundacite Mérida,
 
 --Ermanno Pietrosemoli
 
-**Case****Study****:****P****isces****P****roject**
-===================================================
+Case Study: Pisces Project
+--------------------------
 
-**Solar********Powered********Wifi********Links****i****n********Micronesia**
+Solar Powered Wifi Links in Micronesia
 
-**By********Bruce********Baikie****a****nd********Laura********Hosman,****a****ssisted****i****n****t****he****f****ield****b****y
-Marco********Zennaro****and********Ermanno********Pietrosemoli****f****rom********Ictp.**
+By Bruce Baikie and Laura Hosman, assisted in the field by Marco Zennaro
+and Ermanno Pietrosemoli from Ictp.
 
-\
+ 
 
 Two long-distance, solar-powered wireless point to point connections
 were set up in the Micronesian Region of the Pacific in early August
@@ -23073,10 +22872,13 @@ multi-partnered endeavour focused on training and local capacity
 building vis-à-vis solar-powered information and communications
 technology (ICT) within the Pacific region.
 
-\
+ 
 
-![](CaseStudy_Micronesia/CsP1.jpg)\
-*Figure****CSP****1****:****Hands****On****Training*
+![](./CaseStudy_Micronesia/CsP1.jpg)
+
+Figure CSP 1 : Hands On Training
+
+ 
 
 The first half of the PISCES project was a hands-on training workshop on
 Solar-powered long-distance WiFi technology at the University of Guam.
@@ -23090,13 +22892,14 @@ final day, the students set up a solar powered point to point high
 bandwidth link in the Centre for Island Sustainability, replacing an
 older, slower link to the Internet.
 
-![](CaseStudy_Micronesia/CsP2.jpg)\
-\
+![](./CaseStudy_Micronesia/CsP2.jpg)
 
-*Fig.
-CSP****2:****A****new****faster****Internet****connection****for****the****Centre****for****Island****Sustainability*
+ 
 
-\
+Fig. CSP 2: A new faster Internet connection for the Centre for Island
+Sustainability
+
+ 
 
 For the second half of the PISCES project, the team travelled to Chuuk,
 one of the Federated States of Micronesia (FSM), and installed both a
@@ -23104,32 +22907,34 @@ solar-powered long distance WiFi Internet connection and a
 Solar-Computer-Lab-in-a-Box at a primary school on a previously un-
 connected island, Udot, in the Chuuk lagoon.
 
-\
+ 
 
-![](CaseStudy_Micronesia/CSP3.png)\
-\
+![](./CaseStudy_Micronesia/CSP3.png)
 
-*Figure****CSP****3
-:**The****Internet****connection****for****the****Udot****School****originated****from****Chuuk’s****main****Island,****Weno,****15****km****away.*
+ 
 
-![](CaseStudy_Micronesia/CsP4.jpg)\
-\
+Figure CSP 3 : The Internet connection for the Udot School originated
+from Chuuk’s main Island, Weno, 15 km away.
 
-*Figure****CSP****4****:****Mounting****the****pole****mast****in****Udot*
+![](./CaseStudy_Micronesia/CsP4.jpg)
 
-\
+ 
+
+Figure CSP 4 : Mounting the pole mast in Udot
+
+ 
 
 The Ubiquiti Networks WiFi hardware installed in Weno was mounted on the
 3rd story roof of the Truk Stop Hotel, which offered the height
 necessary for line-of-sight to provide connectivity across the Chuuk
 Lagoon to Udot Island.
 
-\
+ 
 
 The single-level school on Udot required a 40-foot (12 m) pole mast on
 which to mount the Ubiquiti Networks WIFI antenna/radio.
 
-\
+ 
 
 Local community members joined in to help when the heft of the pole mast
 proved too heavy for the PISCES team to raise alone.
@@ -23137,29 +22942,30 @@ proved too heavy for the PISCES team to raise alone.
 With team members on each island, the antennas were lined up and
 connected to each other.
 
-\
+ 
 
 The network was then routed through a local DSL Internet connection to
 provide Internet connectivity to the school, and the surrounding local
 community.
 
-\
+ 
 
 Each WiFi unit is powered with a solar photovoltaic system, which
 consists of a 30 watt solar panel from SolarLand USA, solar charge
 controller with Power over Ethernet, and 38 amp hours of battery back
 up.
 
-\
+ 
 
-\
+ 
 
-![](CaseStudy_Micronesia/CsP5.png)\
-\
+![](./CaseStudy_Micronesia/CsP5.png)
 
-*Figure****CSP****5****:****Udot*
+ 
 
-\
+Figure CSP 5 : Udot
+
+ 
 
 The unique Solar-Computer-Lab-in-a-Box deployed at Udot school was
 developed by students at Illinois Institute of Technology.
@@ -23172,49 +22978,48 @@ a charge controller, wiring, and laptop security equipment, all
 contained within a uniquely-designed and ready-to-ship box that
 straightforwardly transforms into the computer lab’s table.
 
-\
+ 
 
-![](CaseStudy_MicronesiaTop%2016%20pix/CsP6.jpg)\
-![](CaseStudy_Micronesia/CsP6.jpg)\
-\
+![](././CaseStudy_MicronesiaTop%2016%20pix/CsP6.jpg)
 
-*Figure****CSP****6*
+![](./CaseStudy_Micronesia/CsP6.jpg)
 
-\
+ 
 
-\
+Figure CSP 6
 
-The PISCES Project received funding support from **Google**, the
-**Pacific********Telecommunications********Counci****l**, and the
-**Internet********Societ****y**.
+ 
 
-\
+ 
+
+The PISCES Project received funding support from Google, the Pacific
+Telecommunications Council, and the Internet Society.
+
+ 
 
 In addition to the Partners mentioned above, PISCES Project partners
 include:
 
-\
+ 
 
--   **University********of********Gua****m**
+-   •University of Guam 
 
--   **Illinois********Institute********of********Technolog****y**
+-   •Illinois Institute of Technology 
 
--   **Green WiF****i**, **Invene****o**
+-   •Green WiFi, Inveneo 
 
--   **iSolutio****ns**
+-   •iSolutions 
 
--   **International********Centre********for********Theoretical********Physics********(ICTP****)**
+-   •International Centre for Theoretical Physics (ICTP) 
 
--   **University********of********California,
-    Berkeley’s********TIER********research********grou****p.**
+-   •University of California, Berkeley’s TIER research group. 
 
-**Case********Study****:****University********Of********Ghana campus wireless network**
-=======================================================================================
+Case Study: University Of Ghana campus wireless network
+-------------------------------------------------------
 
-Introduction
-------------
+### Introduction
 
-\
+ 
 
 The University of Ghana is one of six public universities and the
 premier university in Ghana with a student population of about 41,000.
@@ -23223,7 +23028,7 @@ could not continue expanding our computer labs to facilitate learning
 and research, since we had limited space and limited funds to equip
 these computer labs.
 
-\
+ 
 
 The solution was to go wireless so that any student with his/her laptop
 could access the network. This however could not be achieved immediately
@@ -23231,7 +23036,7 @@ due the status of the network at the time. It was a big flat, un-managed
 network, with lots of problems - IP conflicts, rogue DHCP severs, large
 broadcast domains just to mention a few.
 
-\
+ 
 
 Because the IT unit was not providing a wireless service to the
 community, users became impatient and started connecting their own
@@ -23240,34 +23045,37 @@ difficult. It became obvious that if we did not provide a wireless
 service to the user community, they would find their own way of doing
 it.
 
-\
+ 
 
 Our first step in addressing the problem was to redesign our network
 from a flat network to a more structured one with core, distribution and
 access layers.
 
-\
+ 
 
 This brought a lot of stability to the network. Because of the managed
 switches, identifying problems became much easier too. The structured
 wired network gave us a good foundation to build a wireless network that
 complements the wired network and meets the growing needs of our users.
 
-\
+ 
 
-**Wifi********setup********and********installation**
-----------------------------------------------------
+### Wifi setup and installation
 
 A number of factors were considered in determining the type of Access
 Point (AP) to deploy. Some of these were:
 
--   Cost
+-    
 
--   Support
+-   •Cost 
 
--   Management
+-   •Support 
 
--   Security
+-   •Management 
+
+-   •Security 
+
+     
 
 Because of the size of our network we decided to go for an Enterprise
 Solution which would make management much easier. Due to the high cost
@@ -23275,7 +23083,7 @@ of these Enterprise Solutions (\$600 per Access Point and above + cost
 of the controller ) we ended up in a long debate over which product to
 use for the WiFi implementation.
 
-\
+ 
 
 We consulted NSRC (the Network Startup Resource Center at University of
 Oregon) who were also looking into affordable and scalable wireless
@@ -23287,7 +23095,7 @@ deployment, University of Ghana decided to scale up from the pilot using
 Ubiquiti UniFi Access Points and the network quickly grew from 10 Access
 Points to 90.
 
-\
+ 
 
 For security, UniFi APs support both WPA Personal and WPA Enterprise
 which allows users to authenticate with a radius server. In addition to
@@ -23295,27 +23103,27 @@ all of the deployment advantages of Ubiquiti, we found that there was a
 large UniFi user community that provided good technical help in the
 event of problems.
 
-\
+ 
 
-**AP********Setup**
+AP Setup
 
 Initial AP setup and configuration involved connecting an AP to a
-network switch port in the same **vlan******as the controller server.
+network switch port in the same vlan as the controller server.
 
 The AP goes through adoption when connected; this allows the new AP to
 register itself with the controller for management. After initial setup,
 the AP is then connected to the designated department’s wireless vlan on
 a switch.
 
-**IP********Addressing**
+IP Addressing
 
 Private IP addressing was adopted for the wireless network on campus.
 There are on average 25 /24 wireless subnets in departments, faculties,
 school and college.
 
-\
+ 
 
-**Bandwidth**
+Bandwidth
 
 Bandwidth allocation to the wireless network is 10% of the University’s
 STM1 bandwidth.
@@ -23324,35 +23132,40 @@ Current growing wireless users coupled with growing emerging
 applications will require more bandwidth to give a good browsing
 experience.
 
-\
+ 
 
-**Security/Authentication**
+Security/Authentication
 
 Users and APs authenticate with a radius server using 802.1x. Both
 student and staff account details are stored in a Mysql database. The
 campus wireless network exists in separate vlans from the wired for easy
 identification and management.
 
-**Connecting********to********the****UG********campus********wireless********network**
---------------------------------------------------------------------------------------
+### Connecting to the UG campus wireless network
 
 The University Of Ghana Campus Wireless Network has three major
 Networks/SSIDs - STAFF, STUDENT, GUEST.
 
-\
+ 
+
+1.  STAFF
 
 This SSID/Network is available to active staff of the University.
 
 Staff are required to authenticate with their staff ID and PIN as
 username and password respectively to login.
 
-\
+ 
+
+1.  STUDENT
 
 This SSID/Network is available to students of the University who have
 registered for a given academic year. Students authenticate with their
 student ID and PIN as username and password respectively to login.
 
-\
+ 
+
+1.  GUEST
 
 This SSID/Network is available to guests who visit the University within
 a period of time.
@@ -23360,51 +23173,67 @@ a period of time.
 Guests are required to request authentication account details from the
 IT department by submitting their details.
 
-**Pictures********of********our********project********and********installation**
--------------------------------------------------------------------------------
+### Pictures of our project and installation
 
-![](CS_Ghana/CSG1.jpg)\
-*Figure****CSG****1:****Our****campus*
+![](./CS_Ghana/CSG1.jpg)
 
-\
+Figure CSG 1: Our campus
 
-![](CS_Ghana/CSG2.jpg)\
-*Figure****CSG****2:****Our****campus*
+ 
 
-\
-\
--
+![](./CS_Ghana/CSG2.jpg)
 
-![](CS_Ghana/CSG3.jpg)\
-*Figure CSG 3: A classroom*
+Figure CSG 2: Our campus
 
-\
+ 
 
-![](CS_Ghana/CSG4.jpg)\
-*Figure****CSG****4:****The****library*
+![](./CS_Ghana/CSG3.jpg)
 
-![](CS_Ghana/CSG5.jpg)\
-*Figure****CSG****5:****One****of****our****APs*
+Figure CSG 3: A classroom
 
-![](CS_Ghana/CSG6.png)\
-*Figure****CSG****6:****Layout****of****University****of****Ghana****campus****with****AP's.*
+ 
 
-![](CS_Ghana/CSG7.png)\
-*Figure****CSG****7:****With****UniFi****we****are****able****to****simulate****the****coverage****of****the****wireless****signal****as****shown**above**.*
+![](./CS_Ghana/CSG4.jpg)
 
-![](CS_Ghana/CSG8.png)\
-*Figure****CSG****8:**Above****is****the****UniFi****controller****showing****some****statistics****of****our****usage.*
+Figure CSG 4: The library
 
-\
+ 
 
-![](CS_Ghana/CSG9.png)\
-*Figure****CSG****9:**Above****are****statistics****per****Access****Point.*
+![](./CS_Ghana/CSG5.jpg)
 
-![](CS_Ghana/CSG10.png)\
-*Figure****CSG****10:****We****are****also****able****to****get****statistics****per****user****from****the****controller.*
+ 
 
-**Challenges********we********faced**
--------------------------------------
+![](./CS_Ghana/CSG6.png)
+
+Figure CSG 6: Layout of University of Ghana campus with AP's.
+
+ 
+
+![](./CS_Ghana/CSG7.png)
+
+Figure CSG 7: With UniFi we are able to simulate the coverage of the
+wireless signal as shown above.
+
+ 
+
+![](./CS_Ghana/CSG8.png)
+
+ 
+
+![](./CS_Ghana/CSG9.png)
+
+Figure CSG 9: Above are statistics per Access Point.
+
+ 
+
+![](./CS_Ghana/CSG10.png)
+
+Figure CSG 10: We are also able to get statistics per user from the
+controller.
+
+ 
+
+### Challenges we faced
 
 One of our main challenges was getting a good Cat5 cable for the
 installation. In addition it was somewhat challenging to get the cable
@@ -23414,8 +23243,7 @@ mind.
 Bandwidth is also a challenge but we are trying to limit peer-to-peer
 activity on the network using cyberoam.
 
-**Next********steps**
----------------------
+### Next steps
 
 We (the IT Department of the University of Ghana) operate the wireless
 network ourselves. We have immediate plans to expand the wireless
@@ -23423,20 +23251,19 @@ network until we get as much coverage of our campus buildings as we can.
 This will then reduce the need for our students to setup their own APs
 making our job managing the network much easier!
 
-\
+ 
 
 Author: Emmanuel Togo, Head of the Networking Unit of the University of
 Ghana's Computing Systems (UGCS).
 
-\
+ 
 
-**Case********Study****:****Airjaldi's********Garhwal********Network, India**
-=============================================================================
+Case Study: Airjaldi's Garhwal Network, India
+---------------------------------------------
 
-\
+ 
 
-Introduction
-------------
+### Introduction
 
 In version 2 of this book we included a case study about the Dharamsala
 Community Wireless Mesh Network. Following on from this original
@@ -23444,14 +23271,13 @@ deployment in the subsequent years, a new set of networks and a
 commercial wireless ISP has emerged in the same region led by the same
 people. Here we describe one of their major projects.
 
-**Airjaldi’s********Garhwal********Network:**
----------------------------------------------
+### Airjaldi’s Garhwal Network:
 
-**Working********Towards********Technical********and********Economic********Viability********in********the********Himalayan********Range**
+Working Towards Technical and Economic Viability in the Himalayan Range
 
-\
+ 
 
-**About********Rbb/Airjaldi**
+About Rbb/Airjaldi
 
 Rural Broadband Pvt. Ltd., is a leading innovator and implementer of
 technically and economically viable connectivity solutions for rural
@@ -23485,7 +23311,7 @@ connectivity, although subsidies are offered to selected clients, mainly
 those dedicated to social and developmental causes and showing financial
 need.
 
-\
+ 
 
 RBB works closely with AirJaldi Research and Innovation, a
 non-for-profit (section 25) enterprise registered in India. Created in
@@ -23496,7 +23322,7 @@ individuals. AirJaldi also operates a training and capacity-building
 centre in Dharamsala, where network operators and activists can acquire
 the skills to build and manage rural wireless networks.
 
-\
+ 
 
 Most of our deployment team members have been trained by AirJaldi
 Research and Innovation.
@@ -23507,29 +23333,27 @@ Academy. After an additional 3-month internship where they work under
 the close supervision of senior team members in one of our networks,
 they are enrolled as permanent team members.
 
-\
+ 
 
-**The********Airjaldi********Garhwal********Network********–********Vital********Statistics**
----------------------------------------------------------------------------------------------
+### The Airjaldi Garhwal Network – Vital Statistics
 
-**Date********of********initiation/inception********|****J****anuary********2010**
+Date of initiation/inception | January 2010
 
-**Size/spread** | about 100 km, ranging from the Dehradun valley to the
+Size/spread | about 100 km, ranging from the Dehradun valley to the
 heights of Tehri Garwal Mountains (height of about 2,000 metres).
-P**rimary********clients** | Micro banking enterprise, Schools,
-Community based Organizations, Business and Private users
+Primary clients | Micro banking enterprise, Schools, Community based
+Organizations, Business and Private users
 
-**Longest********link******| 55 Km.
+Longest link | 55 Km.
 
-**Population** **density** | 169/km (in comparison: Delhi: 9,294/km;
-Overall India: 363/km; USA: 33.7/km)
+Population density | 169/km (in comparison: Delhi: 9,294/km; Overall
+India: 363/km; USA: 33.7/km)
 
-\
+ 
 
-\
+ 
 
-**Realities,********needs**
----------------------------
+### Realities, needs
 
 The Tehri and Pauri Garhwal districts of Uttarakhand, which stretches
 from the Himalayan peaks of Thalaiya Sagar, Jonli and the Gangotri group
@@ -23544,14 +23368,14 @@ subsistence agriculture and cottage industries. Many work outside the
 region, in large cities, in the plains and in military and government
 services across India.
 
-\
+ 
 
-In 2009, KGFS Rural Services[^1^](#sdfootnote2sym), a micro-banking
-institution affiliated with IFMR Trust[^2^](#sdfootnote3sym), decided to
-set up operations in this hilly area. Their aim was to reach potential
-clients in the villages of Tehri and Pauri who until then had little or
-no access to regular banking services and were also considered “barely
-bankable” by most banks.
+In 2009, KGFS Rural Services[1](#ftn2), a micro-banking institution
+affiliated with IFMR Trust[2](#ftn3), decided to set up operations in
+this hilly area. Their aim was to reach potential clients in the
+villages of Tehri and Pauri who until then had little or no access to
+regular banking services and were also considered “barely bankable” by
+most banks.
 
 Using population density mapping, KGFS sought locations for its bank
 branches at the centre of “catchment areas” reaching about 10,000
@@ -23565,9 +23389,9 @@ That was when we received a call from IFMR’s IT team, asking if we’d be
 interested in proposing a connectivity solution for their first 15
 branches.
 
-\
+ 
 
-**The********initial********deployment:********approach,********design,********deployment**
+The initial deployment: approach, design, deployment
 
 When responding to the call, as we do with similar requests, AirJaldi
 forms its response based on information on the following network
@@ -23591,25 +23415,26 @@ Network Operation Center (NOC) that will be placed in the valley below,
 where better LoS to favourable mountain tops for potential relays was
 available.
 
-\
+ 
 
-![](CsAGN/CsAGN1.png)\
-\
+![](./CsAGN/CsAGN1.png)
 
-*Figure****CSD****1:****Garhwal****Network****Backhaul,****NOC****and****some****IFMR****branches,****2009*
+ 
 
-\
+Figure CSD 1: Garhwal Network Backhaul, NOC and some IFMR branches, 2009
+
+ 
 
 Can we propose a deployment plan that is technically solid but at the
-same time affordable to the “anchor client” [^3^](#sdfootnote4sym) and
-additional future clients?
+same time affordable to the “anchor client” [3](#ftn4) and additional
+future clients?
 
 Our initial survey of the area consisted of collecting latitude and
 longitude data of proposed branch locations, identification of possible
 relay locations, assessment of overall client potential in the area and
 assessment of the public infrastructure of the area.
 
-\
+ 
 
 We were not surprised to find that the branches were mostly located in
 valleys (easier access for clients, close to roads) and separated from
@@ -23620,7 +23445,7 @@ locations were either away from the grid or located at weak points where
 power was at times down for days and wild power fluctuations caused
 routers to “hang” or burn when power spikes hit them.
 
-\
+ 
 
 Having decided that we will pursue this deployment, our deployment team
 had to make sense of it all.
@@ -23628,7 +23453,7 @@ had to make sense of it all.
 The solution we reached was based on placing solar-powered relays on as
 few strategic locations as possible.
 
-\
+ 
 
 This led to additional field surveys, involving hours of preliminary
 office research using topographic maps, Google Earth and other tools,
@@ -23636,7 +23461,7 @@ followed by days of trekking to identified locations in order to see if
 a location could be secured through a rent deal, and the safety and
 integrity of the relay guaranteed by the land owners.
 
-\
+ 
 
 What is the overall client potential in the area and will it be
 sufficient to, at a minimal level, ensure that the network is
@@ -23647,7 +23472,7 @@ Client potential did not seem bright as well.
 Besides the proposed bank branches we found few additional clients –
 mainly schools and other organizations.
 
-\
+ 
 
 We were sure that the client base will grow in time, but had to find a
 way to ensure viability in a relatively short time.
@@ -23655,7 +23480,7 @@ way to ensure viability in a relatively short time.
 We decided to extend the network to more densely-populated areas at the
 foothills of the Garhwal range.
 
-The actual deployment work began in October 2009.
+ The actual deployment work began in October 2009.
 
 After around two months of deployment work, the core network was ready.
 
@@ -23667,53 +23492,56 @@ institutions in the valley.
 Most of its stand-alone relays were solar-powered and its longest
 single-hop link was 54 km.
 
-\
+ 
 
-![](CsAGN/CsAGN2.png)\
-*Figure****CSD****2:****Garhwal****network,****partial****deployment****topology,****Early****2010*
+![](./CsAGN/CsAGN2.png)
 
-\
+ 
 
-![](CsAGN/CsAGN3.jpg)\
-*Figure****CSD****3:****Field****survey****in****the****Garhwal****region*
+![](./CsAGN/CsAGN3.jpg)
 
-![](CsAGN/CsAGN4.jpg)\
-*Figure CSD 4: Field survey in the Kumaon region*
+Figure CSD 3: Field survey in the Garhwal region
 
-\
+ 
 
-![](CsAGN/CsAGN5.JPG)\
-*Figure****CSD****5:
-Preparing****for****relay****installation,****Kumaon****Network*
+![](./CsAGN/CsAGN4.jpg)
 
-\
+ 
 
-![](CsAGN/CsAGN6.jpg)\
-*Figure****CSD****6:****Relay****troubleshooting,****Kumaon****Network*
+![](./CsAGN/CsAGN5.JPG)
 
-\
+Figure CSD 5: Preparing for relay installation, Kumaon Network
 
-![](CsAGN/CsAGN7.JPG)\
-*Figure****CSD****7:
-Last****touches****to****solar****relay,****Kumaon****Network*
+ 
 
-\
+![](./CsAGN/CsAGN6.jpg)
 
-![](CsAGN/CsAGN8.JPG)\
-*Figure****CSD****8:****Backhaul****Relay,****Garhwal****Network*
+ 
 
-![](CsAGN/CsAGN9.jpg)\
-*Figure****CSD****9:****Client****Relay,****Kumaon****Network*
+![](./CsAGN/CsAGN7.JPG)
 
-\
+Figure CSD 7: Last touches to solar relay, Kumaon Network
 
-![](CsAGN/CsAGN10.jpg)\
-*Figure****CSD****10:****Client****Relay,****Kangra****Valley****Network*
+ 
 
-\
+![](./CsAGN/CsAGN8.JPG)
 
-**Three********years********on********–********operation,********economic********viability,********challenges********and
-responses.**
+Figure CSD 8: Backhaul Relay, Garhwal Network
+
+ 
+
+![](./CsAGN/CsAGN9.jpg)
+
+ 
+
+![](./CsAGN/CsAGN10.jpg)
+
+Figure CSD 10: Client Relay, Kangra Valley Network
+
+ 
+
+Three years on – operation, economic viability, challenges and
+responses.
 
 Three years on, the present network still caters to the initial 15
 branches and original clients. It has also grown significantly. Its
@@ -23731,64 +23559,62 @@ operation in the area exceeds 95% and that the network has attracted
 much attention and praise from its users, other Internet players and the
 media.
 
-\
+ 
 
 This said, challenges still abound and the struggle to keep it all
 running is still very much an ongoing effort. The main challenges we
 faced since the inception of the network are:
 
-\
+ 
 
-**Energy******– power is still a major challenge. The grid-provision is
-erratic and problematic. Using the grid as the power source for our
-relays (even with battery backup) has led to burnt routers and hours of
-travel to troubleshoot links drained of their power backup after the
-line went down.
+Energy – power is still a major challenge. The grid-provision is erratic
+and problematic. Using the grid as the power source for our relays (even
+with battery backup) has led to burnt routers and hours of travel to
+troubleshoot links drained of their power backup after the line went
+down.
 
-\
+ 
 
-Solar power, on the other hand, although almost
-trouble-free[^4^](#sdfootnote5sym) is however still costly.
+Solar power, on the other hand, although almost trouble-free[4](#ftn5)
+is however still costly.
 
 Bearing the capital costs for these relays ourselves stretches a
 challenging economic proposition even further, while having clients pay
 the full costs for a relay limits the type of clients who can avail our
 connections.
 
-\
+ 
 
-**Relays******– a good relay is one that is placed in a location
-covering as much space as possible. In the Garhwal area, this means
-mountain tops. These places are normally and naturally hard to get to
-and quite isolated. Building, maintenance and security in these sites is
-an ongoing challenge. At the time of writing we are busy rebuilding a
-relay whose solar panels, battery, charger and other equipment were
-stolen.
+Relays – a good relay is one that is placed in a location covering as
+much space as possible. In the Garhwal area, this means mountain tops.
+These places are normally and naturally hard to get to and quite
+isolated. Building, maintenance and security in these sites is an
+ongoing challenge. At the time of writing we are busy rebuilding a relay
+whose solar panels, battery, charger and other equipment were stolen.
 
 Some of our new connections have proven to be so challenging as to
 require a relay for each new locations, clearly not an easy economic
 proposition.
 
-\
+ 
 
-**Size******– as proud as we are in the size of the network, a travel
-distance of over 10 hours between its to extreme points is stretching
-out team, who move mostly on bikes, to the limit, with some
-trouble-shooting trips lasting over two days on account of travel.
+Size – as proud as we are in the size of the network, a travel distance
+of over 10 hours between its to extreme points is stretching out team,
+who move mostly on bikes, to the limit, with some trouble-shooting trips
+lasting over two days on account of travel.
 
-\
+ 
 
-**Economic********viability******– the dual mountain-valley/sparse
-population-high density model, which is an implicit a cross-subsidy has
-proven successful, but has not fully solved the challenge of economic
-viability in marginal mountainous areas. Our responses to these
-challenges evolve constantly. Present observations and steps implemented
-include:
+Economic viability – the dual mountain-valley/sparse population-high
+density model, which is an implicit a cross-subsidy has proven
+successful, but has not fully solved the challenge of economic viability
+in marginal mountainous areas. Our responses to these challenges evolve
+constantly. Present observations and steps implemented include:
 
-\
+ 
 
-**Energy******– we have learnt that solar-powered relays are the only
-real option for the Garhwal network (as for many other locations).
+Energy – we have learnt that solar-powered relays are the only real
+option for the Garhwal network (as for many other locations).
 
 In trying to rationalize the costs for clients we have limited our
 deployment to private/small business clients to clusters where a minimum
@@ -23802,20 +23628,20 @@ deals: clients pay for the cost of equipment and relays (or their share
 of it) over a period of time, if they agree to a contractual lock-in
 period of over two years.
 
-\
+ 
 
-**Relays******– the best location is not necessarily the one with the
-best coverage ONLY, but one that present an optimal combination of
+Relays – the best location is not necessarily the one with the best
+coverage ONLY, but one that present an optimal combination of
 visibility, security, accessibility and price. In certain cases this
 means a higher number of relays, but we believe that on the whole this
 is a cheaper and more rational option.
 
-\
+ 
 
-**Size******– a simple solution to the size problem would be to break
-the network to smaller sub or autonomous network. We are using this
-approach in other networks, where the size limit is considered by a role
-of thumb of a max. of three hour travel to a site.
+Size – a simple solution to the size problem would be to break the
+network to smaller sub or autonomous network. We are using this approach
+in other networks, where the size limit is considered by a role of thumb
+of a max. of three hour travel to a site.
 
 This however makes little sense in a sparse network such as the upper
 Garhwal reaches.
@@ -23832,16 +23658,15 @@ of a staging post to an operational base will come when keeping a team
 of two people at such a location could be justified by its client
 density and revenues.
 
-\
+ 
 
-**Economic********viability******– AirJaldi’s over-arching goal is to
-reach un-served and under-served areas with high quality internet
-connectivity. As such, the cross-subsidy model is justified as a partial
-solution to the challenges faced by many aspiring rural internet
-providers lacking the skills or desire to build networks of the scale of
-the Garhwal network.
+Economic viability – AirJaldi’s over-arching goal is to reach un-served
+and under-served areas with high quality internet connectivity. As such,
+the cross-subsidy model is justified as a partial solution to the
+challenges faced by many aspiring rural internet providers lacking the
+skills or desire to build networks of the scale of the Garhwal network.
 
-\
+ 
 
 That is however cannot be the only economic avenue for deployment in
 such challenging environments.
@@ -23860,7 +23685,7 @@ Although more expensive on a per-unit basis, these packages are
 appealing to clients who wish to limit their consumption to their
 economic willingness to pay.
 
-\
+ 
 
 Future plans include introduction of “4-C”: local centers where users
 can utilize bandwidth for Classroom setup (online individual learning,
@@ -23870,8 +23695,7 @@ use individual computers) and Connectivity (through local hotspot in the
 area of the center or through connectivity deals to houses and offices
 sold at the Café).
 
-Summary
--------
+### Summary
 
 The Garhwal network was created in response to a request from an “anchor
 client”, a micro-banking enterprise for whom connectivity was a
@@ -23887,17 +23711,12 @@ Future plans include further expansion of the network, “thickening” of
 the client density in existing areas and enriching of packages and
 services offered by AirJaldi.
 
-\
+ 
 
-**Case********Study****:****Open********Technology********Institute**
-=====================================================================
+Case Study: Open Technology Institute
+-------------------------------------
 
-\
-\
--
-
-**Red********Hook****i****nitiative********Wifi********&********Tidepools**
----------------------------------------------------------------------------
+### Red Hook initiative Wifi & Tidepools
 
 Red Hook Initiative WiFi is a collaboratively designed mesh network.
 
@@ -23911,23 +23730,22 @@ engagement at the core of the project.
 The community expanded the network significantly following a natural
 disaster in the Fall of 2012.
 
-\
+ 
 
-**Key aspects**
+Key aspects
 
-1.  Main network anchors are trusted community organizations.
+1.  1.Main network anchors are trusted community organizations. 
 
-2.  Solid relationship with technical support provider from outside the
-    community.
+2.  2.Solid relationship with technical support provider from outside
+    the community. 
 
-3.  Community-led design process emphasizes local needs and enhances
-    engagement.
+3.  3.Community-led design process emphasizes local needs and enhances
+    engagement. 
 
-4.  Rapid prototyping of applications designed for the local area
-    network.
+4.  4.Rapid prototyping of applications designed for the local area
+    network. 
 
-**History********of********the********network**
------------------------------------------------
+### History of the network
 
 Beginning in Fall 2011, the Red Hook Initiative (RHI), a Brooklyn
 non-profit focused on creating social change through youth engagement,
@@ -23939,53 +23757,57 @@ RHI Media Programs Coordinator, to Jonathan Baldwin, a Parsons School of
 Design graduate student who had been experimenting with wireless mesh as
 a local digital platform.
 
-\
+ 
 
-![](CsOTI/CsOTI1.jpg)\
-\
+![](./CsOTI/CsOTI1.jpg)
 
-*Figure****CsOTI****1:****Red****Hook****West****Houses****-****public****housing****buildings*
+ 
 
-\
+Figure CsOTI 1: Red Hook West Houses - public housing buildings
+
+ 
 
 Red Hook is the northwestern corner of Brooklyn, jutting out into the
 Hudson Bay. It is cut off from the rest of the borough by the Gowanus
 Expressway, which carries traffic from points south into lower
 Manhattan.
 
-\
+ 
 
 The neighborhood is home to approximately 5000 residents of Red Hook
 Houses public housing and other low income areas near an expressway, as
 well as a gentrifying section with many small businesses closer to the
 water.
 
-\
+ 
 
 Many industrial sites, an Ikea and a number of public parks fill out the
 area.
 
-\
+ 
 
-![](CsOTI/CsOTI2.jpg)\
-\
+![](./CsOTI/CsOTI2.jpg)
 
-*Figure****CsOTI****2:****Walking****from****RHI****Offices****to****Gowanus****Expressway*
+ 
 
-\
+Figure CsOTI 2: Walking from RHI Offices to Gowanus Expressway
 
-![](CsOTI/CsOTI3.jpg)\
-\
+ 
 
-*Figure****CsOTI****3:****Gowanus****Expressway****which****divides****the****Red****Hook****neighborhood****from****the****rest****of****Brooklyn.*
+![](./CsOTI/CsOTI3.jpg)
 
-\
+ 
+
+Figure CsOTI 3: Gowanus Expressway which divides the Red Hook
+neighborhood from the rest of Brooklyn.
+
+ 
 
 RHI WiFi’s initial plan was to provide wireless access to the Internet
 in and around RHI’s building, which is near the expressway and the Red
 Hook Houses.
 
-\
+ 
 
 Schloss and Baldwin installed a Ubiquiti Nanostation on the roof and a
 Linksys router inside the building, connected via ethernet.
@@ -24000,30 +23822,30 @@ On this website was a “Shout Box,” a local digital message board
 allowing everyone to leave a comment or a note behind and participate in
 the project.
 
-\
+![](./CsOTI/CsOTI4.jpg)
 
-![](CsOTI/CsOTI4.jpg)\
-\
+ 
 
-*Figure****CsOTI****4:****First****RHI****WiFi****node****(Ubiquiti****Nanostation)****installed****on****the****rooftop****of****the****building****that****houses****the****RHI****offices.*
+Figure CsOTI 4: First RHI WiFi node (Ubiquiti Nanostation) installed on
+the rooftop of the building that houses the RHI offices.
 
-\
+ 
 
 In March of 2012, Baldwin and Schloss installed an additional Ubiquiti
 Nanostation on the roof of an apartment building overlooking Coffey Park
 and much of the rest of the neighborhood.
 
-\
+ 
 
 A resident of the building with social ties to RHI donated the
 electricity and rooftop access.
 
-\
+ 
 
 With this vantage point on the neighborhood, the possibility of a
 wireless network connecting public spaces began to take shape.
 
-\
+ 
 
 Initially, the Coffey Park wireless access point was not connected to
 the Internet, but was connected to a GuruPlug Server.
@@ -24031,17 +23853,20 @@ the Internet, but was connected to a GuruPlug Server.
 The basic, low power server hosted a local web page on the network and a
 “Shout Box” similar to the one running in RHI.
 
-![](CsOTI/CsOTI5.jpg)\
-\
+![](./CsOTI/CsOTI5.jpg)
 
-*Figure****CsOTI****5:****Running****cable****to****install****a****node****on****the****roof****of****an****apartment****building****north****of****Coffey****Park.*
+ 
 
-\
+Figure CsOTI 5: Running cable to install a node on the roof of an
+apartment building north of Coffey Park.
 
-![](CsOTI/CsOTI6.jpg)\
-\
+ 
 
-*Figure****CsOTI****6:****Node****installed****on****the****roof****of****an****apartment****building.*
+![](./CsOTI/CsOTI6.jpg)
+
+ 
+
+Figure CsOTI 6: Node installed on the roof of an apartment building.
 
 RHI WiFi uses OTI’s Commotion Wireless firmware running on Ubiquiti
 routers.
@@ -24050,46 +23875,45 @@ Commotion is a free and open-source communication tool that uses mobile
 phones, computers, and other wireless devices to create decentralized
 mesh networks.
 
-\
+ 
 
 Most importantly, Commotion allows network development to occur
 dynamically and organically - so the community can decide where and how
 the network should grow.
 
-\
+ 
 
 Commotion networks are sustainable without a connection to the Internet,
 which makes them resilient to outages; they can distribute access to
 applications hosted on local servers or on the routers themselves.
 
-**Social********software********and********growth********of********the********network**
----------------------------------------------------------------------------------------
+### Social software and growth of the network
 
 Based on research into community wireless networks around the world,
 Baldwin had identified a need for social software that would add value
 and a distinct identity to the community wireless network, specifically
 to:
 
-\
+ 
 
--   Spark civic and community engagement by addressing local needs,
-    interests and culture.
+-   •Spark civic and community engagement by addressing local needs,
+    interests and culture.  
 
--   Foster trust, interdependence, and reciprocity throughout the
-    community.
+-   •Foster trust, interdependence, and reciprocity throughout the
+    community. 
 
--   Merge digital and physical community spaces.
+-   •Merge digital and physical community spaces. 
 
--   Ensure that people know about mesh / have software installed before
-    a communication outage occurs.
+-   •Ensure that people know about mesh / have software installed before
+    a communication outage occurs. 
 
-\
+ 
 
 Schloss and Baldwin began working with participants in RHI’s established
 media programs on a collaborative, human-centered design process that
 called upon the knowledge and interests of local residents.
 
-\
+ 
 
 Throughout the first year, Baldwin and Schloss held workshops with
 community members to determine local needs and gather design ideas for
@@ -24100,89 +23924,96 @@ using Javascript, LeafletJS, PHP and MongoDB.
 Baldwin designed it for local communication, placemaking, and organizing
 around events, issues, and community assets.
 
-\
+![](./CsOTI/CsOTI7.png)
 
-![](CsOTI/CsOTI7.png)\
-\
+ 
 
-*Figure CsOTI 7: Workshop to identify local needs for RHI WiFi network.
-(Photo by Becky Kazansky).*
+Figure CsOTI 7: Workshop to identify local needs for RHI WiFi network.
+(Photo by Becky Kazansky).
 
-\
+ 
 
-![](CsOTI/CsOTI8.png)\
-![](CsOTI/CsOTI8.png)\
-\
+![](./CsOTI/CsOTI8.png)
 
-*Figure****CsOTI****8:****Tidepools****map****of****RHI****WiFi****network.*
+![](./CsOTI/CsOTI8.png)
 
-\
+ 
 
-\
+Figure CsOTI 8: Tidepools map of RHI WiFi network.
+
+ 
+
+ 
 
 The community workshops produced ideas for local applications that would
 address specific needs identified by the community.
 
-\
+ 
 
 The needs identified in the community workshops were:
 
-\
+ 
 
--   Access to the Internet (at home, via mobile, and at neighborhood
-    kiosks).
+-   •Access to the Internet (at home, via mobile, and at neighborhood
+    kiosks). 
 
--   Accountable community participation (FAQs, electronic bulletin
-    boards, SMS enabled features).
+-   •Accountable community participation (FAQs, electronic bulletin
+    boards, SMS enabled features).  
 
--   Access to resources (employment and skills sharing).
+-   •Access to resources (employment and skills sharing).  
 
--   Local Information System (historical archive, landmarks).
+-   •Local Information System (historical archive, landmarks).  
 
--   Multilingual (Spanish, Arabic and Tagalog).
+-   •Multilingual (Spanish, Arabic and Tagalog).  
 
--   Playful interface to promote exploration.
+-   •Playful interface to promote exploration. 
+
+     
 
 In the summer of 2012, Baldwin joined OTI’s staff, and OTI brought
 additional tech expertise to the collaboration along with experience
 closing digital divides and developing community-controlled
 infrastructure.
 
-\
+ 
 
 The organization’s experience in Detroit and Philadelphia provided
 guidance on how to collaborate with communities that have been socially,
 geographically and technologically isolated within cities.
 
-\
+ 
 
 During the months following the initial tests of the local network, OTI
 and RHI focused on realizing three initial applications that would use
 the Tidepools platform and run over the local wireless network:
 
-\
+ 
 
--   Where’s the B61 Bus? - An application for accessing real-time bus
+-   •Where’s the B61 Bus? - An application for accessing real-time bus
     locations and arrival times using data from the Metropolitan Transit
-    Authority’s BusTime API (*launched****October****9,****2012*).
+    Authority’s BusTime API (launched October 9, 2012). 
 
--   Stop & Frisk Survey - A survey application that residents can use to
-    document police interactions in Red Hook and improve public safety
-    (*launched****October****17,****2012*).
+-   •Stop & Frisk Survey - A survey application that residents can use
+    to document police interactions in Red Hook and improve public
+    safety (launched October 17, 2012). 
 
--   RHI Radio - An online radio station, streaming content produced by
-    the Youth Radio Group at RHI (under development).
+-   •RHI Radio - An online radio station, streaming content produced by
+    the Youth Radio Group at RHI (under development). 
 
-![](CsOTI/CsOTI9.jpeg)\
-*Figure****CsOTI****9:****Magnet****advertising****"Where's****the****B61****Bus".****Tidepools****application.*
+     
 
-\
+![](./CsOTI/CsOTI9.jpeg)
 
-![](CsOTI/CsOTI10-11.png)\
-*Figure****CsOTI****10**-**11:****Mobile****user****interface****for****"Where's****the****B61****Bus?"****application.*
+ 
 
-**Expansion********after********superstorm Sandy**
---------------------------------------------------
+![](./CsOTI/CsOTI10-11.png)
+
+Figure CsOTI 10-11: Mobile user interface for "Where's the B61 Bus?"
+application.
+
+ 
+
+### Expansion after superstorm Sandy
 
 On October 29, 2012, Superstorm Sandy devastated low-lying Red Hook
 along with much of the surrounding region. Amid power outages and
@@ -24194,23 +24025,27 @@ power and, as a result, RHI WiFi had stayed up through the storm.
 
 In the days immediately following the storm, up to 300 people per day
 were accessing the network to communicate with loved ones, learn what
-was happening in the rest of the city, and seek recovery assistance.
-“*We****immediately****saw****communications****as****one****of****the****critical****needs****in****the****community,*”
-says Tony Schloss. “*We****wanted****it****to****be****as****easy****as
-possible****for****people****to****contact****their****networks****to****find****housing,****gain****access****to****information,****and****report****their****safety****status*.”
-Text messaging was the most widely – and in some cases the only – means
-of communication for neighborhood residents after the storm, so in a
-matter of days, OTI developed RHI Status - an SMS to Map plugin for
-Tidepools using the Tropo Application Programming Interface (API) for
-handling SMS messages and the Google Geocoding API for handling natural
-language addresses. RHI Status provided a means for residents to text
-their location and needs to a contact number, which automatically maps
-the information in Tidepools with threaded discussion so others in the
-community can respond.
+was happening in the rest of the city, and seek recovery assistance. “We
+immediately saw communications as one of the critical needs in the
+community,” says Tony Schloss. “We wanted it to be as easy as possible
+for people to contact their networks to find housing, gain access to
+information, and report their safety status.” Text messaging was the
+most widely – and in some cases the only – means of communication for
+neighborhood residents after the storm, so in a matter of days, OTI
+developed RHI Status - an SMS to Map plugin for Tidepools using the
+Tropo Application Programming Interface (API) for handling SMS messages
+and the Google Geocoding API for handling natural language addresses.
+RHI Status provided a means for residents to text their location and
+needs to a contact number, which automatically maps the information in
+Tidepools with threaded discussion so others in the community can
+respond.
 
-![](CsOTI/CsOTI12.png)\
-*Figure****CsOTI****12:
-Screenshot****of****RHI/Status****application,****which****plots****SMS****messages****on****a****Tidepools****map.*
+![](./CsOTI/CsOTI12.png)
+
+Figure CsOTI 12: Screenshot of RHI/Status application, which plots SMS
+messages on a Tidepools map.
+
+ 
 
 As recovery progressed, Frank Sanborn, a Federal Emergency Management
 Administration (FEMA) Innovation Fellow, reached out to RHI about
@@ -24238,19 +24073,19 @@ modest bandwidth, the mesh network could distribute the Internet
 connection to key locations where residents, first responders, and
 recovery volunteers needed it most.
 
-\
+ 
 
 As the community came together to respond to the storm, the need to grow
 this resilient communications infrastructure became clear.
 
-\
+ 
 
 With power and water still off in much of Red Hook in the following
 month, many local organizations and residents reached out to help.
 Brooklyn Fiber, a local Internet service provider (ISP), volunteered an
 additional gateway to RHI WiFi.
 
-\
+ 
 
 To add the gateway into the mesh, OTI, RHI and Brooklyn Fiber installed
 a 5 GHz Ubiquiti Nanostation Loco router running AirOS (to receive the
@@ -24262,25 +24097,28 @@ The church was also without power at the time, but the team installed an
 uninterruptible power supply that could run the routers for 12 hours at
 a time.
 
-\
+ 
 
-![](CsOTI/CsOTI13.jpg)\
-*Figure****CsOTI****13:****Rooftop****node.****In****the****aftermath****of****Superstorm****Sandy,****additional****community****members****offered****to****host****RHI****WiFi****nodes****and****a
-local****ISP****donated****Internet****connectivity.*
+![](./CsOTI/CsOTI13.jpg)
 
-![](CsOTI/CsOTI14.jpg)\
-*Figure****CsOTI****14:****Rooftop****node****installed****after****Superstorm****Sandy.*
+ 
+
+![](./CsOTI/CsOTI14.jpg)
+
+Figure CsOTI 14: Rooftop node installed after Superstorm Sandy.
+
+ 
 
 Since the storm, RHI WiFi has supported approximately 100 users per week
 even without promotion of the resource.
 
-\
+ 
 
 Data collected by Commotion on current DHCP leases, as well as the
 Google Analytics on the landing webpage, show that residents appear to
 be primarily connecting using Android devices and Apple iPod Touches.
 
-\
+ 
 
 In addition, many residents use the computer workstations in the RHI
 media lab as well as the wireless available in RHI. RHI is serving as
@@ -24288,36 +24126,36 @@ both a physical and social anchor for the wireless network, driving
 digital adoption, educating the neighborhood, and coordinating relief
 efforts.
 
-\
+ 
 
-![](CsOTI/CsOTI15.png)\
-\
-\
+![](./CsOTI/CsOTI15.png)
 
-*Figure CsOTI 15: RHI WiFi network map. Base map (c) Google Maps 2013.*
+ 
 
-\
-\
+Figure CsOTI 15: RHI WiFi network map. Base map (c) Google Maps 2013.
 
-![](CsOTI/CsOTI16.png)\
-\
+ 
 
-*Figure****CsOTI****16:****Mesh****network****topology****viewed****in****OLSRViz.*
+![](./CsOTI/CsOTI16.png)
 
-![](CsOTI/CsOTI17.png)\
-\
+ 
 
-*Figure****CsOTI****17:****Mesh****network****topology****viewed****in****OLSRViz.*
+Figure CsOTI 16: Mesh network topology viewed in OLSRViz.
 
-\
+![](./CsOTI/CsOTI17.png)
 
-**Sustainability********&********future********goals**
-------------------------------------------------------
+ 
+
+Figure CsOTI 17: Mesh network topology viewed in OLSRViz.
+
+ 
+
+### Sustainability & future goals
 
 RHI will continue to develop the project with the goal of supporting
 community-wide recovery from Superstorm Sandy.
 
-\
+ 
 
 With support from New York City Workforce Development funding, RHI and
 OTI are launching a training program in January 2013 to engage
@@ -24328,22 +24166,21 @@ Media Projects in Detroit, Michigan, the curriculum will train young
 adults to install new routers, maintain existing ones, and promote
 adoption of the RHI WiFi network throughout Red Hook.
 
-\
+ 
 
 The RHI Digital Stewards will prioritize additional public spaces for
 network expansion and work with other residents to design new, local
 applications.
 
-\
+ 
 
 OTI will continue to assist in the development of the applications and
 support the engineering of the network in close collaboration with the
 community.
 
-\
+ 
 
-**Cost********of********the********network**
---------------------------------------------
+### Cost of the network
 
 Donated labor from local residents and technologist. Institutional
 support from RHI and OTI. Hardware (\~\$50 to \~\$85 each router).
@@ -24355,21 +24192,21 @@ Bandwidth (donated by RHI, Brooklyn Fiber, and FEMA).
 Training program for local residents to maintain and expand network as
 part of a municipal employment program.
 
-**Lessons********learned**
---------------------------
+### Lessons learned
 
 Having relationships and anchor wireless nodes in place prior to a
 disaster facilitates rapid network deployment through:
 
-\
+ 
 
--   Already-established relationships with key community stakeholders.
+1.  -   •Already-established relationships with key community
+        stakeholders. 
 
--   A heightened level of technological literacy in the community.
+1.  -   •A heightened level of technological literacy in the community. 
 
--   Pre-positioned wireless network equipment in the neighborhood.
+1.  -   •Pre-positioned wireless network equipment in the neighborhood. 
 
-\
+ 
 
 The most challenging investment is in the initial organizing and design
 phase before any value is realized.
@@ -24377,8 +24214,7 @@ phase before any value is realized.
 Community-designed applications add value to a local network, even at a
 small scale.
 
-**Related********articles********&********websites**
-----------------------------------------------------
+### Related articles & websites
 
 RELEASE:
 
@@ -24386,21 +24222,17 @@ New Community-Tech Tool to Help in Sandy's Aftermath
 
 [http://oti.newamerica.net/pressroom/2012/release\_new\_community\_tech\_tool\_to\_help\_in\_sandys\_aftermath](http://oti.newamerica.net/pressroom/2012/release_new_community_tech_tool_to_help_in_sandys_aftermath)
 
-\
-
 What Sandy Has Taught Us About Technology, Relief and Resilience
 
 [http://www.forbes.com/sites/deannazandt/2012/11/10/wha](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[t](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[sand](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[y-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[ha](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[s-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[taught](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[u](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[s](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[abou](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[t](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[technology](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[relie](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[f](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[and](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[-](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)[resilience/](http://www.forbes.com/sites/deannazandt/2012/11/10/what-sandy-has-taught-us-about-technology-relief-and-resilience/)
-
-\
 
 A Community Wireless Mesh Prototype in Detroit, MI
 
 [http://www.newamerica.net/node/34925](http://www.newamerica.net/node/34925)
 
-\
+ 
 
-**Tidepools**
+Tidepools
 
 [http://tidepools.co](http://tidepools.co/)
 
@@ -24412,51 +24244,51 @@ http://wlan-si.net/en/blog/2012/05/26/introducing-tidepools-social-wifi
 
 [http://www.jrbaldwin.com/tidepoolswifi/](http://www.jrbaldwin.com/tidepoolswifi/)
 
-\
+ 
 
-**Stop********&********Frisk********App**
+Stop & Frisk App
 
 [http://animalnewyork.com/2012/](http://animalnewyork.com/2012/stop-and-frisk-app-from-red-hook-initiative/)stop-and-frisk-app-launched-by-red-hook-initiative
 
 http://www.dnainfo.com/new-york/20121017/red-hook/stop-and-frisk-app-launched-by-red-hook-initiative
 
-\
+ 
 
-**Red********Hook**
+Red Hook
 
 [http://www.nycgovparks.org/parks/redhookpark/history](http://www.nycgovparks.org/parks/redhookpark/history)
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-\
+ 
 
-[1](#sdfootnote1anc). While the WRT54GL is still available on the
-market, at prices of 60 US-\$ it is overpriced. The WRT54G revision 4.0
-was sold as WRT54GL revision 1.0 by Linksys in 2005, after Linksys had
-introduced the WRT54G revision 5.0, which wasn't Linux compatible
-anymore. The WRT54G revision 5.0 has only half the flash storage and RAM
-capacity. The WRT54G model is the WiFi router with the longest
-production lifetime. For the money you need to spend on a Linksys
-WRT54GL in 2011 you can buy two or three similar devices from other
-brands that are faster in terms of CPU and data rate.
+[1](#body_ftn1). While the WRT54GL is still available on the market, at
+prices of 60 US-\$ it is overpriced. The WRT54G revision 4.0 was sold as
+WRT54GL revision 1.0 by Linksys in 2005, after Linksys had introduced
+the WRT54G revision 5.0, which wasn't Linux compatible anymore. The
+WRT54G revision 5.0 has only half the flash storage and RAM capacity.
+The WRT54G model is the WiFi router with the longest production
+lifetime. For the money you need to spend on a Linksys WRT54GL in 2011
+you can buy two or three similar devices from other brands that are
+faster in terms of CPU and data rate.
 
-[1](#sdfootnote2anc)
+[1](#body_ftn2)       
 [http://ruralchannels.ifmr.co.in/kgf](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[s](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[-](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[model/wha](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[t](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[-](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[i](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[s](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[-](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[a](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[-](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)[kgfs/](http://ruralchannels.ifmr.co.in/kgfs-model/what-is-a-kgfs/)
 
-[2](#sdfootnote3anc) [http://www.ifmr.co.in/](http://www.ifmr.co.in/)
+ [http://www.ifmr.co.in/](http://www.ifmr.co.in/)
 
-[3](#sdfootnote4anc) Each of our networks has one or more clients which
-are referred to as “anchor clients”. The term denotes their role as the
+[3](#body_ftn4) Each of our networks has one or more clients which are
+referred to as “anchor clients”. The term denotes their role as the
 first clients in a network, and the ones that contribute mostly to its
 initial economic feasibility.
 
-[4](#sdfootnote5anc) The monsoon months, with their very heavy rains and
+[4](#body_ftn5) The monsoon months, with their very heavy rains and
 perpetually overcast skies create limiting charging conditions, and have
 forced us to equip most of our relay with extra charging capacity, which
 further increases the costs of relays
