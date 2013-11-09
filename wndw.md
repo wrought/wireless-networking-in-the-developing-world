@@ -1223,7 +1223,7 @@ questions on our page - we do answer quickly.
 
  
 
-1PHYSICS
+1 PHYSICS
 ========
 
  
@@ -1811,12 +1811,12 @@ when making first plans for a wireless network:
 
  
 
--   •the longer the wavelength, the further it goes; 
+-   the longer the wavelength, the further it goes; 
 
--   •the longer the wavelength, the better it travels through and around
+-   the longer the wavelength, the better it travels through and around
     things; 
 
--   •the shorter the wavelength, the more data it can transport. 
+-   the shorter the wavelength, the more data it can transport. 
 
  
 
@@ -2953,17 +2953,17 @@ when planning a wireless network include:
 
  
 
--   •Spectrum Licensing 
+-   Spectrum Licensing 
 
--   •ISP/Telecommunications Licenses 
+-   ISP/Telecommunications Licenses 
 
--   •Tower permits for antennas 
+-   Tower permits for antennas 
 
--   •Transmission power and antenna gain limits 
+-   Transmission power and antenna gain limits 
 
--   •Certification of equipment 
+-   Certification of equipment 
 
--   •ISP Terms of Use 
+-   ISP Terms of Use 
 
  
 
@@ -3493,15 +3493,15 @@ different frequency chunks:
 
  
 
--   •The spectrum that has been assigned to TV broadcasting but it is
+-   The spectrum that has been assigned to TV broadcasting but it is
     not currently being used. This applies particularly to developing
     countries, in which there has been no economic incentive for
     broadcaster to use every available TV channel. 
 
--   •The spectrum that must be left free in between two analogous TV
+-   The spectrum that must be left free in between two analogous TV
     channels to prevent interference. 
 
--   •The spectrum that has been reclaimed as a consequence of the
+-   The spectrum that has been reclaimed as a consequence of the
     transition to digital terrestrial TV, which is more spectrum
     efficient. This currently applies to developed countries, but will
     soon apply to developing countries as well. 
@@ -4867,22 +4867,22 @@ are a number of significant drawbacks to using them:
 
  
 
--   •They are expensive. Amplifiers must work at relatively wide
+-   They are expensive. Amplifiers must work at relatively wide
     bandwidths at 2.4 GHz, and must switch quickly enough to work for
     Wi- Fi applications. 
 
--   •They provide no additional directionality. High gain antennas not
+-   They provide no additional directionality. High gain antennas not
     only improve the available amount of signal, but tend to reject
     noise from other directions. Amplifiers blindly amplify both desired
     and interfering signals, and can make interference problems worse.  
 
--   •Amplifiers generate noise for other users of the band. By
+-   Amplifiers generate noise for other users of the band. By
     increasing your output power, you are creating a louder source of
     noise for other users of the unlicensed band. Conversely, adding
     antenna gain will improve your link and can actually decrease the
     noise level for your neighbours. 
 
--   •Using amplifiers is often illegal. Every country imposes power
+-   Using amplifiers is often illegal. Every country imposes power
     limits on use of unlicensed spectrum. Adding an antenna to a highly
     amplified signal will likely cause the link to exceed legal limits. 
 
@@ -4975,7 +4975,7 @@ Figure ATL 17: Effect of ice on a parabolic grid antenna
 
  
 
-2NETWORKING
+2 NETWORKING
 ===========
 
 6. NETWORKING
@@ -5489,11 +5489,11 @@ There are some specific IPv6 addresses:
 
  
 
--   •::1 (or 0000:00000:0000:0000:0000:0000:0000:0001) represents the
+-   ::1 (or 0000:00000:0000:0000:0000:0000:0000:0001) represents the
     loopback address, this is the node itself when the node wants to
     send packets to itself; 
 
--   •:: (all zero) is the undetermined address, to be used by a node
+-   :: (all zero) is the undetermined address, to be used by a node
     when it does not know its global address, for instance when it
     boots. 
 
@@ -5563,10 +5563,10 @@ Some IPv4 addresses that are special:
 
  
 
--   •127.0.0.1 represents the loopback address (similar to ::1 for
+-   127.0.0.1 represents the loopback address (similar to ::1 for
     IPv6); 
 
--   •0.0.0.0        represents the unspecified address (similar to ::
+-   0.0.0.0        represents the unspecified address (similar to ::
     for IPv6). 
 
 #### IPv4 Subnets
@@ -8765,20 +8765,20 @@ provides a level of service somewhere between completely open and
 completely closed. Many vendors and open source projects exist that
 provide captive portal capability, to name a few:
 
--   •CoovaChilli, CoovaAP
+-   CoovaChilli, CoovaAP
     [(http://coova.org/CoovaChilli/),](http://coova.org/CoovaChilli/))[](http://coova.org/CoovaChilli/))Coova
     is the successor of the no longer actively maintained Chillispot
     project. Coova allows for the use of a RADIUS authentication
     backend. 
 
--   •WiFidog
+-   WiFidog
     [(http://www.wifidog.org/),](http://www.wifidog.org/))[](http://www.wifidog.org/))WiFi
     Dog provides a very complete captive portal authentication package
     in very little space (typically under 30kb). From a user’s
     perspective, it requires no pop-up or javascript support, allowing
     it to work on a wider variety of wireless devices. 
 
--   •M0n0wall, pfSense
+-   M0n0wall, pfSense
     [(http://m0n0.ch/wall/),](http://m0n0.ch/wall/))[](http://m0n0.ch/wall/))m0n0wall
     is a complete embedded operating system based on FreeBSD. It
     includes a captive portal with RADIUS support, as well as a PHP web
@@ -9326,12 +9326,12 @@ end-to-end security. Some of these reasons include:
 
  
 
--   •it is based on proven, robust, encryption protocols (SSL and RSA) 
+-   it is based on proven, robust, encryption protocols (SSL and RSA) 
 
--   •it is relatively easy to configure. It functions across many
+-   it is relatively easy to configure. It functions across many
     different platforms 
 
--   •it is well-documented. An Open-Source "Community" version is
+-   it is well-documented. An Open-Source "Community" version is
     maintained in addition to a for-pay commercial version. 
 
  
@@ -9464,7 +9464,7 @@ Internet.
 
  
 
-3PLANNING AND DEPLOYMENT
+3 PLANNING AND DEPLOYMENT
 ========================
 
 10. DEPLOYMENT PLANNING
@@ -9926,17 +9926,17 @@ one access point and one client radio.
 
  
 
--   •The access point is connected to an omni directional antenna with a
+-   The access point is connected to an omni directional antenna with a
     10dBi gain, while the client is connected to a directional antenna
     with 14 dBi gain.  
 
--   •The transmitting power of the AP is 100 mW (or 20 dBm) and its
+-   The transmitting power of the AP is 100 mW (or 20 dBm) and its
     sensitivity is -89 dBm.  
 
--   •The transmitting power of the client is 30 mW (or 15 dBm) and its
+-   The transmitting power of the client is 30 mW (or 15 dBm) and its
     sensitivity is -82 dBm.  
 
--   •The cables are short, so we can estimate a loss of 2 dB at each
+-   The cables are short, so we can estimate a loss of 2 dB at each
     side.  
 
  
@@ -10214,21 +10214,21 @@ differences between the two.
 
 Web version:
 
--   •it can run on any machine (Linux, Mac, Windows, tablet, phone,
+-   it can run on any machine (Linux, Mac, Windows, tablet, phone,
     etc) 
 
--   •it does not require big downloads. As it runs online, data is
+-   it does not require big downloads. As it runs online, data is
     stored on the server and only the necessary data is downloaded. 
 
--   •it saves sessions. If you run a simulation and login after some
+-   it saves sessions. If you run a simulation and login after some
     time, you will still find your simulation and the results. 
 
--   •it is easier to use, especially for beginners. 
+-   it is easier to use, especially for beginners. 
 
--   •it requires connectivity. It is not possible to run a simulation if
+-   it requires connectivity. It is not possible to run a simulation if
     you are offline. 
 
--   •as it has been developed for the community of radio amateurs, it
+-   as it has been developed for the community of radio amateurs, it
     can work only for certain frequency bands. As an example, it is not
     possible to simulate links at 5.8GHz but only at 5.3GHz. This is
     good enough from a practical point of view, but one has to keep it
@@ -10238,20 +10238,20 @@ Web version:
 
 Windows version:
 
--   •it can run offline. Once the maps are downloaded, there is no need
+-   it can run offline. Once the maps are downloaded, there is no need
     to be online to run the simulation. 
 
--   •one can use an external GPS to get the exact position of the
+-   one can use an external GPS to get the exact position of the
     station. While this is not often used, it could be useful
     sometimes. 
 
--   •it runs on Windows (it does run in Linux but not directly). 
+-   it runs on Windows (it does run in Linux but not directly). 
 
--   •it requires big downloads. If your bandwidth is limited,
+-   it requires big downloads. If your bandwidth is limited,
     downloading many maps might be a problem. The online version
     requires smaller downloads. 
 
--   •It is not user friendly, especially for beginners. 
+-   It is not user friendly, especially for beginners. 
 
  
 
@@ -11284,21 +11284,21 @@ acquainted with its main features and make sure you:
 
  
 
--   •Download or otherwise obtain all user’s manuals and specification
+-   Download or otherwise obtain all user’s manuals and specification
     sheets available for the devices you are going to deploy. 
 
--   •If you have second-hand devices, be sure to receive full
+-   If you have second-hand devices, be sure to receive full
     information on their current –or last-known– configuration (e.g.
     password, IP addresses, etc.) 
 
--   •You should already have a plan on hand for the network you are
+-   You should already have a plan on hand for the network you are
     going to deploy (including link budget, network topology, channels
     and IP settings). 
 
--   •Be ready to take written notes of all settings that you are going
+-   Be ready to take written notes of all settings that you are going
     to apply (especially passwords!) 
 
--   •Make backups of last known good configuration files. 
+-   Make backups of last known good configuration files. 
 
 #### Getting in touch with the device
 
@@ -11322,13 +11322,13 @@ LEDs typically indicate:
 
  
 
--   •Presence of power 
+-   Presence of power 
 
--   •Active ports / traffic (yellow/green colour) 
+-   Active ports / traffic (yellow/green colour) 
 
--   •Error status (red colour) 
+-   Error status (red colour) 
 
--   •Received signal strength (LED bars, sometimes multicolour; some
+-   Received signal strength (LED bars, sometimes multicolour; some
     devices can even be set to light each LED at specific thresholds,
     e.g. Ubiquiti) 
 
@@ -11344,24 +11344,24 @@ You should identify the different ports and interfaces on the device:
 
  
 
--   •Radio interfaces, sometimes called WLANs. They should have one or
+-   Radio interfaces, sometimes called WLANs. They should have one or
     more antenna connectors (or non-detachable antennas). 
 
--   •One or more Ethernet interfaces: 
+-   One or more Ethernet interfaces: 
 
--   •One or more ports for local network (LAN) 
+-   One or more ports for local network (LAN) 
 
--   •One port for uplink (also called WAN) 
+-   One port for uplink (also called WAN) 
 
--   •Power input (5, 6, 7.5, 12V or other, usually DC). It is really
+-   Power input (5, 6, 7.5, 12V or other, usually DC). It is really
     (really) important that the power supply matches the voltage!
     Sometimes the power is provided to the device through the same UTP
     cable that carries the Ethernet data: this is called
     Power-over-Ethernet (PoE). 
 
--   •Power button (not always present). 
+-   Power button (not always present). 
 
--   •Reset button (often “hidden” in a small hole, can be pressed using
+-   Reset button (often “hidden” in a small hole, can be pressed using
     a straightened paperclip). 
 
  
@@ -11395,13 +11395,13 @@ The possible ways are the following:
 
  
 
--   •Graphical User Interface (web page) 
+-   Graphical User Interface (web page) 
 
--   •Graphical User Interface (proprietary software application) 
+-   Graphical User Interface (proprietary software application) 
 
--   •Command Line Interface (telnet, ssh) 
+-   Command Line Interface (telnet, ssh) 
 
--   •Software interface embedded in the system (when the AP/client is a
+-   Software interface embedded in the system (when the AP/client is a
     computer or smartphone with a display and its own OS) 
 
  
@@ -11496,20 +11496,20 @@ Before configuring the AP, remember to:
 
  
 
--   •Start from a known state, or reset the device to factory settings
+-   Start from a known state, or reset the device to factory settings
     (always a good idea!). 
 
--   •Connecting to the device via Ethernet is usually easier than via
+-   Connecting to the device via Ethernet is usually easier than via
     wireless. Most devices with a web GUI have a default IP
     configuration on the network 192.168.0.0, but this is not a rule!
     Read the manual. 
 
--   •If convenient, upgrade the firmware to the latest stable version
+-   If convenient, upgrade the firmware to the latest stable version
     (but be careful!) 
 
--   •Change the default admin username and password first! 
+-   Change the default admin username and password first! 
 
--   •Change the device name with something that clearly identifies it
+-   Change the device name with something that clearly identifies it
     (e.g. something like “AP\_conference\_room\_3” or
     “hotspot\_public\_area”). This will help you to recognise the AP in
     future when you connect to it over the network. 
@@ -11518,7 +11518,7 @@ Before configuring the AP, remember to:
 
  
 
--   •Firmware upgrade is often a risky procedure, be sure to adopt all
+-   Firmware upgrade is often a risky procedure, be sure to adopt all
     precautions before attempting it - such as - connecting the device
     and the computer to a UPS, then do not perform the firmware update
     while doing other tasks on the computer, and check that you have a
@@ -11526,7 +11526,7 @@ Before configuring the AP, remember to:
     procedure fails, you can end up with an unusable device that cannot
     be recovered (the so-called “brick”). 
 
--   •Remember to write down (and store in a safe place) all these
+-   Remember to write down (and store in a safe place) all these
     settings, especially the admin username/password. 
 
 #### Configure the AP - IP layer
@@ -11548,19 +11548,19 @@ network setup:
 
  
 
--   •IP address/netmask/gateway or DHCP 
+-   IP address/netmask/gateway or DHCP 
 
--   •DNS address(es) 
+-   DNS address(es) 
 
--   •Double check the new settings and apply them (sometimes you may
+-   Double check the new settings and apply them (sometimes you may
     have to reboot the AP) 
 
--   •Now you may need to reconfigure your PC/laptop to match the new
+-   Now you may need to reconfigure your PC/laptop to match the new
     Ethernet setup, and reconnect to the AP. 
 
 #### Configure the AP - physical layer
 
--   •Configure the mode: master (or access point or base station). The
+-   Configure the mode: master (or access point or base station). The
     device’s mode can usually be configured as: “master” (also called
     “access point” or “base station” or “BS”), “client” (also called
     “managed” or “station” or “client station” or “CPE”), “monitor”,
@@ -11569,16 +11569,16 @@ network setup:
 
  
 
--   •Configure the SSID (Service Set Identifier, the name of the
+-   Configure the SSID (Service Set Identifier, the name of the
     wireless network created by the AP, up to 32 characters long): it is
     best to choose a meaningful name. Remember that “security through
     obfuscation is not real security”, so a hidden or fake/random SSID
     does not add much security to your network. 
 
--   •Configure the wireless channel, according to the local regulations
+-   Configure the wireless channel, according to the local regulations
     and the result of the site survey.  
 
--   •Do not use a channel that is already occupied by another AP or
+-   Do not use a channel that is already occupied by another AP or
     other sources of RF power. You should already have planned the
     channel in advance, during the design phase. The choice of the best
     channel is sometimes a hard task, and you may need to perform a site
@@ -11586,7 +11586,7 @@ network setup:
     analysers (like the WiSpy from Metageek and the AirView from
     Ubiquiti). 
 
--   •Configure the transmit power and network speed (these values may
+-   Configure the transmit power and network speed (these values may
     also be set to “automatic” in some devices). The value of transmit
     power is also subject to local regulation, check in advance the
     maximum power allowed by law, and try always to use the minimum
@@ -11627,18 +11627,18 @@ Configure the security features of the network:
 
  
 
--   •No encryption (all traffic is in clear) 
+-   No encryption (all traffic is in clear) 
 
--   •WEP (Wired Equivalent Privacy), 40 or 104 bits keys, it is flawed
+-   WEP (Wired Equivalent Privacy), 40 or 104 bits keys, it is flawed
     and therefore deprecated 
 
--   •WPA / WPA2 (WiFi Protected Access): PSK, TKIP and EAP 
+-   WPA / WPA2 (WiFi Protected Access): PSK, TKIP and EAP 
 
--   •Enable or disable (hide) the SSID broadcast (“beacon”). Hidden SSID
+-   Enable or disable (hide) the SSID broadcast (“beacon”). Hidden SSID
     and MAC filtering do not add much security, and are hard to maintain
     and a source of troubles for inexperienced users of the network. 
 
--   •Enable or disable an Access Control List (based on MAC addresses of
+-   Enable or disable an Access Control List (based on MAC addresses of
     clients). MAC filtering is a weak security measure:– A malicious
     client can capture packets and find out which MAC addresses have the
     right to associate– It can then change its own MAC address to one of
@@ -11661,15 +11661,15 @@ Advanced IP configuration includes:
 
  
 
--   •Static routing 
+-   Static routing 
 
--   •Dynamic routing 
+-   Dynamic routing 
 
--   •NAT (masquerading, port forwarding) 
+-   NAT (masquerading, port forwarding) 
 
--   •Firewalling 
+-   Firewalling 
 
--   •Some APs can also act as file servers and print servers (external
+-   Some APs can also act as file servers and print servers (external
     HD and printers can be connected via USB) 
 
 #### Configure the AP – advanced
@@ -11679,21 +11679,21 @@ the model/vendor/firmware/etc.:
 
  
 
--   •Beacon interval 
+-   Beacon interval 
 
--   •RTS/CTS. RTS/CTS (ready to send, clear to send) mechanism can help
+-   RTS/CTS. RTS/CTS (ready to send, clear to send) mechanism can help
     alleviate the problem of hidden nodes (clients that can “hear” the
     AP but not the other clients, therefore creating interferences). 
 
--   •Fragmentation. Configuration of the fragmentation can be used to
+-   Fragmentation. Configuration of the fragmentation can be used to
     increase performance in the case of low signal areas, those with
     marginal coverage, or long links. 
 
--   •Interference robustness 
+-   Interference robustness 
 
--   •Vendor extensions to the WiFi standards 
+-   Vendor extensions to the WiFi standards 
 
--   •Other settings for long distance links (10 to 100 kilometres) and
+-   Other settings for long distance links (10 to 100 kilometres) and
     better security. 
 
 ### Configure the client
@@ -11702,31 +11702,31 @@ The client side configuration is much simpler:
 
  
 
--   •Configure the mode: client (or managed, station, client station,
+-   Configure the mode: client (or managed, station, client station,
     CPE) 
 
--   •Configure the SSID of the network to be joined 
+-   Configure the SSID of the network to be joined 
 
--   •The channel, speed, and other parameters will be set automatically
+-   The channel, speed, and other parameters will be set automatically
     to match the AP 
 
--   •If WEP or WPA is enabled on the AP, you will have to enter the
+-   If WEP or WPA is enabled on the AP, you will have to enter the
     matching password (key) 
 
--   •Clients may also have additional (often vendor-specific) settings.
+-   Clients may also have additional (often vendor-specific) settings.
     For example, some clients can be configured to associate only with
     an AP with a specified MAC address. 
 
 ### Hints - working outdoors
 
--   •You should try to configure the devices (both APs and clients) well
+-   You should try to configure the devices (both APs and clients) well
     in advance and in a comfortable place such as a laboratory. Working
     outdoors is more difficult and may lead to mistakes (“on-site”
     configuration = trouble). 
 
      
 
--   •If you must configure devices outdoors, be sure to have enough
+-   If you must configure devices outdoors, be sure to have enough
     battery charge on your laptop, to carry all the required information
     with you (on paper, not only in electronic format!) and to carry a
     notepad to take notes. Good documentation is paramount for future
@@ -11734,23 +11734,23 @@ The client side configuration is much simpler:
 
 ### Troubleshooting
 
--   •Organise your work in logical steps and follow them. 
+-   Organise your work in logical steps and follow them. 
 
--   •Read the manual, study the meaning of parameters and settings, run
+-   Read the manual, study the meaning of parameters and settings, run
     tests and experiments (don’t be scared!). 
 
--   •In the case of problems, do a factory reset and try again. 
+-   In the case of problems, do a factory reset and try again. 
 
--   •If the problem persists, try again changing one parameter/setting
+-   If the problem persists, try again changing one parameter/setting
     at a time. 
 
--   •It still doesn’t work? Try to search on the web for relevant
+-   It still doesn’t work? Try to search on the web for relevant
     keywords (name of the device, etc.), search in forums and on
     manufacturer / vendors websites. 
 
--   •Upgrade the firmware to the latest version. 
+-   Upgrade the firmware to the latest version. 
 
--   •If you still have problems try with a different client/AP, to check
+-   If you still have problems try with a different client/AP, to check
     if you have a hardware issue with the original one. 
 
 12. INDOOR INSTALLATION
@@ -11771,30 +11771,30 @@ in choosing and installing WiFi networks indoors.
 Before installing a wireless LAN it is a good idea to first think things
 through a bit:
 
--   •What is it that you are planning to do with the wireless network?
+-   What is it that you are planning to do with the wireless network?
     Is it an addition to the wired network or a replacement for it? Are
     you going to run applications over the network that are not delay
     tolerant or sensitive to bandwidth variations (like voice and video
     conferencing). 
 
--   •The main difference between indoor and outdoor wireless is the
+-   The main difference between indoor and outdoor wireless is the
     absorption and reflection of radio waves by the building itself.
     What building features do you need to take into account? Do the
     walls have metal, water or heavy concrete in them? Do windows have
     metal in them (e.g. metal coating or metal grids)? Is the building
     long and stretched or compact? 
 
--   •Do you expect users to be mainly static, or will they move a lot?
+-   Do you expect users to be mainly static, or will they move a lot?
     And when they move, is it important to have uninterrupted handover
     (this means, a handover so quick that you will not notice the
     interruption of a voice call)? 
 
--   •Are there good places to hang the Access Points? Are wired sockets
+-   Are there good places to hang the Access Points? Are wired sockets
     and electricity for the APs readily available? Is electricity
     stable? If not, even indoor APs might need stable solar/battery
     power supplies and/or UPS. 
 
--   •Are there sources of interference, like ad-hoc APs brought in by
+-   Are there sources of interference, like ad-hoc APs brought in by
     users, bluetooth devices, microwaves? 
 
 ### Bandwidth requirements
@@ -12608,11 +12608,11 @@ broken due to weight on the terminals during transportation.
 Aside from storing energy, sealed lead-acid batteries also serve two
 important functions:
 
--   •They are able to provide an instantaneous power superior to that of
+-   They are able to provide an instantaneous power superior to that of
     the array of panels. This instantaneous power is needed to start
     some appliances, such as the motor of a refrigerator or a pump. 
 
--   •They determine the operating voltage of your installation. 
+-   They determine the operating voltage of your installation. 
 
 For a small power installation and where space constraints are
 important, other types of batteries (such as NiCd, NiMh, or Li-ion) can
@@ -13318,7 +13318,7 @@ characteristics of a battery:
 
  
 
--   •The nominal capacity of a battery (that the manufacturer usually
+-   The nominal capacity of a battery (that the manufacturer usually
     gives for 25°C) increases with temperature at the rate of about
     1%/°C.  But if the temperature is too high, the chemical reaction
     that takes place in the battery accelerates, which can cause the
@@ -13330,7 +13330,7 @@ characteristics of a battery:
 
      
 
--   •As the temperature is reduced, the useful life of the battery
+-   As the temperature is reduced, the useful life of the battery
     increases. But if the temperature is too low, you run the the risk
     of freezing the electrolyte. The freezing temperature depends on the
     density of the solution, which is also related to the state of
@@ -13340,13 +13340,13 @@ characteristics of a battery:
 
      
 
--   •The temperature also changes the relation between voltage and
+-   The temperature also changes the relation between voltage and
     charge. It is preferable to use a regulator which adjusts the low
     voltage disconnect and reconnect parameters according to
     temperature. The temperature sensor of the regulator should be fixed
     to the battery using tape or some other simple method. 
 
--   •In hot areas it is important to keep the batteries as cool as
+-   In hot areas it is important to keep the batteries as cool as
     possible. The batteries must be stored in a shaded area and never
     get direct sunlight. It's also desirable to place the batteries on a
     small support to allow air to flow under them, thus increase the
@@ -13482,14 +13482,14 @@ to the regulator.
 
 Other features and data of interest include:
 
--   •Specific values for LVD, LRV and HVD. 
+-   Specific values for LVD, LRV and HVD. 
 
--   •Support for temperature compensation. The voltage that indicates
+-   Support for temperature compensation. The voltage that indicates
     the state of charge of the battery varies with temperature. For that
     reason some regulators are able to measure the battery temperature
     and correct the different cut-off and reconnection values.  
 
--   •Instrumentation and gauges. The most common instruments measure the
+-   Instrumentation and gauges. The most common instruments measure the
     voltage of the panels and batteries, the state of charge (SoC) or
     Depth of Discharge (DoD). Some regulators include special alarms to
     indicate that the panels or loads have been disconnected, LVD or HVD
@@ -13600,28 +13600,28 @@ appliances.
 Here are some points to keep in mind when choosing appropriate equipment
 for use with a solar system:
 
--   •The photovoltaic solar energy is suitable for illumination. In this
+-   The photovoltaic solar energy is suitable for illumination. In this
     case, the use of halogen light bulbs or fluorescent lamps is
     mandatory. Although these lamps are more expensive, they have much
     better energy efficiency than incandescent light bulbs. LED lamps
     are also a good choice as they are very efficient and are fed with
     DC. 
 
--   •It is possible to use photovoltaic power for appliances that
+-   It is possible to use photovoltaic power for appliances that
     require low and constant consumption (as in a typical case, the TV).
     Smaller televisions use less power than larger televisions. Also
     consider that a black-and-white TV consumes about half the power of
     a colour TV. 
 
--   •Photovoltaic solar energy is not recommended for any application
+-   Photovoltaic solar energy is not recommended for any application
     that transforms energy into heat (thermal energy). Use solar heating
     or butane as an alternative. 
 
--   •Conventional automatic washing machines will work, but you should
+-   Conventional automatic washing machines will work, but you should
     avoid the use of any washing programs that include centrifugal water
     heating. 
 
--   •If you must use a refrigerators, it should consume as little power
+-   If you must use a refrigerators, it should consume as little power
     as possible. There are specialised refrigerators that work on DC,
     although their consumption can be quite high (around 1000 Wh/day). 
 
@@ -13772,10 +13772,10 @@ An important component of the installation is the wiring, as proper
 wiring will ensure efficient energy transfer. Some good practices that
 you should consider include:
 
--   •Use a screw to fasten the cable to the battery terminal. Loose
+-   Use a screw to fasten the cable to the battery terminal. Loose
     connections will waste power. 
 
--   •Spread Vaseline or mineral jelly on the battery terminals. Corroded
+-   Spread Vaseline or mineral jelly on the battery terminals. Corroded
     connections have an increased resistance, resulting in loss. 
 
  
@@ -13885,16 +13885,16 @@ determine the following, at a minimum:
 
  
 
--   •The number and type of solar panels required to capture enough
+-   The number and type of solar panels required to capture enough
     solar energy to support your load. 
 
--   •The minimum capacity of the battery. The battery will need to store
+-   The minimum capacity of the battery. The battery will need to store
     enough energy to provide power at night and through days with little
     sun, and will determine your number of days of autonomy. 
 
      
 
--   •The characteristics of all other components (the regulator, wiring,
+-   The characteristics of all other components (the regulator, wiring,
     etc.) needed to support the amount of power generated and stored. 
 
      
@@ -14196,16 +14196,16 @@ proper size of a system:
         the solar demanded energy and the energy available is greatest,
         we calculate: 
 
--   •The current that the array of panels needs to provide, which will
+-   The current that the array of panels needs to provide, which will
     determine the minimum number of panels. 
 
--   •The necessary energy storage capacity to cover the minimum number
+-   The necessary energy storage capacity to cover the minimum number
     of days of autonomy, which will determine the required number of
     batteries. 
 
--   •The required electrical characteristics of the regulator. 
+-   The required electrical characteristics of the regulator. 
 
--   •The length and the necessary sections of cables for the electrical
+-   The length and the necessary sections of cables for the electrical
     connections. 
 
 #### Required current in the worst month
@@ -14392,12 +14392,12 @@ know:
 
  
 
--   •the maximum current IMC that is going to circulate in the cable. In
+-   the maximum current IMC that is going to circulate in the cable. In
     the case of the panel-battery subsystem, it is ImMAX calculated for
     every month. In the battery-load subsystem it depends on the way
     that the loads are connected; 
 
--   •the voltage drop (Va-Vb) that we consider acceptable in the cable.
+-   the voltage drop (Va-Vb) that we consider acceptable in the cable.
     The voltage drop that results from adding all possible individual
     drops is expressed as a percent of the nominal voltage of the
     installation.  
@@ -14640,7 +14640,7 @@ life.
 
  
 
-4MAINTENANCE, MONITORING AND SUSTAINABILITY
+4 MAINTENANCE, MONITORING AND SUSTAINABILITY
 ===========================================
 
  
@@ -14821,7 +14821,7 @@ right direction.
 
  
 
--   •Don't panic. If you are troubleshooting a system, it means that it
+-   Don't panic. If you are troubleshooting a system, it means that it
     was working at one time, probably very recently. Before jumping in
     and making changes, survey the scene and assess exactly what is
     broken. If you have historical logs or statistics to work from, all
@@ -14834,7 +14834,7 @@ right direction.
     and you want them to be on your side. Be sure to collect information
     first, so you can make an informed decision before making changes. 
 
--   •Make a backup. This applies before you notice problems, as well as
+-   Make a backup. This applies before you notice problems, as well as
     after. If you make a complicated software change to a system, having
     a backup means that you can quickly restore it to the previous
     settings and start again. When troubleshooting very complex
@@ -14850,7 +14850,7 @@ right direction.
 
  
 
--   •Is it plugged in? This step is often overlooked until many other
+-   Is it plugged in? This step is often overlooked until many other
     avenues are explored. Plugs can be accidentally (or intentionally)
     unplugged very easily. Is the lead connected to a good power source?
     Is the other end connected to your device? Is the power light on? It
@@ -14861,7 +14861,7 @@ right direction.
 
  
 
--   •What was the last thing changed? If you are the only person with
+-   What was the last thing changed? If you are the only person with
     access to the system, what is the last change you made? If others
     have access to it, what is the last change they made and when? When
     was the last time the system worked? Often, system changes have
@@ -14870,7 +14870,7 @@ right direction.
 
  
 
--   •Look at date/timestamps on files. Every file on a modern computer
+-   Look at date/timestamps on files. Every file on a modern computer
     system has a date & time associated with it showing when it was
     created or last changed. On a properly running system, most of the
     system files will have date/timestamps from months or even years
@@ -14880,7 +14880,7 @@ right direction.
 
  
 
--   •The known good. This idea applies to hardware, as well as software.
+-   The known good. This idea applies to hardware, as well as software.
     A known good is any component that you can replace in a complex
     system to verify that its counterpart is in good, working condition.
     For example, you may carry a tested Ethernet cable in a tool kit. If
@@ -14895,7 +14895,7 @@ right direction.
 
  
 
--   •Determine what still works. This will help you "put a fence around
+-   Determine what still works. This will help you "put a fence around
     the problem". While complex systems like a wireless network can be
     made up of many different components, it is likely that the problem
     is only with a very small number of them. If, for example, somebody
@@ -14909,7 +14909,7 @@ right direction.
 
  
 
--   •Do no harm. If you don't fully understand how a system works, don't
+-   Do no harm. If you don't fully understand how a system works, don't
     be afraid to call in an expert. If you are not sure if a particular
     change will damage another part of the system, then either find
     someone with more experience to help you or devise a way to test
@@ -15119,14 +15119,14 @@ The two possible approaches to this problem are:
 
  
 
--   •Disable Windows updates on all workstation PCs. The security
+-   Disable Windows updates on all workstation PCs. The security
     updates are very important for servers, but whether workstations in
     a protected private network such as a campus network need them is
     debatable.  
 
      
 
--   •Install a Software Update Server. This is a free program from
+-   Install a Software Update Server. This is a free program from
     Microsoft that enables you to download all the updates from
     Microsoft overnight on to a local server and distribute the updates
     to client workstations from there. In this way, Windows updates need
@@ -15221,7 +15221,7 @@ Offline downloading can be implemented in at least two ways:
 
  
 
--   •At the University of Moratuwa, a system was implemented using URL
+-   At the University of Moratuwa, a system was implemented using URL
     redirection. Users accessing ftp:// URLs are served a directory
     listing in which each file has two links: one for normal
     downloading, and the other for offline downloading. If the offline
@@ -15236,7 +15236,7 @@ Offline downloading can be implemented in at least two ways:
 
  
 
--   •Another approach would be to create a web interface where users
+-   Another approach would be to create a web interface where users
     enter the URL of the file they want to download. This is then
     downloaded overnight using a cron job or scheduled task. This system
     would only work for users who are not impatient, and are familiar
@@ -15371,26 +15371,26 @@ These tools can help you answer critical questions, such as:
 
  
 
--   •What are the most popular services used on the network?  
+-   What are the most popular services used on the network?  
 
--   •Who are the heaviest network users? 
+-   Who are the heaviest network users? 
 
--   •What other wireless channels are in use in my area? 
+-   What other wireless channels are in use in my area? 
 
--   •Are users installing wireless access points on my private wired
+-   Are users installing wireless access points on my private wired
     network?  
 
--   •At what time of the day is the network most utilised? 
+-   At what time of the day is the network most utilised? 
 
--   •What sites do your users frequent? 
+-   What sites do your users frequent? 
 
--   •Is the amount of inbound or outbound traffic close to the available
+-   Is the amount of inbound or outbound traffic close to the available
     network capacity? 
 
--   •Are there indications of an unusual network situation that is
+-   Are there indications of an unusual network situation that is
     consuming bandwidth or causing other problems? 
 
--   •Is our Internet Service Provider (ISP) providing the level of
+-   Is our Internet Service Provider (ISP) providing the level of
     service that we are paying for?  
 
  
@@ -15402,7 +15402,7 @@ And perhaps the most important question of all:
 
  
 
--   •Do the observed traffic patterns fit our expectations? 
+-   Do the observed traffic patterns fit our expectations? 
 
  
 
@@ -15608,45 +15608,45 @@ your network:
 
  
 
--   •Network budget and resources are justified. Good monitoring tools
+-   Network budget and resources are justified. Good monitoring tools
     can demonstrate without a doubt that the network infrastructure
     (bandwidth, hardware, and software) is suitable and able to handle
     the requirements of network users. 
 
      
 
--   •Network intruders are detected and filtered. By watching your
+-   Network intruders are detected and filtered. By watching your
     network traffic, you can detect attackers and prevent access to
     critical internal servers and services. 
 
      
 
--   •Network viruses are easily detected. You can be alerted to the
+-   Network viruses are easily detected. You can be alerted to the
     presence of network viruses, and take appropriate action before they
     consume Internet bandwidth and destabilise your network. 
 
      
 
--   •Troubleshooting of network problems is greatly simplified. Rather
+-   Troubleshooting of network problems is greatly simplified. Rather
     than attempting "trial and error" to debug network problems, you can
     be instantly notified of specific problems. Some kinds of problems
     can even be repaired automatically. 
 
      
 
--   •Network performance can be highly optimised. Without effective
+-   Network performance can be highly optimised. Without effective
     monitoring, it is impossible to fine tune your devices and protocols
     to achieve the best possible performance. 
 
      
 
--   •Capacity planning is much easier. With solid historical performance
+-   Capacity planning is much easier. With solid historical performance
     records, you do not have to "guess" how much bandwidth you will need
     as your network grows. 
 
      
 
--   •Proper network usage can be enforced. When bandwidth is a scarce
+-   Proper network usage can be enforced. When bandwidth is a scarce
     resource, the only way to be fair to all users is to ensure that the
     network is being used for its intended purpose. 
 
@@ -15819,66 +15819,66 @@ typically track.
 
 Wireless statistics
 
--   •Received signal and noise from all backbone nodes  
+-   Received signal and noise from all backbone nodes  
 
--   •Number of associated stations 
+-   Number of associated stations 
 
--   •Detected adjacent networks and channels  
+-   Detected adjacent networks and channels  
 
--   •Excessive retransmissions 
+-   Excessive retransmissions 
 
--   •Radio data rate, if using automatic rate scaling 
+-   Radio data rate, if using automatic rate scaling 
 
 Switch statistics
 
--   •Bandwidth usage per switch port  
+-   Bandwidth usage per switch port  
 
--   •Bandwidth usage broken down by protocol 
+-   Bandwidth usage broken down by protocol 
 
--   •Bandwidth usage broken down by MAC address  
+-   Bandwidth usage broken down by MAC address  
 
--   •Broadcasts as a percentage of total packets  
+-   Broadcasts as a percentage of total packets  
 
--   •Packet loss and error rate 
+-   Packet loss and error rate 
 
 Internet statistics
 
--   •Internet bandwidth use by host and protocol  
+-   Internet bandwidth use by host and protocol  
 
--   •Proxy server cache hits 
+-   Proxy server cache hits 
 
--   •Top 100 sites accessed  
+-   Top 100 sites accessed  
 
--   •DNS requests 
+-   DNS requests 
 
--   •Number of inbound emails / spam emails / email bounces  
+-   Number of inbound emails / spam emails / email bounces  
 
--   •Outbound email queue size 
+-   Outbound email queue size 
 
--   •Availability of critical services (web servers, email servers,
+-   Availability of critical services (web servers, email servers,
     etc.).  
 
--   •Ping times and packet loss rates to your ISP 
+-   Ping times and packet loss rates to your ISP 
 
--   •Status of backups 
+-   Status of backups 
 
 System health statistics
 
--   •Memory usage  
+-   Memory usage  
 
--   •Swap file usage 
+-   Swap file usage 
 
--   •Process count / zombie processes  
+-   Process count / zombie processes  
 
--   •System load 
+-   System load 
 
--   •Uninterruptible Power Supply (UPS) voltage and load  
+-   Uninterruptible Power Supply (UPS) voltage and load  
 
--   •Temperature, fan speed, and system voltages 
+-   Temperature, fan speed, and system voltages 
 
--   •Disk SMART status  
+-   Disk SMART status  
 
--   •RAID array status 
+-   RAID array status 
 
  
 
@@ -17248,21 +17248,21 @@ influence the appearance of your traffic patterns are:
 
  
 
--   •The capacity of your Internet connection 
+-   The capacity of your Internet connection 
 
--   •The number of users that have access to the network 
+-   The number of users that have access to the network 
 
--   •The social policy (byte charging, quotas, honour system, etc.).  
+-   The social policy (byte charging, quotas, honour system, etc.).  
 
--   •The number, types, and level of services offered 
+-   The number, types, and level of services offered 
 
--   •The health of the network (presence of viruses, excessive
+-   The health of the network (presence of viruses, excessive
     broadcasts, routing loops, open email relays, denial of service
     attacks, etc.).  
 
--   •The competence of your computer users 
+-   The competence of your computer users 
 
--   •The location and configuration of control structures (firewalls,
+-   The location and configuration of control structures (firewalls,
     proxy servers, caches, and so on) 
 
      
@@ -17761,14 +17761,14 @@ this vision with the input of your entire team or staff.
 
  
 
--   •What is the purpose of the wireless network?  
+-   What is the purpose of the wireless network?  
 
--   •Who does the network seek to serve?  
+-   Who does the network seek to serve?  
 
--   •What does the network do to address the community’s needs and to
+-   What does the network do to address the community’s needs and to
     create value?  
 
--   •What are the principles that guide the network?  
+-   What are the principles that guide the network?  
 
  
 
@@ -17809,24 +17809,24 @@ individuals and organisations that include, but are not limited to:
 
  
 
--   •Farmers’ associations and cooperatives  
+-   Farmers’ associations and cooperatives  
 
--   •Women’s groups 
+-   Women’s groups 
 
--   •Schools and universities  
+-   Schools and universities  
 
--   •Businesses and local entrepreneurs  
+-   Businesses and local entrepreneurs  
 
--   •Health clinics and hospitals  
+-   Health clinics and hospitals  
 
--   •Religious groups 
+-   Religious groups 
 
--   •International and local non-governmental organizations (NGOs) Local
+-   International and local non-governmental organizations (NGOs) Local
     and national government agencies 
 
--   •Radio stations 
+-   Radio stations 
 
--   •Organisations in the tourist industry 
+-   Organisations in the tourist industry 
 
  
 
@@ -18089,74 +18089,74 @@ on calculating your costs:-
 
 Labour costs -
 
--   •Check ups (analyses) and consultancies 
+-   Check ups (analyses) and consultancies 
 
--   •Development costs for programming, testing, integration etc.  
+-   Development costs for programming, testing, integration etc.  
 
--   •Installation costs 
+-   Installation costs 
 
--   •Recruiting costs 
+-   Recruiting costs 
 
--   •Training costs (introduction and on-going) 
+-   Training costs (introduction and on-going) 
 
--   •Handling costs / salaries for employees or freelancers, including
+-   Handling costs / salaries for employees or freelancers, including
     yourself  
 
--   •Equipment maintenance staff costs 
+-   Equipment maintenance staff costs 
 
--   •Software support staff costs  
+-   Software support staff costs  
 
--   •Security personnel 
+-   Security personnel 
 
  
 
 Non-labour costs -
 
--   •Acquisition and production costs (for hardware like PCs, VSAT,
+-   Acquisition and production costs (for hardware like PCs, VSAT,
     radio link equipment and software)  
 
--   •Ancillary equipment (e.g., switches, cables and cabling, generator,
+-   Ancillary equipment (e.g., switches, cables and cabling, generator,
     UPS, etc.) 
 
--   •Data protection and security 
+-   Data protection and security 
 
--   •Start-up inventory (chairs, tables, lighting, curtains, tiles and
+-   Start-up inventory (chairs, tables, lighting, curtains, tiles and
     carpeting) 
 
--   •Premises costs (new building, modification, air conditioning,
+-   Premises costs (new building, modification, air conditioning,
     electrical wiring and boxes, security grills)  
 
--   •Legal costs, such as business registration 
+-   Legal costs, such as business registration 
 
--   •Initial license costs (VSAT) 
+-   Initial license costs (VSAT) 
 
--   •Initial marketing costs (flyers, stickers, posters, opening party) 
+-   Initial marketing costs (flyers, stickers, posters, opening party) 
 
--   •Operating costs for hardware and operating systems (Internet
+-   Operating costs for hardware and operating systems (Internet
     access, telephone, etc.)  
 
--   •Rent or leasing rates (for tower space for example) 
+-   Rent or leasing rates (for tower space for example) 
 
--   •Depreciation of hardware and equipment  
+-   Depreciation of hardware and equipment  
 
--   •License fees 
+-   License fees 
 
--   •Consumables and office supplies (e.g., data media, paper, binds,
+-   Consumables and office supplies (e.g., data media, paper, binds,
     clips)  
 
--   •Operational costs to maintain data protection and security 
+-   Operational costs to maintain data protection and security 
 
--   •Insurance premiums 
+-   Insurance premiums 
 
--   •Costs for energy and to ensure power supply 
+-   Costs for energy and to ensure power supply 
 
--   •Loan payments, capital costs for paying back your setup costs 
+-   Loan payments, capital costs for paying back your setup costs 
 
--   •Costs for advertising 
+-   Costs for advertising 
 
--   •Local fees 
+-   Local fees 
 
--   •Legal and accounting services 
+-   Legal and accounting services 
 
      
 
@@ -18227,12 +18227,12 @@ will assist when making pricing decisions:
 
  
 
--   •Calculate the prices you charge so that you cover all costs to
+-   Calculate the prices you charge so that you cover all costs to
     provide the service, including all recurring expenses  
 
--   •Examine the prices of your competitors. 
+-   Examine the prices of your competitors. 
 
--   •Evaluate what your customers are willing and able to pay for your
+-   Evaluate what your customers are willing and able to pay for your
     services, and make sure your prices correspond with these 
 
  
@@ -18597,7 +18597,7 @@ corresponds with the users’ needs.
 
  
 
-5GLOSSARY
+5 GLOSSARY
 =========
 
 Glossary
@@ -20112,7 +20112,7 @@ notifies a system administrator about service and network outages.
 
  
 
-6APPENDICES
+6 APPENDICES
 ===========
 
  
@@ -20143,30 +20143,30 @@ We are going to describe how to build the long antenna only.
 
 #### Parts list and tools required
 
--   •One screw-on N-type female connector 
+-   One screw-on N-type female connector 
 
--   •50 cm of copper or brass wire of 2 mm of diameter  
+-   50 cm of copper or brass wire of 2 mm of diameter  
 
--   •10x10 cm or greater square metallic plate 
+-   10x10 cm or greater square metallic plate 
 
--   •Ruler  
+-   Ruler  
 
--   •Pliers  
+-   Pliers  
 
--   •File 
+-   File 
 
--   •Soldering iron and solder 
+-   Soldering iron and solder 
 
--   •Drill with a set of bits for metal (including a 15 mm diameter bit)
+-   Drill with a set of bits for metal (including a 15 mm diameter bit)
      
 
--   •A piece of pipe or a drill bit with a diameter of 1 cm 
+-   A piece of pipe or a drill bit with a diameter of 1 cm 
 
--   •Vice or clamp  
+-   Vice or clamp  
 
--   •Hammer 
+-   Hammer 
 
--   •
+-   
     ![](src/AC/AC1.png)
      
     Spanner or monkey wrench 
@@ -20481,11 +20481,11 @@ Figure AC 20: The finished cantenna.
 
 #### Parts list
 
--   •one screw-on N-type female connector 
+-   one screw-on N-type female connector 
 
--   •4 cm of copper or brass wire of 2 mm of diameter  
+-   4 cm of copper or brass wire of 2 mm of diameter  
 
--   •an oil can of 8.3 cm of diameter and 21 cm of height 
+-   an oil can of 8.3 cm of diameter and 21 cm of height 
 
      
 
@@ -20497,27 +20497,27 @@ Figure AC 21: Parts needed for the cantenna.
 
 #### Tools required
 
--   •Can opener  
+-   Can opener  
 
--   •Ruler  
+-   Ruler  
 
--   •Pliers 
+-   Pliers 
 
--   •File 
+-   File 
 
--   •Soldering iron  
+-   Soldering iron  
 
--   •Solder 
+-   Solder 
 
--   •Drill with a set of bits for metal (with a 1.5 cm diameter bit)  
+-   Drill with a set of bits for metal (with a 1.5 cm diameter bit)  
 
--   •Vice or clamp 
+-   Vice or clamp 
 
--   •Spanner or monkey wrench  
+-   Spanner or monkey wrench  
 
--   •Hammer 
+-   Hammer 
 
--   •Punch 
+-   Punch 
 
 #### Construction
 
@@ -22119,7 +22119,7 @@ Wierenga. ISBN \# 1587142430
 
  
 
-7CASE STUDIES
+7 CASE STUDIES
 =============
 
 1.   
@@ -23002,17 +23002,17 @@ include:
 
  
 
--   •University of Guam 
+-   University of Guam 
 
--   •Illinois Institute of Technology 
+-   Illinois Institute of Technology 
 
--   •Green WiFi, Inveneo 
+-   Green WiFi, Inveneo 
 
--   •iSolutions 
+-   iSolutions 
 
--   •International Centre for Theoretical Physics (ICTP) 
+-   International Centre for Theoretical Physics (ICTP) 
 
--   •University of California, Berkeley’s TIER research group. 
+-   University of California, Berkeley’s TIER research group. 
 
 Case Study: University Of Ghana campus wireless network
 -------------------------------------------------------
@@ -23067,13 +23067,13 @@ Point (AP) to deploy. Some of these were:
 
 -    
 
--   •Cost 
+-   Cost 
 
--   •Support 
+-   Support 
 
--   •Management 
+-   Management 
 
--   •Security 
+-   Security 
 
      
 
@@ -23896,15 +23896,15 @@ to:
 
  
 
--   •Spark civic and community engagement by addressing local needs,
+-   Spark civic and community engagement by addressing local needs,
     interests and culture.  
 
--   •Foster trust, interdependence, and reciprocity throughout the
+-   Foster trust, interdependence, and reciprocity throughout the
     community. 
 
--   •Merge digital and physical community spaces. 
+-   Merge digital and physical community spaces. 
 
--   •Ensure that people know about mesh / have software installed before
+-   Ensure that people know about mesh / have software installed before
     a communication outage occurs. 
 
  
@@ -23954,19 +23954,19 @@ The needs identified in the community workshops were:
 
  
 
--   •Access to the Internet (at home, via mobile, and at neighborhood
+-   Access to the Internet (at home, via mobile, and at neighborhood
     kiosks). 
 
--   •Accountable community participation (FAQs, electronic bulletin
+-   Accountable community participation (FAQs, electronic bulletin
     boards, SMS enabled features).  
 
--   •Access to resources (employment and skills sharing).  
+-   Access to resources (employment and skills sharing).  
 
--   •Local Information System (historical archive, landmarks).  
+-   Local Information System (historical archive, landmarks).  
 
--   •Multilingual (Spanish, Arabic and Tagalog).  
+-   Multilingual (Spanish, Arabic and Tagalog).  
 
--   •Playful interface to promote exploration. 
+-   Playful interface to promote exploration. 
 
      
 
@@ -23989,15 +23989,15 @@ the Tidepools platform and run over the local wireless network:
 
  
 
--   •Where’s the B61 Bus? - An application for accessing real-time bus
+-   Where’s the B61 Bus? - An application for accessing real-time bus
     locations and arrival times using data from the Metropolitan Transit
     Authority’s BusTime API (launched October 9, 2012). 
 
--   •Stop & Frisk Survey - A survey application that residents can use
+-   Stop & Frisk Survey - A survey application that residents can use
     to document police interactions in Red Hook and improve public
     safety (launched October 17, 2012). 
 
--   •RHI Radio - An online radio station, streaming content produced by
+-   RHI Radio - An online radio station, streaming content produced by
     the Youth Radio Group at RHI (under development). 
 
      
@@ -24199,12 +24199,12 @@ disaster facilitates rapid network deployment through:
 
  
 
-1.  -   •Already-established relationships with key community
+1.  -   Already-established relationships with key community
         stakeholders. 
 
-1.  -   •A heightened level of technological literacy in the community. 
+1.  -   A heightened level of technological literacy in the community. 
 
-1.  -   •Pre-positioned wireless network equipment in the neighborhood. 
+1.  -   Pre-positioned wireless network equipment in the neighborhood. 
 
  
 
