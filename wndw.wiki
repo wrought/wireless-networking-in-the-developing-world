@@ -52,7 +52,7 @@ See [http://creativecommons.org/licenses/by-sa/3.0/ http://creativecommons.org/l
 
 ISBN-13: 978-1484039359
 
-[[Image:src/cc-by-sa.png|frame|none]]
+[[Image:wndw_cc-by-sa.png|frame|none]]
 
  
 
@@ -806,7 +806,7 @@ Here just a few examples of how your network can benefit from wireless technolog
 
  
 
-[[Image:src/I1.png|frame|none]]
+[[Image:wndw_I1.png|frame|none]]
 
  
 
@@ -4638,7 +4638,7 @@ When two wireless interfaces are configured to use the same protocol on the same
 <p> </p></li></ol>
 </li></ol>
 
-[[Image:src/WF1.png|frame|none]]
+[[Image:wndw_WF1.png|frame|none]]
 
  
 
@@ -9153,7 +9153,7 @@ One solution to this problem is to use split DNS and mirroring.
 
 The university mirrors a copy of its websites to a server at, say, a European hosting company, and uses split DNS to direct all users from outside the university network to the mirror site, while users on the university network access the same site locally.
 
-[[Image:src/MT1.png|frame|none]]
+[[Image:wndw_MT1.png|frame|none]]
 
  
 
@@ -13105,7 +13105,7 @@ Center Frequency (GHz)
 
  
 
-[[Image:src/appendix.c.png|frame|none]]
+[[Image:wndw_appendix.c.png|frame|none]]
 
  
 
