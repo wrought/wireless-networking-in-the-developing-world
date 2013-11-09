@@ -8,9 +8,13 @@ This repository contains:
 
 * WNDW source file _translator's version_ (.odt)
 * WNDW html file saved by libreoffice from .odt (.html)
+    * A cleaned version is also available with relative urls.
+        * With VIM, I used `:%s/src="\./src="src/g`
 * WNDW markdown file converted using following procedure (.md)
     * [Install Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
     * Execute `cat src/WNDW_UsTrade6_master#1.42.html | pandoc -s -r html -o wndw.md +RTS -K500M -RTS`
         * The `+RTS -Ksize -RTS` is to handle a haskell stack space overflow by bumping a memory limit up. Here one needs 500M of memory available.
     * Do a search/replace to update image locations in markdown.
         * With VIM, I used `:%s/\!\[\](\./\!\[\](src/g`
+* WNDW mediawiki markup file converted from markdown (.wiki)
+    * Execute `cat wndw.md | pandoc -s -S -r mediawiki -o wndw.wiki`
