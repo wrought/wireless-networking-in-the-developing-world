@@ -1315,7 +1315,7 @@ amplitude are shown in Figure RP 1.
 
  
 
-![](src/RP/RP1.png)
+![](images/RP1.png)
 
  
 
@@ -1642,7 +1642,7 @@ is the same as that of 0 degrees: no phase difference.
 
  
 
-![](src/RP/RP2.png)
+![](images/RP2.png)
 
  
 
@@ -1661,7 +1661,7 @@ polarization.
 
  
 
-![](src/RP/RP3_1.png)
+![](images/RP3_1.png)
 
  
 
@@ -1745,7 +1745,7 @@ therefore do not have to be paid for when used.
 
  
 
-![](src/RP/RP4.png)
+![](images/RP4.png)
 
  
 
@@ -1796,7 +1796,7 @@ separated by 5 MHz.
 
  
 
-![](src/RP/RP5.png)
+![](images/RP5.png)
 
  
 
@@ -2029,7 +2029,7 @@ or less impossible to calculate and predict precisely.
 
  
 
-![](src/RP/RP6.png)
+![](images/RP6.png)
 
  
 
@@ -2070,7 +2070,7 @@ When modelled as a wavefront, the phenomenon makes sense.
 
  
 
-![](src/RP/RP7.png)
+![](images/RP7.png)
 
  
 
@@ -2088,7 +2088,7 @@ purposes, the Huygens model describes the effect quite well.
 
  
 
-![](src/RP/RP8.png)
+![](images/RP8.png)
 
  
 
@@ -2107,7 +2107,7 @@ effects of diffraction when waves hit walls, mountain peaks, and other
 obstacles. It seems as if the obstruction causes the wave to change its
 direction and go around corners.
 
-![](src/RP/RP9.png)
+![](images/RP9.png)
 
  
 
@@ -2146,7 +2146,7 @@ can also result in zero.
 
  
 
-![](src/RP/RP10.png)
+![](images/RP10.png)
 
  
 
@@ -2285,7 +2285,7 @@ to the received signal. Conversely, when the reflected path length
 exceeds the direct path by more than one half wavelength, its
 contribution will decrease the received power.
 
-![](src/RP/RP11.png)
+![](images/RP11.png)
 
  
 
@@ -2585,7 +2585,7 @@ Some examples of signals are shown in Figure TB 1.
 
  
 
-![](src/TB/TB1.png)
+![](images/TB1.png)
 
  
 
@@ -2599,7 +2599,7 @@ period of the signal. So a signal can be characterised either by a graph
 of its amplitude over time, called a waveform, or a graph of of the
 amplitudes of its frequency components, called a spectrum.
 
-![](src/TB/TB2.png)
+![](images/TB2.png)
 
 Figure TB 2: Waveforms, Spectrum and filters
 
@@ -2643,7 +2643,7 @@ noise. Furthermore, the received signal will be subject to attenuation
 and delay that increase with the distance between the transmitter and
 the receiver.
 
-![](src/TB/TB3.png)
+![](images/TB3.png)
 
 Figure TB 3: Attenuation and delay
 
@@ -2700,7 +2700,7 @@ engineer the system so as to make this loss negligible.
 
  
 
-![](src/TB/TB4.png)
+![](images/TB4.png)
 
 Figure TB 4: Undersampled Image
 
@@ -2721,7 +2721,7 @@ highest frequency content of the signal.
 
  
 
-![](src/TB/TB5.png)
+![](images/TB5.png)
 
  
 
@@ -2795,7 +2795,7 @@ at destination by the corresponding demodulation of the received signal.
 
  
 
-![](src/TB/TB6.png)
+![](images/TB6.png)
 
  
 
@@ -2842,7 +2842,7 @@ This is shown in Figure TB 7.
 
  
 
-![](src/TB/TB7.png)
+![](images/TB7.png)
 
 Figure TB 7: Multiplexing
 
@@ -2868,7 +2868,7 @@ recently.
 
  
 
-![](src/TB/TB8.png)
+![](images/TB8.png)
 
  
 
@@ -3241,7 +3241,7 @@ imposed by the interference.
 
  
 
-![](src/RS/RS1.png)
+![](images/RS1.png)
 
  
 
@@ -3360,7 +3360,7 @@ strong economic interests affected.
 
  
 
-![](src/RS/RS2.png)
+![](images/RS2.png)
 
  
 
@@ -3370,7 +3370,7 @@ being used in Jakarta, Indonesia.
 
  
 
-![](src/RS/RS3.png)
+![](images/RS3.png)
 
 Figure RS 3: The “spectrum Police” at work in Jakarta
 
@@ -3472,7 +3472,7 @@ television channels to prevent interference.
 
  
 
-![](src/RS/RS4.png)
+![](images/RS4.png)
 
  
 
@@ -3652,7 +3652,7 @@ below:
 
  
 
-![](src/RS/RS5.png)
+![](images/RS5.png)
 
  
 
@@ -3688,7 +3688,7 @@ workshop in Trieste, Italy.
 
  
 
-![](src/RS/RS6.png)
+![](images/RS6.png)
 
  
 
@@ -3721,7 +3721,7 @@ For these reasons, the RF cable has a very important role in radio
 systems: it must maintain the integrity of the signals in both
 directions.
 
-![](src/ATL/ATL1.png)
+![](images/ATL1.png)
 
 Figure ATL 1: Radio, transmission line and antenna
 
@@ -3735,7 +3735,7 @@ open at one end will not radiate because the current in each wire has
 the same value but opposite direction, so that the fields created on a
 given point at some distance from the line cancel.
 
-![](src/ATL/ATL2.png)
+![](images/ATL2.png)
 
  
 
@@ -3749,7 +3749,7 @@ phase and reinforce each other and will therefore radiate and propagate
 at a distance. We now have an antenna at the end of the transmission
 line.
 
-![](src/ATL/ATL3.png)
+![](images/ATL3.png)
 
 Figure ATL 3: Antenna from transmission line
 
@@ -3789,7 +3789,7 @@ does not contribute to the conduction, hence the larger the central
 conductor, the better the signal will flow. This is called the “skin
 effect”.
 
-![](src/ATL/ATL4.png)
+![](images/ATL4.png)
 
  
 
@@ -3881,7 +3881,7 @@ an infinite current to flow in a perfect conductor.
 The X, Y and Z axis of a rectangular waveguide can be seen in the
 following figure:
 
-![](src/ATL/ATL5.png)
+![](images/ATL5.png)
 
 Figure ATL 5: The X, Y, and Z axis of a rectangular waveguide.
 
@@ -4049,7 +4049,7 @@ but of different gender.
 
  
 
-![](src/ATL/ATL6.png)
+![](images/ATL6.png)
 
 Figure ATL 6: An N female barrel adapter.
 
@@ -4282,7 +4282,7 @@ behaviour in different directions.
 
  
 
-![](src/ATL/ATL7.png)
+![](images/ATL7.png)
 
 Figure ATL 7: A rectangular plot of the radiation pattern of a Yagi
 antenna.
@@ -4303,7 +4303,7 @@ Figure ATL 8 is a polar plot of the same 10 element Yagi antenna.
 
  
 
-![](src/ATL/ATL8.png)
+![](images/ATL8.png)
 
  
 
@@ -4387,7 +4387,7 @@ horizontally polarized.
 
  
 
-![](src/RP/RP3_1.png)
+![](images/RP3_1.png)
 
  
 
@@ -4559,7 +4559,7 @@ are therefore used for long distance links.
 Types of directive antennas are the Yagi, the biquad, the horn, the
 helicoidal, the patch antenna, the parabolic dish, and many others.
 
-![](src/ATL/ATL10.png)
+![](images/ATL10.png)
 
  
 
@@ -4607,7 +4607,7 @@ ground plane.
 
  
 
-![](src/ATL/ATL11.png)
+![](images/ATL11.png)
 
  
 
@@ -4648,7 +4648,7 @@ afford protection from the weather.
 
  
 
-![](src/ATL/ATL12.png)
+![](images/ATL12.png)
 
  
 
@@ -4677,7 +4677,7 @@ with proper dimensions will have similar characteristics.
 
  
 
-![](src/ATL/ATL13.png)
+![](images/ATL13.png)
 
  
 
@@ -4711,7 +4711,7 @@ weather protection.
 
  
 
-![](src/ATL/ATL14.png)
+![](images/ATL14.png)
 
  
 
@@ -4748,7 +4748,7 @@ the squares are placed side by side the polarization is vertical.
 
  
 
-![](src/ATL/ATL15.png)
+![](images/ATL15.png)
 
  
 
@@ -4764,7 +4764,7 @@ devices that require the ability to work in widely different channels.
 
  
 
-![](src/ATL/ATL16.png)
+![](images/ATL16.png)
 
  
 
@@ -4965,7 +4965,7 @@ parabolics.
 
  
 
-![](src/ATL/ATL17.png)
+![](images/ATL17.png)
 
  
 
@@ -5050,7 +5050,7 @@ their home in London, United Kingdom. This may sound like an ordinary
 
  
 
-![](src/NG/NG1.png)
+![](images/NG1.png)
 
  
 
@@ -5137,7 +5137,7 @@ information on a global scale.
 
  
 
-![](src/NG/NG2.png)
+![](images/NG2.png)
 
 Figure NG 2: Internet networking. Packets are forwarded between routers
 until they reach their ultimate destination.
@@ -5776,7 +5776,7 @@ know how best to route packets to them.
 
  
 
-![](src/NG/NG3.1.png)
+![](images/NG3.1.png)
 
  
 
@@ -5812,7 +5812,7 @@ Registrars (RIRs) to ISPs. The ISP then allocates smaller IP blocks to
 their clients as required. Virtually all Internet users obtain their IP
 addresses from an ISP.
 
-![](src/NG/NG4.png)
+![](images/NG4.png)
 
 Figure NG 4: Authority for Internet IP address assignments is delegated
 to the five Regional Internet Registrars.
@@ -5964,7 +5964,7 @@ addresses as long as they never interconnect their networks directly.
 
  
 
-![](src/NG/NG5.png)
+![](images/NG5.png)
 
  
 
@@ -6055,7 +6055,7 @@ Protocol (ARP) in IPv4. NDP and ARP work in a very similar way.
 
  
 
-![](src/NG/NG6.png)
+![](images/NG6.png)
 
  
 
@@ -6085,7 +6085,7 @@ message.
 
  
 
-![](src/NG/NG7.png)
+![](images/NG7.png)
 
  
 
@@ -6114,7 +6114,7 @@ NDP which only multicasts to some hosts.
 
  
 
-![](src/NG/NG8.png)
+![](images/NG8.png)
 
  
 
@@ -6161,7 +6161,7 @@ In Linux, this can be accomplished with the following command:
 
  
 
-![](src/NG/NG9.png)
+![](images/NG9.png)
 
  
 
@@ -6202,7 +6202,7 @@ route via the router link-local address as shown in Figure NG 10.
 
  
 
-![](src/NG/NG10.png)
+![](images/NG10.png)
 
  
 
@@ -6243,7 +6243,7 @@ longest match to the destination, in Figure NG 11 eth0 will be used for
 destination 2001:db8:1::1 (match length /64) rather than the less
 specific ::/0 (match length of 0).
 
-![](src/NG/NG11.png)
+![](images/NG11.png)
 
  
 
@@ -6283,7 +6283,7 @@ IPv4 behaves exactly the same way as depicted in figure NG 12.
 
  
 
-![](src/NG/NG12.png)
+![](images/NG12.png)
 
 Figure NG 12: Node G is the Internet router on this IPv4 network.
 
@@ -6363,7 +6363,7 @@ some VPN software) can have difficulty dealing with NAT.
 
  
 
-![](src/NG/NG13.png)
+![](images/NG13.png)
 
  
 
@@ -6610,7 +6610,7 @@ be replaced whenever possible with new switches.
 
  
 
-![](src/NG/NG14.png)
+![](images/NG14.png)
 
  
 
@@ -6729,7 +6729,7 @@ their network to your Ethernet network.
 
 ### Putting it all together
 
-![](src/NG/NG16.png)
+![](images/NG16.png)
 
  
 
@@ -6807,7 +6807,7 @@ used to link the two together. This can augment or even replace existing
 dial-up links. With proper antennas and clear line of sight, reliable
 point-to-point links in excess of thirty kilometres are possible.
 
-![](src/NG/NG17.png)
+![](images/NG17.png)
 
  
 
@@ -6846,7 +6846,7 @@ point that provides a connection to several laptops. The laptops do not
 communicate with each other directly, but must be in range of the access
 point in order to use the network.
 
-![](src/NG/NG18.png)
+![](images/NG18.png)
 
  
 
@@ -6885,7 +6885,7 @@ multipoint network, there is no central authority. Every node on the
 network carries the traffic of every other as needed, and all nodes
 communicate with each other directly.
 
-![](src/NG/NG19.png)
+![](images/NG19.png)
 
  
 
@@ -7558,7 +7558,7 @@ point-to-multipoint (p2m) communication.
 
  
 
-![](src/MN/MN1.jpg)
+![](images/MN1.jpg)
 
  
 
@@ -7742,7 +7742,7 @@ this deployment at the url
 
  
 
-![](src/MN/MN2.png)
+![](images/MN2.png)
 
  
 
@@ -7887,7 +7887,7 @@ OpenWRT as their factory firmware: Mesh-Potato, Dragino MS- 12, Allnet
 
  
 
-![](src/MN/MN3.png)
+![](images/MN3.png)
 
  
 
@@ -7967,7 +7967,7 @@ another WiFi interface via USB WiFi dongle.
 Actually USB 2.0 adds many opportunities, like adding additional storage
 space, audio support, webcams and so on.
 
-![](src/MN/MN4.jpg)
+![](images/MN4.jpg)
 
  
 
@@ -8700,7 +8700,7 @@ They can then use their web browser to go to any site on the Internet.
 
  
 
-![](src/SW/SW1.png)
+![](images/SW1.png)
 
  
 
@@ -8716,7 +8716,7 @@ Figure SWN 1: The user requests a web page and is redirected.
 
  
 
-![](src/SW/SW2.png)
+![](images/SW2.png)
 
  
 
@@ -8725,7 +8725,7 @@ access is granted. The authentication server can be the access point
 itself,another machine on the local network, or a server anywhere on the
 Internet.
 
-![](src/SW/SW3.png)
+![](images/SW3.png)
 
  
 
@@ -8832,7 +8832,7 @@ revealing the home organisation of the user (the domain part), but that
 is the topic of the next paragraph. So what happens in a typical 802.1X
 authentication with a tunnelled EAP-method is the following:
 
-![](src/SW/SW4.png)
+![](images/SW4.png)
 
  
 
@@ -8923,7 +8923,7 @@ continents with the exception of Antarctica.
 
  
 
-![](src/SW/SW5.png)
+![](images/SW5.png)
 
  
 
@@ -9086,7 +9086,7 @@ This kind of data encapsulation is known as a tunnel.
 
  
 
-![](src/SW/SW6.png)
+![](images/SW6.png)
 
 Figure SWN 6: Eavesdroppers must break strong encryption to monitor
 traffic over an encrypted tunnel. The conversation inside the tunnel is
@@ -9105,7 +9105,7 @@ manipulate the data being passed between the client and the server.
 
  
 
-![](src/SW/SW7.png)
+![](images/SW7.png)
 
  
 
@@ -9221,9 +9221,9 @@ OpenSSH will also run on Windows under the Cygwin package
 [(http://www.cygwin.com](http://www.cygwin.com/))/) These examples will
 assume that you are using a recent version of OpenSSH.
 
-![](src/SW/SW8.png)
+![](images/SW8.png)
 
-![](src/SW/SW8.png)
+![](images/SW8.png)
 
  
 
@@ -9645,7 +9645,7 @@ shown in following Figure DP 1.
 
  
 
-![](src/DP/DP1.png)
+![](images/DP1.png)
 
  
 
@@ -9685,7 +9685,7 @@ Mbs.
 
  
 
-![](src/DP/DP2.png)
+![](images/DP2.png)
 
  
 
@@ -9790,7 +9790,7 @@ dB advantage when migrating from 2.4 to 5 GHz.
 
  
 
-![](src/DP/DP3.png)
+![](images/DP3.png)
 
  
 
@@ -9950,7 +9950,7 @@ shown in Figure DP 4.
 
  
 
-![](src/DP/DP4.png)
+![](images/DP4.png)
 
  
 
@@ -9995,7 +9995,7 @@ be enough to protect against extreme weather conditions.
 Next we calculate the link from the client back to the access point, as
 shown on the next page.
 
-![](src/DP/DP5.png)
+![](images/DP5.png)
 
  
 
@@ -10179,7 +10179,7 @@ Figure DP 6 below.
 
  
 
-![](src/DP/DP6.png)
+![](images/DP6.png)
 
  
 
@@ -10274,7 +10274,7 @@ the left, from top to bottom as shown in Figure DP 7 below.
 
  
 
-![](src/DP/DP7.jpg)
+![](images/DP7.jpg)
 
  
 
@@ -10342,7 +10342,7 @@ time, you will be presented a figure similar to the one below.
 
  
 
-![](src/DP/DP8.jpg)
+![](images/DP8.jpg)
 
  
 
@@ -10479,7 +10479,7 @@ omnidirectional antennas will receive noise from all directions.
 
  
 
-![](src/DP/DP9.png)
+![](images/DP9.png)
 
  
 
@@ -10602,7 +10602,7 @@ allow multiple clients to connect to either side of the repeater. But
 depending on your network layout, one or more devices may need to use
 ad-hoc or even client mode.
 
-![](src/DP/DP10.png)
+![](images/DP10.png)
 
  
 
@@ -10623,7 +10623,7 @@ obstacle.
 
  
 
-![](src/DP/DP11.png)
+![](images/DP11.png)
 
 Figure DP 11: No power was available at the top of the hill, but it was
 circumvented by using multiple repeater sites around the base.
@@ -10635,7 +10635,7 @@ forwards. If there is a high site available in a different direction,
 and that site can see beyond the obstacle, a stable link can be made via
 an indirect route.
 
-![](src/DP/DP12.png)
+![](images/DP12.png)
 
  
 
@@ -10775,7 +10775,7 @@ to as “wireless”.
 The diagram on the next page will give you some idea of the cabling
 required for a typical point-to-point link.
 
-![](src/HW/HW1.png)
+![](images/HW1.png)
 
 Note that this diagram is not to scale, nor is it necessarily the best
 choice of network design. But it will introduce you to many common
@@ -11151,7 +11151,7 @@ following.
 
  
 
-![](src/HW/HW2.png)
+![](images/HW2.png)
 
  
 
@@ -11184,7 +11184,7 @@ Either type of strike will usually destroy unprotected equipment.
 
  
 
-![](src/HW/HW3.png)
+![](images/HW3.png)
 
  
 
@@ -11310,7 +11310,7 @@ several LEDs lit.
 
  
 
-![](src/HW/HW4.png)
+![](images/HW4.png)
 
  
 
@@ -11381,7 +11381,7 @@ input, the network ports, the reset button and two antennas.
 
  
 
-![](src/HW/HW5.png)
+![](images/HW5.png)
 
  
 
@@ -11421,7 +11421,7 @@ requires a working TCP/IP configuration. Some recent implementations
 (e.g. Ubiquiti, shown below) are very good and use modern dynamic web
 features to provide feedback and advanced tools.
 
-![](src/HW/HW6.png)
+![](images/HW6.png)
 
  
 
@@ -11453,7 +11453,7 @@ large networks.
 
  
 
-![](src/HW/HW7.png)
+![](images/HW7.png)
 
  
 
@@ -11484,7 +11484,7 @@ Advantages: very powerful as it can be scripted.
 
 Disadvantages: difficult to learn.
 
-![](src/HW/HW8.png)
+![](images/HW8.png)
 
  
 
@@ -12139,11 +12139,11 @@ signal propagation time.
 
  
 
-![](src/OI/OI1.png)
+![](images/OI1.png)
 
-![](src/OI/OI1.png)
+![](images/OI1.png)
 
-![](src/OI/OI1.png)
+![](images/OI1.png)
 
  
 
@@ -12262,7 +12262,7 @@ brass plate.
 
  
 
-![](src/OI/OI2.png)
+![](images/OI2.png)
 
  
 
@@ -12376,7 +12376,7 @@ Fig. OI 3 shows the output of the program:
 
  
 
-![](src/OI/OI3.png)
+![](images/OI3.png)
 
  
 
@@ -12429,7 +12429,7 @@ experiment that can be replicated by the reader as an exercise.
 
  
 
-![](src/OI/OI4.png)
+![](images/OI4.png)
 
  
 
@@ -12449,7 +12449,7 @@ simulation:
 
  
 
-![](src/OI/OI5.png)
+![](images/OI5.png)
 
  
 
@@ -12565,7 +12565,7 @@ climatic conditions, the hour of the day, and the time of the year.
 
  
 
-![](src/OGP/OGP1.png)
+![](images/OGP1.png)
 
 Figure OGP 1: A solar panel
 
@@ -12596,7 +12596,7 @@ recombinant or VRLA (valve regulated lead acid) batteries.
 
  
 
-![](src/OGP/OGP2.png)
+![](images/OGP2.png)
 
  
 
@@ -12638,7 +12638,7 @@ discharged.
 
  
 
-![](src/OGP/OGP3.png)
+![](images/OGP3.png)
 
 Figure OGP 3: A 30 Amp solar charge controller
 
@@ -12664,7 +12664,7 @@ solar-powered system so that the generated DC voltage matches the load.
 
  
 
-![](src/OGP/OGP4.png)
+![](images/OGP4.png)
 
  
 
@@ -12705,7 +12705,7 @@ the system will support itself for years.
 
  
 
-![](src/OGP/OGP5.png)
+![](images/OGP5.png)
 
  
 
@@ -12727,7 +12727,7 @@ current and voltage.
 The individual cells are properly encapsulated to provide isolation and
 protection from humidity and corrosion.
 
-![](src/OGP/OGP6.png)
+![](images/OGP6.png)
 
  
 
@@ -12760,7 +12760,7 @@ maximum voltage of the panel. They should only be used when shading is
 unavoidable. It is a much better solution to expose the entire panel to
 full sun whenever possible.
 
-![](src/OGP/OGP7.png)
+![](images/OGP7.png)
 
  
 
@@ -12913,7 +12913,7 @@ assembling them into an array.
 
  
 
-![](src/OGP/OGP8.png)
+![](images/OGP8.png)
 
  
 
@@ -13290,7 +13290,7 @@ This second fuse is normally integrated into the regulator itself.
 
  
 
-![](src/OGP/OGP9.png)
+![](images/OGP9.png)
 
  
 
@@ -15542,7 +15542,7 @@ policy.
 
  
 
-![](src/NM/NM1.png)
+![](images/NM1.png)
 
 Figure NM 1: A graph with a "flat top" is one indication of
 overutilisation.
@@ -15734,7 +15734,7 @@ about which computers, users, or protocols are using bandwidth.
 
  
 
-![](src/NM/NM2.png)
+![](images/NM2.png)
 
  
 
@@ -15764,7 +15764,7 @@ traffic.
 
  
 
-![](src/NM/NM3.png)
+![](images/NM3.png)
 
  
 
@@ -15775,7 +15775,7 @@ for the network, as the network will fail if the monitoring server
 develops a problem. It is also a potential performance bottleneck, if
 the server cannot keep up with the demands of the network.
 
-![](src/NM/NM4.png)
+![](images/NM4.png)
 
 Figure NM 4: By inserting a network monitor between the LAN and your
 Internet connection, you can observe all network traffic.
@@ -15794,7 +15794,7 @@ They are also very easily replaced should they fail.
 
  
 
-![](src/NM/NM5.png)
+![](images/NM5.png)
 
  
 
@@ -16471,7 +16471,7 @@ analyser for Unix and Windows.
 
  
 
-![](src/NM/NM6.png)
+![](images/NM6.png)
 
  
 
@@ -16536,7 +16536,7 @@ But once it is installed, MRTG requires virtually no maintenance, unless
 you change something on the system that is being monitored (such as its
 IP address).
 
-![](src/NM/NM7.png)
+![](images/NM7.png)
 
  
 
@@ -16567,7 +16567,7 @@ number of items available on a graph as compared to MRTG.
 
  
 
-![](src/NM/NM8.png)
+![](images/NM8.png)
 
  
 
@@ -16635,7 +16635,7 @@ utilisation of the monitoring machine.
 
  
 
-![](src/NM/NM9.png)
+![](images/NM9.png)
 
  
 
@@ -16666,7 +16666,7 @@ written to poll virtually any conceivable network event.
 
  
 
-![](src/NM/NM10.png)
+![](images/NM10.png)
 
  
 
@@ -16732,7 +16732,7 @@ graphical format.
 
  
 
-![](src/NM/NM11.png)
+![](images/NM11.png)
 
  
 
@@ -16780,7 +16780,7 @@ period of time. An example of SmokePing in action is shown in Figure NM
 
  
 
-![](src/NM/NM12.png)
+![](images/NM12.png)
 
  
 
@@ -16815,7 +16815,7 @@ very useful for displaying an instantaneous usage report.
 
  
 
-![](src/NM/NM13.png)
+![](images/NM13.png)
 
 Figure NM 13: iptraf's statistical breakdown of traffic by port.
 
@@ -16875,7 +16875,7 @@ data.
 
  
 
-![](src/NM/NM14.png)
+![](images/NM14.png)
 
  
 
@@ -17102,7 +17102,7 @@ an error.
 
  
 
-![](src/NM/NM15.png)
+![](images/NM15.png)
 
  
 
@@ -17300,7 +17300,7 @@ matters, or made them worse.
 
  
 
-![](src/NM/NM17.png)
+![](images/NM17.png)
 
  
 
@@ -17328,7 +17328,7 @@ RRDtool, and Cacti are excellent tools you can use to keep a baseline.
 
  
 
-![](src/NM/NM17.png)
+![](images/NM17.png)
 
  
 
@@ -17349,7 +17349,7 @@ ran at 03:00 every day.
 
  
 
-![](src/NM/NM18.png)
+![](images/NM18.png)
 
  
 
@@ -17370,9 +17370,9 @@ any problems on the network.
 
  
 
-![](src/NM/NM19.png)
+![](images/NM19.png)
 
-![](src/NM/NM19.png)
+![](images/NM19.png)
 
  
 
@@ -17394,7 +17394,7 @@ problems such as the backup not completing in the future.
 
  
 
-![](src/NM/NM20.png)
+![](images/NM20.png)
 
  
 
@@ -17409,7 +17409,7 @@ This might indicate that something has changed on the network.
 
  
 
-![](src/NM/NM21.png)
+![](images/NM21.png)
 
 Figure NM 21: Zooming out to the week long view reveals a definite
 repetition of increased latency and packet loss in the early morning
@@ -17442,7 +17442,7 @@ data from the servers.
 
  
 
-![](src/NM/NM22.png)
+![](images/NM22.png)
 
  
 
@@ -17467,7 +17467,7 @@ your network.
 
 Figure NM 23 shows traffic on an overloaded Internet connection.
 
-![](src/NM/NM23.png)
+![](images/NM23.png)
 
  
 
@@ -17500,7 +17500,7 @@ actually used at least 95% of the time.
 
  
 
-![](src/NM/NM24.png)
+![](images/NM24.png)
 
  
 
@@ -17539,7 +17539,7 @@ such performance, MRTG or RRDtool can also be used.
 
  
 
-![](src/NM/NM25.png)
+![](images/NM25.png)
 
  
 
@@ -18498,7 +18498,7 @@ costs and provide access in a way that was sustainable.
 
  
 
-![](src/ES/ES1.png)
+![](images/ES1.png)
 
  
 
@@ -18530,7 +18530,7 @@ to meet community demand and leverage local economic resources.
 
  
 
-![](src/ES/ES2.png)
+![](images/ES2.png)
 
  
 
@@ -20167,7 +20167,7 @@ We are going to describe how to build the long antenna only.
 -   Hammer 
 
 -   
-    ![](src/AC/AC1.png)
+    ![](images/AC1.png)
      
     Spanner or monkey wrench 
 
@@ -20179,7 +20179,7 @@ Straighten the wire using the vice.
 
  
 
-![](src/AC/AC2.png)
+![](images/AC2.png)
 
 Figure AC 2: Make the wire as straight as you can.
 
@@ -20191,7 +20191,7 @@ of the hammer.
 
  
 
-![](src/AC/AC3.png)
+![](images/AC3.png)
 
 Figure AC 3: Gently tap the wire to make a sharp bend.
 
@@ -20205,7 +20205,7 @@ the same plane. The wire should look like a ‘Z’.
 
  
 
-![](src/AC/AC4.png)
+![](images/AC4.png)
 
 Figure AC 4: Bend the wire into a “Z” shape.
 
@@ -20217,7 +20217,7 @@ curve the wire around it, with the help of the vice and of the pliers.
 
  
 
-![](src/AC/AC5.png)
+![](images/AC5.png)
 
 Figure AC 5: Bend the wire around the drill bit to make a coil.
 
@@ -20227,7 +20227,7 @@ The coil will look like this:
 
  
 
-![](src/AC/AC6.png)
+![](images/AC6.png)
 
 Figure AC 6: The completed coil.
 
@@ -20247,7 +20247,7 @@ coil.
 
  
 
-![](src/AC/AC7.png)
+![](images/AC7.png)
 
 Figure AC 7: Try to keep it as straight possible.
 
@@ -20258,7 +20258,7 @@ insert a pipe through all the coils as shown.
 
  
 
-![](src/AC/AC8.png)
+![](images/AC8.png)
 
 Figure AC 8: Inserting a pipe can help to straighten the wire.
 
@@ -20275,7 +20275,7 @@ diameter.
 
  
 
-![](src/AC/AC9.png)
+![](images/AC9.png)
 
 Figure AC 9: Drilling the hole in the metal plate.
 
@@ -20285,7 +20285,7 @@ The hole should fit the N connector exactly. Use a file if needed.
 
  
 
-![](src/AC/AC10.png)
+![](images/AC10.png)
 
 Figure AC 10: The N connector should fit snugly in the hole.
 
@@ -20301,7 +20301,7 @@ plate.
 For this reason, cut 0.5 cm of copper pipe with an external diameter of
 2 cm, and place it between the connector and the plate.
 
-![](src/AC/AC11.png)
+![](images/AC11.png)
 
  
 
@@ -20315,7 +20315,7 @@ spanner.
 
  
 
-![](src/AC/AC12.png)
+![](images/AC12.png)
 
  
 
@@ -20327,7 +20327,7 @@ Smooth with the file the side of the wire which is 2.5 cm long, from the
 first coil. Tin the wire for around 0.5 cm at the smoothed end helping
 yourself with the vice.
 
-![](src/AC/AC13.png)
+![](images/AC13.png)
 
  
 
@@ -20342,7 +20342,7 @@ the central pin. The first coil should be at 3.0 cm from the plate.
 
  
 
-![](src/AC/AC14.png)
+![](images/AC14.png)
 
 Figure AC 14: The first coil should start 3.0 cm from the surface of the
 plate.
@@ -20353,7 +20353,7 @@ We are now going to stretch the coils extending the total vertical
 length of the wire. Using the vice and the pliers, you should pull the
 cable so that the final length of the coil is of 2.0 cm.
 
-![](src/AC/AC15.png)
+![](images/AC15.png)
 
  
 
@@ -20365,7 +20365,7 @@ the surface of the wire with the pliers.
 Repeat the same procedure for the other three coils, stretching their
 length to 2.0 cm.
 
-![](src/AC/AC16.png)
+![](images/AC16.png)
 
 Figure AC 16: Repeat the stretching procedure for all of the remaining
 coils.
@@ -20380,7 +20380,7 @@ At the end the antenna should measure 42.5 cm from the plate to the top.
 
  
 
-![](src/AC/AC17.png)
+![](images/AC17.png)
 
  
 
@@ -20397,7 +20397,7 @@ the antenna.
 
 The following picture shows the display of the spectrum analyzer.
 
-![](src/AC/AC18.png)
+![](images/AC18.png)
 
  
 
@@ -20462,7 +20462,7 @@ Its length should be 0.25 λ, which at 2.44 GHz corresponds to 3.05 cm.
 
  
 
-![](src/AC/AC19.png)
+![](images/AC19.png)
 
  
 
@@ -20473,7 +20473,7 @@ Figure AC 19: Dimensional constraints on the cantenna
 The gain for this antenna will be in the order of 10 to 14 dBi, with a
 beamwidth of around 60 degrees.
 
-![](src/AC/AC20.png)
+![](images/AC20.png)
 
  
 
@@ -20489,7 +20489,7 @@ Figure AC 20: The finished cantenna.
 
      
 
-![](src/AC/AC21.png)
+![](images/AC21.png)
 
  
 
@@ -20525,7 +20525,7 @@ With the can opener, carefully remove the upper part of the can.
 
  
 
-![](src/AC/AC22.png)
+![](images/AC22.png)
 
  
 
@@ -20549,7 +20549,7 @@ small block of wood or other object in the can before tapping it.
 
  
 
-![](src/AC/AC23.png)
+![](images/AC23.png)
 
  
 
@@ -20563,7 +20563,7 @@ connector.
 
  
 
-![](src/AC/AC24.png)
+![](images/AC24.png)
 
  
 
@@ -20576,7 +20576,7 @@ Smooth with the file one end of the wire. Tin the wire for around 0.5 cm
 
 at the same end helping yourself with the vice.
 
-![](src/AC/AC25.png)
+![](images/AC25.png)
 
  
 
@@ -20591,7 +20591,7 @@ hole of the central pin.
 
  
 
-![](src/AC/AC26.png)
+![](images/AC26.png)
 
  
 
@@ -20603,7 +20603,7 @@ Insert a washer and gently screw the nut onto the connector.
 
 Trim the wire at 3.05 cm measured from the bottom part of the nut.
 
-![](src/AC/AC27.png)
+![](images/AC27.png)
 
  
 
@@ -20619,7 +20619,7 @@ Screw the nut on the connector from inside the can.
 
  
 
-![](src/AC/AC28.png)
+![](images/AC28.png)
 
  
 
@@ -20628,7 +20628,7 @@ connector. You are done!
 
  
 
-![](src/AC/AC29.png)
+![](images/AC29.png)
 
  
 
@@ -22435,7 +22435,7 @@ in Figure CsLD 1 using Google Earth:
 
  
 
-![](src/CsLD/CsLD1.png)
+![](images/CsLD1.png)
 
  
 
@@ -22448,7 +22448,7 @@ The radio profile obtained with Radio Mobile is shown in Figure CsLD 2:
 
  
 
-![](src/CsLD/CsLD2.png)
+![](images/CsLD2.png)
 
  
 
@@ -22461,7 +22461,7 @@ The details of the wireless link are displayed in Figure CsLD 3:
 
  
 
-![](src/CsLD/CsLD3.png)
+![](images/CsLD3.png)
 
  
 
@@ -22493,7 +22493,7 @@ the following picture:
 
  
 
-![](src/CsLD/CsLD4.png)
+![](images/CsLD4.png)
 
  
 
@@ -22554,7 +22554,7 @@ Figure CsLD 5 shows the disassembly of the mesh reflector.
 
  
 
-![](src/CsLD/CsLD5.png)
+![](images/CsLD5.png)
 
  
 
@@ -22572,7 +22572,7 @@ fed and the offset antennas. This is shown in Figure CsLD 6:
 
  
 
-![](src/CsLD/CsLD6.png)
+![](images/CsLD6.png)
 
 Figure CsLD 6: Finding the focus of the antennas with the 2.4 GHz feed
 
@@ -22611,7 +22611,7 @@ Bronco truck that carried the 2.7 m mesh antenna.
 
  
 
-![](src/CsLD/CsLD7.png)
+![](images/CsLD7.png)
 
 Figure CsLD 7: Pico del Águila and surrounds map with Bronco truck.
 
@@ -22636,7 +22636,7 @@ spectrum analyser on our end for another WRT54G configured as a client.
 
  
 
-![](src/CsLD/CsLD8.png)
+![](images/CsLD8.png)
 
 Figure CsLD 8: Aiming the antenna at el Águila.
 
@@ -22650,7 +22650,7 @@ adjusting the ACK timing. After Carlo adjusted for the 3 orders of
 magnitude increase in delay above what the standard WiFi link expects,
 we began receiving packets with a delay of about 5 ms.
 
-![](src/CsLD/CsLD9.png)
+![](images/CsLD9.png)
 
  
 
@@ -22664,7 +22664,7 @@ laptops. The results are shown in Figure CsLD 10.
 
  
 
-![](src/CsLD/CsLD10.png)
+![](images/CsLD10.png)
 
  
 
@@ -22676,7 +22676,7 @@ routers, no amplifiers.
 
 Note the ping time of a few milliseconds.
 
-![](src/CsLD/CsLD11.png)
+![](images/CsLD11.png)
 
  
 
@@ -22687,7 +22687,7 @@ from the El Baúl antenna.
 
  
 
-![](src/CsLD/CsLD12.png)
+![](images/CsLD12.png)
 
  
 
@@ -22753,7 +22753,7 @@ The proposed path is shown in Figure CsLD 13:
 
  
 
-![](src/CsLD/CsLD13.png)
+![](images/CsLD13.png)
 
  
 
@@ -22785,7 +22785,7 @@ However, when the received signal was about -78 dBm, the measured
 throughput was a total of 6 Mbps bidirectional with the TIER routers
 implementing TDMA.
 
-![](src/CsLD/CsLD14_1.JPG)
+![](images/CsLD14_1.JPG)
 
  
 
@@ -22813,7 +22813,7 @@ We'd also like to thank the Abdus Salam International Centre of
 Theoretical Physics for supporting Carlo Fonda’s trip from Italy to
 Venezuela.
 
-![](src/CsLD/CsLD15.JPG)
+![](images/CsLD15.JPG)
 
  
 
@@ -22874,7 +22874,7 @@ technology (ICT) within the Pacific region.
 
  
 
-![](src/CaseStudy_Micronesia/CsP1.jpg)
+![](images/CsP1.jpg)
 
 Figure CSP 1 : Hands On Training
 
@@ -22892,7 +22892,7 @@ final day, the students set up a solar powered point to point high
 bandwidth link in the Centre for Island Sustainability, replacing an
 older, slower link to the Internet.
 
-![](src/CaseStudy_Micronesia/CsP2.jpg)
+![](images/CsP2.jpg)
 
  
 
@@ -22909,14 +22909,14 @@ connected island, Udot, in the Chuuk lagoon.
 
  
 
-![](src/CaseStudy_Micronesia/CSP3.png)
+![](images/CSP3.png)
 
  
 
 Figure CSP 3 : The Internet connection for the Udot School originated
 from Chuuk’s main Island, Weno, 15 km away.
 
-![](src/CaseStudy_Micronesia/CsP4.jpg)
+![](images/CsP4.jpg)
 
  
 
@@ -22959,7 +22959,7 @@ up.
 
  
 
-![](src/CaseStudy_Micronesia/CsP5.png)
+![](images/CsP5.png)
 
  
 
@@ -22980,9 +22980,9 @@ straightforwardly transforms into the computer lab’s table.
 
  
 
-![](src/./CaseStudy_MicronesiaTop%2016%20pix/CsP6.jpg)
+![](images/CsP6.jpg)
 
-![](src/CaseStudy_Micronesia/CsP6.jpg)
+![](images/CsP6.jpg)
 
  
 
@@ -23175,58 +23175,58 @@ IT department by submitting their details.
 
 ### Pictures of our project and installation
 
-![](src/CS_Ghana/CSG1.jpg)
+![](images/CSG1.jpg)
 
 Figure CSG 1: Our campus
 
  
 
-![](src/CS_Ghana/CSG2.jpg)
+![](images/CSG2.jpg)
 
 Figure CSG 2: Our campus
 
  
 
-![](src/CS_Ghana/CSG3.jpg)
+![](images/CSG3.jpg)
 
 Figure CSG 3: A classroom
 
  
 
-![](src/CS_Ghana/CSG4.jpg)
+![](images/CSG4.jpg)
 
 Figure CSG 4: The library
 
  
 
-![](src/CS_Ghana/CSG5.jpg)
+![](images/CSG5.jpg)
 
  
 
-![](src/CS_Ghana/CSG6.png)
+![](images/CSG6.png)
 
 Figure CSG 6: Layout of University of Ghana campus with AP's.
 
  
 
-![](src/CS_Ghana/CSG7.png)
+![](images/CSG7.png)
 
 Figure CSG 7: With UniFi we are able to simulate the coverage of the
 wireless signal as shown above.
 
  
 
-![](src/CS_Ghana/CSG8.png)
+![](images/CSG8.png)
 
  
 
-![](src/CS_Ghana/CSG9.png)
+![](images/CSG9.png)
 
 Figure CSG 9: Above are statistics per Access Point.
 
  
 
-![](src/CS_Ghana/CSG10.png)
+![](images/CSG10.png)
 
 Figure CSG 10: We are also able to get statistics per user from the
 controller.
@@ -23417,7 +23417,7 @@ available.
 
  
 
-![](src/CsAGN/CsAGN1.png)
+![](images/CsAGN1.png)
 
  
 
@@ -23494,47 +23494,47 @@ single-hop link was 54 km.
 
  
 
-![](src/CsAGN/CsAGN2.png)
+![](images/CsAGN2.png)
 
  
 
-![](src/CsAGN/CsAGN3.jpg)
+![](images/CsAGN3.jpg)
 
 Figure CSD 3: Field survey in the Garhwal region
 
  
 
-![](src/CsAGN/CsAGN4.jpg)
+![](images/CsAGN4.jpg)
 
  
 
-![](src/CsAGN/CsAGN5.JPG)
+![](images/CsAGN5.JPG)
 
 Figure CSD 5: Preparing for relay installation, Kumaon Network
 
  
 
-![](src/CsAGN/CsAGN6.jpg)
+![](images/CsAGN6.jpg)
 
  
 
-![](src/CsAGN/CsAGN7.JPG)
+![](images/CsAGN7.JPG)
 
 Figure CSD 7: Last touches to solar relay, Kumaon Network
 
  
 
-![](src/CsAGN/CsAGN8.JPG)
+![](images/CsAGN8.JPG)
 
 Figure CSD 8: Backhaul Relay, Garhwal Network
 
  
 
-![](src/CsAGN/CsAGN9.jpg)
+![](images/CsAGN9.jpg)
 
  
 
-![](src/CsAGN/CsAGN10.jpg)
+![](images/CsAGN10.jpg)
 
 Figure CSD 10: Client Relay, Kangra Valley Network
 
@@ -23759,7 +23759,7 @@ a local digital platform.
 
  
 
-![](src/CsOTI/CsOTI1.jpg)
+![](images/CsOTI1.jpg)
 
  
 
@@ -23786,7 +23786,7 @@ area.
 
  
 
-![](src/CsOTI/CsOTI2.jpg)
+![](images/CsOTI2.jpg)
 
  
 
@@ -23794,7 +23794,7 @@ Figure CsOTI 2: Walking from RHI Offices to Gowanus Expressway
 
  
 
-![](src/CsOTI/CsOTI3.jpg)
+![](images/CsOTI3.jpg)
 
  
 
@@ -23822,7 +23822,7 @@ On this website was a “Shout Box,” a local digital message board
 allowing everyone to leave a comment or a note behind and participate in
 the project.
 
-![](src/CsOTI/CsOTI4.jpg)
+![](images/CsOTI4.jpg)
 
  
 
@@ -23853,7 +23853,7 @@ the Internet, but was connected to a GuruPlug Server.
 The basic, low power server hosted a local web page on the network and a
 “Shout Box” similar to the one running in RHI.
 
-![](src/CsOTI/CsOTI5.jpg)
+![](images/CsOTI5.jpg)
 
  
 
@@ -23862,7 +23862,7 @@ apartment building north of Coffey Park.
 
  
 
-![](src/CsOTI/CsOTI6.jpg)
+![](images/CsOTI6.jpg)
 
  
 
@@ -23924,7 +23924,7 @@ using Javascript, LeafletJS, PHP and MongoDB.
 Baldwin designed it for local communication, placemaking, and organizing
 around events, issues, and community assets.
 
-![](src/CsOTI/CsOTI7.png)
+![](images/CsOTI7.png)
 
  
 
@@ -23933,9 +23933,9 @@ Figure CsOTI 7: Workshop to identify local needs for RHI WiFi network.
 
  
 
-![](src/CsOTI/CsOTI8.png)
+![](images/CsOTI8.png)
 
-![](src/CsOTI/CsOTI8.png)
+![](images/CsOTI8.png)
 
  
 
@@ -24002,11 +24002,11 @@ the Tidepools platform and run over the local wireless network:
 
      
 
-![](src/CsOTI/CsOTI9.jpeg)
+![](images/CsOTI9.jpeg)
 
  
 
-![](src/CsOTI/CsOTI10-11.png)
+![](images/CsOTI10-11.png)
 
 Figure CsOTI 10-11: Mobile user interface for "Where's the B61 Bus?"
 application.
@@ -24040,7 +24040,7 @@ needs to a contact number, which automatically maps the information in
 Tidepools with threaded discussion so others in the community can
 respond.
 
-![](src/CsOTI/CsOTI12.png)
+![](images/CsOTI12.png)
 
 Figure CsOTI 12: Screenshot of RHI/Status application, which plots SMS
 messages on a Tidepools map.
@@ -24099,11 +24099,11 @@ a time.
 
  
 
-![](src/CsOTI/CsOTI13.jpg)
+![](images/CsOTI13.jpg)
 
  
 
-![](src/CsOTI/CsOTI14.jpg)
+![](images/CsOTI14.jpg)
 
 Figure CsOTI 14: Rooftop node installed after Superstorm Sandy.
 
@@ -24128,7 +24128,7 @@ efforts.
 
  
 
-![](src/CsOTI/CsOTI15.png)
+![](images/CsOTI15.png)
 
  
 
@@ -24136,13 +24136,13 @@ Figure CsOTI 15: RHI WiFi network map. Base map (c) Google Maps 2013.
 
  
 
-![](src/CsOTI/CsOTI16.png)
+![](images/CsOTI16.png)
 
  
 
 Figure CsOTI 16: Mesh network topology viewed in OLSRViz.
 
-![](src/CsOTI/CsOTI17.png)
+![](images/CsOTI17.png)
 
  
 
